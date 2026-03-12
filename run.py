@@ -12,25 +12,33 @@ import xml.etree.ElementTree as ET
 os.makedirs("data", exist_ok=True)
 
 EXCHANGES = {
-    "Bitget": ["bitget", "bgb"],
-    "OKX": ["okx", "okex"],
-    "Bybit": ["bybit"],
-    "MEXC": ["mexc"],
-    "KuCoin": ["kucoin", "kcs"],
-    "Binance": ["binance", "bnb"],
+    "Bitget": ["bitget.com", "bitget exchange", "bitget"],
+    "OKX": ["okx.com", "okx exchange", "okx"],
+    "Bybit": ["bybit.com", "bybit exchange", "bybit"],
+    "MEXC": ["mexc.com", "mexc exchange", "mexc"],
+    "KuCoin": ["kucoin.com", "kucoin exchange", "kucoin"],
+    "Binance": ["binance.com", "binance exchange"],
 }
 
 RSS_FEEDS = [
+    # existing feeds...
     "https://cointelegraph.com/rss",
     "https://coindesk.com/arc/outboundfeeds/rss/",
     "https://decrypt.co/feed",
     "https://blockworks.co/feed",
     "https://bitcoinist.com/feed/",
     "https://newsbtc.com/feed/",
-    "https://ambcrypto.com/feed/",
     "https://cryptonews.com/news/feed/",
-    "https://u.today/rss",
     "https://coinjournal.net/feed/",
+    "https://cryptobriefing.com/feed/",
+    "https://beincrypto.com/feed/",
+    # Google News search feeds
+    "https://news.google.com/rss/search?q=bitget+exchange&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=okx+exchange&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=bybit+exchange&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=mexc+exchange&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=kucoin+exchange&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=binance+exchange&hl=en-US&gl=US&ceid=US:en",
 ]
 
 COLORS = {
