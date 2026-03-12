@@ -23,11 +23,8 @@ jobs:
       - name: Install dependencies
         run: pip install jinja2
 
-      - name: Fetch data
-        run: python fetch_data.py
-
-      - name: Generate dashboard
-        run: python generate_dashboard.py
+      - name: Run
+        run: python run.py
 
       - name: Commit and push
         run: |
