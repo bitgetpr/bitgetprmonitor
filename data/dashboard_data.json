@@ -1,27 +1,23 @@
 {
-  "generated_at": "2026-03-12 18:21 UTC",
+  "generated_at": "2026-03-12 18:46 UTC",
   "sov_counts": {
-    "Bitget": 107,
-    "KuCoin": 100,
-    "OKX": 97,
-    "MEXC": 104,
-    "Bybit": 99
+    "Bitget": 208,
+    "OKX": 202,
+    "Bybit": 194,
+    "MEXC": 204,
+    "KuCoin": 200,
+    "Binance": 100
   },
   "sov_pct": {
-    "Bitget": 21.1,
-    "KuCoin": 19.7,
-    "OKX": 19.1,
-    "MEXC": 20.5,
-    "Bybit": 19.5
+    "Bitget": 18.8,
+    "OKX": 18.2,
+    "Bybit": 17.5,
+    "MEXC": 18.4,
+    "KuCoin": 18.1,
+    "Binance": 9.0
   },
-  "total_scanned": 787,
+  "total_scanned": 767,
   "bitget_news": [
-    {
-      "title": "Crypto Wallets Can \u2018Directly Compete With Neobanks'",
-      "link": "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks",
-      "source": "decrypt.co",
-      "pub": "Mon, 05 Jan 2026"
-    },
     {
       "title": "Coinbase vs Bitget: Exchange Comparison & COIN Stock Price 2026 - Bitget",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX2ZQWDNBNkt2ZG53N3hXNDFBWUZpWVg0NDhuREVibFRnWEdOd19RMmxjZFhHdHhNTWJvVEhycFc3X2YxUFozTGlUSEVwSTJadFAtU2MwWkRueG1NLWRNWE1DaEwtdzBDamZsa1JZdV9KQ3ZYRUhiRzVLSHR1MjdleUV2d3hWT2lneXJXbUVtQTJ0cXR2M3BSWldFTHUxM21zN3Y4LW1XZHp3WWNpTEJaSWV3LVoteXktYkxkbdIBvAFBVV95cUxQX2ZQWDNBNkt2ZG53N3hXNDFBWUZpWVg0NDhuREVibFRnWEdOd19RMmxjZFhHdHhNTWJvVEhycFc3X2YxUFozTGlUSEVwSTJadFAtU2MwWkRueG1NLWRNWE1DaEwtdzBDamZsa1JZdV9KQ3ZYRUhiRzVLSHR1MjdleUV2d3hWT2lneXJXbUVtQTJ0cXR2M3BSWldFTHUxM21zN3Y4LW1XZHp3WWNpTEJaSWV3LVoteXktYkxkbQ?oc=5",
@@ -63,12 +59,18 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUMtekJEcTAtNHpzbEdIc1FBUnY4UVFOSkJMczNnYjcydTQ0VjRMU1lpQzBia2NKSHA5VkpXWm5sYVdJdHd3Y1ZCQkJxZ1F0dThJc2N5ZzNmalRwc2xtNURybFNFanE5dTFTOHA2aUxabDhZWjF0Z25hajZFV0oyY29GMjYyb0hvZDRZMl81Tnp4dGt3YlloT2lnenZWVUtwcDRreDRaVmRIVTFxelVzZXg5M2U4eXBMUGpLQmMxSS1Ucl9OQ2x0U0RR0gHKAUFVX3lxTE5hQy16QkRxMC00enNsR0hzUUFSdjhRUU5KQkxzM2diNzJ1NDRWNExTWWlDMGJrY0pIcDlWSldabmxhV0l0d3djVkJCQnFnUXR1OElzY3lnM2ZqVHBzbG01RHJsU0VqcTl1MVM4cDZpTFpsOFlaMXRnbmFqNkVXSjJjb0YyNjJvSG9kNFkyXzVOenh0a3diWWhPaWd6dlZVS3BwNGt4NFpWZEhVMXF6VXNleDkzZTh5cExQaktCYzFJLVRyX05DbHRTRFE?oc=5",
       "source": "news.google.com",
       "pub": "Tue, 10 Mar 2026"
+    },
+    {
+      "title": "UK 2026 Crypto Guide: Binance Gift Cards & Bitget Exchange - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnBPUWU5WHhCOU9JQkJIbDBpWWc3X3BTc3N2SmdTWElFbkZVb21KWUZMNEJjN0Z3MGJHZWxLNXIyekJSZGhBdTlwZ0VncENONEhjWWdCVkpnTW9Wa1RrOG9WbG9WeWNrU094dVBFZ3BjYUxnRHJjblJpYlJ0eHVmMW9qRE93cHpXcHR0dXBwdGVGUnBsWFpCU2ZpQXUwUC1VSWxpaXd4LUdYb3hyY0J30gGvAUFVX3lxTFBmcE9RZTlYeEI5T0lCQkhsMGlZZzdfcFNzc3ZKZ1NYSUVuRlVvbUpZRkw0QmM3RncwYkdlbEs1cjJ6QlJkaEF1OXBnRWdwQ040SGNZZ0JWSmdNb1ZrVGs4b1Zsb1Z5Y2tTT3h1UEVncGNhTGdEcmNuUmliUnR4dWYxb2pET3dweldwdHR1cHB0ZUZScGxYWkJTZmlBdTBQLVVJbGlpd3gtR1hveHJjQnc?oc=5",
+      "source": "news.google.com",
+      "pub": "Tue, 10 Mar 2026"
     }
   ],
-  "btc_price": 70114,
-  "btc_change": -0.84,
-  "eth_price": 2053.18,
-  "eth_change": -0.87,
+  "btc_price": 69933,
+  "btc_change": -0.8,
+  "eth_price": 2053.87,
+  "eth_change": -0.73,
   "fg_value": "18",
   "fg_class": "Extreme Fear",
   "reserve_btc": "36,700",
