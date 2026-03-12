@@ -80,7 +80,7 @@ def fetch_fear_greed():
         print(f"  Fear&Greed error: {e}")
         return {"value": "N/A", "classification": "Unknown"}
 
---- Main ---
+# --- Main ---
 print("Fetching RSS feeds...")
 all_items = []
 for feed_url in RSS_FEEDS:
@@ -94,7 +94,7 @@ for feed_url in RSS_FEEDS:
 
 print(f"Total articles fetched: {len(all_items)}")
 
---- SOV Counting ---
+# --- SOV Counting ---
 print("Counting share of voice...")
 sov_counts = defaultdict(int)
 exchange_articles = defaultdict(list)
@@ -119,14 +119,14 @@ print("SOV results:")
 for ex, cnt in sorted(sov_counts.items(), key=lambda x: -x[1]):
     print(f"  {ex}: {cnt} mentions ({sov_pct.get(ex, 0)}%)")
 
---- Market Data ---
+# --- Market Data ---
 print("Fetching market data...")
 btc = fetch_coingecko_price("bitcoin")
 eth = fetch_coingecko_price("ethereum")
 fg  = fetch_fear_greed()
 
 
---- Assemble Output ---
+# --- Assemble Output ---
 output = {
     "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
     "sov_counts": dict(sov_counts),
