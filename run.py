@@ -110,15 +110,27 @@ for feed in RSS_FEEDS:
 
 print("Total: " + str(len(all_items)))
 
+GOOGLE_FEEDS = {
+    "https://news.google.com/rss/search?q=bitget+exchange&hl=en-US&gl=US&ceid=US:en": "Bitget",
+    "https://news.google.com/rss/search?q=okx+exchange&hl=en-US&gl=US&ceid=US:en": "OKX",
+    "https://news.google.com/rss/search?q=bybit+exchange&hl=en-US&gl=US&ceid=US:en": "Bybit",
+    "https://news.google.com/rss/search?q=mexc+exchange&hl=en-US&gl=US&ceid=US:en": "MEXC",
+    "https://news.google.com/rss/search?q=kucoin+exchange&hl=en-US&gl=US&ceid=US:en": "KuCoin",
+    "https://news.google.com/rss/search?q=binance+exchange&hl=en-US&gl=US&ceid=US:en": "Binance",
+}
+
 sov_counts = defaultdict(int)
 bitget_news = []
 
-for item in all_items:
-    text = (item["title"] + " " + item["desc"]).lower()
-    for ex, kw in EXCHANGES.items():
-        if has_mention(text, kw):
-            sov_counts[ex] += 1
-            if ex == "Bitget" and len(bitget_news) < 8:
+print("Fetching Google News feeds...")
+for feed_url, exchange in GOOGLE_FEEDS.items():
+    xml = fetch_url(feed_url)
+    if xml:
+        items = parse_rss(xml)
+        sov_counts[exchange] += len(items)
+        print("  " + exchange + ": " + str(len(items)) + " articles")
+        if exchange == "Bitget":
+            for item in items[:8]:
                 src = urllib.parse.urlparse(item["link"]).netloc.replace("www.", "")
                 bitget_news.append({
                     "title": item["title"],
@@ -126,6 +138,14 @@ for item in all_items:
                     "source": src,
                     "pub": item["pub"][:16],
                 })
+    time.sleep(0.5)
+
+print("Counting mentions from RSS feeds...")
+for item in all_items:
+    text = (item["title"] + " " + item["desc"]).lower()
+    for ex, kw in EXCHANGES.items():
+        if has_mention(text, kw):
+            sov_counts[ex] += 1
 
 total_m = sum(sov_counts.values()) or 1
 sov_pct = {ex: round(cnt / total_m * 100, 1) for ex, cnt in sov_counts.items()}
