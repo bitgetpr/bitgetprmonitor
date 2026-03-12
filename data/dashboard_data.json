@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-03-12 18:09 UTC",
+  "sov_counts": {
+    "Binance": 21
+  },
+  "sov_pct": {
+    "Binance": 100.0
+  },
+  "total_scanned": 244,
+  "bitget_news": [],
+  "btc_price": 70189,
+  "btc_change": -0.82,
+  "eth_price": 2054.85,
+  "eth_change": -0.61,
+  "fg_value": "18",
+  "fg_class": "Extreme Fear",
+  "reserve_btc": "36,700",
+  "reserve_ratio": "169%",
+  "reserve_yoy": "+86% YoY",
+  "net_inflows": "205M USD"
+}
