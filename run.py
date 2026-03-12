@@ -12,16 +12,15 @@ import xml.etree.ElementTree as ET
 os.makedirs("data", exist_ok=True)
 
 EXCHANGES = {
-    "Bitget": ["bitget.com", "bitget exchange", "bitget"],
-    "OKX": ["okx.com", "okx exchange", "okx"],
-    "Bybit": ["bybit.com", "bybit exchange", "bybit"],
-    "MEXC": ["mexc.com", "mexc exchange", "mexc"],
-    "KuCoin": ["kucoin.com", "kucoin exchange", "kucoin"],
-    "Binance": ["binance.com", "binance exchange"],
+    "Bitget": ["bitget"],
+    "OKX": ["okx"],
+    "Bybit": ["bybit"],
+    "MEXC": ["mexc"],
+    "KuCoin": ["kucoin"],
+    "Binance": ["binance exchange", "binance.com"],
 }
 
 RSS_FEEDS = [
-    # existing feeds...
     "https://cointelegraph.com/rss",
     "https://coindesk.com/arc/outboundfeeds/rss/",
     "https://decrypt.co/feed",
@@ -32,7 +31,6 @@ RSS_FEEDS = [
     "https://coinjournal.net/feed/",
     "https://cryptobriefing.com/feed/",
     "https://beincrypto.com/feed/",
-    # Google News search feeds
     "https://news.google.com/rss/search?q=bitget+exchange&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=okx+exchange&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=bybit+exchange&hl=en-US&gl=US&ceid=US:en",
