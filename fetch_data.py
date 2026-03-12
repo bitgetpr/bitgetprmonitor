@@ -153,5 +153,6 @@ output = {
 with open(OUTPUT_FILE, "w") as f:
     json.dump(output, f, indent=2)
 
-print(f"\nData saved to {OUTPUT_FILE}")
-print(f"Generated at: {output['generated_at']}")
+generated = output["generated_at"]
+print("\nData saved to " + OUTPUT_FILE)
+print("Generated at: " + generated)
