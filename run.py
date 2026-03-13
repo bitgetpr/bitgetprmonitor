@@ -8,9 +8,9 @@ from collections import defaultdict
 import urllib.request
 import xml.etree.ElementTree as ET
 os.makedirs("data", exist_ok=True)
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 **EXCHANGE KEYWORDS**
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 EXCHANGES = {
     "Bitget":  ["bitget", "bgb token", "bitget wallet", "bitget exchange"],
     "Binance": ["binance", "bnb", "binance.com", "cz binance"],
@@ -27,9 +27,9 @@ EXCHANGE_COLORS = {
     "MEXC":    "#ffd740",
     "KuCoin":  "#00e676",
 }
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 **SENTIMENT KEYWORDS**
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 POSITIVE_KEYWORDS = [
     "partnership", "launch", "record", "growth", "wins", "expands", "raises",
     "integrates", "bullish", "milestone", "surpasses", "achieves", "leading",
@@ -50,9 +50,9 @@ def score_sentiment(text):
     if pos > neg:   return "positive"
     elif neg > pos: return "negative"
     else:           return "neutral"
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 **RSS FEEDS**
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 GOOGLE_FEEDS = {
     "https://news.google.com/rss/search?q=bitget+exchange&hl=en-US&gl=US&ceid=US:en":          "Bitget",
     "https://news.google.com/rss/search?q=bitget+crypto+exchange&hl=en-US&gl=US&ceid=US:en":   "Bitget",
@@ -86,9 +86,9 @@ DIRECT_FEEDS = {
     "https://bitcoinist.com/feed/":                       "all",
     "https://ambcrypto.com/feed/":                        "all",
 }
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 **FUZZY DEDUPLICATION**
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 def normalize_title(title):
     title = title.lower()
     title = re.sub(r"[^\w\s]", "", title)
@@ -100,9 +100,9 @@ def is_duplicate(new_title, seen_titles, threshold=0.85):
         if difflib.SequenceMatcher(None, norm, seen).ratio() >= threshold:
             return True
     return False
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 **FETCH WITH RETRY**
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 def fetch_with_retry(url, max_retries=3, base_delay=1.0, timeout=15):
     for attempt in range(max_retries):
         try:
@@ -119,9 +119,9 @@ def fetch_with_retry(url, max_retries=3, base_delay=1.0, timeout=15):
             else:
                 print(f"  [ERROR] Giving up on: {url[:60]}")
     return None
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 **PARSE RSS FEED**
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 def parse_feed(url, assigned_exchange=None):
     print(f"  Fetching: {url[:80]}...")
     data = fetch_with_retry(url)
@@ -167,9 +167,9 @@ def parse_feed(url, assigned_exchange=None):
     except ET.ParseError as e:
         print(f"  [ERROR] XML parse error: {url[:60]} — {e}")
     return articles
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 **WEEK-OVER-WEEK SOV**
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 LAST_WEEK_PATH = "data/last_week_sov.json"
 def load_last_week_sov():
     if os.path.exists(LAST_WEEK_PATH):
@@ -182,9 +182,9 @@ def load_last_week_sov():
 def save_sov(sov_map):
     with open(LAST_WEEK_PATH, "w") as f:
         json.dump(sov_map, f, indent=2)
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 **GENERATE index.html**
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 def generate_html(output):
     exchanges   = output["exchanges"]
     articles    = output["articles"]
@@ -457,9 +457,9 @@ def generate_html(output):
 </body>
 </html>"""
     return html
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 **MAIN**
-**─────────────────────────────────────────────**
+** # -----------------------------------------------
 def main():
     print("=" * 60)
     print(f"Bitget PR Monitor — {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
