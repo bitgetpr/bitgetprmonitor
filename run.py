@@ -387,7 +387,7 @@ html = (
     "<div class='mg'><div>"
     "<div class='pn'>"
     "<div class='ph'>Share of Voice <span class='ct'>" + str(len(all_items)) + " articles scanned</span></div>"
-    "<div class='cw'><canvas id='sovChart'></canvas></div>"
+    "<div class='cw'><canvas id='sovChart' width='600' height='260'></canvas></div>"
     "<table class='st'><thead><tr><th>Exchange</th><th>Mentions</th><th>SOV</th><th>Share</th></tr></thead><tbody>" + sov_rows + "</tbody></table>"
     "<div class='si'>Sources: CoinTelegraph, CoinDesk, Decrypt, Blockworks, NewsBTC, Bitcoinist, CryptoNews, U.Today, AmbCrypto, CoinJournal</div>"
     "</div>"
