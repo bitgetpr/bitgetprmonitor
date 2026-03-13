@@ -509,8 +509,6 @@ html = (
     "      const chartCtx = ctx.getContext('2d');"
     "      if(window.sovChart) window.sovChart.destroy();"
     "      window.sovChart = new Chart(chartCtx, {"
-    "    if(window.sovChart) window.sovChart.destroy();"
-    "    window.sovChart = new Chart(ctx, {"
     "      type: 'bar',"
     "      data: { labels: order, datasets: [{ label: 'SOV', data: order.map(e=>data.sov_pct[e]||0), backgroundColor: order.map(e=>colors[e]), borderRadius: 6 }] },"
     "      options: { responsive: true, maintainAspectRatio: false, plugins: { legend: {display:false}, tooltip: { callbacks: { label: function(c) { return ' ' + c.parsed.y + '% (' + (data.sov_counts[order[c.dataIndex]] || 0) + ' mentions)'; } } } }, scales: { x: { ticks: { color: '#7986a3' }, grid: { color: '#2a2f3d' } }, y: { ticks: { color: '#7986a3', callback: function(v){ return v + '%'; } }, grid: { color: '#2a2f3d' }, beginAtZero: true } } }"
