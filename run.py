@@ -216,7 +216,7 @@ data = {
 with open("data/dashboard_data.json", "w") as f:
     json.dump(data, f, indent=2)
 
-print("Data saved to data/dashboard_data.json")print("Data saved.")
+print("Data saved to data/dashboard_data.json")
 
 btc_display = "N/A"
 if isinstance(data["btc_price"], (int, float)):
