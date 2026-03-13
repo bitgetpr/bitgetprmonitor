@@ -31,12 +31,6 @@ RSS_FEEDS = [
     "https://coinjournal.net/feed/",
     "https://cryptobriefing.com/feed/",
     "https://beincrypto.com/feed/",
-    "https://news.google.com/rss/search?q=bitget+exchange&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=okx+exchange&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=bybit+exchange&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=mexc+exchange&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=kucoin+exchange&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=binance+exchange&hl=en-US&gl=US&ceid=US:en",
 ]
 
 COLORS = {
@@ -97,7 +91,37 @@ def fetch_fg():
         except Exception:
             pass
     return {"value": "N/A", "classification": "Unknown"}
-print("Fetching RSS feeds...")
+GOOGLE_FEEDS = {
+    "https://news.google.com/rss/search?q=bitget+exchange&hl=en-US&gl=US&ceid=US:en": "Bitget",
+    "https://news.google.com/rss/search?q=okx+exchange&hl=en-US&gl=US&ceid=US:en": "OKX",
+    "https://news.google.com/rss/search?q=bybit+exchange&hl=en-US&gl=US&ceid=US:en": "Bybit",
+    "https://news.google.com/rss/search?q=mexc+exchange&hl=en-US&gl=US&ceid=US:en": "MEXC",
+    "https://news.google.com/rss/search?q=kucoin+exchange&hl=en-US&gl=US&ceid=US:en": "KuCoin",
+    "https://news.google.com/rss/search?q=binance+exchange&hl=en-US&gl=US&ceid=US:en": "Binance",
+}
+
+print("Fetching Google News feeds...")
+sov_counts = defaultdict(int)
+bitget_news = []
+
+for feed_url, exchange in GOOGLE_FEEDS.items():
+    xml = fetch_url(feed_url)
+    if xml:
+        items = parse_rss(xml)
+        sov_counts[exchange] += len(items)
+        print("  " + exchange + ": " + str(len(items)) + " articles")
+        if exchange == "Bitget":
+            for item in items[:8]:
+                src = urllib.parse.urlparse(item["link"]).netloc.replace("www.", "")
+                bitget_news.append({
+                    "title": item["title"],
+                    "link": item["link"],
+                    "source": src,
+                    "pub": item["pub"][:16],
+                })
+    time.sleep(0.5)
+
+print("Fetching general RSS feeds...")
 all_items = []
 for feed in RSS_FEEDS:
     print("  " + feed)
@@ -108,17 +132,13 @@ for feed in RSS_FEEDS:
         print("    -> " + str(len(parsed)) + " articles")
     time.sleep(0.5)
 
-print("Total: " + str(len(all_items)))
+print("Total RSS articles: " + str(len(all_items)))
 
-GOOGLE_FEEDS = {
-    "https://news.google.com/rss/search?q=bitget+exchange&hl=en-US&gl=US&ceid=US:en": "Bitget",
-    "https://news.google.com/rss/search?q=okx+exchange&hl=en-US&gl=US&ceid=US:en": "OKX",
-    "https://news.google.com/rss/search?q=bybit+exchange&hl=en-US&gl=US&ceid=US:en": "Bybit",
-    "https://news.google.com/rss/search?q=mexc+exchange&hl=en-US&gl=US&ceid=US:en": "MEXC",
-    "https://news.google.com/rss/search?q=kucoin+exchange&hl=en-US&gl=US&ceid=US:en": "KuCoin",
-    "https://news.google.com/rss/search?q=binance+exchange&hl=en-US&gl=US&ceid=US:en": "Binance",
-}
-
+for item in all_items:
+    text = (item["title"] + " " + item["desc"]).lower()
+    for ex, kw in EXCHANGES.items():
+        if has_mention(text, kw):
+            sov_counts[ex] += 1
 sov_counts = defaultdict(int)
 bitget_news = []
 
