@@ -542,6 +542,6 @@ html = (
 )
 
 with open("index.html", "w") as f:
-    f.write(html)
+    f.write("".join(html))
 
 print("Done. index.html written.")
