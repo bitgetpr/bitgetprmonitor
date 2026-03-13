@@ -524,7 +524,7 @@ html = (
     "      newsContainer.innerHTML = '<div class=ph>Bitget Coverage Today</div>' + newsHtml;"
     "    }"
     "    "
-    "    console.log('Dashboard updated:', data.generated_at);"
+    "    console.log('Dashboard updated:', data.generated_at); console.log('Chart data:', order.map(e=>data.sov_pct[e]||0));"
     "  } catch(e) { console.error('Load failed:', e); }"
     "}"
     "loadDashboard();"
