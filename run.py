@@ -21,6 +21,40 @@ EXCHANGES = {
 
 # IMPROVED: More comprehensive Google News queries
 GOOGLE_FEEDS = {
+    # Base searches (1 per exchange)
+    "https://news.google.com/rss/search?q=bitget+exchange&hl=en-US&gl=US&ceid=US:en": "Bitget",
+    "https://news.google.com/rss/search?q=binance+exchange&hl=en-US&gl=US&ceid=US:en": "Binance",
+    "https://news.google.com/rss/search?q=OKX+crypto+exchange&hl=en-US&gl=US&ceid=US:en": "OKX",
+    "https://news.google.com/rss/search?q=Bybit+crypto+exchange&hl=en-US&gl=US&ceid=US:en": "Bybit",
+    "https://news.google.com/rss/search?q=MEXC+crypto+exchange&hl=en-US&gl=US&ceid=US:en": "MEXC",
+    "https://news.google.com/rss/search?q=KuCoin+crypto+exchange&hl=en-US&gl=US&ceid=US:en": "KuCoin",
+    
+    # Extra targeted queries - FAIR for all exchanges
+    # Binance
+    "https://news.google.com/rss/search?q=BNB+token+binance&hl=en-US&gl=US&ceid=US:en": "Binance",
+    "https://news.google.com/rss/search?q=binance+reserve+proof&hl=en-US&gl=US&ceid=US:en": "Binance",
+    "https://news.google.com/rss/search?q=binance+US+regulation&hl=en-US&gl=US&ceid=US:en": "Binance",
+    # OKX
+    "https://news.google.com/rss/search?q=OKX+NYSE+ICE&hl=en-US&gl=US&ceid=US:en": "OKX",
+    "https://news.google.com/rss/search?q=OKX+tokenized+stocks&hl=en-US&gl=US&ceid=US:en": "OKX",
+    "https://news.google.com/rss/search?q=OKX+institutional&hl=en-US&gl=US&ceid=US:en": "OKX",
+    # Bybit
+    "https://news.google.com/rss/search?q=Bybit+MyBank&hl=en-US&gl=US&ceid=US:en": "Bybit",
+    "https://news.google.com/rss/search?q=Bybit+custody+AUM&hl=en-US&gl=US&ceid=US:en": "Bybit",
+    "https://news.google.com/rss/search?q=Bybit+underbanked&hl=en-US&gl=US&ceid=US:en": "Bybit",
+    # MEXC
+    "https://news.google.com/rss/search?q=MEXC+Ondo+tokenized&hl=en-US&gl=US&ceid=US:en": "MEXC",
+    "https://news.google.com/rss/search?q=MEXC+zero+fee&hl=en-US&gl=US&ceid=US:en": "MEXC",
+    "https://news.google.com/rss/search?q=MEXC+reserve+audit&hl=en-US&gl=US&ceid=US:en": "MEXC",
+    # KuCoin
+    "https://news.google.com/rss/search?q=KuCoin+compliance+trust&hl=en-US&gl=US&ceid=US:en": "KuCoin",
+    "https://news.google.com/rss/search?q=KuCoin+KCS+token&hl=en-US&gl=US&ceid=US:en": "KuCoin",
+    "https://news.google.com/rss/search?q=KuCoin+security+update&hl=en-US&gl=US&ceid=US:en": "KuCoin",
+    # Bitget
+    "https://news.google.com/rss/search?q=bitget+UEX+universal+exchange&hl=en-US&gl=US&ceid=US:en": "Bitget",
+    "https://news.google.com/rss/search?q=bitget+tokenized+stocks&hl=en-US&gl=US&ceid=US:en": "Bitget",
+    "https://news.google.com/rss/search?q=bitget+reserves+transparency&hl=en-US&gl=US&ceid=US:en": "Bitget",
+
     # Specific brand searches
     "https://news.google.com/rss/search?q=bitget+exchange&hl=en-US&gl=US&ceid=US:en": "Bitget",
     "https://news.google.com/rss/search?q=binance+exchange&hl=en-US&gl=US&ceid=US:en": "Binance",
