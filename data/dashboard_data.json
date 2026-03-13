@@ -1,23 +1,29 @@
 {
-  "generated_at": "2026-03-13 11:18 UTC",
+  "generated_at": "2026-03-13 11:21 UTC",
   "sov_counts": {
-    "Bitget": 361,
+    "Bitget": 362,
     "Binance": 393,
     "OKX": 365,
     "Bybit": 154,
-    "MEXC": 346,
-    "KuCoin": 264
+    "MEXC": 335,
+    "KuCoin": 266
   },
   "sov_pct": {
-    "Bitget": 19.2,
-    "Binance": 20.9,
-    "OKX": 19.4,
+    "Bitget": 19.3,
+    "Binance": 21.0,
+    "OKX": 19.5,
     "Bybit": 8.2,
-    "MEXC": 18.4,
-    "KuCoin": 14.0
+    "MEXC": 17.9,
+    "KuCoin": 14.2
   },
-  "total_scanned": 2071,
+  "total_scanned": 2063,
   "bitget_news": [
+    {
+      "title": "Bitget Stock Market Update: US Crypto Stocks Stabilize After Decline, One Exchange Up 0.6% in the Past 24 Hours - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mTFBCdVhEd2kwRWJKQnJ0czRJalFQdGktUkVfLVZFZVAwQi1pbzM1dS1Nb1FVY1pwM1dYbFYwcUJDdnlYSG5YTUx3TEQyNnBjUmEtemhRcnU2NGxiU045ODhYa9IBY0FVX3lxTE1mTFBCdVhEd2kwRWJKQnJ0czRJalFQdGktUkVfLVZFZVAwQi1pbzM1dS1Nb1FVY1pwM1dYbFYwcUJDdnlYSG5YTUx3TEQyNnBjUmEtemhRcnU2NGxiU045ODhYaw?oc=5",
+      "source": "news.google.com",
+      "pub": "Thu, 12 Mar 2026"
+    },
     {
       "title": "Coinbase vs Bitget: Exchange Comparison & COIN Stock Price 2026 - Bitget",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX2ZQWDNBNkt2ZG53N3hXNDFBWUZpWVg0NDhuREVibFRnWEdOd19RMmxjZFhHdHhNTWJvVEhycFc3X2YxUFozTGlUSEVwSTJadFAtU2MwWkRueG1NLWRNWE1DaEwtdzBDamZsa1JZdV9KQ3ZYRUhiRzVLSHR1MjdleUV2d3hWT2lneXJXbUVtQTJ0cXR2M3BSWldFTHUxM21zN3Y4LW1XZHp3WWNpTEJaSWV3LVoteXktYkxkbdIBvAFBVV95cUxQX2ZQWDNBNkt2ZG53N3hXNDFBWUZpWVg0NDhuREVibFRnWEdOd19RMmxjZFhHdHhNTWJvVEhycFc3X2YxUFozTGlUSEVwSTJadFAtU2MwWkRueG1NLWRNWE1DaEwtdzBDamZsa1JZdV9KQ3ZYRUhiRzVLSHR1MjdleUV2d3hWT2lneXJXbUVtQTJ0cXR2M3BSWldFTHUxM21zN3Y4LW1XZHp3WWNpTEJaSWV3LVoteXktYkxkbQ?oc=5",
@@ -31,20 +37,14 @@
       "pub": "Tue, 10 Mar 2026"
     },
     {
-      "title": "Best 3Commas Trading Bot and Bitget Exchange Guide UK 2026 - Bitget",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtSjdXQUxTckpTMk10cTlOeWJyRF9xSkx2NHp2bk5ueTRRV2hFUlVkRDhGNXgwdk9kRzFGTkQ4YmhWdXdRNU9ISW40UFNFU1ZaVlhDV05JU2JHc1V3T1HSAV5BVV95cUxQbUo3V0FMU3JKUzJNdHE5TnlickRfcUpMdjR6dm5Obnk0UVdoRVJVZEQ4RjV4MHZPZEcxRk5EOGJoVnV3UTVPSEluNFBTRVNWWlZYQ1dOSVNiR3NVd09R?oc=5",
-      "source": "news.google.com",
-      "pub": "Tue, 10 Mar 2026"
-    },
-    {
       "title": "Best Low-Fee Crypto Exchanges UK 2026: Bitget vs Binance - Bitget",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTh6Qlo4dUdmMUdVNWZBeEZXTU0xRW5FN25iSmR6QXJucGZtVVRJWGIyYmZ4WktVY1VNdV82bzlGRkstUnNhWmYxMXhyaXhqNDdZY01ud0xOeTFzdkVfY00zNlNZNl9fa0JpQ0c5UldVcU9fMlZ3ZUhkeFh5ajk0akVZSF9CQWxZOV9RRVdMTHk0N1ZtQ0lYbm96TDlnbUM4dGdMZ0d4Q2s0TFRoWHZuZThvaEkwd09GSkVv0gG7AUFVX3lxTE8tOHpCWjh1R2YxR1U1ZkF4RldNTTFFbkU3bmJKZHpBcm5wZm1VVElYYjJiZnhaS1VjVU11XzZvOUZGSy1Sc2FaZjExeHJpeGo0N1ljTW53TE55MXN2RV9jTTM2U1k2X19rQmlDRzlSV1VxT18yVndlSGR4WHlqOTRqRVlIX0JBbFk5X1FFV0xMeTQ3Vm1DSVhub3pMOWdtQzh0Z0xnR3hDazRMVGhYdm5lOG9oSTB3T0ZKRW8?oc=5",
       "source": "news.google.com",
       "pub": "Tue, 10 Mar 2026"
     },
     {
-      "title": "Bitget vs ZBD: Best UK Crypto Wallet & Exchange Guide 2026 - Bitget",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTlRsbDh2cG9PMy00YlppTkVOOWdLNk05MWhoZHhTSHNEbzVNUlRLVjhxdW5CQTlXVWZtaTBfQUJhOXZYQnZIRDBGWjNYMjdBM2xOR1N3cjFWcnhUTXFySG5ERVJ5dzU3dXgyclpaa1pHa0dvNjIyZHdxT2RPbHRRMEVZdXMwMzBoZTY4UG1MNmhDZkwyX1NxREtvZkxzMnRwbm54V0ZyaVp4X1BLUHFSRUt3eXc1UDRkb1V2aDd1Q3c1bEpXNlFiNHhYNkN2UHNZYlNqUG1kdXZjWUp2NjZBUDdXbk5MVlNaZzNjd1hORkPSAfABQVVfeXFMUE5UbGw4dnBvTzMtNGJaaU5FTjlnSzZNOTFoaGR4U0hzRG81TVJUS1Y4cXVuQkE5V1VmbWkwX0FCYTl2WEJ2SEQwRlozWDI3QTNsTkdTd3IxVnJ4VE1xckhuREVSeXc1N3V4MnJaWmtaR2tHbzYyMmR3cU9kT2x0UTBFWXVzMDMwaGU2OFBtTDZoQ2ZMMl9TcURLb2ZMczJ0cG5ueFdGcmlaeF9QS1BxUkVLd3l3NVA0ZG9Vdmg3dUN3NWxKVzZRYjR4WDZDdlBzWWJTalBtZHV2Y1lKdjY2QVA3V25OTFZTWmczY3dYTkZD?oc=5",
+      "title": "Coinbase vs Bitget 2026: Fees, Value & Exchange Comparison - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWxBdzdwbmRHY1dqRElucEtDSFN2cnljNTkyaFc5ZmNaUXJBT3FwakpCN2V1Z0xHVTh0NVJuVU1IWnZTUEdOQXJURWhPamY4T1JZbjNZNl8wVno5SXV3RzBaWHAwbk5McTZraUtWQVJzYVNlR3RzNERaR2R5Z1BsTC1YUVZCQWhZdVdkNUxleDdIcVNLY2swd3U4NHZkYVZQTl9lNjlhRUFZbnFSaTAzYTIwR00tUF85N1Fob3IzeU81YjZaTl9hS21n0gHKAUFVX3lxTFBxbEF3N3BuZEdjV2pESW5wS0NIU3ZyeWM1OTJoVzlmY1pRckFPcXBqSkI3ZXVnTEdVOHQ1Um5VTUhadlNQR05BclRFaE9qZjhPUlluM1k2XzBWejlJdXdHMFpYcDBuTkxxNmtpS1ZBUnNhU2VHdHM0RFpHZHlnUGxMLVhRVkJBaFl1V2Q1TGV4N0hxU0tjazB3dTg0dmRhVlBOX2U2OWFFQVlucVJpMDNhMjBHTS1QXzk3UWhvcjN5TzViNlpOX2FLbWc?oc=5",
       "source": "news.google.com",
       "pub": "Tue, 10 Mar 2026"
     },
@@ -73,16 +73,16 @@
       "pub": "Tue, 10 Mar 2026"
     },
     {
-      "title": "Bitget vs Binance, Coinbase, Kraken: Best Crypto Exchange 2026 - Bitget",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPakE2M3F2VElqUzFQVWE4UmJLbjdwUHVXckFzNUJ5NU1vS0JtNENNQk13MWtSTjl4U05BQ0lXLUhFMG9lYXdhYnBCTkxWWTdfa3pkekgySGMxSXdNRUc0aXZjMFc5d1VHT0xESmxuVEtEaUMwdW0zUVV0TTJVSS1ueXlvckxBSWw0THlfWUJrU3ZXa2FSXzEzYmFjTmh5R0RFOEN6Z183VkZEbWRrdFNJdzZVdEpOM0w3RHVMZ2xOdFFZS1l5RW5wUlhJTl9jOEtUeUpv0gHTAUFVX3lxTE9qQTYzcXZUSWpTMVBVYThSYktuN3BQdVdyQXM1Qnk1TW9LQm00Q01CTXcxa1JOOXhTTkFDSVctSEUwb2Vhd2FicEJOTFZZN19remR6SDJIYzFJd01FRzRpdmMwVzl3VUdPTERKbG5US0RpQzB1bTNRVXRNMlVJLW55eW9yTEFJbDRMeV9ZQmtTdldrYVJfMTNiYWNOaHlHREU4Q3pnXzdWRkRtZGt0U0l3NlV0Sk4zTDdEdUxnbE50UVlLWXlFbnBSWElOX2M4S1R5Sm8?oc=5",
+      "title": "Kraken vs Kraken Pro vs Bitget: Best UK Crypto Exchange 2026 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNalJyamVQLURXNUt5UzdsWXlDVVNVZkJZSXNuTnJiTGZpNVNpTzgxelBrVTdaejlYd05EOUFaR1dIZ2wtaHhqOXp0bzk3SGdLQUtZeEpKSU4xT21JR3lPQ0tHTjhEVkNLTDJQMFJ4S3RXRUlPd19DaU5MWmM4SmFmS0J3VVN0NEpfRWZpUlJfdjBrc2ljUmg0aGZsWTNVWmZ0U0FtZjdB0gGmAUFVX3lxTE1qUnJqZVAtRFc1S3lTN2xZeUNVU1VmQllJc25OcmJMZmk1U2lPODF6UGtVN1p6OVh3TkQ5QVpHV0hnbC1oeGo5enRvOTdIZ0tBS1l4SkpJTjFPbUlHeU9DS0dOOERWQ0tMMlAwUnhLdFdFSU93X0NpTkxaYzhKYWZLQndVU3Q0Sl9FZmlSUl92MGtzaWNSaDRoZmxZM1VaZnRTQW1mN0E?oc=5",
       "source": "news.google.com",
       "pub": "Tue, 10 Mar 2026"
     }
   ],
-  "btc_price": 72319,
-  "btc_change": 2.7,
-  "eth_price": 2124.35,
-  "eth_change": 2.71,
+  "btc_price": 72394,
+  "btc_change": 2.67,
+  "eth_price": 2126.22,
+  "eth_change": 2.8,
   "fg_value": "15",
   "fg_class": "Extreme Fear",
   "reserve_btc": "36,700",
