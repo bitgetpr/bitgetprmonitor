@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-13 11:07 UTC",
+  "generated_at": "2026-03-13 11:18 UTC",
   "sov_counts": {
-    "Bitget": 362,
-    "Binance": 110,
-    "OKX": 100,
-    "Bybit": 101,
-    "MEXC": 100,
-    "KuCoin": 98
+    "Bitget": 361,
+    "Binance": 393,
+    "OKX": 365,
+    "Bybit": 154,
+    "MEXC": 346,
+    "KuCoin": 264
   },
   "sov_pct": {
-    "Bitget": 41.6,
-    "Binance": 12.6,
-    "OKX": 11.5,
-    "Bybit": 11.6,
-    "MEXC": 11.5,
-    "KuCoin": 11.3
+    "Bitget": 19.2,
+    "Binance": 20.9,
+    "OKX": 19.4,
+    "Bybit": 8.2,
+    "MEXC": 18.4,
+    "KuCoin": 14.0
   },
-  "total_scanned": 1039,
+  "total_scanned": 2071,
   "bitget_news": [
     {
       "title": "Coinbase vs Bitget: Exchange Comparison & COIN Stock Price 2026 - Bitget",
@@ -31,8 +31,20 @@
       "pub": "Tue, 10 Mar 2026"
     },
     {
+      "title": "Best 3Commas Trading Bot and Bitget Exchange Guide UK 2026 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtSjdXQUxTckpTMk10cTlOeWJyRF9xSkx2NHp2bk5ueTRRV2hFUlVkRDhGNXgwdk9kRzFGTkQ4YmhWdXdRNU9ISW40UFNFU1ZaVlhDV05JU2JHc1V3T1HSAV5BVV95cUxQbUo3V0FMU3JKUzJNdHE5TnlickRfcUpMdjR6dm5Obnk0UVdoRVJVZEQ4RjV4MHZPZEcxRk5EOGJoVnV3UTVPSEluNFBTRVNWWlZYQ1dOSVNiR3NVd09R?oc=5",
+      "source": "news.google.com",
+      "pub": "Tue, 10 Mar 2026"
+    },
+    {
       "title": "Best Low-Fee Crypto Exchanges UK 2026: Bitget vs Binance - Bitget",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTh6Qlo4dUdmMUdVNWZBeEZXTU0xRW5FN25iSmR6QXJucGZtVVRJWGIyYmZ4WktVY1VNdV82bzlGRkstUnNhWmYxMXhyaXhqNDdZY01ud0xOeTFzdkVfY00zNlNZNl9fa0JpQ0c5UldVcU9fMlZ3ZUhkeFh5ajk0akVZSF9CQWxZOV9RRVdMTHk0N1ZtQ0lYbm96TDlnbUM4dGdMZ0d4Q2s0TFRoWHZuZThvaEkwd09GSkVv0gG7AUFVX3lxTE8tOHpCWjh1R2YxR1U1ZkF4RldNTTFFbkU3bmJKZHpBcm5wZm1VVElYYjJiZnhaS1VjVU11XzZvOUZGSy1Sc2FaZjExeHJpeGo0N1ljTW53TE55MXN2RV9jTTM2U1k2X19rQmlDRzlSV1VxT18yVndlSGR4WHlqOTRqRVlIX0JBbFk5X1FFV0xMeTQ3Vm1DSVhub3pMOWdtQzh0Z0xnR3hDazRMVGhYdm5lOG9oSTB3T0ZKRW8?oc=5",
+      "source": "news.google.com",
+      "pub": "Tue, 10 Mar 2026"
+    },
+    {
+      "title": "Bitget vs ZBD: Best UK Crypto Wallet & Exchange Guide 2026 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTlRsbDh2cG9PMy00YlppTkVOOWdLNk05MWhoZHhTSHNEbzVNUlRLVjhxdW5CQTlXVWZtaTBfQUJhOXZYQnZIRDBGWjNYMjdBM2xOR1N3cjFWcnhUTXFySG5ERVJ5dzU3dXgyclpaa1pHa0dvNjIyZHdxT2RPbHRRMEVZdXMwMzBoZTY4UG1MNmhDZkwyX1NxREtvZkxzMnRwbm54V0ZyaVp4X1BLUHFSRUt3eXc1UDRkb1V2aDd1Q3c1bEpXNlFiNHhYNkN2UHNZYlNqUG1kdXZjWUp2NjZBUDdXbk5MVlNaZzNjd1hORkPSAfABQVVfeXFMUE5UbGw4dnBvTzMtNGJaaU5FTjlnSzZNOTFoaGR4U0hzRG81TVJUS1Y4cXVuQkE5V1VmbWkwX0FCYTl2WEJ2SEQwRlozWDI3QTNsTkdTd3IxVnJ4VE1xckhuREVSeXc1N3V4MnJaWmtaR2tHbzYyMmR3cU9kT2x0UTBFWXVzMDMwaGU2OFBtTDZoQ2ZMMl9TcURLb2ZMczJ0cG5ueFdGcmlaeF9QS1BxUkVLd3l3NVA0ZG9Vdmg3dUN3NWxKVzZRYjR4WDZDdlBzWWJTalBtZHV2Y1lKdjY2QVA3V25OTFZTWmczY3dYTkZD?oc=5",
       "source": "news.google.com",
       "pub": "Tue, 10 Mar 2026"
     },
@@ -61,28 +73,16 @@
       "pub": "Tue, 10 Mar 2026"
     },
     {
-      "title": "Best Crypto Exchange India 2026: Bitget vs Koinswap vs Binance - Bitget",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYVVCek1hQXJlMC03anFkLTNHS3N0UWdnZU03YmFuWU5sbkNGbXZDbFJWUFhHNExlbkJSdjU4YUtUY3FIN3c5Z3M1MjZDSUNkbWQ0WkM1czZNT09lQWFQZVlrM2hZZ2xaUnhuY1ZkUndJUlJhVjA2czYtbzNPQzE5MHc5WHFJTmk5Nmx0SmQ2OVdWci0yV0FSbjhzS0drMk96ZFBoNFd1N2VLeUxXYWZweVJyaS03eHfSAbcBQVVfeXFMTmFVQnpNYUFyZTAtN2pxZC0zR0tzdFFnZ2VNN2JhbllObG5DRm12Q2xSVlBYRzRMZW5CUnY1OGFLVGNxSDd3OWdzNTI2Q0lDZG1kNFpDNXM2TU9PZUFhUGVZazNoWWdsWlJ4bmNWZFJ3SVJSYVYwNnM2LW8zT0MxOTB3OVhxSU5pOTZsdEpkNjlXVnItMldBUm44c0tHazJPemRQaDRXdTdlS3lMV2FmcHlScmktN3h3?oc=5",
-      "source": "news.google.com",
-      "pub": "Tue, 10 Mar 2026"
-    },
-    {
-      "title": "Best Crypto Exchanges UK 2026: Bitget vs LBank & Binance - Bitget",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVEtlRUE1RDdaSHZXWExQMDY3V2xIYm8zeGJ3anZZRmVvMDJXVGt3ZW9IWXRqUWhwbldlX2VnTXdpQVpwZ3JvMEJfNmZvOGQwenpRNV9ROE1WcEFz0gFiQVVfeXFMTWV5VUVuaEJhcjloVUJIdkxmOElsdHV5dnZEX0RpVGpUZ0JVenNqdWRaVTFFak9URzE4dWhGeTVpMS1iT1dmMldKdk52MGpDQnExbE9Ld001ck5rb25lbmZsQmc?oc=5",
-      "source": "news.google.com",
-      "pub": "Tue, 10 Mar 2026"
-    },
-    {
-      "title": "Best Crypto Exchange India 2026: Bitget vs Coinbase Guide - Bitget",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tMVIyZFJQdUZjc0hBcmJ5VUg4SXRWZHFzWFpOYWZmNTJNRVpHQUJtUGtVXzIwc0x1ZlBuWTkxN0dMWkpPdDZfSlhiYzlWUVk1dE1XbzV2Nm9ZaW9EREHSAV5BVV95cUxNbTFSMmRSUHVGY3NIQXJieVVIOEl0VmRxc1haTmFmZjUyTUVaR0FCbVBrVV8yMHNMdWZQblk5MTdHTFpKT3Q2X0pYYmM5VlFZNXRNV281djZvWWlvRERB?oc=5",
+      "title": "Bitget vs Binance, Coinbase, Kraken: Best Crypto Exchange 2026 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPakE2M3F2VElqUzFQVWE4UmJLbjdwUHVXckFzNUJ5NU1vS0JtNENNQk13MWtSTjl4U05BQ0lXLUhFMG9lYXdhYnBCTkxWWTdfa3pkekgySGMxSXdNRUc0aXZjMFc5d1VHT0xESmxuVEtEaUMwdW0zUVV0TTJVSS1ueXlvckxBSWw0THlfWUJrU3ZXa2FSXzEzYmFjTmh5R0RFOEN6Z183VkZEbWRrdFNJdzZVdEpOM0w3RHVMZ2xOdFFZS1l5RW5wUlhJTl9jOEtUeUpv0gHTAUFVX3lxTE9qQTYzcXZUSWpTMVBVYThSYktuN3BQdVdyQXM1Qnk1TW9LQm00Q01CTXcxa1JOOXhTTkFDSVctSEUwb2Vhd2FicEJOTFZZN19remR6SDJIYzFJd01FRzRpdmMwVzl3VUdPTERKbG5US0RpQzB1bTNRVXRNMlVJLW55eW9yTEFJbDRMeV9ZQmtTdldrYVJfMTNiYWNOaHlHREU4Q3pnXzdWRkRtZGt0U0l3NlV0Sk4zTDdEdUxnbE50UVlLWXlFbnBSWElOX2M4S1R5Sm8?oc=5",
       "source": "news.google.com",
       "pub": "Tue, 10 Mar 2026"
     }
   ],
-  "btc_price": 72433,
-  "btc_change": 2.83,
-  "eth_price": 2127.95,
-  "eth_change": 2.8,
+  "btc_price": 72319,
+  "btc_change": 2.7,
+  "eth_price": 2124.35,
+  "eth_change": 2.71,
   "fg_value": "15",
   "fg_class": "Extreme Fear",
   "reserve_btc": "36,700",
