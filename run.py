@@ -332,7 +332,7 @@ html = (
     ".ns{font-size:11px;font-weight:600;padding:2px 8px;border-radius:5px;background:rgba(0,196,255,.1);color:var(--ac);border:1px solid rgba(0,196,255,.2)}"
     ".nt{font-size:14px;font-weight:600;margin-bottom:8px;line-height:1.4}"
     ".nl{display:inline-flex;color:var(--ac);font-size:12px;text-decoration:none;font-weight:600;padding:4px 10px;border:1px solid rgba(0,196,255,.25);border-radius:6px;background:rgba(0,196,255,.06)}"
-    ".cw{position:relative;height:260px;margin-bottom:16px}"
+    ".cw{position:relative;height:260px;margin-bottom:16px;width:100%}.cw canvas{width:100%!important;height:100%!important}"
     ".st{width:100%;border-collapse:collapse;font-size:13px}"
 ".st th{text-align:left;padding:8px 10px;color:var(--mu);font-size:11px;text-transform:uppercase;border-bottom:1px solid var(--br)}"
     ".st td{padding:9px 10px;border-bottom:1px solid rgba(42,47,61,.5)}"
