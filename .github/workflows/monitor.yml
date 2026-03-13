@@ -1,0 +1,44 @@
+name: Bitget PR Monitor
+
+on:
+  # ── Scheduled runs ──────────────────────────────
+  # Daily at 6am UTC (2pm CST) — keeps dashboard fresh
+  schedule:
+    - cron: '0 6 * * *'
+
+  # Manual trigger — run anytime from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed for the auto-commit step
+
+    steps:
+      # ── 1. Checkout repo ──────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ── 2. Set up Python ──────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # ── 3. Run the monitor ────────────────────────
+      # No pip install needed — run.py uses stdlib only
+      - name: Run PR monitor
+        run: python run.py
+
+      # ── 4. Auto-commit updated data ───────────────
+      # Only commits if data actually changed (git diff check)
+      - name: Commit updated data
+        run: |
+          git config --global user.name "pr-monitor-bot"
+          git config --global user.email "actions@github.com"
+          git add data/latest.json data/last_week_sov.json
+          git diff --staged --quiet || git commit -m "chore: update PR data $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push          
