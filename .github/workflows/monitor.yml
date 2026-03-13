@@ -1,44 +1,50 @@
-name: Bitget PR Monitor
+name: Daily PR Monitor Update
 
 on:
-  # ── Scheduled runs ──────────────────────────────
-  # Daily at 6am UTC (2pm CST) — keeps dashboard fresh
   schedule:
-    - cron: '0 6 * * *'
+    - cron: "0 1 * * *"   # 1am UTC daily (9am CST)
+  workflow_dispatch:       # manual trigger from Actions tab
 
-  # Manual trigger — run anytime from GitHub Actions tab
-  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
-  run-monitor:
+  update-dashboard:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write   # needed for the auto-commit step
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      # ── 1. Checkout repo ──────────────────────────
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
 
-      # ── 2. Set up Python ──────────────────────────
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      # ── 3. Run the monitor ────────────────────────
-      # No pip install needed — run.py uses stdlib only
       - name: Run PR monitor
         run: python run.py
 
-      # ── 4. Auto-commit updated data ───────────────
-      # Only commits if data actually changed (git diff check)
       - name: Commit updated data
         run: |
-          git config --global user.name "pr-monitor-bot"
-          git config --global user.email "actions@github.com"
-          git add data/latest.json data/last_week_sov.json
-          git diff --staged --quiet || git commit -m "chore: update PR data $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/dashboard_data.json data/last_week_sov.json index.html
+          git diff --staged --quiet || git commit -m "chore: daily update $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push          
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
