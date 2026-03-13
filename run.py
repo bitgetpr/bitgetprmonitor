@@ -300,6 +300,15 @@ html = (
     "<meta name='viewport' content='width=device-width,initial-scale=1'>"
     "<title>Bitget PR Monitor</title>"
     '<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>',
+    '<script>',
+    "var sovChart = null;",
+    "function updateChart(sovData) {",
+    "  var ctx = document.getElementById('sovChart').getContext('2d');",
+    "  if(sovChart) sovChart.destroy();",
+    "  sovChart = new Chart(ctx,{type:'bar',data:{labels:['Bitget','Binance','OKX','Bybit','MEXC','KuCoin'],datasets:[{data:sovData,backgroundColor:['#00c4ff','#7b61ff','#ff4d6d','#ff9800','#ffd740','#00e676'],borderRadius:6}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{ticks:{color:'#7986a3'},grid:{color:'#2a2f3d'}},y:{ticks:{color:'#7986a3',callback:function(v){return v+'%'}},grid:{color:'#2a2f3d'},beginAtZero:true}}});",
+    "}",
+    "fetch('data/dashboard_data.json').then(function(r){return r.json()}).then(function(d){updateChart(['Bitget','Binance','OKX','Bybit','MEXC','KuCoin'].map(function(e){return d.sov_pct[e]||0}))}).catch(function(e){console.log(e)});",
+    '</script>',
     '<script>new Chart(document.getElementById("sovChart").getContext("2d"),{type:"bar",data:{labels:["Bitget","Binance","OKX","Bybit","MEXC","KuCoin"],datasets:[{data:[0,0,0,0,0,0],backgroundColor:["#00c4ff","#7b61ff","#ff4d6d","#ff9800","#ffd740","#00e676"],borderRadius:6}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{ticks:{color:"#7986a3"},grid:{color:"#2a2f3d"}},y:{ticks:{color:"#7986a3",callback:function(v){return v+"%"}},grid:{color:"#2a2f3d"},beginAtZero:true}}})</script>',
     '<script>setTimeout(function(){fetch("data/dashboard_data.json").then(function(r){return r.json()}).then(function(d){var order=["Bitget","Binance","OKX","Bybit","MEXC","KuCoin"];var colors=["#00c4ff","#7b61ff","#ff4d6d","#ff9800","#ffd740","#00e676"];new Chart(document.getElementById("sovChart").getContext("2d"),{type:"bar",data:{labels:order,datasets:[{data:order.map(function(e){return d.sov_pct[e]||0}),backgroundColor:colors,borderRadius:6}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{ticks:{color:"#7986a3"},grid:{color:"#2a2f3d"}},y:{ticks:{color:"#7986a3",callback:function(v){return v+"%"}},grid:{color:"#2a2f3d"},beginAtZero:true}}}})})},500);</script>',
     "<style>"
