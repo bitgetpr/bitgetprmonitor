@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-13 11:24 UTC",
+  "generated_at": "2026-03-13 11:32 UTC",
   "sov_counts": {
     "Bitget": 361,
     "Binance": 393,
     "OKX": 365,
     "Bybit": 153,
-    "MEXC": 346,
-    "KuCoin": 265
+    "MEXC": 334,
+    "KuCoin": 264
   },
   "sov_pct": {
-    "Bitget": 19.2,
-    "Binance": 20.9,
-    "OKX": 19.4,
-    "Bybit": 8.1,
-    "MEXC": 18.4,
+    "Bitget": 19.3,
+    "Binance": 21.0,
+    "OKX": 19.5,
+    "Bybit": 8.2,
+    "MEXC": 17.9,
     "KuCoin": 14.1
   },
-  "total_scanned": 2051,
+  "total_scanned": 2038,
   "bitget_news": [
     {
       "title": "Bitget Stock Market Update: US Crypto Stocks Stabilize After Decline, One Exchange Up 0.6% in the Past 24 Hours - Bitget",
@@ -79,10 +79,10 @@
       "pub": "Tue, 10 Mar 2026"
     }
   ],
-  "btc_price": 72344,
-  "btc_change": 2.6,
-  "eth_price": 2125.33,
-  "eth_change": 2.67,
+  "btc_price": 72324,
+  "btc_change": 2.54,
+  "eth_price": 2125.75,
+  "eth_change": 2.68,
   "fg_value": "15",
   "fg_class": "Extreme Fear",
   "reserve_btc": "36,700",
