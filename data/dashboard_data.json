@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-12 18:46 UTC",
+  "generated_at": "2026-03-13 05:17 UTC",
   "sov_counts": {
-    "Bitget": 208,
-    "OKX": 202,
-    "Bybit": 194,
-    "MEXC": 204,
-    "KuCoin": 200,
+    "Bitget": 209,
+    "OKX": 203,
+    "Bybit": 192,
+    "MEXC": 205,
+    "KuCoin": 202,
     "Binance": 100
   },
   "sov_pct": {
     "Bitget": 18.8,
-    "OKX": 18.2,
-    "Bybit": 17.5,
-    "MEXC": 18.4,
-    "KuCoin": 18.1,
+    "OKX": 18.3,
+    "Bybit": 17.3,
+    "MEXC": 18.5,
+    "KuCoin": 18.2,
     "Binance": 9.0
   },
-  "total_scanned": 767,
+  "total_scanned": 768,
   "bitget_news": [
     {
       "title": "Coinbase vs Bitget: Exchange Comparison & COIN Stock Price 2026 - Bitget",
@@ -43,14 +43,14 @@
       "pub": "Tue, 10 Mar 2026"
     },
     {
-      "title": "Best Cost-Effective Crypto Coins and Exchanges UK 2026 Guide - Bitget",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOU0RhUmx5aFMwTFM1LXNaWS15djlnVlZsaU45MUZ4bXJ0WDl2aFFhMTFoT2xVU0RKV3pTSlhXandyb29aR3lUbUliSE95c2ZsYzdoTEtqV0xFaWM5ZkttN3FPN0VLYmF4SGdhWVBEeF9mdGRmYVFCem5wQkU0OHdDMnVGczFuYWVJWUJYa29WNE1teWxyZGJDT09OTzV3T2pfX1o0U2lWeGdMdkR4N3hycGtwX3Z3YVhfd1NBRm14dG10VWotbmJzeklsSkU1R0FVeHFZX1hTQi1YNGpEeDludWFLdkJLRF8xeUZ1eUJWeGfSAfABQVVfeXFMTlNEYVJseWhTMExTNS1zWlkteXY5Z1ZWbGlOOTFGeG1ydFg5dmhRYTExaE9sVVNESld6U0pYV2p3cm9vWkd5VG1JYkhPeXNmbGM3aExLaldMRWljOWZLbTdxTzdFS2JheEhnYVlQRHhfZnRkZmFRQnpucEJFNDh3QzJ1RnMxbmFlSVlCWGtvVjRNbXlscmRiQ09PTk81d09qX19aNFNpVnhnTHZEeDd4cnBrcF92d2FYX3dTQUZteHRtdFVqLW5ic3pJbEpFNUdBVXhxWV9YU0ItWDRqRHg5bnVhS3ZCS0RfMXlGdXlCVnhn?oc=5",
+      "title": "Keystone 3 Pro: Secure UK Crypto Storage & Bitget Exchange Guide - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUFlX0lSTWs3VE9IVU1uc1JJemg0Si10cUQ2ekpYM3VybWM0OVE0YnN6WTdvU29QUXlCSFdTY0JqQ0x3ZHF1bEFDOU4wWENoSW9FdDNaTDBGcWJWTldOVVZVTFVpLUJNbGs1RHU3VmF3bFNkWUxqRV95T2I1N19yMUE5THpvZlFKNllobGdBOFRaOG5hbThMOWZEMk1FZ24tZm04OEppaUdNeUt0NnBPVmNxZ9IBswFBVV95cUxOTUFlX0lSTWs3VE9IVU1uc1JJemg0Si10cUQ2ekpYM3VybWM0OVE0YnN6WTdvU29QUXlCSFdTY0JqQ0x3ZHF1bEFDOU4wWENoSW9FdDNaTDBGcWJWTldOVVZVTFVpLUJNbGs1RHU3VmF3bFNkWUxqRV95T2I1N19yMUE5THpvZlFKNllobGdBOFRaOG5hbThMOWZEMk1FZ24tZm04OEppaUdNeUt0NnBPVmNxZw?oc=5",
       "source": "news.google.com",
       "pub": "Tue, 10 Mar 2026"
     },
     {
-      "title": "Keystone 3 Pro: Secure UK Crypto Storage & Bitget Exchange Guide - Bitget",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUFlX0lSTWs3VE9IVU1uc1JJemg0Si10cUQ2ekpYM3VybWM0OVE0YnN6WTdvU29QUXlCSFdTY0JqQ0x3ZHF1bEFDOU4wWENoSW9FdDNaTDBGcWJWTldOVVZVTFVpLUJNbGs1RHU3VmF3bFNkWUxqRV95T2I1N19yMUE5THpvZlFKNllobGdBOFRaOG5hbThMOWZEMk1FZ24tZm04OEppaUdNeUt0NnBPVmNxZ9IBswFBVV95cUxOTUFlX0lSTWs3VE9IVU1uc1JJemg0Si10cUQ2ekpYM3VybWM0OVE0YnN6WTdvU29QUXlCSFdTY0JqQ0x3ZHF1bEFDOU4wWENoSW9FdDNaTDBGcWJWTldOVVZVTFVpLUJNbGs1RHU3VmF3bFNkWUxqRV95T2I1N19yMUE5THpvZlFKNllobGdBOFRaOG5hbThMOWZEMk1FZ24tZm04OEppaUdNeUt0NnBPVmNxZw?oc=5",
+      "title": "HoudiniSwap 2026 Guide: Best News, Updates & Bitget Exchange - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdEgzcHR0WDNoYlpwazNyWS1ZWVBUZk5nNHMyY0UtTFoyMkxNS3hyVk44YjBpV2xxT2VoRFV0SGxBeHRPcDdETUItaUpvd05xcVJSSXBpZ3c3SVhHQXlxV3Z3SEtEclZyT2J5ZkNoV0dUQkp5RGItVkd4cEFuNnFZd3R6Nll1cnRxanFVel9pUk9JRWV2b1B4TkhMakM0Qmo5MGlVY0R2QWRCMVNaRUYxVHJoT000Q1pleFZ6YmdKZkNjdWd1aTBZUUhn0gHKAUFVX3lxTFB0SDNwdHRYM2hiWnBrM3JZLVlZUFRmTmc0czJjRS1MWjIyTE1LeHJWTjhiMGlXbHFPZWhEVXRIbEF4dE9wN0RNQi1pSm93TnFxUlJJcGlndzdJWEdBeXFXdndIS0RyVnJPYnlmQ2hXR1RCSnlEYi1WR3hwQW42cVl3dHo2WXVydHFqcVV6X2lST0lFZXZvUHhOSExqQzRCajkwaVVjRHZBZEIxU1pFRjFUcmhPTTRDWmV4VnpiZ0pmQ2N1Z3VpMFlRSGc?oc=5",
       "source": "news.google.com",
       "pub": "Tue, 10 Mar 2026"
     },
@@ -67,11 +67,11 @@
       "pub": "Tue, 10 Mar 2026"
     }
   ],
-  "btc_price": 69933,
-  "btc_change": -0.8,
-  "eth_price": 2053.87,
-  "eth_change": -0.73,
-  "fg_value": "18",
+  "btc_price": 71286,
+  "btc_change": 2.76,
+  "eth_price": 2106.47,
+  "eth_change": 4.04,
+  "fg_value": "15",
   "fg_class": "Extreme Fear",
   "reserve_btc": "36,700",
   "reserve_ratio": "169%",
