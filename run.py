@@ -28,7 +28,7 @@ EXCHANGE_COLORS = {
     "KuCoin":  "#00e676",
 }
 
-**SENTIMENT KEYWORDS**
+#SENTIMENT KEYWORDS#
 POSITIVE_KEYWORDS = [
     "partnership", "launch", "record", "growth", "wins", "expands", "raises",
     "integrates", "bullish", "milestone", "surpasses", "achieves", "leading",
@@ -54,7 +54,7 @@ def score_sentiment(text):
     else:
         return "neutral"
 
-**RSS FEEDS - GOOGLE NEWS**
+#RSS FEEDS - GOOGLE NEWS#
 GOOGLE_FEEDS = {
     "https://news.google.com/rss/search?q=bitget+exchange&hl=en-US&gl=US&ceid=US:en":         "Bitget",
     "https://news.google.com/rss/search?q=bitget+crypto+exchange&hl=en-US&gl=US&ceid=US:en":  "Bitget",
@@ -72,7 +72,7 @@ GOOGLE_FEEDS = {
     "https://news.google.com/rss/search?q=KuCoin+KCS+token&hl=en-US&gl=US&ceid=US:en":        "KuCoin",
 }
 
-**RSS FEEDS - DIRECT MEDIA OUTLETS**
+#RSS FEEDS - DIRECT MEDIA OUTLETS#
 DIRECT_FEEDS = {
     "https://www.theblock.co/rss.xml":                 "all",
     "https://messari.io/rss":                           "all",
@@ -91,7 +91,7 @@ DIRECT_FEEDS = {
     "https://ambcrypto.com/feed/":                      "all",
 }
 
-**FUZZY DEDUPLICATION**
+#FUZZY DEDUPLICATION#
 def normalize_title(title):
     title = title.lower()
     title = re.sub(r"[^\w\s]", "", title)
@@ -105,7 +105,7 @@ def is_duplicate(new_title, seen_titles, threshold=0.85):
             return True
     return False
 
-**FETCH WITH RETRY**
+#FETCH WITH RETRY#
 def fetch_with_retry(url, max_retries=3, base_delay=1.0, timeout=15):
     for attempt in range(max_retries):
         try:
@@ -115,7 +115,7 @@ def fetch_with_retry(url, max_retries=3, base_delay=1.0, timeout=15):
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return resp.read()
         except Exception as e:
-            wait = base_delay * (2 ** attempt)
+            wait = base_delay * (2 # attempt)
             print("  [WARN] Attempt {}/{} failed: {} -- {}".format(attempt+1, max_retries, url[:60], e))
             if attempt < max_retries - 1:
                 time.sleep(wait)
@@ -123,7 +123,7 @@ def fetch_with_retry(url, max_retries=3, base_delay=1.0, timeout=15):
                 print("  [ERROR] Giving up on: {}".format(url[:60]))
     return None
 
-**PARSE RSS FEED**
+#PARSE RSS FEED#
 def parse_feed(url, assigned_exchange=None):
     print("  Fetching: {}...".format(url[:80]))
     data = fetch_with_retry(url)
@@ -182,7 +182,7 @@ def parse_feed(url, assigned_exchange=None):
 
     return articles
 
-**WEEK-OVER-WEEK SOV**
+#WEEK-OVER-WEEK SOV#
 LAST_WEEK_PATH = "data/last_week_sov.json"
 
 def load_last_week_sov():
@@ -198,7 +198,7 @@ def save_sov(sov_map):
     with open(LAST_WEEK_PATH, "w") as f:
         json.dump(sov_map, f, indent=2)
 
-**GENERATE index.html**
+#GENERATE index.html#
 def generate_html(output):
     exchanges  = output["exchanges"]
     articles   = output["articles"]
@@ -445,7 +445,7 @@ def generate_html(output):
     )
     return html
 
-**MAIN**
+#MAIN#
 def main():
     print("=" * 60)
     print("Bitget PR Monitor -- {}".format(datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")))
