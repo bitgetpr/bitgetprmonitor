@@ -1,1 +1,763 @@
-<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>Bitget PR Monitor</title><script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script><script>var sovChart = null;function updateChart(sovData) {  var ctx = document.getElementById('sovChart').getContext('2d');  if(sovChart) sovChart.destroy();  sovChart = new Chart(ctx,{type:'bar',data:{labels:['Bitget','Binance','OKX','Bybit','MEXC','KuCoin'],datasets:[{data:sovData,backgroundColor:['#00c4ff','#7b61ff','#ff4d6d','#ff9800','#ffd740','#00e676'],borderRadius:6}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{ticks:{color:'#7986a3'},grid:{color:'#2a2f3d'}},y:{ticks:{color:'#7986a3',callback:function(v){return v+'%'}},grid:{color:'#2a2f3d'},beginAtZero:true}}});}fetch('data/dashboard_data.json').then(function(r){return r.json()}).then(function(d){updateChart(['Bitget','Binance','OKX','Bybit','MEXC','KuCoin'].map(function(e){return d.sov_pct[e]||0}))}).catch(function(e){console.log(e)});</script><script>new Chart(document.getElementById("sovChart").getContext("2d"),{type:"bar",data:{labels:["Bitget","Binance","OKX","Bybit","MEXC","KuCoin"],datasets:[{data:[0,0,0,0,0,0],backgroundColor:["#00c4ff","#7b61ff","#ff4d6d","#ff9800","#ffd740","#00e676"],borderRadius:6}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{ticks:{color:"#7986a3"},grid:{color:"#2a2f3d"}},y:{ticks:{color:"#7986a3",callback:function(v){return v+"%"}},grid:{color:"#2a2f3d"},beginAtZero:true}}})</script><script>setTimeout(function(){fetch("data/dashboard_data.json").then(function(r){return r.json()}).then(function(d){var order=["Bitget","Binance","OKX","Bybit","MEXC","KuCoin"];var colors=["#00c4ff","#7b61ff","#ff4d6d","#ff9800","#ffd740","#00e676"];new Chart(document.getElementById("sovChart").getContext("2d"),{type:"bar",data:{labels:order,datasets:[{data:order.map(function(e){return d.sov_pct[e]||0}),backgroundColor:colors,borderRadius:6}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{ticks:{color:"#7986a3"},grid:{color:"#2a2f3d"}},y:{ticks:{color:"#7986a3",callback:function(v){return v+"%"}},grid:{color:"#2a2f3d"},beginAtZero:true}}}})})},500);</script><style>*{box-sizing:border-box;margin:0;padding:0}:root{--bg:#0d0f14;--s:#161a23;--s2:#1e2330;--br:#2a2f3d;--ac:#00c4ff;--ac2:#7b61ff;--gr:#00e676;--rd:#ff4d6d;--yw:#ffd740;--or:#ff9800;--tx:#e8eaf6;--mu:#7986a3}body{background:var(--bg);color:var(--tx);font-family:'Segoe UI',sans-serif}header{background:linear-gradient(135deg,#0d0f14,#161a23);border-bottom:1px solid var(--br);padding:20px 32px;display:flex;align-items:center;justify-content:space-between}.logo{display:flex;align-items:center;gap:14px}.li{width:44px;height:44px;border-radius:10px;background:linear-gradient(135deg,var(--ac),var(--ac2));display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:900;color:#fff}.lt h1{font-size:20px;font-weight:700}.lt p{font-size:12px;color:var(--mu);margin-top:2px}.hr{display:flex;align-items:center;gap:16px}.lb{display:flex;align-items:center;gap:6px;background:rgba(0,230,118,.1);border:1px solid rgba(0,230,118,.3);color:var(--gr);padding:5px 12px;border-radius:20px;font-size:12px;font-weight:600}.ld{width:7px;height:7px;border-radius:50%;background:var(--gr);animation:pulse 1.5s infinite}@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}.ts{font-size:12px;color:var(--mu)}.wrap{max-width:1400px;margin:0 auto;padding:24px 32px}.sb{display:grid;grid-template-columns:repeat(6,1fr);gap:16px;margin-bottom:28px}.sc{background:var(--s);border:1px solid var(--br);border-radius:12px;padding:16px 20px;position:relative;overflow:hidden}.sc::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--ac),var(--ac2))}.sl{font-size:11px;color:var(--mu);text-transform:uppercase;letter-spacing:.8px;margin-bottom:8px}.sv{font-size:20px;font-weight:700}.sd{font-size:12px;margin-top:4px;font-weight:600}.up{color:var(--gr)}.down{color:var(--rd)}.neutral{color:var(--mu)}.mg{display:grid;grid-template-columns:1fr 420px;gap:24px}.pn{background:var(--s);border:1px solid var(--br);border-radius:14px;padding:20px;margin-bottom:20px}.ph{display:flex;align-items:center;gap:10px;margin-bottom:16px;font-size:15px;font-weight:700}.ct{background:var(--s2);border:1px solid var(--br);color:var(--mu);font-size:11px;padding:2px 8px;border-radius:10px}.ni{border:1px solid var(--br);border-radius:10px;padding:14px 16px;margin-bottom:12px;background:var(--s2)}.nm{display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap}.nd{font-size:11px;color:var(--mu)}.ns{font-size:11px;font-weight:600;padding:2px 8px;border-radius:5px;background:rgba(0,196,255,.1);color:var(--ac);border:1px solid rgba(0,196,255,.2)}.nt{font-size:14px;font-weight:600;margin-bottom:8px;line-height:1.4}.nl{display:inline-flex;color:var(--ac);font-size:12px;text-decoration:none;font-weight:600;padding:4px 10px;border:1px solid rgba(0,196,255,.25);border-radius:6px;background:rgba(0,196,255,.06)}.cw{position:relative;height:260px;margin-bottom:16px;width:100%}.cw canvas{width:100%!important;height:100%!important}.st{width:100%;border-collapse:collapse;font-size:13px}.st th{text-align:left;padding:8px 10px;color:var(--mu);font-size:11px;text-transform:uppercase;border-bottom:1px solid var(--br)}.st td{padding:9px 10px;border-bottom:1px solid rgba(42,47,61,.5)}.bb{background:var(--br);border-radius:3px;height:5px;width:140px}.bf{height:5px;border-radius:3px}.cd{border:1px solid var(--br);border-radius:12px;padding:18px;margin-bottom:16px;background:var(--s2);position:relative;overflow:hidden}.cd::before{content:'';position:absolute;top:0;left:0;bottom:0;width:3px}.cd.cr::before{background:var(--rd)}.cd.hi::before{background:var(--or)}.cd.mo::before{background:var(--yw)}.ch{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:12px}.cn{font-size:17px;font-weight:800}.cg{font-size:12px;color:var(--mu);margin-top:2px;font-style:italic}.cbg{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px}.bk{font-size:10px;font-weight:700;padding:3px 8px;border-radius:6px}.br{background:rgba(0,196,255,.1);color:var(--ac);border:1px solid rgba(0,196,255,.25)}.bu{background:rgba(0,230,118,.1);color:var(--gr);border:1px solid rgba(0,230,118,.25)}.th{font-size:10px;font-weight:700;padding:4px 10px;border-radius:6px;white-space:nowrap}.tc{background:rgba(255,77,109,.15);color:var(--rd);border:1px solid rgba(255,77,109,.3)}.th2{background:rgba(255,152,0,.15);color:var(--or);border:1px solid rgba(255,152,0,.3)}.tm{background:rgba(255,215,64,.1);color:var(--yw);border:1px solid rgba(255,215,64,.25)}.cs{font-size:11px;font-weight:700;color:var(--mu);text-transform:uppercase;letter-spacing:.8px;margin:12px 0 6px}.cl{list-style:none}.cl li{font-size:12px;color:var(--mu);padding:3px 0 3px 16px;position:relative;line-height:1.5}.cl li::before{content:'>';position:absolute;left:0;color:var(--br)}.cl li b{color:var(--tx)}.vd{background:rgba(0,0,0,.3);border-radius:8px;padding:10px 14px;margin-top:12px;border-left:3px solid var(--ac2)}.vl{font-size:10px;font-weight:700;color:var(--ac2);text-transform:uppercase;letter-spacing:.8px;margin-bottom:4px}.vt{font-size:12px;line-height:1.5}.lks{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}.lk{font-size:11px;color:var(--ac);text-decoration:none;font-weight:600;padding:3px 9px;border:1px solid rgba(0,196,255,.2);border-radius:5px;background:rgba(0,196,255,.05)}.si{font-size:11px;color:var(--mu);margin-top:8px;text-align:center}footer{border-top:1px solid var(--br);padding:16px 32px;margin-top:32px;display:flex;justify-content:space-between}footer p{font-size:11px;color:var(--mu)}@media(max-width:900px){.sb{grid-template-columns:repeat(2,1fr)}.mg{grid-template-columns:1fr}.wrap{padding:16px}}</style></head><body><header><div class='logo'><div class='li'>B</div><div class='lt'><h1>Bitget PR Monitor</h1><p>Daily coverage and Share of Voice</p></div></div><div class='hr'><div class='lb'><div class='ld'></div>LIVE</div><div class='ts'>Updated: 2026-03-13 11:55 UTC</div></div></header><div class='wrap'><div class='sb'><div class='sc'><div class='sl'>BTC Reserves</div><div class='sv'>36,700</div><div class='sd up'>+86% YoY</div></div><div class='sc'><div class='sl'>Reserve Ratio</div><div class='sv'>169%</div><div class='sd up'>Overcollateralized</div></div><div class='sc'><div class='sl'>Net Inflows Feb</div><div class='sv'>205M USD</div><div class='sd up'>Strong</div></div><div class='sc'><div class='sl'>BTC Price</div><div class='sv'>72,241</div><div class='sd up'>+2.3% 24h</div></div><div class='sc'><div class='sl'>Fear and Greed</div><div class='sv'>15</div><div class='sd neutral'>Extreme Fear</div></div><div class='sc'><div class='sl'>Bitget SOV</div><div class='sv'>19.2%</div><div class='sd neutral'>362 mentions today</div></div></div><div class='mg'><div><div class='pn'><div class='ph'>Share of Voice <span class='ct'>188 articles scanned</span></div><div class='cw'><canvas id='sovChart' width='600' height='260'></canvas></div><table class='st'><thead><tr><th>Exchange</th><th>Mentions</th><th>SOV</th><th>Share</th></tr></thead><tbody><tr><td><b style='color:#00c4ff'>Bitget</b></td><td>362</td><td><b>19.2%</b></td><td><div class='bb'><div class='bf' style='width:19.2%;background:#00c4ff'></div></div></td></tr><tr><td><b style='color:#7b61ff'>Binance</b></td><td>393</td><td><b>20.9%</b></td><td><div class='bb'><div class='bf' style='width:20.9%;background:#7b61ff'></div></div></td></tr><tr><td><b style='color:#ff4d6d'>OKX</b></td><td>365</td><td><b>19.4%</b></td><td><div class='bb'><div class='bf' style='width:19.4%;background:#ff4d6d'></div></div></td></tr><tr><td><b style='color:#ff9800'>Bybit</b></td><td>153</td><td><b>8.1%</b></td><td><div class='bb'><div class='bf' style='width:8.1%;background:#ff9800'></div></div></td></tr><tr><td><b style='color:#ffd740'>MEXC</b></td><td>346</td><td><b>18.4%</b></td><td><div class='bb'><div class='bf' style='width:18.4%;background:#ffd740'></div></div></td></tr><tr><td><b style='color:#00e676'>KuCoin</b></td><td>263</td><td><b>14.0%</b></td><td><div class='bb'><div class='bf' style='width:14.0%;background:#00e676'></div></div></td></tr></tbody></table><div class='si'>Sources: CoinTelegraph, CoinDesk, Decrypt, Blockworks, NewsBTC, Bitcoinist, CryptoNews, U.Today, AmbCrypto, CoinJournal</div></div><div class='pn'><div class='ph'>Bitget Coverage Today</div><div class='ni'><div class='nm'><span class='nd'>Thu, 12 Mar 2026</span><span class='ns'>news.google.com</span></div><div class='nt'>Bitget Stock Market Update: US Crypto Stocks Stabilize After Decline, One Exchange Up 0.6% in the Past 24 Hours - Bitget</div><a class='nl' href='https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mTFBCdVhEd2kwRWJKQnJ0czRJalFQdGktUkVfLVZFZVAwQi1pbzM1dS1Nb1FVY1pwM1dYbFYwcUJDdnlYSG5YTUx3TEQyNnBjUmEtemhRcnU2NGxiU045ODhYa9IBY0FVX3lxTE1mTFBCdVhEd2kwRWJKQnJ0czRJalFQdGktUkVfLVZFZVAwQi1pbzM1dS1Nb1FVY1pwM1dYbFYwcUJDdnlYSG5YTUx3TEQyNnBjUmEtemhRcnU2NGxiU045ODhYaw?oc=5' target='_blank'>Read story</a></div><div class='ni'><div class='nm'><span class='nd'>Tue, 10 Mar 2026</span><span class='ns'>news.google.com</span></div><div class='nt'>Coinbase vs Bitget: Exchange Comparison & COIN Stock Price 2026 - Bitget</div><a class='nl' href='https://news.google.com/rss/articles/CBMivAFBVV95cUxQX2ZQWDNBNkt2ZG53N3hXNDFBWUZpWVg0NDhuREVibFRnWEdOd19RMmxjZFhHdHhNTWJvVEhycFc3X2YxUFozTGlUSEVwSTJadFAtU2MwWkRueG1NLWRNWE1DaEwtdzBDamZsa1JZdV9KQ3ZYRUhiRzVLSHR1MjdleUV2d3hWT2lneXJXbUVtQTJ0cXR2M3BSWldFTHUxM21zN3Y4LW1XZHp3WWNpTEJaSWV3LVoteXktYkxkbdIBvAFBVV95cUxQX2ZQWDNBNkt2ZG53N3hXNDFBWUZpWVg0NDhuREVibFRnWEdOd19RMmxjZFhHdHhNTWJvVEhycFc3X2YxUFozTGlUSEVwSTJadFAtU2MwWkRueG1NLWRNWE1DaEwtdzBDamZsa1JZdV9KQ3ZYRUhiRzVLSHR1MjdleUV2d3hWT2lneXJXbUVtQTJ0cXR2M3BSWldFTHUxM21zN3Y4LW1XZHp3WWNpTEJaSWV3LVoteXktYkxkbQ?oc=5' target='_blank'>Read story</a></div><div class='ni'><div class='nm'><span class='nd'>Tue, 10 Mar 2026</span><span class='ns'>news.google.com</span></div><div class='nt'>Best Order Flow Trading Tools & Bitget Exchange Guide 2026 - Bitget</div><a class='nl' href='https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcGpyTEtrd2pLQnV5cFZiaE9HZ21oM2xmcERfV2RSeGlrV1NOY3N6UXJ0Mkx2QTM1Sy1OTDZqU0JCMXRYb0VXdzV3eGFJV3A1NVdNNHpENVRxRHFHdTl4LUpPX3doQ3h6UzlyRUEwd2NzdkNQS191NUxsMGtZdU5ENnpzcXR5QXhxMGxEMHRhZmtFT3Z4WTBiRkwtWHg4TTNfenEtM1RnQ00yR2tfXzR1ZDlJNFlCUVZuNG1xRnAtZkJCcmhEenU0N2w4MjNad09Bb2FRWdIB1AFBVV95cUxOcGpyTEtrd2pLQnV5cFZiaE9HZ21oM2xmcERfV2RSeGlrV1NOY3N6UXJ0Mkx2QTM1Sy1OTDZqU0JCMXRYb0VXdzV3eGFJV3A1NVdNNHpENVRxRHFHdTl4LUpPX3doQ3h6UzlyRUEwd2NzdkNQS191NUxsMGtZdU5ENnpzcXR5QXhxMGxEMHRhZmtFT3Z4WTBiRkwtWHg4TTNfenEtM1RnQ00yR2tfXzR1ZDlJNFlCUVZuNG1xRnAtZkJCcmhEenU0N2w4MjNad09Bb2FRWQ?oc=5' target='_blank'>Read story</a></div><div class='ni'><div class='nm'><span class='nd'>Tue, 10 Mar 2026</span><span class='ns'>news.google.com</span></div><div class='nt'>Best Low-Fee Crypto Exchanges UK 2026: Bitget vs Binance - Bitget</div><a class='nl' href='https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTh6Qlo4dUdmMUdVNWZBeEZXTU0xRW5FN25iSmR6QXJucGZtVVRJWGIyYmZ4WktVY1VNdV82bzlGRkstUnNhWmYxMXhyaXhqNDdZY01ud0xOeTFzdkVfY00zNlNZNl9fa0JpQ0c5UldVcU9fMlZ3ZUhkeFh5ajk0akVZSF9CQWxZOV9RRVdMTHk0N1ZtQ0lYbm96TDlnbUM4dGdMZ0d4Q2s0TFRoWHZuZThvaEkwd09GSkVv0gG7AUFVX3lxTE8tOHpCWjh1R2YxR1U1ZkF4RldNTTFFbkU3bmJKZHpBcm5wZm1VVElYYjJiZnhaS1VjVU11XzZvOUZGSy1Sc2FaZjExeHJpeGo0N1ljTW53TE55MXN2RV9jTTM2U1k2X19rQmlDRzlSV1VxT18yVndlSGR4WHlqOTRqRVlIX0JBbFk5X1FFV0xMeTQ3Vm1DSVhub3pMOWdtQzh0Z0xnR3hDazRMVGhYdm5lOG9oSTB3T0ZKRW8?oc=5' target='_blank'>Read story</a></div><div class='ni'><div class='nm'><span class='nd'>Tue, 10 Mar 2026</span><span class='ns'>news.google.com</span></div><div class='nt'>Coinbase vs Bitget 2026: Fees, Value & Exchange Comparison - Bitget</div><a class='nl' href='https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWxBdzdwbmRHY1dqRElucEtDSFN2cnljNTkyaFc5ZmNaUXJBT3FwakpCN2V1Z0xHVTh0NVJuVU1IWnZTUEdOQXJURWhPamY4T1JZbjNZNl8wVno5SXV3RzBaWHAwbk5McTZraUtWQVJzYVNlR3RzNERaR2R5Z1BsTC1YUVZCQWhZdVdkNUxleDdIcVNLY2swd3U4NHZkYVZQTl9lNjlhRUFZbnFSaTAzYTIwR00tUF85N1Fob3IzeU81YjZaTl9hS21n0gHKAUFVX3lxTFBxbEF3N3BuZEdjV2pESW5wS0NIU3ZyeWM1OTJoVzlmY1pRckFPcXBqSkI3ZXVnTEdVOHQ1Um5VTUhadlNQR05BclRFaE9qZjhPUlluM1k2XzBWejlJdXdHMFpYcDBuTkxxNmtpS1ZBUnNhU2VHdHM0RFpHZHlnUGxMLVhRVkJBaFl1V2Q1TGV4N0hxU0tjazB3dTg0dmRhVlBOX2U2OWFFQVlucVJpMDNhMjBHTS1QXzk3UWhvcjN5TzViNlpOX2FLbWc?oc=5' target='_blank'>Read story</a></div><div class='ni'><div class='nm'><span class='nd'>Tue, 10 Mar 2026</span><span class='ns'>news.google.com</span></div><div class='nt'>USTC Price, Trading Guide, and Bitget Exchange India 2026 - Bitget</div><a class='nl' href='https://news.google.com/rss/articles/CBMiXkFVX3lxTFBla3hrdUg3SmJJX21FR0pDMHI0a2w3aGVHZ2hWNzlHWk96OWxUQzZOLUgyWERlZ1RnWGtrb0JINWVqaU5qaGdPaVZ2LWFnMWRXdUJlN2ZCTmczOWxSdWfSAV5BVV95cUxQZWt4a3VIN0piSV9tRUdKQzByNGtsN2hlR2doVjc5R1pPejlsVEM2Ti1IMlhEZWdUZ1hra29CSDVlamlOamhnT2lWdi1hZzFkV3VCZTdmQk5nMzlsUnVn?oc=5' target='_blank'>Read story</a></div><div class='ni'><div class='nm'><span class='nd'>Tue, 10 Mar 2026</span><span class='ns'>news.google.com</span></div><div class='nt'>Keystone 3 Pro: Secure UK Crypto Storage & Bitget Exchange Guide - Bitget</div><a class='nl' href='https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUFlX0lSTWs3VE9IVU1uc1JJemg0Si10cUQ2ekpYM3VybWM0OVE0YnN6WTdvU29QUXlCSFdTY0JqQ0x3ZHF1bEFDOU4wWENoSW9FdDNaTDBGcWJWTldOVVZVTFVpLUJNbGs1RHU3VmF3bFNkWUxqRV95T2I1N19yMUE5THpvZlFKNllobGdBOFRaOG5hbThMOWZEMk1FZ24tZm04OEppaUdNeUt0NnBPVmNxZ9IBswFBVV95cUxOTUFlX0lSTWs3VE9IVU1uc1JJemg0Si10cUQ2ekpYM3VybWM0OVE0YnN6WTdvU29QUXlCSFdTY0JqQ0x3ZHF1bEFDOU4wWENoSW9FdDNaTDBGcWJWTldOVVZVTFVpLUJNbGs1RHU3VmF3bFNkWUxqRV95T2I1N19yMUE5THpvZlFKNllobGdBOFRaOG5hbThMOWZEMk1FZ24tZm04OEppaUdNeUt0NnBPVmNxZw?oc=5' target='_blank'>Read story</a></div><div class='ni'><div class='nm'><span class='nd'>Tue, 10 Mar 2026</span><span class='ns'>news.google.com</span></div><div class='nt'>Mycelium Wallet UK 2026: Beginner Safety Guide & Bitget Exchange - Bitget</div><a class='nl' href='https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUMtekJEcTAtNHpzbEdIc1FBUnY4UVFOSkJMczNnYjcydTQ0VjRMU1lpQzBia2NKSHA5VkpXWm5sYVdJdHd3Y1ZCQkJxZ1F0dThJc2N5ZzNmalRwc2xtNURybFNFanE5dTFTOHA2aUxabDhZWjF0Z25hajZFV0oyY29GMjYyb0hvZDRZMl81Tnp4dGt3YlloT2lnenZWVUtwcDRreDRaVmRIVTFxelVzZXg5M2U4eXBMUGpLQmMxSS1Ucl9OQ2x0U0RR0gHKAUFVX3lxTE5hQy16QkRxMC00enNsR0hzUUFSdjhRUU5KQkxzM2diNzJ1NDRWNExTWWlDMGJrY0pIcDlWSldabmxhV0l0d3djVkJCQnFnUXR1OElzY3lnM2ZqVHBzbG01RHJsU0VqcTl1MVM4cDZpTFpsOFlaMXRnbmFqNkVXSjJjb0YyNjJvSG9kNFkyXzVOenh0a3diWWhPaWd6dlZVS3BwNGt4NFpWZEhVMXF6VXNleDkzZTh5cExQaktCYzFJLVRyX05DbHRTRFE?oc=5' target='_blank'>Read story</a></div><div class='ni'><div class='nm'><span class='nd'>Tue, 10 Mar 2026</span><span class='ns'>news.google.com</span></div><div class='nt'>UK 2026 Crypto Guide: Binance Gift Cards & Bitget Exchange - Bitget</div><a class='nl' href='https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnBPUWU5WHhCOU9JQkJIbDBpWWc3X3BTc3N2SmdTWElFbkZVb21KWUZMNEJjN0Z3MGJHZWxLNXIyekJSZGhBdTlwZ0VncENONEhjWWdCVkpnTW9Wa1RrOG9WbG9WeWNrU094dVBFZ3BjYUxnRHJjblJpYlJ0eHVmMW9qRE93cHpXcHR0dXBwdGVGUnBsWFpCU2ZpQXUwUC1VSWxpaXd4LUdYb3hyY0J30gGvAUFVX3lxTFBmcE9RZTlYeEI5T0lCQkhsMGlZZzdfcFNzc3ZKZ1NYSUVuRlVvbUpZRkw0QmM3RncwYkdlbEs1cjJ6QlJkaEF1OXBnRWdwQ040SGNZZ0JWSmdNb1ZrVGs4b1Zsb1Z5Y2tTT3h1UEVncGNhTGdEcmNuUmliUnR4dWYxb2pET3dweldwdHR1cHB0ZUZScGxYWkJTZmlBdTBQLVVJbGlpd3gtR1hveHJjQnc?oc=5' target='_blank'>Read story</a></div><div class='ni'><div class='nm'><span class='nd'>Tue, 10 Mar 2026</span><span class='ns'>news.google.com</span></div><div class='nt'>Kraken vs Kraken Pro vs Bitget: Best UK Crypto Exchange 2026 - Bitget</div><a class='nl' href='https://news.google.com/rss/articles/CBMipgFBVV95cUxNalJyamVQLURXNUt5UzdsWXlDVVNVZkJZSXNuTnJiTGZpNVNpTzgxelBrVTdaejlYd05EOUFaR1dIZ2wtaHhqOXp0bzk3SGdLQUtZeEpKSU4xT21JR3lPQ0tHTjhEVkNLTDJQMFJ4S3RXRUlPd19DaU5MWmM4SmFmS0J3VVN0NEpfRWZpUlJfdjBrc2ljUmg0aGZsWTNVWmZ0U0FtZjdB0gGmAUFVX3lxTE1qUnJqZVAtRFc1S3lTN2xZeUNVU1VmQllJc25OcmJMZmk1U2lPODF6UGtVN1p6OVh3TkQ5QVpHV0hnbC1oeGo5enRvOTdIZ0tBS1l4SkpJTjFPbUlHeU9DS0dOOERWQ0tMMlAwUnhLdFdFSU93X0NpTkxaYzhKYWZLQndVU3Q0Sl9FZmlSUl92MGtzaWNSaDRoZmxZM1VaZnRTQW1mN0E?oc=5' target='_blank'>Read story</a></div></div></div><div><div class='pn'><div class='ph'>Competitor Intelligence <span class='ct'>5 exchanges</span></div><div class='cd cr'><div class='ch'><div><div class='cn'>OKX</div><div class='cg'>NYSE rails and same UEX thesis</div><div class='cbg'><span class='bk br'>No.3 Volume</span><span class='bk bu'>120M Users</span></div></div><span class='th tc'>CRITICAL</span></div><div class='cs'>Key Moves</div><ul class='cl'><li><b>ICE/NYSE invested 200M at 25B valuation</b> - Mar 5 2026</li><li>Tokenized NYSE stocks launching H2 2026 - 6 month window before they go live</li><li>120M users plus NYSE credibility = most dangerous competitor</li></ul><div class='vd'><div class='vl'>Verdict</div><div class='vt'>Executing Bitget's exact playbook with institutional backing. The 6-month product gap is the window to use.</div></div><div class='lks'><a class='lk' href='https://ir.theice.com/press/news-details/2026/ICE-Makes-Investment-in-OKX-Establishing-Strategic-Relationship/default.aspx' target='_blank'>ICE Press Release</a><a class='lk' href='https://www.coindesk.com/business/2026/03/05/nyse-owner-ice-forges-strategic-partnership-with-crypto-exchange-okx' target='_blank'>CoinDesk</a></div></div><div class='cd hi'><div class='ch'><div><div class='cn'>Bybit</div><div class='cg'>New Financial Platform and MyBank</div><div class='cbg'><span class='bk br'>No.2 Volume</span><span class='bk bu'>60M+ Users</span></div></div><span class='th th2'>HIGH</span></div><div class='cs'>Key Moves</div><ul class='cl'><li>MyBank launched Feb 2026 - fiat accounts and cross-border payments</li><li>ByCustody: 5B+ AUM institutional custody</li><li>QNB Qatar National Bank and Pave Bank partnerships</li><li>Targeting 1.4 billion underbanked users globally</li></ul><div class='vd'><div class='vl'>Verdict</div><div class='vt'>Banking infrastructure could attract institutional clients away from Bitget. Different TradFi vector but equally serious.</div></div><div class='lks'><a class='lk' href='https://www.marketwatch.com/press-release/bybit-unveils-2026-vision-as-the-new-financial-platform-expanding-beyond-exchange-into-global-financial-infrastructure-e153c863' target='_blank'>MarketWatch</a></div></div><div class='cd hi'><div class='ch'><div><div class='cn'>MEXC</div><div class='cg'>Zero-fee king entering tokenized stocks</div><div class='cbg'><span class='bk br'>No.2 Daily Vol</span><span class='bk bu'>36M+ Users</span></div></div><span class='th th2'>HIGH</span></div><div class='cs'>Key Moves</div><ul class='cl'><li><b>175M USD net inflows Feb 2026</b> - razor thin gap vs Bitget 205M USD</li><li>9th Ondo Finance collab: 17 tokenized US equity pairs, zero-fee 30 days</li><li>1.1B USD in user fee savings via zero-fee spot in 2025</li><li>BTC reserve coverage 158-266 percent (bimonthly audits)</li></ul><div class='vd'><div class='vl'>Verdict</div><div class='vt'>Most underrated threat. Zero-fee moat plus Ondo tokenized stocks = attacking Bitget on two fronts simultaneously.</div></div><div class='lks'><a class='lk' href='https://coincentral.com/mexc-expands-zero-fee-tokenized-equities-with-ondo-batch/' target='_blank'>Ondo Equities</a></div></div><div class='cd mo'><div class='ch'><div><div class='cn'>KuCoin</div><div class='cg'>2B USD compliance pivot</div><div class='cbg'><span class='bk br'>No.5 Volume</span><span class='bk bu'>41M Users</span></div></div><span class='th tm'>MODERATE</span></div><div class='cs'>Key Moves</div><ul class='cl'><li>2B USD Trust Project over 2026-2028 for security and compliance</li><li>Goal: most trusted global crypto exchange by 2028</li><li>Compliance pivot is defensive - no TradFi product announced yet</li></ul><div class='vd'><div class='vl'>Verdict</div><div class='vt'>Bitget's actual PoR numbers today beat KuCoin's future promise. Not a TradFi threat yet.</div></div></div><div class='cd mo'><div class='ch'><div><div class='cn'>Binance</div><div class='cg'>Volume leader with declining reserves</div><div class='cbg'><span class='bk br'>No.1 Volume</span></div></div><span class='th tm'>MODERATE</span></div><div class='cs'>Key Moves</div><ul class='cl'><li><b>BTC reserves down 1.25 percent</b> to 631K BTC in latest PoR</li><li>ETH down 7.35 percent, net outflows Feb-Mar</li><li>No TradFi pivot - fee-cut strategy only</li></ul><div class='vd'><div class='vl'>Verdict</div><div class='vt'>Every month Binance reserves decline, Bitget's transparency story grows stronger. Lean into this narrative.</div></div></div></div></div></div><footer><p>Bitget PR Monitor - Auto-generated - 2026-03-13 11:55 UTC</p><p>Sources: 10 RSS feeds, CoinGecko, Alternative.me - 188 articles scanned</p></footer><script>// Dynamic data fetching - runs on page loadasync function loadDashboard() {  try {    const resp = await fetch('data/dashboard_data.json');    const data = await resp.json();        // Update timestamp    document.querySelector('.ts').textContent = 'Updated: ' + data.generated_at;        // Update stat cards    const stats = [      [data.reserve_btc, data.reserve_yoy, 'up'],      [data.reserve_ratio, 'Overcollateralized', 'up'],      [data.net_inflows, 'Strong', 'up'],      ['$' + data.btc_price, data.btc_change + '% 24h', data.btc_change >= 0 ? 'up' : 'down'],      [data.fg_value, data.fg_class, 'neutral'],      [data.sov_pct.Bitget + '%', data.sov_counts.Bitget + ' mentions', 'neutral']    ];    const cards = document.querySelectorAll('.sc');    stats.forEach((s,i) => { if(cards[i]) { cards[i].querySelector('.sv').textContent = s[0]; cards[i].querySelector('.sd').textContent = s[1]; cards[i].querySelector('.sd').className = 'sd ' + s[2]; }});        // Update SOV table    const order = ['Bitget','Binance','OKX','Bybit','MEXC','KuCoin'];    const colors = {'Bitget':'#00c4ff','Binance':'#7b61ff','OKX':'#ff4d6d','Bybit':'#ff9800','MEXC':'#ffd740','KuCoin':'#00e676'};    let rows = '';    order.forEach(ex => { rows += '<tr><td>'+ex+'</td><td>'+(data.sov_counts[ex]||0)+'</td><td>'+(data.sov_pct[ex]||0)+'%</td><td><div class=bb><div class=bf style=width:'+(data.sov_pct[ex]||0)+'%;background:'+colors[ex]+'></div></div></td></tr>'; });    document.querySelector('.st tbody').innerHTML = rows;        // Update chart    const ctx = document.getElementById('sovChart');    if(ctx) {      const chartCtx = ctx.getContext('2d');      if(window.sovChart) window.sovChart.destroy();      window.sovChart = new Chart(chartCtx, {      type: 'bar',      data: { labels: order, datasets: [{ label: 'SOV', data: order.map(e=>data.sov_pct[e]||0), backgroundColor: order.map(e=>colors[e]), borderRadius: 6 }] },      options: { responsive: true, maintainAspectRatio: false, plugins: { legend: {display:false}, tooltip: { callbacks: { label: function(c) { return ' ' + c.parsed.y + '% (' + (data.sov_counts[order[c.dataIndex]] || 0) + ' mentions)'; } } } }, scales: { x: { ticks: { color: '#7986a3' }, grid: { color: '#2a2f3d' } }, y: { ticks: { color: '#7986a3', callback: function(v){ return v + '%'; } }, grid: { color: '#2a2f3d' }, beginAtZero: true } } }    });        // Update Bitget news    const newsContainer = document.querySelectorAll('.pn')[1];    if(newsContainer && data.bitget_news && data.bitget_news.length > 0) {      let newsHtml = '';      data.bitget_news.forEach(n => { newsHtml += '<div class=ni><div class=nm><span class=nd>'+n.pub+'</span><span class=ns>'+n.source+'</span></div><div class=nt>'+n.title+'</div><a class=nl href='+n.link+' target=_blank>↗ Read</a></div>'; });      newsContainer.innerHTML = '<div class=ph>Bitget Coverage Today</div>' + newsHtml;    }        console.log('Dashboard updated:', data.generated_at); console.log('Chart data:', order.map(e=>data.sov_pct[e]||0));  } catch(e) { console.error('Load failed:', e); }}loadDashboard();</script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Bitget PR Monitor</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    :root{--bg:#0d0f14;--s:#161a23;--s2:#1e2330;--br:#2a2f3d;--tx:#e8eaf6;--mu:#7986a3}
+    body{background:var(--bg);color:var(--tx);font-family:'Segoe UI',sans-serif}
+    header{background:linear-gradient(135deg,#0d0f14,#161a23);border-bottom:1px solid var(--br);padding:20px 32px;display:flex;align-items:center;justify-content:space-between}
+    .logo{display:flex;align-items:center;gap:14px}
+    .li{width:44px;height:44px;border-radius:10px;background:linear-gradient(135deg,#00c4ff,#7b61ff);display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:900;color:#fff}
+    .lt h1{font-size:20px;font-weight:700}
+    .lt p{font-size:12px;color:var(--mu);margin-top:2px}
+    .hr{display:flex;align-items:center;gap:16px}
+    .lb{display:flex;align-items:center;gap:6px;background:rgba(0,230,118,.1);border:1px solid rgba(0,230,118,.3);color:#00e676;padding:5px 12px;border-radius:20px;font-size:12px;font-weight:600}
+    .ld{width:7px;height:7px;border-radius:50%;background:#00e676;animation:pulse 1.5s infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+    .ts{font-size:12px;color:var(--mu)}
+    .wrap{max-width:1400px;margin:0 auto;padding:24px 32px}
+    .sb{display:grid;grid-template-columns:repeat(6,1fr);gap:16px;margin-bottom:28px}
+    .sc{background:var(--s);border:1px solid var(--br);border-radius:12px;padding:16px 20px;position:relative;overflow:hidden}
+    .sc::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:var(--accent,#00c4ff)}
+    .sl{font-size:11px;color:var(--mu);text-transform:uppercase;letter-spacing:.8px;margin-bottom:8px}
+    .sv{font-size:28px;font-weight:700}
+    .sd{font-size:12px;margin-top:4px;font-weight:600}
+    .sm{font-size:11px;color:var(--mu);margin-top:4px}
+    .sent{display:flex;gap:6px;margin-top:10px;flex-wrap:wrap;font-size:11px}
+    .pos{background:rgba(0,230,118,.1);color:#00e676;padding:2px 6px;border-radius:10px}
+    .neu{background:rgba(121,134,163,.1);color:var(--mu);padding:2px 6px;border-radius:10px}
+    .neg{background:rgba(255,77,109,.1);color:#ff4d6d;padding:2px 6px;border-radius:10px}
+    .up{color:#00e676}
+    .down{color:#ff4d6d}
+    .neutral{color:var(--mu)}
+    .mg{display:grid;grid-template-columns:1fr 360px;gap:24px}
+    .pn{background:var(--s);border:1px solid var(--br);border-radius:14px;padding:20px;margin-bottom:20px}
+    .ph{font-size:15px;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:10px}
+    .ct{background:var(--s2);border:1px solid var(--br);color:var(--mu);font-size:11px;padding:2px 8px;border-radius:10px}
+    .cw{position:relative;height:240px;margin-bottom:16px}
+    table{width:100%;border-collapse:collapse;font-size:13px}
+    th{text-align:left;padding:8px 10px;color:var(--mu);font-size:11px;text-transform:uppercase;letter-spacing:.5px;border-bottom:1px solid var(--br)}
+    td{padding:9px 10px;border-bottom:1px solid rgba(42,47,61,.5);vertical-align:middle}
+    tr:hover td{background:rgba(255,255,255,.02)}
+    a{color:#00c4ff;text-decoration:none}
+    a:hover{text-decoration:underline}
+    .muted{color:var(--mu);font-size:12px}
+    .bb{background:var(--br);border-radius:3px;height:5px;width:120px}
+    .bf{height:5px;border-radius:3px}
+    .badge{font-size:10px;font-weight:700;padding:2px 7px;border-radius:8px;margin-right:2px;display:inline-block}
+    .positive-b{background:rgba(0,230,118,.1);color:#00e676}
+    .neutral-b{background:rgba(121,134,163,.1);color:var(--mu)}
+    .negative-b{background:rgba(255,77,109,.1);color:#ff4d6d}
+    .pos-b{background:rgba(0,230,118,.1);color:#00e676}
+    .neu-b{background:rgba(121,134,163,.1);color:var(--mu)}
+    .neg-b{background:rgba(255,77,109,.1);color:#ff4d6d}
+    .src{font-size:11px;color:var(--mu);margin-top:12px;text-align:center}
+    footer{border-top:1px solid var(--br);padding:16px 32px;margin-top:32px;display:flex;justify-content:space-between}
+    footer p{font-size:11px;color:var(--mu)}
+    @media(max-width:900px){.sb{grid-template-columns:repeat(2,1fr)}.mg{grid-template-columns:1fr}.wrap{padding:16px}}
+  </style>
+</head>
+<body>
+<header>
+  <div class="logo">
+    <div class="li">B</div>
+    <div class="lt"><h1>Bitget PR Monitor</h1><p>Daily coverage and Share of Voice</p></div>
+  </div>
+  <div class="hr">
+    <div class="lb"><div class="ld"></div>LIVE</div>
+    <div class="ts">Updated: 2026-03-15 12:07 UTC</div>
+  </div>
+</header>
+<div class="wrap">
+  <div class="sb">
+        <div class="sc" style="--accent:#7b61ff">
+          <div class="sl">Binance</div>
+          <div class="sv" style="color:#7b61ff">24.6%</div>
+          <span class="sd neutral">first run</span>
+          <div class="sm">276 mentions</div>
+          <div class="sent">
+            <span class="pos">+34</span>
+            <span class="neu">~212</span>
+            <span class="neg">-30</span>
+          </div>
+        </div>
+        <div class="sc" style="--accent:#00c4ff">
+          <div class="sl">Bitget</div>
+          <div class="sv" style="color:#00c4ff">20.8%</div>
+          <span class="sd neutral">first run</span>
+          <div class="sm">234 mentions</div>
+          <div class="sent">
+            <span class="pos">+96</span>
+            <span class="neu">~137</span>
+            <span class="neg">-1</span>
+          </div>
+        </div>
+        <div class="sc" style="--accent:#ff4d6d">
+          <div class="sl">OKX</div>
+          <div class="sv" style="color:#ff4d6d">16.5%</div>
+          <span class="sd neutral">first run</span>
+          <div class="sm">185 mentions</div>
+          <div class="sent">
+            <span class="pos">+53</span>
+            <span class="neu">~127</span>
+            <span class="neg">-5</span>
+          </div>
+        </div>
+        <div class="sc" style="--accent:#ffd740">
+          <div class="sl">MEXC</div>
+          <div class="sv" style="color:#ffd740">15.1%</div>
+          <span class="sd neutral">first run</span>
+          <div class="sm">170 mentions</div>
+          <div class="sent">
+            <span class="pos">+56</span>
+            <span class="neu">~108</span>
+            <span class="neg">-6</span>
+          </div>
+        </div>
+        <div class="sc" style="--accent:#00e676">
+          <div class="sl">KuCoin</div>
+          <div class="sv" style="color:#00e676">13.6%</div>
+          <span class="sd neutral">first run</span>
+          <div class="sm">153 mentions</div>
+          <div class="sent">
+            <span class="pos">+35</span>
+            <span class="neu">~107</span>
+            <span class="neg">-11</span>
+          </div>
+        </div>
+        <div class="sc" style="--accent:#ff9800">
+          <div class="sl">Bybit</div>
+          <div class="sv" style="color:#ff9800">9.4%</div>
+          <span class="sd neutral">first run</span>
+          <div class="sm">106 mentions</div>
+          <div class="sent">
+            <span class="pos">+32</span>
+            <span class="neu">~62</span>
+            <span class="neg">-12</span>
+          </div>
+        </div></div>
+  <div class="mg">
+    <div>
+      <div class="pn">
+        <div class="ph">Share of Voice <span class="ct">1124 articles scanned</span></div>
+        <div class="cw"><canvas id="sovChart"></canvas></div>
+        <table>
+          <thead><tr><th>Exchange</th><th>Mentions</th><th>SOV</th><th>WoW</th><th>Share</th><th>Sentiment</th></tr></thead>
+          <tbody>
+          <tr>
+            <td><b style="color:#7b61ff">Binance</b></td>
+            <td>276</td>
+            <td><b>24.6%</b></td>
+            <td>--</td>
+            <td><div class="bb"><div class="bf" style="width:24.6%;background:#7b61ff"></div></div></td>
+            <td>
+              <span class="badge pos-b">34</span>
+              <span class="badge neu-b">212</span>
+              <span class="badge neg-b">30</span>
+            </td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td>234</td>
+            <td><b>20.8%</b></td>
+            <td>--</td>
+            <td><div class="bb"><div class="bf" style="width:20.8%;background:#00c4ff"></div></div></td>
+            <td>
+              <span class="badge pos-b">96</span>
+              <span class="badge neu-b">137</span>
+              <span class="badge neg-b">1</span>
+            </td>
+          </tr>
+          <tr>
+            <td><b style="color:#ff4d6d">OKX</b></td>
+            <td>185</td>
+            <td><b>16.5%</b></td>
+            <td>--</td>
+            <td><div class="bb"><div class="bf" style="width:16.5%;background:#ff4d6d"></div></div></td>
+            <td>
+              <span class="badge pos-b">53</span>
+              <span class="badge neu-b">127</span>
+              <span class="badge neg-b">5</span>
+            </td>
+          </tr>
+          <tr>
+            <td><b style="color:#ffd740">MEXC</b></td>
+            <td>170</td>
+            <td><b>15.1%</b></td>
+            <td>--</td>
+            <td><div class="bb"><div class="bf" style="width:15.1%;background:#ffd740"></div></div></td>
+            <td>
+              <span class="badge pos-b">56</span>
+              <span class="badge neu-b">108</span>
+              <span class="badge neg-b">6</span>
+            </td>
+          </tr>
+          <tr>
+            <td><b style="color:#00e676">KuCoin</b></td>
+            <td>153</td>
+            <td><b>13.6%</b></td>
+            <td>--</td>
+            <td><div class="bb"><div class="bf" style="width:13.6%;background:#00e676"></div></div></td>
+            <td>
+              <span class="badge pos-b">35</span>
+              <span class="badge neu-b">107</span>
+              <span class="badge neg-b">11</span>
+            </td>
+          </tr>
+          <tr>
+            <td><b style="color:#ff9800">Bybit</b></td>
+            <td>106</td>
+            <td><b>9.4%</b></td>
+            <td>--</td>
+            <td><div class="bb"><div class="bf" style="width:9.4%;background:#ff9800"></div></div></td>
+            <td>
+              <span class="badge pos-b">32</span>
+              <span class="badge neu-b">62</span>
+              <span class="badge neg-b">12</span>
+            </td>
+          </tr></tbody>
+        </table>
+        <div class="src">CoinTelegraph · CoinDesk · Decrypt · Blockworks · The Block · Messari · BeInCrypto · CryptoSlate · Watcher.Guru · Protos · The Defiant · Bitcoinist · AmbCrypto + Google News</div>
+      </div>
+      <div class="pn">
+        <div class="ph">Recent Coverage <span class="ct">80 articles</span></div>
+        <table>
+          <thead><tr><th>Exchange</th><th>Headline</th><th>Sentiment</th><th>Date</th></tr></thead>
+          <tbody>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQX2ZQWDNBNkt2ZG53N3hXNDFBWUZpWVg0NDhuREVibFRnWEdOd19RMmxjZFhHdHhNTWJvVEhycFc3X2YxUFozTGlUSEVwSTJadFAtU2MwWkRueG1NLWRNWE1DaEwtdzBDamZsa1JZdV9KQ3ZYRUhiRzVLSHR1MjdleUV2d3hWT2lneXJXbUVtQTJ0cXR2M3BSWldFTHUxM21zN3Y4LW1XZHp3WWNpTEJaSWV3LVoteXktYkxkbdIBvAFBVV95cUxQX2ZQWDNBNkt2ZG53N3hXNDFBWUZpWVg0NDhuREVibFRnWEdOd19RMmxjZFhHdHhNTWJvVEhycFc3X2YxUFozTGlUSEVwSTJadFAtU2MwWkRueG1NLWRNWE1DaEwtdzBDamZsa1JZdV9KQ3ZYRUhiRzVLSHR1MjdleUV2d3hWT2lneXJXbUVtQTJ0cXR2M3BSWldFTHUxM21zN3Y4LW1XZHp3WWNpTEJaSWV3LVoteXktYkxkbQ?oc=5" target="_blank">Coinbase vs Bitget: Exchange Comparison & COIN Stock Price 2026 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOEFUbUZVQTgwaGY4dEpmMWRVd0VBRnNwNVdKcEVFYzNIcFVidmk5MU9SNk1VcE9uQTBKbTBVX1BsYkEzaEYybDUzZDREbjhBV3B6TDEwWGZLMFdHbk9Ed08yYVJkaXpmZzBoMnUxVk01d2R4eFltQWJlUTdFSXl3QUJObzR0UjZmQ0lFZVRxZjRZWDB5RHpyUld3S0NRS29tWnU4NG9lZDk1TVZkY0dET1lFalF5aXI3b3RnZnhuaThrZDZJWGZWdDVKakpSeVBfQXlJc9IB1AFBVV95cUxPOEFUbUZVQTgwaGY4dEpmMWRVd0VBRnNwNVdKcEVFYzNIcFVidmk5MU9SNk1VcE9uQTBKbTBVX1BsYkEzaEYybDUzZDREbjhBV3B6TDEwWGZLMFdHbk9Ed08yYVJkaXpmZzBoMnUxVk01d2R4eFltQWJlUTdFSXl3QUJObzR0UjZmQ0lFZVRxZjRZWDB5RHpyUld3S0NRS29tWnU4NG9lZDk1TVZkY0dET1lFalF5aXI3b3RnZnhuaThrZDZJWGZWdDVKakpSeVBfQXlJcw?oc=5" target="_blank">Crypto Regulation and Bitget Exchange: SEC, XRP, UK, 2026 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcGpyTEtrd2pLQnV5cFZiaE9HZ21oM2xmcERfV2RSeGlrV1NOY3N6UXJ0Mkx2QTM1Sy1OTDZqU0JCMXRYb0VXdzV3eGFJV3A1NVdNNHpENVRxRHFHdTl4LUpPX3doQ3h6UzlyRUEwd2NzdkNQS191NUxsMGtZdU5ENnpzcXR5QXhxMGxEMHRhZmtFT3Z4WTBiRkwtWHg4TTNfenEtM1RnQ00yR2tfXzR1ZDlJNFlCUVZuNG1xRnAtZkJCcmhEenU0N2w4MjNad09Bb2FRWdIB1AFBVV95cUxOcGpyTEtrd2pLQnV5cFZiaE9HZ21oM2xmcERfV2RSeGlrV1NOY3N6UXJ0Mkx2QTM1Sy1OTDZqU0JCMXRYb0VXdzV3eGFJV3A1NVdNNHpENVRxRHFHdTl4LUpPX3doQ3h6UzlyRUEwd2NzdkNQS191NUxsMGtZdU5ENnpzcXR5QXhxMGxEMHRhZmtFT3Z4WTBiRkwtWHg4TTNfenEtM1RnQ00yR2tfXzR1ZDlJNFlCUVZuNG1xRnAtZkJCcmhEenU0N2w4MjNad09Bb2FRWQ?oc=5" target="_blank">Best Order Flow Trading Tools & Bitget Exchange Guide 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcm9tVHQwQTNjaC1qTUpJcUNoUHJYUEl3azZKZTRYZWdEUjdWQ0U2TDhhN3dWZ2JXTVpEc3AwcDE3ZFViRFEyS2tRZFBRMTVKRlRTdlpvaXRKbWxaZ0tFWmMxaHZkb3h5NVFXT2hlSlZHSTJNbHpSWElFNVNJdUI5U2pvOWpmd21YQjVhT1k0MnFtWXhUWDFTakwzWE5uTDJfMHFxeVFEUVFIMzE3SUJ6ZWVoWG9FZ0FnNFhKWDNJNEgzckxNS3I2QktTV0dHMFZiNmJYMU530gHWAUFVX3lxTE1yb21UdDBBM2NoLWpNSklxQ2hQclhQSXdrNkplNFhlZ0RSN1ZDRTZMOGE3d1ZnYldNWkRzcDBwMTdkVWJEUTJLa1FkUFExNUpGVFN2Wm9pdEptbFpnS0VaYzFodmRveHk1UVdPaGVKVkdJMk1selJYSUU1U0l1QjlTam85amZ3bVhCNWFPWTQycW1ZeFRYMVNqTDNYTm5MMl8wcXF5UURRUUgzMTdJQnplZWhYb0VnQWc0WEpYM0k0SDNyTE1LcjZCS1NXR0cwVmI2YlgxTnc?oc=5" target="_blank">Bitget vs Blofin: Best Crypto Exchange for UK Traders 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTlRsbDh2cG9PMy00YlppTkVOOWdLNk05MWhoZHhTSHNEbzVNUlRLVjhxdW5CQTlXVWZtaTBfQUJhOXZYQnZIRDBGWjNYMjdBM2xOR1N3cjFWcnhUTXFySG5ERVJ5dzU3dXgyclpaa1pHa0dvNjIyZHdxT2RPbHRRMEVZdXMwMzBoZTY4UG1MNmhDZkwyX1NxREtvZkxzMnRwbm54V0ZyaVp4X1BLUHFSRUt3eXc1UDRkb1V2aDd1Q3c1bEpXNlFiNHhYNkN2UHNZYlNqUG1kdXZjWUp2NjZBUDdXbk5MVlNaZzNjd1hORkPSAfABQVVfeXFMUE5UbGw4dnBvTzMtNGJaaU5FTjlnSzZNOTFoaGR4U0hzRG81TVJUS1Y4cXVuQkE5V1VmbWkwX0FCYTl2WEJ2SEQwRlozWDI3QTNsTkdTd3IxVnJ4VE1xckhuREVSeXc1N3V4MnJaWmtaR2tHbzYyMmR3cU9kT2x0UTBFWXVzMDMwaGU2OFBtTDZoQ2ZMMl9TcURLb2ZMczJ0cG5ueFdGcmlaeF9QS1BxUkVLd3l3NVA0ZG9Vdmg3dUN3NWxKVzZRYjR4WDZDdlBzWWJTalBtZHV2Y1lKdjY2QVA3V25OTFZTWmczY3dYTkZD?oc=5" target="_blank">Bitget vs ZBD: Best UK Crypto Wallet & Exchange Guide 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUMtekJEcTAtNHpzbEdIc1FBUnY4UVFOSkJMczNnYjcydTQ0VjRMU1lpQzBia2NKSHA5VkpXWm5sYVdJdHd3Y1ZCQkJxZ1F0dThJc2N5ZzNmalRwc2xtNURybFNFanE5dTFTOHA2aUxabDhZWjF0Z25hajZFV0oyY29GMjYyb0hvZDRZMl81Tnp4dGt3YlloT2lnenZWVUtwcDRreDRaVmRIVTFxelVzZXg5M2U4eXBMUGpLQmMxSS1Ucl9OQ2x0U0RR0gHKAUFVX3lxTE5hQy16QkRxMC00enNsR0hzUUFSdjhRUU5KQkxzM2diNzJ1NDRWNExTWWlDMGJrY0pIcDlWSldabmxhV0l0d3djVkJCQnFnUXR1OElzY3lnM2ZqVHBzbG01RHJsU0VqcTl1MVM4cDZpTFpsOFlaMXRnbmFqNkVXSjJjb0YyNjJvSG9kNFkyXzVOenh0a3diWWhPaWd6dlZVS3BwNGt4NFpWZEhVMXF6VXNleDkzZTh5cExQaktCYzFJLVRyX05DbHRTRFE?oc=5" target="_blank">Mycelium Wallet UK 2026: Beginner Safety Guide & Bitget Exchange - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tQkZ2S2NJTHlETXpBWGRiNGsxNk5vTUR5MEVObGF5eGV4QU5FaXlqdnE5TUotVlA5Q2tMT2dvMkhVTnFtbGZRMnJDc0FhZVpZNk1FRGVxRENuM0VO0gFiQVVfeXFMTm4xdjFrSHNHaVhqQ1dzMUxBdTBjeXpRNFhmdm1vNkxUeHV6MFlzS3Aybkc0VE5kYmlISlJBSTRfZWNta2VuUDFmQ2xGWFUxUDVBVmpoa3o2TUItWXZwM1JuRlE?oc=5" target="_blank">USTC Price, Trading Guide, and Bitget Exchange India 2026 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPWWt0UlZZWmRYQzRpdV8yOTdzeUhxTHZEdVdpWlhDanRSaXZCOUpuVnpFbjFPZFN0RE5hSDU2T0dHUW96UUpoaV9fSy14OHdGYjB4TklvWE9NZ2hYZHdXaDM5dFJJOGM4dGZra1VVS0xRZ1dVc2kzbXp2cy1MLUVGMlJKT2RJSWtLZTRrWk1DdGJnWXA1eWpxcmEwX1FDV2dKeFHSAacBQVVfeXFMTzFFOFJMOFoyXzdLQktMcV9CVDY3emVPb0E4eXNLTVJrbzk3R2tKTk9DbWZZQkkyYUVYS0ZucjB3Q09LZk1WemxieEx0c1ZLUE1RTFhweEtXY3RwSEVhNkRRMlE0eWJZR0lsSHJ3cVdJOE1FSnRrNWNxZ3A5YmhTeVNDYXh2aUY3R3VMM1FqMmVUQmtGMHFmN1F3YlNNQW9kTXpQczRYSUk?oc=5" target="_blank">Fartboy Crypto UK Guide 2026: Fees, Safety, Bitget Exchange - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtcGlNTkdKQUxHZzhZdEwxd29NdmF2MUlOSHVaMzJtNXpIbENOUU9lY045aEhNblNGa25xVmloRGR3bmR2Z2xGT3FLR3pPcmlkMUFkUjRLYk9Bcm9PeWfSAV5BVV95cUxQbXBpTU5HSkFMR2c4WXRMMXdvTXZhdjFJTkh1WjMybTV6SGxDTlFPZWNOOWhITW5TRmtucVZpaERkd25kdmdsRk9xS0d6T3JpZDFBZFI0S2JPQXJvT3ln?oc=5" target="_blank">Dinero: UK Crypto Guide 2026—Privacy, DeFi, Bitget Exchange - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNa1VxdGxLTFI2UmsySDMyaDNsdDMtZGZSelNfZTB5b0xURjJKUG1neVU3WGtPdVZSTmVIYktVTmxULWdoNGI1RW1IVGo4TTU5RnVwSzJ6WkRXTENEMTE4eUVsLUxkMi1HRFJPNk5nNVRmY2FSdzFHaEw2ZjhvOUx0d2JEYVpINkZETUtNNkQ5OFhsTzNJT29VZWZRNTRYTUNnYjZCdThTYVRuMnk2UE1OT21qQkR3N3l5LWNLNkRka0FONUR6dndNMmM3eW3SAcwBQVVfeXFMTWtVcXRsS0xSNlJrMkgzMmgzbHQzLWRmUnpTX2UweW9MVEYySlBtZ3lVN1hrT3VWUk5lSGJLVU5sVC1naDRiNUVtSFRqOE01OUZ1cEsyelpEV0xDRDExOHlFbC1MZDItR0RSTzZOZzVUZmNhUncxR2hMNmY4bzlMdHdiRGFaSDZGRE1LTTZEOThYbE8zSU9vVWVmUTU0WE1DZ2I2QnU4U2FUbjJ5NlBNTk9takJEdzd5eS1jSzZEZGtBTjVEenZ3TTJjN3lt?oc=5" target="_blank">CoinEx vs Bitget: Best Crypto Exchange UK 2026 Comparison - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPVnVScFctN0pTQTBvU1hNTFRrYnQ5bDQtOW5hMFViYS13NDUyWm5yRS1Xc2kwYUczZkdnUjVlckFXZW5zclJNZ0labWF4bkw3b0VuUDBCa3JYZnpobXNGUU5NemxNcGVpS3RDLWJpc0Z6QWZVdXZTTHhDcHJYYmU2RGl6QjlwSl9JamMyUWNEQkM4REx5S1FFVmlGTjJOeHRKYjk0XzdmMWlNWURfM3p3UWJLU0c1a1Nfc2FRTEI3OWNaTFhmVXFvSDFyc2PSAcwBQVVfeXFMT1Z1UnBXLTdKU0Ewb1NYTUxUa2J0OWw0LTluYTBVYmEtdzQ1MlpuckUtV3NpMGFHM2ZHZ1I1ZXJBV2Vuc3JSTWdJWm1heG5MN29FblAwQmtyWGZ6aG1zRlFOTXpsTXBlaUt0Qy1iaXNGekFmVXV2U0x4Q3ByWGJlNkRpekI5cEpfSWpjMlFjREJDOERMeUtRRVZpRk4yTnh0SmI5NF83ZjFpTVlEXzN6d1FiS1NHNWtTX3NhUUxCNzljWkxYZlVxb0gxcnNj?oc=5" target="_blank">Bitget: Best UK Crypto Exchange 2026 - Security & Low Fees - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nVkFKajNxWG1hVUVjcEcycHRfT28zMzBxa0JFQm9CTlNVTTE5LXZraTVlbTJxVlJ2dTlaUnBXY1BPaVpvWUZIWG9LQ3pabE5kMEdkVkFwb1hsVGZk0gFiQVVfeXFMT2hIMkY1Snl4UkNVaV9tRWJ3ZzhVU2V4bzFjeHBsZnFWVkF1NFQ1aHNxRjdxVVlXUzZRd1QtZEpYeVJUUWhmcmFwbGRQaG41SzhTdUhIZm5RUjZGMUVlSHIxbWc?oc=5" target="_blank">Best Crypto Exchanges for Indian Traders 2026: Bitget vs Bankcex - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBbTNFSzRWSGsxN2pobnkxMDRBaWNEdUZvT25CYU10WVdUUG12MDZPbGVJZWNRQUU2NzMtQzNzUjBpYmEtRDJPZEN5Y01uZm0xYmFfbUVuaktySk120gFiQVVfeXFMUDFERVY1RjFBMVJLc05kZWZLTGFtckVyYllRTDh1aW41cnNQMUF6dkNHR2IyRFhIbFRMRm1UZWszS2ZLTmhjRE5uU3hJZTBvclBCQWlhZW54WTJEZXl2dEdPa2c?oc=5" target="_blank">Bitget vs Azbit: Best Crypto Exchange for Indian Users 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeGVPU1h2Y0tNMlBfM3h2YW1mMGJGT2x5VXYtSlo5THVvZUhIcEM3cWxvcmxBbEQ0VVlLMGlpeTYxX0hCUGZtbWlhOHFmQkpRbnZmTEhoRGN4YnR5dVBMUEpTaHBidVE5Ukw1cDFWMGRnYnZ1RG5KQ3lvRndmVXZIY1ZRb1owUEFCSW8waG5zWUVlaHZaVFozVF84VF8xTzZuU3N0M2w0aTBfZXRvdVQ0VTkyWlY2Vi05ZnI00gG7AUFVX3lxTE14ZU9TWHZjS00yUF8zeHZhbWYwYkZPbHlVdi1KWjlMdW9lSEhwQzdxbG9ybEFsRDRVWUswaWl5NjFfSEJQZm1taWE4cWZCSlFudmZMSGhEY3hidHl1UExQSlNocGJ1UTlSTDVwMVYwZGdidnVEbkpDeW9Gd2ZVdkhjVlFvWjBQQUJJbzBobnNZRWVodlpUWjNUXzhUXzFPNm5Tc3QzbDRpMF9ldG91VDRVOTJaVjZWLTlmcjQ?oc=5" target="_blank">Best Crypto Exchange Fees 2026: Bitget vs Coinbase vs Kraken - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yaEFXMUtUZ0VNSVppV2U3WTUzVl9NNDFRelVCN0laaC04MW9Bb3RWeTBzSTViekdFbXF5UHB6cTg3X2kyaXlLNmF4elRSTXJ1TlJVcDNtU2lMX3pq0gFiQVVfeXFMTU5VRTZncVY2Wk9HRmdDX0hTQ3J5cklLUi02OGVxSTBiYzhXTjliUUdoX0NvalRKNDdJdnFYZ2pnTXZRbE1CSXhEMXUxTmpySG5VNFpOdlB6V3FZUmEyYi1YOUE?oc=5" target="_blank">Bitget: Top Crypto Exchange for UK Traders - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TOU52V2ktZHI0bThFLUlDVjZnLU5PX20zSjNvUGctSkU0T280R0JtSU9taE03djdwQ0M2RE93VEZvaHFfNWpqczlOaUd4M1Nfb0g0eg?oc=5" target="_blank">How to sell LIFE AI (LIFE) via a crypto wallet - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Wed, 11 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQbC1Sb2lpZHpDOXFJMTEyU0xwYzRfdzhsb0hIb202aDFPNXNfVE1zQ2VOT1FYVGQ4cGN0ZlAxZVY4V3dyRERBZWxpU2hvX25EdmdFcVlaZGFLRGpGMkNNS3htcVJVZzZLUUE2enpsbXVIcUlRbGRKTjAwSmNqU2VaNFhqUDJpUGw4Yi01OWcybnVBWTEtNVVaUEVkbF9lOGExc3hORUVmaHR2UlQwUG1SakJzVXpnZUN6eVgtWUlyaHlGelNOUVlrenVGei3SAcwBQVVfeXFMUGwtUm9paWR6QzlxSTExMlNMcGM0X3c4bG9ISG9tNmgxTzVzX1RNc0NlTk9RWFRkOHBjdGZQMWVWOFd3ckREQWVsaVNob19uRHZnRXFZWmRhS0RqRjJDTUt4bXFSVWc2S1FBNnp6bG11SHFJUWxkSk4wMEpjalNlWjRYalAyaVBsOGItNTlnMm51QVkxLTVVWlBFZGxfZThhMXN4TkVFZmh0dlJUMFBtUmpCc1V6Z2VDenlYLVlJcmh5RnpTTlFZa3p1Rnot?oc=5" target="_blank">Best Crypto Exchange for Indian Investors 2026: YoBit vs Bitget - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGJieHBrWWo0Um1ZcGVEQkxQX0E1cDljblpSUjFSM3BTRzJZTEtRVVlFTXJGcXRlLVVxYmFRQi1HWm1fbThKMlpJZDIxYkNKdTI2SGNfcUF3d05SYWZyeHJPeWVFcVNTTm5BM1FHZnFWYlFpc0tiSjk4ODJrNUZ6WThoclk4aTZxTTAtUUl1TDRZN2VrcmRRWDJEXzRrYkd5ZHR6dU9WMNIBrAFBVV95cUxQOGlmbU9NYmh5WHFrUGJfRHRBWXlIZ05CamhVQlM3YzZUR0lIN2NaQm1FaUd0SFZhWVd5NDlHQ2N1cFpzMDB3S3NoWXU4VmZCUkRiNzM1S2UyS3dVVkFlcWtTWWQwZHdhcWU0b3JMcm9hTzdyd3FXaEdXbE9ia21lOFZLOGdHVFlBM3lDems4Nzc2VW42YmJ0SzEtTk5UV3F0T2JkX1NlSWRTQ3NS?oc=5" target="_blank">PulseChain Price & Buying Guide UK 2026: Bitget Exchange - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQXFab0tvMm9Kd240ZnIwUHpBZFBhOE5rdEVPNkNXMFJmTzNmcGV6V0RORjB5emZiZVpaY2FMNGZwc3dLcEZrajExVXA2VkxsUGdmaUVrYzhyTDkzZElaUzBSay1aZ215ODBsb1U5dlptZVd5T21XTTUwU1BBcURDNnUxcHMzNTBWWTlQOWZkbm1STnlTczhDUEgzVV9PYkgzVEdlY0ZiNG9HS2hMY0ZYVUN2UlJ6VFNDcmdmbnU5NG5KVHJlbGJIWjBlSTdzVThJRE4zYVpId9IB1wFBVV95cUxNQXFab0tvMm9Kd240ZnIwUHpBZFBhOE5rdEVPNkNXMFJmTzNmcGV6V0RORjB5emZiZVpaY2FMNGZwc3dLcEZrajExVXA2VkxsUGdmaUVrYzhyTDkzZElaUzBSay1aZ215ODBsb1U5dlptZVd5T21XTTUwU1BBcURDNnUxcHMzNTBWWTlQOWZkbm1STnlTczhDUEgzVV9PYkgzVEdlY0ZiNG9HS2hMY0ZYVUN2UlJ6VFNDcmdmbnU5NG5KVHJlbGJIWjBlSTdzVThJRE4zYVpIdw?oc=5" target="_blank">ForTube (FOR) Price, Trading & Bitget Exchange Guide 2026 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUx5M0tkLWVEclNYQndxNl9oc0I0WVAwSThMcDVsWlU0WUxOX3hnS3hDVHBUUm5Hdi05Uzdzb29IWVpKVks5VGpBWTNuVXRLOWFjSmdtYkEyb21pY1hZVEFYd0NMbEY0eHZPanhhYU9iYmVndVlXaVRqakFXZW1mUE1GUGhLMDdJcnBWd1M2NFZ2cGczMVd4RG1ocTRQc05sRWVCTzhQTEJUeEdZMzlCRNIBtgFBVV95cUxPT3F0aUthUFkxeFhBN0dRRkV2SlU2V202OGRKUHUzMmNqeXBkWlh6QVpGWXVjY3JKNDE0eG05Y0owTEpGZFBuR1ZRWjM5WGwxdFRVa1QxVWpzQjRlWVBGRVJNdHZnbFNKY3lrdkVYT3J4TS1DTFlKZ3I5ZTlCY2xOTENiX0JMRWxZalJnNkJsOTlaS3hYYXpEOEtfbTgxWVgxNFZfa1NSamRFWHJvN2NCcFZ1T0M1dw?oc=5" target="_blank">Best Crypto Exchanges UK 2026: Bithumb vs Bitget Comparison - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmUzcGVDcGJqY1JUNldiMUt0eUVtTXRKN0s3Z2tjdVllVGhsYXRoa3Uwb01tUk5jTGNsR05uSUt2ZDRKRjE4czlNbnZIUTFRbDRyQjFtOE9sOHRFWXNJdW03aUZLdl9EeWxIVU51cFd6TzNkUXRVa0ZNYTh6ZkhQYllMa0hfY21XOUI4aDBOMU8zOVZYSDhEcUV1OUltQVRWa2lzVUxpazU3d9IBqgFBVV95cUxQdmUzcGVDcGJqY1JUNldiMUt0eUVtTXRKN0s3Z2tjdVllVGhsYXRoa3Uwb01tUk5jTGNsR05uSUt2ZDRKRjE4czlNbnZIUTFRbDRyQjFtOE9sOHRFWXNJdW03aUZLdl9EeWxIVU51cFd6TzNkUXRVa0ZNYTh6ZkhQYllMa0hfY21XOUI4aDBOMU8zOVZYSDhEcUV1OUltQVRWa2lzVUxpazU3dw?oc=5" target="_blank">Bitget vs P2B: Best Crypto Exchange in 2026 Compared - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanBSMGhaU29ORDJfejQtOXhSUUxsX1hOcUJWdFhBbE1MOUY4dlhtWDM2RDJIWW1xODFiZ1hrS1pRXy12NkgzbmhKMGZkOUZOUmpMRmd1UXB0SW4xZEFCUF9OLUFIdFUxRUFGV2lMS1RhNHhqZ24xbEFUcVd6ZTlNeVp5V2FtRkFaSVBUb3lpVEtTTHpHZFFRdGdXcWEzam5vRVZOcU80V2F4cUJGX09EM0FBNFRVU1hVc2VV0gHAAUFVX3lxTFBmOGs4bjVhODd1dGZBNkVtS2FmbVU2R2pxY193TXprZG5TS3lvc1dNSzdSYlFxYjRqMWlQb3pEVXZXbjBHZW80RFhJbXJ5NVZqSk1JWlNrTUVCS2pQTlhQUGM0SW16cjdqMC12Y0pWSzM2UFFaM1p1UjViYjNpaEhXSkNmOUZsRTNXWUZuaTJ3dy1qOVhUMUplbTZFeUFYY3lQcW81Ni1hanAtNHFWNUJyeEdQOTczN0t0M3ZhQWppWQ?oc=5" target="_blank">XeggeX vs Bitget: Best Crypto Exchange for UK Users 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGRfY0pwSnZUdUpxR0R0bHZQR2JRYUg3Zzh3QUpETkZXaU9aSjdHaVJDMXRFOWVIdDZwMzZwU0UtWlM5X3JJRlA3Wlo4M1ItY1Q2TzZvMXFhX0RCamQ5QjBvN28wZUhIX0Y5aS1QZC03QzBqbHJmbklzM2YxdkZEM0JpY1ZnUlJteXNEb0FHbGl5a0JsaWNVMThOWWlBQTJ1T2t4Si1xMEFSc1IwdE56b2hqbWgtQdIBtgFBVV95cUxPMGRfY0pwSnZUdUpxR0R0bHZQR2JRYUg3Zzh3QUpETkZXaU9aSjdHaVJDMXRFOWVIdDZwMzZwU0UtWlM5X3JJRlA3Wlo4M1ItY1Q2TzZvMXFhX0RCamQ5QjBvN28wZUhIX0Y5aS1QZC03QzBqbHJmbklzM2YxdkZEM0JpY1ZnUlJteXNEb0FHbGl5a0JsaWNVMThOWWlBQTJ1T2t4Si1xMEFSc1IwdE56b2hqbWgtQQ?oc=5" target="_blank">KCEX vs Bitget: Crypto Exchange Guide 2026 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMndCMUIxUlFnaUs1am1PRUphcXFjeUF0TzlTel83V2FhcVp5SV9JMzZWZlctUVZuWnBMUnlKa2RrWV9FcWdpRDVZWnFTandDaFF2U01rRFNqMUZpdDU0dVExSFRHeVZpeEllYmNqVUhFUnhQWDh0T1pGU05UM211UnhPR2NKU2VoRjNGamNkdE5hSTgzR2xpcnA3RGQ5bk1vcHMwVWNFVGVYT1E5YXJSUFdrWm9jajI3Ml9Z0gG7AUFVX3lxTFAyd0IxQjFSUWdpSzVqbU9FSmFxcWN5QXRPOVN6XzdXYWFxWnlJX0kzNlZmVy1RVm5acExSeUprZGtZX0VxZ2lENVlacVNqd0NoUXZTTWtEU2oxRml0NTR1UTFIVEd5Vml4SWViY2pVSEVSeFBYOHRPWkZTTlQzbXVSeE9HY0pTZWhGM0ZqY2R0TmFJODNHbGlycDdEZDluTW9wczBVY0VUZVhPUTlhclJQV2tab2NqMjcyX1k?oc=5" target="_blank">Top UK Green Energy Jobs & Bitget Exchange Guide 2026 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjVVa25KOVhyVF9UTE9FLWlydFNyZG54MkFkZm9OTE45Q1ZRMk45RGpIdXpBV1FLSjRKM1FsWUhFbjlCUzI1QnZFZ1JOblEyb1NpaUVZbVlnWlFULU00Y0x1UnlUNVRaSEZQU2I2MXkzZnBleEtYOEYteFk5dUp2NUM0amRSWER3NEg4a0c4V2dKWHRjM2ZKTW5RWnYxRVdrdk5PcUx3THpvaUdNcndYQV9DanlvVHljekZzY2N30gG-AUFVX3lxTE1uNVVrbko5WHJUX1RMT0UtaXJ0U3JkbngyQWRmb05MTjlDVlEyTjlEakh1ekFXUUtKNEozUWxZSEVuOUJTMjVCdkVnUk5uUTJvU2lpRVltWWdaUVQtTTRjTHVSeVQ1VFpIRlBTYjYxeTNmcGV4S1g4Ri14WTl1SnY1QzRqZFJYRHc0SDhrRzhXZ0pYdGMzZkpNblFadjFFV2t2Tk9xTHdMem9pR01yd1hBX0NqeW9UeWN6RnNjY3c?oc=5" target="_blank">Best Crypto Tools & Bitget Exchange Guide 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPMU02dHFNRk5FbDJYakJLOFBOSlFuUHlYUUtwbjFTS3gxbkNHZzI4enotU1dZd0xHUEdzUXdqYzd0anNEdWxIT3FDazJpQ09lbHJHNkEwMUNzem9GbXBLMXI3cUdFN01NeVVNVzdvbnFCYXBBM1Z6dWVuWTFycVNNRF95YVFEbVBrVHNYNjU2clB6OGpLcWw1N3pPc3VFbUtkTUhBanBaN01aQU0xREhOVTFfYXNxMVRsQmNvdmtJaWFHN3Y3WjFmVXM2Z0pmZw?oc=5" target="_blank">Bitget Wallet to Expand Global Stablecoin Payments on Stellar - GlobeNewswire</a></td>
+            <td><span class="badge negative-b">negative</span></td>
+            <td class="muted">Thu, 12 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Za1hEYW92eUFsQ0ZKNFRrVVduR29iWFNPRVdGejRWSXc2dGFzY0hUbXVaeTNYSnlCTDUtazRXV21ycUxMc2FpM3JvNzNqVUZ2VmF5OXRzcGtSYlFIQXfSAV5BVV95cUxPWWtYRGFvdnlBbENGSjRUa1VXbkdvYlhTT0VXRno0Vkl3NnRhc2NIVG11WnkzWEp5Qkw1LWs0V1dtcnFMTHNhaTNybzczalVGdlZheTl0c3BrUmJRSEF3?oc=5" target="_blank">Bitget: America’s Top Crypto Exchange in 2026 for Security & Low Fees - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQMnREX1hjeFNYV0dKS19fQXpnZUc3TE1mVjdPQ051MFZjOHZURWVqaDJraFJWWENocUppVk9lY095MWJMZGdISGhhS21XNjl1UExDSTg3TlBqNzZ4RUVFWEEtalN1cG1IV0RRODZRVGhKM0EyeGVteWpRLWlQYVBlUGVwTGdaTnZHVkFrZnVRalh3OElRU0xuNTFVMjJXZ2VzYjg1OHUxOTBtMDl6UDl4OTA3UEt5dzhPa3Nka1htR1p1UjN3eC1qUHd6cF_SAcwBQVVfeXFMUDJ0RF9YY3hTWFdHSktfX0F6Z2VHN0xNZlY3T0NOdTBWYzh2VEVlamgya2hSVlhDaHFKaVZPZWNPeTFiTGRnSEhoYUttVzY5dVBMQ0k4N05Qajc2eEVFRVhBLWpTdXBtSFdEUTg2UVRoSjNBMnhlbXlqUS1pUGFQZVBlcExnWk52R1ZBa2Z1UWpYdzhJUVNMbjUxVTIyV2dlc2I4NTh1MTkwbTA5elA5eDkwN1BLeXc4T2tzZGtYbUdadVIzd3gtalB3enBf?oc=5" target="_blank">Btcturk vs Bitget: Best Crypto Exchange for US Traders 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm5YajdzZU92Z1M3bTNxck40bEpub3JIU1o0M3FsdmtHU2dMd1dBaEhpOEtHd0k2WTRic2M2STlzSUppOWJzdTE4NFFCMEEwLTBUSWRveDBzaC1VMjFISHk5NXJ5aFZSd2FIU085RGJaZWt5ZTVSTXBWalhvSTh0N1pSOFl1Z3JraVlubjhkWXFnWGx5LXMzbENHWTl5MFJRQUtGeFFNVjVLNTRBUTZJMDMzQUFCVUFqbkNnQk5n0gG-AUFVX3lxTE9SblhqN3NlT3ZnUzdtM3FyTjRsSm5vckhTWjQzcWx2a0dTZ0x3V0FoSGk4S0d3STZZNGJzYzZJOXNJSmk5YnN1MTg0UUIwQTAtMFRJZG94MHNoLVUyMUhIeTk1cnloVlJ3YUhTTzlEYlpla3llNVJNcFZqWG9JOHQ3WlI4WXVncmtpWW5uOGRZcWdYbHktczNsQ0dZOXkwUlFBS0Z4UU1WNUs1NEFRNkkwMzNBQUJVQWpuQ2dCTmc?oc=5" target="_blank">Solesbot Crypto Bot Guide: Bitget Exchange Advantages 2026 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcThRQ05QMl9NcVhQVFJkcTRUSGZzNnU5a2l6bGxSSmY0ODNQbElMZW93NE92TW1LY2JfbzBfMHlaYlpCaWxfMUJodFhWTWRWOTQxVF9mV1NxMXpxSWw3ODQ0b3lJR0xKZlRUSUtIMnJCZGhqaFBDVUQ2Z3RZN25COGpNb1VGQ255Mm1TTG1jaEJQUUk5MGpHcUVQMkt4YjBHSDk3RFJSYWJZdDRNYXhPTG5HZXNNUktVMEpnNXU0WlRyYk5uTjRaMEhaM3ZMd1hkMmhuNGJnTTcwN2pvOGgxUjJIRF9iZUVEQ2EzVUFmTGhpcVNHX3ZoV0dqdTZDWWPSAf8BQVVfeXFMTXE4UUNOUDJfTXFYUFRSZHE0VEhmczZ1OWtpemxsUkpmNDgzUGxJTGVvdzRPdk1tS2NiX28wXzB5WmJaQmlsXzFCaHRYVk1kVjk0MVRfZldTcTF6cUlsNzg0NG95SUdMSmZUVElLSDJyQmRoamhQQ1VENmd0WTduQjhqTW9VRkNueTJtU0xtY2hCUFFJOTBqR3FFUDJLeGIwR0g5N0RSUmFiWXQ0TWF4T0xuR2VzTVJLVTBKZzV1NFpUcmJObk40WjBIWjN2THdYZDJobjRiZ003MDdqbzhoMVIySERfYmVFRENhM1VBZkxoaXFTR192aFdHanU2Q1lj?oc=5" target="_blank">Best Bitcoin Lightning Fees Canada: Bitget vs Kraken vs Coinbase - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hU1l6YVUwOTNzTW9QdXhmQ2pFUGFZY0NCUVN3VWtIQjVKRW5ZcjUyZzFQbFpKSHU1SlFiZDJXZ1c4VmZjOUtZRVJTOEdqZ0lMNm16VjhTM1VLRzlvNWfSAV5BVV95cUxNYVNZemFVMDkzc01vUHV4ZkNqRVBhWWNDQlFTd1VrSEI1SkVuWXI1MmcxUGxaSkh1NUpRYmQyV2dXOFZmYzlLWUVSUzhHamdJTDZtelY4UzNVS0c5bzVn?oc=5" target="_blank">Bitget Exchange 2026: Crypto Security, Compliance, Trading Guide - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pRXVtTURWb0VUb2h1MGJvUmVYN20wSXZZQVFKQ3lLMnlzLWFlRUtGTlR1SkpRWm56cFlObmIwTDRzNmNCQk5sVnlGY1hJa2ZiZ0RIcFNGNFg4b2Rs0gFiQVVfeXFMTnhlRG00c0o5V0xIN0huRkhGM0pfODFVaFRRR1hMNDVaeXI1OGxVNlQ2Q2prN2lsNEE5eTIxTGs4Ylg2YXpBTlNQU2hOakhhU2NYaVlLWlRyYnpob0RENUJmU2c?oc=5" target="_blank">Bitget: Best All-in-One Crypto Exchange in India - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JN0l3a0hTZjFjZ21GS2xVakNfRm5QWjA3OXBVQWVIOXQ3SlIySlRSVE5UWm9pbXRCVTc2N2djNTVRUzZtQkprNlEyVWppeVk2WTBBY1BGQndFb0F3LTJEdm9B0gFiQVVfeXFMTkk3SXdrSFNmMWNnbUZLbFVqQ19GblBaMDc5cFVBZUg5dDdKUjJKVFJUTlRab2ltdEJVNzY3Z2M1NVFTNm1CSms2UTJVaml5WTZZMEFjUEZCd0VvQXctMkR2b0E?oc=5" target="_blank">UK Crypto Exchange Fees: Kraken vs Bitget 2026 Guide - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VR1dWTWRpRk9zRlhrY1BPQ195VElxdFFva1ZHM3BGN0hQWGNITl9qTExqSVEwZXdhcVB0X1lUQ1B1cGxIdnU0aDZULXFNVHhPOW5YeEhaZm5waHlVOGfSAV5BVV95cUxNVUdXVk1kaUZPc0ZYa2NQT0NfeVRJcXRRb2tWRzNwRjdIUFhjSE5fakxMaklRMGV3YXFQdF9ZVENQdXBsSHZ1NGg2VC1xTVR4TzluWHhIWmZucGh5VThn?oc=5" target="_blank">Why XRP Prices Differ Across Exchanges: 2026 Bitget Comparison - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVaU9Sd0d3cTlEMUMwNFpJdmdmQjNrV3BTS2pJS1gwQTB3Y1NqV3ZTMDZWbWs0MUNaMWoxY3NZeGJaNE5TZnQ3TG9LQmx2Y0M4eTlBVFBrMDNEZUF60gFiQVVfeXFMTlhZdVZsVHFfV0M0RUZfYk16YjNhVWJJdjUtelBJNC1hOWZvZmdjT1NSUC1iRXZleEhWZ2Q5M3BpUEVoMU1OamhadGhkUlVydmVfMVU3VjVkSTR4clQwMzRiUWc?oc=5" target="_blank">US Crypto Trading 2026: VPN Guide & Bitget Exchange Review - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcks0S3RFTEhsLWFVTDJsZnE3Wk9VV1hTbGdjajVtYjI4cWZPUU05MzVpVFRyMG5yXzNhU1NUVk1GREJqbEQ3cXliT3hBZ21Eb3JOeDV0VzBBVHhTVHBjZmRPRUh4WUlYNk9JcDVRaFV4NTVxV2FBb0hwMV84OXRYQmRFbzBjaVRTbElDX0M1aFdfdEVQbFdzT3VVeGxfS3RxUVlmWTZ5bnc3N1RXZk5BeXRXSUNvOGl1ZzhURHFOcEdmaHfSAcMBQVVfeXFMUHJLNEt0RUxIbC1hVUwybGZxN1pPVVdYU2xnY2o1bWIyOHFmT1FNOTM1aVRUcjBucl8zYVNTVFZNRkRCamxEN3F5Yk94QWdtRG9yTng1dFcwQVR4U1RwY2ZkT0VIeFlJWDZPSXA1UWhVeDU1cVdhQW9IcDFfODl0WEJkRW8wY2lUU2xJQ19DNWhXX3RFUGxXc091VXhsX0t0cVFZZlk2eW53NzdUV2ZOQXl0V0lDbzhpdWc4VERxTnBHZmh3?oc=5" target="_blank">Orion Trading vs Bitget: Best Crypto Exchange 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Zc1VJMnVyblBOYlNXaHB3cks0eVFWYlNLMmp4NVJQcGN0TzRWb2xPdHhLQkVfOHpqTWJsNTJwc2hmSVZud0VjSGRZaWtmVXRTa1FDWnV6cUtCMzRDOUHSAV5BVV95cUxOWXNVSTJ1cm5QTmJTV2hwd3JLNHlRVmJTSzJqeDVSUHBjdE80Vm9sT3R4S0JFXzh6ak1ibDUycHNoZklWbndFY0hkWWlrZlV0U2tRQ1p1enFLQjM0QzlB?oc=5" target="_blank">Bitget 2026: Lowest Fees, 1300+ Coins, Social Trading & Security - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ3RjR3hocS15T0FKa3cxdXAtclBFUENGYkhic3pQaFdPMlpGejJMeklWdjJ6bGhIUWlwbVBRNnIySXc1Y0hmdWl3QldqUU1NOFRtalNlU3VhU3VsMGRCOFNaMm9qa2I2ZzJTclBCXzc2TmNEOWFFcVZYZE5qZ1BZa2ZVbmNiQ19OMFZacU05Uk5oMzByTm02T2N3bHJvWWNaUF9kRU1GTU05a3J5a0xicjFNRER4U05RUVVHV2V3RU4tWm9mSkk2YllSYTB4WmpuVkV0VjdvUzB3cG02T3JxQdIB4AFBVV95cUxPZ3RjR3hocS15T0FKa3cxdXAtclBFUENGYkhic3pQaFdPMlpGejJMeklWdjJ6bGhIUWlwbVBRNnIySXc1Y0hmdWl3QldqUU1NOFRtalNlU3VhU3VsMGRCOFNaMm9qa2I2ZzJTclBCXzc2TmNEOWFFcVZYZE5qZ1BZa2ZVbmNiQ19OMFZacU05Uk5oMzByTm02T2N3bHJvWWNaUF9kRU1GTU05a3J5a0xicjFNRER4U05RUVVHV2V3RU4tWm9mSkk2YllSYTB4WmpuVkV0VjdvUzB3cG02T3JxQQ?oc=5" target="_blank">Bitget vs YoBit: 2026 Crypto Exchange Safety Comparison - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TcjgxY0RhbkRTd1ZtMjNIZE5VZ05FV0RSZVRTNnYwMmhxSmtDLU5ZbjVNT25rbjI4WE44ZkthZmliZVpfZmhNN0l6WXM0NUhQZUR6Nkk5N2N1R1N60gFiQVVfeXFMUFVVYnFSR2tmQlFmazhya2Y3Nk1PNG9MUFBDR19ydU1zTzdrSmZRVEtHQkVKcTIxOThLOUotQWFkNVBKQ3hZZHlKdFc1VDRFTmQxVXVaWnVnSEUteUI5emM2TUE?oc=5" target="_blank">Bitget vs Fybit vs Coinbase: Best Crypto Exchange US 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnU0QmtidUV3a2p1SlZ5YW9VWjNxSFJSMTM0YnB2U0daQ0RfakRwdEstZkk1aFRaRk9VUlNHNVYxSTktMUU0NGh6Z2FxYjNnQUQtNjZVbTJ4MzJkNzVpWlVlNy1IQkFYdkNaYV9VdU5pSURqUzlVWnNOTkxqSkZjbmh1eV91YmpuamJvQW9kZkpUXzFOSGFSeXVvSE5maU5nVGdZbWtud2hBdU01QVFicHB2TWPSAbQBQVVfeXFMUEp1NEJrYnVFd2tqdUpWeWFvVVozcUhSUjEzNGJwdlNHWkNEX2pEcHRLLWZJNWhUWkZPVVJTRzVWMUk5LTFFNDRoemdhcWIzZ0FELTY2VW0yeDMyZDc1aVpVZTctSEJBWHZDWmFfVXVOaUlEalM5VVpzTk5MakpGY25odXlfdWJqbmpib0FvZGZKVF8xTkhhUnl1b0hOZmlOZ1RnWW1rbndoQXVNNUFRYnBwdk1j?oc=5" target="_blank">How to Trade AVAX on Pharaoh Exchange with Bitget 2026 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDB5M1RzdXl2X09jUWdiVFpHZXRycHBERHQwbHlMNmd6dWc3THNnOGQzejhiaTRITnhLSU1BZUFucy14WmgwTTVjc0liUzUwVVBqRW1DazUwTVpRT1VnSU82WmhQRTd5UWZ3NG9SV015WUNiN0N2UEE1a25OUTMyaVlpNk13eXNNd05xLTJKakZiak9rcmpaaEpaU2lFWUxFbWhQX3RDaWRxY0ZVV1kyM3dhX0VaT0I2Skdjd9IBvAFBVV95cUxPdDB5M1RzdXl2X09jUWdiVFpHZXRycHBERHQwbHlMNmd6dWc3THNnOGQzejhiaTRITnhLSU1BZUFucy14WmgwTTVjc0liUzUwVVBqRW1DazUwTVpRT1VnSU82WmhQRTd5UWZ3NG9SV015WUNiN0N2UEE1a25OUTMyaVlpNk13eXNNd05xLTJKakZiak9rcmpaaEpaU2lFWUxFbWhQX3RDaWRxY0ZVV1kyM3dhX0VaT0I2Skdjdw?oc=5" target="_blank">Bitget vs Coinbase: Top Crypto Exchange Platforms 2026 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCWDE2Vk9TNFItLVAyblNxWHJHd2xFR0M5YlltUmV6SnNGNUc0MEpIbS1kcnNPOHdVdTlFYVJVRTN2YVBybzV4a01sU0VaS2RpT0R4UWdkcUl0MEhW0gFiQVVfeXFMT0ZQWEJGRmZuRGF0QXV5QVVLVW1BcWFycUFfMHZhdXJyODlCQjl6NGk4VGdjd0lpR0NIT3ZnYjBmT3JKdVJZc25FeVRhTnNFRzU0TkZoX2NlVzdJQlh2aFlvWXc?oc=5" target="_blank">Bitget Exchange Review 2026: Fees, Security, Features Compared - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE43QThTZTc4MmpiQzZTQm1hOFhDY0licXJWTHJTOTNMUHVXb0g0RXlJelF0Z19MR1R6Z05HSmZ5MTd3M2p4OFkzdHpPRndWRE1VcWdsbjhsN1RRZXlwZmfSAV5BVV95cUxON0E4U2U3ODJqYkM2U0JtYThYQ2NJYnFyVkxyUzkzTFB1V29INEV5SXpRdGdfTEdUemdOR0pmeTE3dzNqeDhZM3R6T0Z3VkRNVXFnbG44bDdUUWV5cGZn?oc=5" target="_blank">Best Crypto Exchanges Australia 2026: Bitget vs KuCoin, Kraken, Binance - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaDhwd0FUMXRhd3ZXWXVuVXR6T3FDZGpDclE1SGdWVFI5QkJIQmZ3Y2dySWlUZXk5TW0yLUt5RXNBQXVZbDlYS1VHVXdRQUxTdU84TGJyOVFfTDdLVmx4V0NkcGFtQlNqb2VUVzNPT3dNQ0VTNFVKbGh5bWpnUUFrS2QwOU5IODVha0NJcGxOVXlOY0RGa2RzcW5rZ0VKS3BCUW9NUVk3cDN1R2ZwVENyV2VFanNFN0JaZk5zVjR1LTVadDZfUU5HV1NOQzhvTG9FUEF2UG5IdXfSAeYBQVVfeXFMTk91WTZjRFFOU0g3UlpRbVhTVVZibUFLMXFMNFJDb1VUZHRBT2VmS2UzSzZMd1JiUGpCTWhKOU1vMjdMR1UxamxjM0tiZ1FNdzJSUVBvaTlSRWc3QW55YkdZZGZNSmxuLXNFQVNvYXQ3MmE4SG5OQWlEQW5YWGRiTVVTN3VPUHlQX3Y3V1dOTkpZMVI1TkpkZjVKaFNYSFh1dHhSblJsTmVkb3BLSlA1ZXdJVnpEeExHd3RxNmJTeW14X1JpcjdVb0xvQzlzSmM1QndzZGUtWkNuWkFpOG0yZFVVU3R5dUE?oc=5" target="_blank">Top Crypto Investment Platforms for 2026: Compare Security, Fees, and Features - Analytics Insight</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Sun, 15 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Fbm83bW00UDY1Rl9vcEJJeUlpYl8wM3h6MUwwT0wzSV9CWmh5bkdJajVvd0t3Yks2c2o0V25VbDRXLXZhYUpGQUdFSjFZdXFoa2dnZmNsYTJlN1RR0gFiQVVfeXFMTy05Y2dmeThoM0pTVWliMFZsWlRoTEFCeWVUTWY2OVhjM1c5OGx3YjNPR1BSTGw4QVE4V0JrV3FsZEo2YUJycVF6ems4c21WVjZzaUdzNmU4cEQ0Wm9UNDRheGc?oc=5" target="_blank">Bitget vs Changelly: Best Crypto Exchange USA 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYzVNX3RoWTY2a041aDZuVUNGU0hfb0hHZEdOYmxKYjlnRktjYzdMa0ZkZ0dCRDJocWV3c2s0MmlVMkNYZHhuSXE4dzVzcW83Z3J3bzhNcmpUWDFRUy1yQy0wcmxycTZFOFBPbUhyY3RIOVdCSkxZeUpIeFQ0UkpuT2ZsR2tVVFpNeDUwWUFheXpscEhBY0dIVEpZSmM2WjUzWEJmZTNHblQzc2JOY3ZyTHF2R3JrMl9NdGRIUGgxanBkd2Z6LVpZcFJvOUNKaV94cHAtVDJaNTlIQkZ5a1oxTGlMN0h5d0lkRXh1NURsd3RDc1FzcFVQMTdNQ1pCUQ?oc=5" target="_blank">Bitget Upgrades Agent Hub with Skills and CLI, Allowing OpenClaw to Start Trading in Three Minutes - GlobeNewswire</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mYlA5OU5WeHNYRHUwUkt0QlJBMFlZWEk5OHNoLUZHWG9qdWRpb1YtNm05Vll3Qnl1Tk5hMnR4QzVIMGtzVEhCM0VleUhWb2h6X3MwakQtU0hGNllU0gFiQVVfeXFMT0hzSm01RkRkMldjdFhqaU5aRmp4dkNtVFNheXpHX00zcWlDTlRqTEpfRmQwd01JMndTTk1vZ1BiRkl0R250NHVvMWZMMm52QjJoT3ktRWFGQlRYbVBfb2VZRWc?oc=5" target="_blank">Bitget Exchange Review 2026: Fees, Security, UAE, Link Chains - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 10 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SRlYtS29PZk82dFkxdFNPeUZ3aVdIOUpVWnc4SUF4SFFwQ1RlWDQ4Y0Mwc01OcTVtbzVJdVJhNWxqbVMwRlZwMGh6aXcyamxKRktncGxfT2tQOXhC0gFiQVVfeXFMTkhNREZQWjhqRE00eU5saXBJdjVZVnFMV0Ytc3VqS0tLUk45WWVxbzFHcll0TVF5bDlMNUYzTk9ZRVJrMmt4MTMxclJsYXlQbmZkcFpqcHFGcHNBTWU2VUl0VFE?oc=5" target="_blank">Mercatox vs. Bitget: Best US Crypto Exchanges Compared 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnM1RVR0OUNiM3RBRE1vb1FiUi1FenNScTEyR3FKV2JKcjhJbF82RzJaNVUzTXdnZmlEV2xUZzJ0aUZ0Rjd3SXFIeEtmSVE0QTFBOENsQ3VsRFpTRURSY3lIbWxQbDdfR0g3V2lGUU95QjVOYnY0ZENfSDM3WFo0azlORkJOREp0YTd2U3pUaUlwYmhoSjUxdnFLeGRTbmdGdDA3QXJ5MW11d0JnaWlNalFNMjh1cFZlRGJhRGg5RDNZV0kyQmZMRjhHcVROUXhQZ2JV0gHYAUFVX3lxTE5qZ3dHNlE1a2xHa3VvQjAtZmlvdUs0WFJWbDBRUGlDNzh6WU9BR3Q1TThtaE9NelRJRFM5UHRMZnRfbW9mMTFyOEhEeHl5cDBhUk5vYTBRaUNzNTlFdHVnZzJ6eWxKOXpqX21sMWl2Nk9OdUN3MzN1SUNQY05PLVM5V0gyU0t2M0FZUmNJWndmTWcxem0za3ZqZEhwd1p4a1luS25MUW9IblR4YXVKR0tkMlNIWkhvRGNmNGNCcF9mNG5maE5fRmR5a1NaWjljcEpVaHZOR2J2SA?oc=5" target="_blank">Wintermute: Crypto Market Liquidity & Bitget Exchange Guide 2026 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RYnl1M0Z0STROTG5xUmI5d1BsMWF5aUltMHFXU2ZGeHl1NWk4NUt3RVdHeFRqYzJFblFoSzlKbklTY0FueHlKMFZzZzkteVJQTTd1M2NVMndRQWRo0gFiQVVfeXFMUEpiRlJ1TUR6aE9aUWlab3pFbExNeFY1ZncyZkd4aDFBRTA3UEZJRlBjVThqTlM0UG01bmZLdUJZT2lzQWF2eXZXX3l3T2F6QzNvTF9vUmRfWFBMS2FBU09sNEE?oc=5" target="_blank">Best Micro-Wallets and Bitget Exchange Guide 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHhDaG8xbEFXSUhMRmtoTVQzT2p5clJiRnZxTnJXQ3pVY0N3aVcyRF8xYks5VmVPZ3lLbk5Sck1uMThVcE5JZlVpUVd0eUt6bk1UNlJVUlJ3ejM5ZlR3WG02TGxCTVpjM2twT3VTTHE5MDVyRm5vd216SmhzY2ttLV9abEhiYjJRUlFWMkdpMXE3N0w1OUt2WWF4YVFBUDZoNTNxZ9IBqgFBVV95cUxNVWYzRWp3UXR6czRVNTBEbFdpbDkwSDNyTWxCUC0weHQ1Q0c0UFk1U1FWSFBxVTFmb1lrTHlDdXVoNmVEcnhFam51VVBxV20tcDk4N3lqSUd4Z2t6MnRrU0xtREJKNkk0V3hTcnIyeWgxYUYzZm1KRGZEVkZLWDR1bDhEWVVtVDNLNGNRcmF2RGN5N2ZETnRHWGxUbzc4YXRVdVh3OUpTZVljZw?oc=5" target="_blank">Best Crypto Futures Testnet & Bitget Exchange Guide Australia 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fSnp3UGVfZ09hM0FWRWVfMWl3SVpiM1I3R19QTndZRVZYaGtZT0dMVlBUQk5ReDhvb0l2emc5RlgzWUY1enFKQXA2RERQMDZRRWFWcWlCbUxlNjZMeWfSAV5BVV95cUxNX0p6d1BlX2dPYTNBVkVlXzFpd0laYjNSN0dfUE53WUVWWGhrWU9HTFZQVEJOUXg4b29JdnpnOUZYM1lGNXpxSkFwNkREUDA2UUVhVnFpQm1MZTY2THln?oc=5" target="_blank">Bitget: Italy’s Leading Crypto Exchange for Secure Trading - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nY081SVlTektPR2VGUlVXM2p0WE5VeEFFTnhlY3FNd3Nwd2V4enBTTEZYaUpHVnlMT19wcTZ4cVRZbjZRLUg3Mk9ySUQ4TzhYbzNxdGRGWmFxSmFI0gFiQVVfeXFMUFFtOE14dE51QmN0b19janF4c09GNGFHZC1pcEdOZndlalZ3ZEtnSlBiS0I5SFZ0bjhzSVNPU19naGVIZzFNbzhkRVo0SlBIS3ZhUXEzQi1FbEV5QzFjM2c2RkE?oc=5" target="_blank">Bitget vs Bithumb: Best Crypto Exchange for 2026 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE42WlBlTlZrTklfb2FlbWQwdDBSeUJZZ3haS0c3akc4a2owTGlCTFNKLWJFQzBBZ3FIZkpEekNFRENkOGFFeW5Ub3FBTEphRzVSbDB0d2V2S1prSUg00gFiQVVfeXFMTW5jMEJFRGpRNzNyNUMyUW1jZW0zSzd3RlgxOFR2TFpETWZuaHpqdlI5MllJR20tc2o3ampYQm5lMi1XTG9lX2NNd1BodXFVaGV1cExBS3BpdmR4YzI4amZZV0E?oc=5" target="_blank">Bitget vs KuCoin: Best Crypto Exchange 2026 Comparison - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CQ0NsSW1Pbkw2aG5TdHI2amZVTEE0emZqVm5vN2pOQXhWRTh3Rkk0R2hTSlBlV3BTSWJaUVhPQ25ZSmxUSm5hZ3ZZdWRVS2w2VzZkeTNzRFlwUVFx0gFiQVVfeXFMT1lrMVROaDVkQUdQdlQybFI4VUxBUGdXZE92eW1ZeEo3dkExc1hMN0czU1BLZlJRdkt2Q1U0Q1FycEtSeDYxV2c2Sy1ScXlkN3JDOEFqUUtjZ3NGWF9xM09vUFE?oc=5" target="_blank">Best Crypto Exchanges for Canadians 2026: Shakepay vs Bitget - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdy1ZRDdOVEFLNlgtVGtneWdJd2pLNFRZOEQ3OTRlQl9tWWgtU1VleUlvVl9DOVB5bnFUdHcxTnRtcmZ3SmNoSE10Tm5UcTVkRWxwOG1CS25hN3ktNUJ2dm5RYjRFeXp0LWp5LXU5d3MxVXFfbDNHVHoweDdodHQ1UWh0d3lrY0xzQ29kNXgyM1hHOHk5SXNWUmMwR2YwbFNIT01KRmZHbzVQWldSaEFQS25wRWdhZnM2dUluUDVGSHk5d9IBxwFBVV95cUxOSEQxRFU5M0ppMTZNbmVwd2JscTVSQW85QUF5N181T19jMmFXNV81V3hHTVlSYkg3MWN3RHdYRmJJVUl4SUZSWDc3YVQ4N0NKVDNob1hUb3UtS0JBTDJ3QWVnQzhuRzN5RTEyVEVMV2lWYUlHSUNFbnVtSUVpdlJUSjFIMmpSN01Dc1dOQndVVm8wN1FGWGV6Ykh1Y1dGUUdLZXBwVmJKX2xSZjFEV3dxbVRkZENfRENnS0xtOURMeTFlX0cyV0E4?oc=5" target="_blank">Bitget Review: Secure Crypto Trading and Coin Stores in 2026 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnRwOFFjWHQ4VEFpc2REcWstNmdqQ1otZmZmaURPb3JVSXhTb1Y5V0pVUmZNUV9GS2F1QXNvSzlSbU1HYXNmcXdvcXpDbndpNUxoVzRPdEQ2T2RteS04MDlvUld0Rl9jQzRabEFEQzlHdi1SWVZ1dGp6M3pmUXJraWJRNTM4aXoxcHlyV2s2NUt6TzFqdFVvVXQ1aDdHb1diWWNtREtVM0jSAa4BQVVfeXFMT3B5VzJyX2xhQjh6cVZjMkVEQkRvQzcwd01xVFI3UXhTMjZMV0tYOFVvbnNEUUxsTjFyMUJoamtBM3NUUzI0alRMM0lTNUNzZFIzVm1tNHFFdzN0ZGFMakV1TGdIYjZ0Zkp3WkRaaEVKQi12RGFyNEQ1V29jeHhSTjF6S1pOS29WQ0hMVG5jWlVYdk5TMnc2VzkwYk81M2JIMkt3WFhpa2tmSzd6eEdB?oc=5" target="_blank">Best Crypto Exchanges 2026: Bitget vs WEEX vs Coinbase Comparison - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZWnhoaGU5VEx2cnNXZjZDNkxZTVJBR0hyeU5vMXZjX3dYNlE5aGlZZkNnekNwcEc2dmlwMTQ1dF9WVWU0Y2xZMXBUTEZ3TGJpbTgxdVhyTURzMkhWX1HSAWNBVV95cUxOcjhEb1NRVHhVSnBwamw5TXZtZnRWRFhqUm9sZW9Yd3VjSUVIRlFNZndXelJ4RERyM0hqRlJkbm82SjhuUy1qRW5UU1BNb2ZUWFFxcGZqdEI2WVlIamVTVV8zSUU?oc=5" target="_blank">UK Crypto Exchange Fees Compared: Coinbase vs Kraken, Bitget & More (2026) - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Thu, 05 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HcFB0UDdQWFhUQy16cS14MGQ5anMwX3ZLTlBfcU9mWDRfLXRNTF9lb3JrWC1sakttbzJCeW5rMXZiX3lBQi1FWmMxdlg0UkZqZmNJOW03aEtmNDJOSmVIOXNn0gFiQVVfeXFMTkdwUHRQN1BYWFRDLXpxLXgwZDlqczBfdktOUF9xT2ZYNF8tdE1MX2VvcmtYLWxqS21vMkJ5bmsxdmJfeUFCLUVaYzF2WDRSRmpmY0k5bTdoS2Y0Mk5KZUg5c2c?oc=5" target="_blank">Crypto Exchange Referral Codes: Binance, Bitget & Coinbase Compared - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Thu, 05 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBIZjFSb3ZTYkNybEJzVi1yYW93QUUwdmYtOFNlMk1LcU1UTXc2TmlNYzJSbUw0U2JmLW5KX2l4YnhhWHNDR1ZsSG1WazNkX3M5OHhKdll4b0hHcFJyRWluMXAxUHk1Wl9FdVF2YVFhWnB3eG13MGVj?oc=5" target="_blank">Bitget Transparency Report 2025 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 13 Jan 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IYk94eE1DbzhlWm5yTHRVNVZ3d3B5c3o0bzNGVkNaeENBRDVkbi1tOEpBWGhEMUJIakxrbTFOUS1hdU9PVTFGcnNyV2VNbjBNbUdiV21qelE?oc=5" target="_blank">Bitget Review 2026: Pros, Cons, Fees and Key Features - NFTPlazas.com</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Wed, 04 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWUDlSU1hTazVHRURORUd5cjFqMElBTDNoMkd5Ql9Ndl9mUHBSOS1GbC1YYVpvRlR3Ui1lX2toWXpuMFNQWVJGdndReTNKZ3ktYjZ4WkRXSjlQQ01TYWI2c2N30gFiQVVfeXFMUFZQOVJTWFNrNUdFRE5FR3lyMWowSUFMM2gyR3lCX012X2ZQcFI5LUZsLVhhWm9GVHdSLWVfa2hZem4wU1BZUkZ2d1F5M0pneS1iNnhaRFdKOVBDTVNhYjZzY3c?oc=5" target="_blank">Bitget: America’s Top All-in-One Crypto Exchange 2024 - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 03 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNaGZqOUNCcXRrcF9CTFlSa29YNHdsMmN6VE04OExSSEMyN0lWbmFBUkJ2YlFCZThhSVR2ZWVzdkJtS2VJV2p5alNNSUZnN0NpaHFPQ3NyWTdYemtaWHZSWlFhdXVpejZTREh4X1BVSEtZY0lOT1pVQnVnRlFyOW5JTGctd3VWLWJsRTVPb2RXYWE1dUcwaURXSXBUUklNQQ?oc=5" target="_blank">Investors Once Ignored Ethereum and Bitget Early: Grab APEMARS - openPR.com</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Sat, 14 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOR3FPdk56UkhIRHFoSElGaDRkNzV0THNOaW1JM0wtMC1GWnNDYkxIdTF0aGh3WnRPX1VDMlhGbkU2RmhvNjBxNjl5SHMyaHo3bGpYWEJtUGhLQ25oVUN0YmdJaGZJR3BIQlkzdFc3YmVobFJYcEtuVll3MnFGNDdmM3dKcUYyYmZRQU9Tb3d4NDBQck5kQ194RmY3UHZkNUZvSi10SnYxTl8yM3J0ZGNVS1RtQ1BvYVc0NThKOUp4d9IBxAFBVV95cUxPeWdjWUg0NmZBT3FacGpoZVZtVmRUM01xaC1pWlhkMzM0OGo2akhNUEpJXzRCQjg3aGd1anlmYXNsb0Z4LXpudUF4RWNxWi01cUN0Umphc3NwanpaNjFCRnhLZGo0RVZmbm55OXBLY1FYMnhFbm9tOW9tZkg1RUR2aFJmYVMwbWtDWUprS0h2dmdwcGg0NnlPaHozVGxnSjZEU1ozbjY4SWlPWk1uT1ZMaHpTSjdpN2QzVWoyWVNwQlZhQzQw?oc=5" target="_blank">Bitget vs Kraken UK 2026: Safest Crypto Exchange Comparison - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Wed, 11 Feb 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjAtaS1CdEpDTWllSmRzVFNCN0NBd0taRXR5SUo1d0ZKWWdPRzZfV0x5QlROWEg2eXI0eDExbnA3LUN3S0tBbXh6ekkxdVRiUkhMY2R1emV4VnUwQVA0bFlydHJFc3BhTmNjV1hsNm1CLVE5TE9OZmV5UnZDWUFWRUJRRWFjaEF0dnlMWDJNTXQ1Q0NPN1k2LWtLLVVPeDY1Z3BMRXVRdzk3dkZubS1DbHVWOA?oc=5" target="_blank">Bitget Lists Opinion (OPN) for Spot Trading - GlobeNewswire</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Wed, 04 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnF0VGxUeU5IZkgxVnJsSGI1YXYyaFd4VkYzUWJlalZfYUNybk51TGJUWGNnVi03QWNSOWQ2empHWEE2QzFPQXhvLVNZaXl3c2NlaDQ3OUt0TVd5ZlNUVEtheW9RTFVXVEFONGVOWURMMjAyVHhCbXJMbG42WTdQSko3WDI5NVM5?oc=5" target="_blank">Bitget Q3 2025 Global Crypto Investor Survey - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Mon, 13 Oct 2025</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkJkNEVPeGd0RjBQdUhGdXY4RVgwelpISG9tZlNSVEEzR1B6aGFNOVBScUMzLWFJc2Z5U01BYU5GcjZMZmRrNlltMjBEbTZCeXFlSnpHUTFKdGtzdno4dkdOanYwaVdyWGwycGptWG40ZFJnNVNjWGgxSldNUU5WUUh2MWQyVEk?oc=5" target="_blank">Bitget Bets Big on Universal Exchange (UEX) Model, Combining Crypto, TradFi, and Tokenized Assets - Yahoo Finance</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Thu, 25 Sep 2025</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQekFKakoxb1hudERsa3BtOEliY01TOTJ5bmJGaEdxczMyNEotdG9VVTdDSTZFaFgyQ3pVZExpMjIwYTdEZzM3X3dmdHNXbnliWmNKUXczSjZzODl5OFNsY09rVWIzMnVma291YkNWal9CdnY0SWQ2Wm9rdmpkd24xS2ZINDg?oc=5" target="_blank">Bitget Onchain Expands to 4 Chains with AI Signals - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Tue, 23 Sep 2025</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPUUJ6WVAwTHBxN19YTFBET01Fejl3azZmN2x4VTNvQ0VwTGMyTzZmSE0xdUpTdG1fcW1KMWNTTm5ZOUMtWGpFdmsyMWlIZGlhUlNZbXJpNUNWTF9xX3R6d05nalFPdVIyYm9yTjFDc01Ia081QVpwamdLem02QmMzbjNXcTY4U3FTSmdyUU53?oc=5" target="_blank">Bitget Unveils Unified On-Chain Trading Across Four Major Blockchains - FinTech Weekly</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Wed, 24 Sep 2025</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE0wN1BMZVpkWV9fQ3dBM3VSTng4Yk5wdUtXQ3pOLWZidVdKaEFjS1V0RWRZUC1DU1hVekZ0WmNkWWZiQjVtWEI2ZlRmSTFHNjY4SG9yOVJIWHBTd3hTVDVTekNZaHlEcGFSZy1VVUZoMWl1cnNPUFpNbmJMWQ?oc=5" target="_blank">Bitget Secures Digital Asset License in Georgia, Running its Global Expansion Strategy in Eastern Europe - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Thu, 19 Jun 2025</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXREUWJOcll0by1STTd3WkFVV2t5NXBldm41YThiZ0RweGhCaWJGSmpmbUpsbE5uRWF0TTNkQ1diMUxfNGg5TzRwVG1kOUxud1JpMmJOME1WYlhGVjNaRmZZQ2Y0cnR3TFhpV3pFOXBhZFRzMXRJR3ZQMmVoUFFWUlVwcFAtaEEzNlp5RDBzckxJUVhabTlQRTJZRDlsWjZrRHZfbA?oc=5" target="_blank">Bitget Signals Next Phase of Exchanges With TradFi Integration - THISDAYLIVE</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Sat, 14 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWE3YUFXek1FaUZxRXFRcXFjLWxKbmVkX3M1RTMzZEg4REk0WHZNTzBtNEZ6NFd2eERqcUt3alJ4YkdUeVpESzVqRGlGSVQ2aklxNGFCTjUwYTM4THZpdkpwYXNQNkI5TzZtOGR6S1JqOFFubFNuM3JTNVhhT09hUG9na0lVV2pjLUR5WXNGdXNfV280?oc=5" target="_blank">Bitget and Bitget Wallet launch tokenised US stocks and ETFs - Asset Servicing Times</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Thu, 04 Sep 2025</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVEd5ODZLOXZqNXNpaDV2Q2ZoQWs5bW1yb0pjbTl1Q1RNMzEycGJBQTU3Ul9aNGRid19WNE9Fd2g0THA5TnEzZlNKNlJVYVJGTDdGQzZDTmNSaUlMMm9feGN4RXBpdTBVbDdmc1ZmT3Q4SmRvYzV3MUJ4TGZQX1hzeGpuWWJNdUR3ZFc4cUZyelpEQU1Jblo0THlZRGE1ZXdOQ1Fqb0hyVnZYV0VGVm9mWS1xZEVKeVN0?oc=5" target="_blank">Bitget Lists BlockStreet (BSB) for Spot Trading - GlobeNewswire</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Wed, 04 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1mb0h6SUo4Q2V2cGVuZjNMQ0hMQ2lpc0VpdWRUQ1F4Q0Nld2FqUEVja0NEZXZJQVlKVGdta2ZXbTZQLWtFN09ZRlFOLURSVk95XzlYc21rNG05Q21MaEFQQjhkSF92Z3NTYjVTOXBR0gFzQVVfeXFMUFFVejNZdldWbDV4WHFxSEVlcWhibEFsZnMyNWMwN01lb2ZfU3dwUlpoLXFWQkZaYmhrd0FfblJ0YWJDSVUtMzM1dzBuNnloMTY4OHNUOUQzTHJob0c1Tmk1Znk5MzRnMDB5clY1SUtnT2E5NA?oc=5" target="_blank">Universal Exchange (UEX) Terminology: What Does It Mean? - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Wed, 17 Sep 2025</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmdqSGJjeklkb3JUbWRYRVNvTVBjUlEySzVTTXJFeUh3NWpVd1hGWjVUSzdFUnY4TVRNLUJYSHlxZTExcy1mcXJpcmptbmZOWVhsUXIycXJyOWFvaFJuNFltOW1udFZVWndFT2hxT3NpRXEwMktTcll3MmFpM0NyaXg1VmlRcHM0SkctRlVGYUVNWkUtdjg1Zg?oc=5" target="_blank">Bitget Named “Best Crypto Exchange in the Middle East” in TradingView Broker Awards 2025 - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Fri, 30 Jan 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc3UzRnBqU0pVRzJzd2JTR2RPbVdzYkxQTGp3Ni11RG1GUURQaGs3c29sZVBQSFp4QWUtVERwNmU2UG9uNmFhR1d2TG40WE9oWXN2dDFPUE1NR051dEVZbEhoY3B3T0syY3BtQUFDNE5TeHBFanhJS2k5V1p1NFRacUMyS0h4TVZfN0g5cHM4U21pck5DQ25HZnlZTnNET0xCYXZDUUIyRkwxTkJiUlUzeVVjVFVFd1dBRW1mZ1kwM2pBUHfSAcgBQVVfeXFMT25BZHRwX1JtOUxtYkdpYVByendIZjZPeWNwdjJjMTZhR2lUc2czM0stSVU0Z1c3bFFQdU9XZDJQa3FtR0pwa2hmN0JzUWVTbHJhOGVhWC1wS2NCZXhwUUZ4TGk0bFh5bzJsQmhqTHVQYnFFbExXRTNHcnRvREF4dG1rcXpUQlJGSG1kYzBNZE5WeWg2SzBSNWM1aWJFaTJTREE2X1NrQTR0WW9ORi1PY3AtS1FFSDFBdlo4MUlmNGtDc3NhellUUkg?oc=5" target="_blank">Bitget vs Bitunix UK 2026: Best Crypto Exchange Fees & Safety - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Wed, 11 Feb 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5PdmdpY1F4emNNcmptcFl2b2lVVFlzdjlvZmNPa0R4UVBnLTNLa09FOEFaVnZDZ2NKZXdoYkE3QVNDX3ZBalZTZ0FWZ0syMEREZHJfcjhMWEg0Zm4zY0pNV1lURDNudEdROVZ3X3JaejNVODhDSnBCeU85MA?oc=5" target="_blank">Bitget Releases Q3 2025 Transparency Report - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Fri, 10 Oct 2025</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQblZZa1RSVHBwZzd2REpRMVZ0eWxxa2Vmc1dkM0x2ZVdObXpzdTl6Y29hVkxkOVdjS1hrTGZESlJMQlpSeGZnTzlJUzdobEp1MEJPdkdDU0ZldmNoUkhVRUEwZDZqc1h5SjdBbEJTTmJEcUYwMzV4MmdZS2FvY2FjbTlzdw?oc=5" target="_blank">Bitget Universal Exchange UEX Whitepaper - Bitget</a></td>
+            <td><span class="badge neutral-b">neutral</span></td>
+            <td class="muted">Tue, 20 Jan 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOHBQTFFzNWhCSHFiZWJPZ0xxY251X0JQLURFWWFfN0liLXpGalhuS1VMdzBTQ29pZVYwSVRKdElFQ1h1TUJreUhBN0xORV81WXdYWGU3b1VFdUNDbERTREFNZlIta1NMOG83Qzc2S0I4bXk4YU0tNWV3cnV6dVZsbW1KTzR3QUVoNjBVVlA0VUF0TFM1Y3Q1WWtQNy1KQ2dtMGNYYXdjTjQ5OEhXa1I0NlAtc1NSVWNPR0M0eUFPWWpBS3RUWXhtSFFCOThkVDVCd2FmMnB5clY0VmRRZVFZ?oc=5" target="_blank">Bitget and Obside Partner to Launch Live AI Trading Arena for Copy Trading - GlobeNewswire</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Sun, 01 Mar 2026</td>
+          </tr>
+          <tr>
+            <td><b style="color:#00c4ff">Bitget</b></td>
+            <td><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVmJTNXlYTnhmZHVnYzVfTmkweFI2cnV1MW5va1hkUnpQTk5xQlpEOVJ5eWlZWElROUh2LUpRUGUza3dmM3BxWUNmODduclhBbmdpTmltcVVRWXg2cERLcnhpX1NmTldFa3BKODQza2JCWHQxLVdGREZXLUdwQVN2VTdhZUtzOENTSjV3?oc=5" target="_blank">Bitget Integrates xStocks to Bring Wall Street to Web3 with Tokenized Stocks on Onchain - Bitget</a></td>
+            <td><span class="badge positive-b">positive</span></td>
+            <td class="muted">Wed, 09 Jul 2025</td>
+          </tr></tbody>
+        </table>
+      </div>
+    </div>
+    <div>
+      <div class="pn">
+        <div class="ph">Summary</div>
+        <table>
+          <thead><tr><th>Metric</th><th>Value</th></tr></thead>
+          <tbody>
+            <tr><td>Total articles</td><td><b>1124</b></td></tr>
+            <tr><td>Total mentions</td><td><b>1124</b></td></tr>
+            <tr><td>Exchanges tracked</td><td><b>6</b></td></tr>
+            <tr><td>Last updated</td><td class="muted">2026-03-15 12:07 UTC</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="pn">
+        <div class="ph">Bitget Sentiment</div>
+        <table>
+          <thead><tr><th>Type</th><th>Count</th></tr></thead>
+          <tbody>
+            <tr><td>Positive</td><td><b style="color:#00e676">96</b></td></tr>
+            <tr><td>Neutral</td><td><b style="color:var(--mu)">137</b></td></tr>
+            <tr><td>Negative</td><td><b style="color:#ff4d6d">1</b></td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<footer>
+  <p>Bitget PR Monitor — auto-generated by GitHub Actions</p>
+  <p>Refreshed daily at 01:00 UTC</p>
+</footer>
+<script>
+  new Chart(document.getElementById("sovChart").getContext("2d"), {
+    type: "bar",
+    data: {
+      labels: ["Bitget", "Binance", "OKX", "Bybit", "MEXC", "KuCoin"],
+      datasets: [{ label: "SOV %", data: [20.8, 24.6, 16.5, 9.4, 15.1, 13.6], backgroundColor: ["#00c4ff", "#7b61ff", "#ff4d6d", "#ff9800", "#ffd740", "#00e676"], borderRadius: 6 }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: "#7986a3" }, grid: { color: "#2a2f3d" } },
+        y: { ticks: { color: "#7986a3", callback: function(v){ return v+"%" } }, grid: { color: "#2a2f3d" }, beginAtZero: true }
+      }
+    }
+  });
+</script>
+</body>
+</html>
