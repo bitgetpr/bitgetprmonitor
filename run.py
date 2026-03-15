@@ -115,7 +115,7 @@ def fetch_with_retry(url, max_retries=3, base_delay=1.0, timeout=15):
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return resp.read()
         except Exception as e:
-            wait = base_delay * (2 # attempt)
+            wait = base_delay * (2 ** attempt)
             print("  [WARN] Attempt {}/{} failed: {} -- {}".format(attempt+1, max_retries, url[:60], e))
             if attempt < max_retries - 1:
                 time.sleep(wait)
