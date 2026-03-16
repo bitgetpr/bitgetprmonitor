@@ -173,41 +173,46 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
     if not api_key:
         print("  [SKIP] No Meltwater API key set.")
         return []
-
     base_url  = "https://api.meltwater.com"
     end_dt    = datetime.now(timezone.utc)
     start_dt  = end_dt - timedelta(days=lookback_days)
-    start_iso = start_dt.strftime("%Y-%m-%dT%H:%M:%SZ")
-    end_iso   = end_dt.strftime("%Y-%m-%dT%H:%M:%SZ")
-
+    start_iso = start_dt.strftime("%Y-%m-%dT%H:%M:%S")
+    end_iso   = end_dt.strftime("%Y-%m-%dT%H:%M:%S")
     articles = []
     auth_headers = {
-        "user-key": api_key,
+        "apikey": api_key,
         "Accept": "application/json",
         "Content-Type": "application/json",
     }
-
     for search_id, exchange in saved_search_ids.items():
         print("  [Meltwater] Fetching search {} for {}...".format(search_id, exchange))
         try:
-            url = base_url + "/v2/searches/" + search_id + "/mentions"
-            params = urllib.parse.urlencode({
-                "start_date": start_iso,
-                "end_date":   end_iso,
-                "page_size":  50,
-            })
-            full_url = url + "?" + params
-            raw = fetch_with_retry(full_url, headers=auth_headers)
-            if raw is None:
-                continue
+            url = base_url + "/v3/search/" + search_id
+            payload = json.dumps({
+                "start":     start_iso,
+                "end":       end_iso,
+                "page":      1,
+                "page_size": 50,
+                "sort_by":   "date",
+                "sort_order":"desc",
+                "tz":        "UTC",
+                "template":  {"name": "api.json"},
+            }).encode("utf-8")
+            req = urllib.request.Request(
+                url,
+                data=payload,
+                headers=auth_headers,
+                method="POST"
+            )
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                raw = resp.read()
             data = json.loads(raw)
-            mentions = data.get("hits", {}).get("hits", []) or data.get("mentions", []) or []
+            mentions = data.get("documents", []) or data.get("mentions", []) or []
             for m in mentions:
-                src   = m.get("_source", m)
-                title = src.get("title", "") or src.get("document", {}).get("title", "")
-                link  = src.get("url", "")   or src.get("document", {}).get("url", "")
-                pub   = src.get("published", "") or src.get("document", {}).get("published", "")
-                mw_sent = str(src.get("sentiment", "") or src.get("document", {}).get("sentiment", "")).lower()
+                title   = m.get("title", "") or m.get("document", {}).get("title", "")
+                link    = m.get("url", "")   or m.get("document", {}).get("url", "")
+                pub     = m.get("publish_date", "") or m.get("published", "")
+                mw_sent = str(m.get("sentiment", "") or "").lower()
                 if mw_sent in ("positive", "negative", "neutral"):
                     sentiment = mw_sent
                 else:
@@ -225,7 +230,6 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
         except Exception as e:
             print("  [ERROR] Meltwater fetch failed for {}: {}".format(exchange, e))
         time.sleep(0.3)
-
     print("  [Meltwater] {} articles fetched.".format(len(articles)))
     return articles
 
