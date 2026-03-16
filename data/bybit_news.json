@@ -1,7 +1,7 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-16T14:46:43.478983+00:00",
+    "generated_at": "2026-03-16T15:00:09.470455+00:00",
     "articles": [
       {
         "exchange": "Bybit",
@@ -109,9 +109,17 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Bybit Launches AI Skills: Powering AI Agents for Crypto Trading With Zero Setup, 253 API Endpoints and Growing - IT Voice Media",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ0RneklwYTlyOGVYU2JMb2luR0pYc0E2bk41aV9vSlZRODlQOWdsaG1tSi1uS1hOc2JWbG5LNzh3NDVXMTJBQmljLUEwWHdwXzl0Z3FFaXRpLTF3WVFFYl9kUUNmTWZlODhDRGVtTmtnS1oxRG1WeTVBa251V3drWjNSQzVjWmJkSnVyelF2X0pTek43emVEbmNaWGZyUnBCVUw4bzl2OVFGano2dzFKY0QzaGFCdGo0dzB3MEp2bjhHQVRxUW9rckdPRQ?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 08:22:13 GMT",
+        "title": "Bybit Pay Joins The Mastercard Crypto Credential Network, Simplifying Verifiable Crypto Transfers - HackerNoon",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGNZeXJ5UkhtcWE5V19maE42X1NHaWFwSzVGOXV0WGpQQ0NsY2N6NzVPZjhIZV9fQWF0a2E1bXU5TU85TFNzR2ZWcWNXN2xDX0tENi1WdEMwUDVyRkgyRXdOU3BPcU5sYV85YXFBT05zZXBqRWdOSGt6MWtTYWRYWE1iYmR5X2VOMEN5QXlIN1RFVndJa2hSYXFabV92NnJ0VS1WdkdSemRlZ3JjVzNIeGcxSmozRERITThr?oc=5",
+        "pub_date": "Thu, 12 Mar 2026 19:08:45 GMT",
+        "sentiment": "negative",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bybit Launches AI Skills: Powering AI Agents for Crypto Trading With Zero Setup, 253 API Endpoints and Growing - DailyCoin",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmduYXlVVW5BVlczYWduaTBhck1zcVZpUVNwcXNjTXJNeEVTbEt0Um5Ud2hXLXM5OExJRmlzUmNCbXptdFRYemR5cnd1d3drRGpKLXIzank4OFRJRmR5ZksyS2lJdVlWekdyemkyV19FalBwQlRRQ3lKb0U5ZzFPeVdzb2FTM1pTUjVNLTl2dlhkNFJMRFRrekZwdjhRc194bzJzZlR3N1JSNG91RjdUUy04RWdYWVZiRFRabFdtSmF4MktMcTNJcDBtZGQxejR1RmpzTGVsU2MyS25FWUNB?oc=5",
+        "pub_date": "Fri, 13 Mar 2026 14:06:22 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -161,14 +169,6 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWnpvYV8zZENneVEzeHp1b2hjcFN3eTdDTXVybENINkNpZ3R0MVpxU0xaX3dReU5sanJ4QmE2YlRoZ1psRHVrSTZEOGhIUkxnSTVMUDJuN2Nzdm1ac3RLTTNPeEttTHdZeDc3QWxNNFRBNG9YMFgwTGhoMGliYVhVVFRRWTQ4SnBhZ3ZrWnNzeUN2M1BHeDdtN2R5cDA3TktPYUU5MVdyaVB0Skp5RDNYNkRsYmY?oc=5",
         "pub_date": "Thu, 29 Jan 2026 08:00:00 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
-        "title": "Bybit Pay Joins The Mastercard Crypto Credential Network, Simplifying Verifiable Crypto Transfers - HackerNoon",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGNZeXJ5UkhtcWE5V19maE42X1NHaWFwSzVGOXV0WGpQQ0NsY2N6NzVPZjhIZV9fQWF0a2E1bXU5TU85TFNzR2ZWcWNXN2xDX0tENi1WdEMwUDVyRkgyRXdOU3BPcU5sYV85YXFBT05zZXBqRWdOSGt6MWtTYWRYWE1iYmR5X2VOMEN5QXlIN1RFVndJa2hSYXFabV92NnJ0VS1WdkdSemRlZ3JjVzNIeGcxSmozRERITThr?oc=5",
-        "pub_date": "Thu, 12 Mar 2026 19:08:45 GMT",
-        "sentiment": "negative",
         "source": "rss"
       },
       {
@@ -237,6 +237,14 @@
       },
       {
         "exchange": "Bybit",
+        "title": "Belarus blocks residents’ access to crypto exchanges Bybit, Bitget, and OKX - dlnews.com",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNUt1djdpcHV2RmxYdDJGTkJveXBxcmQtdUtwWTZOZzYwN0dMVGZuOXlZNllsS0tFWWhORTFqOTRVQnVPMEhMcURQcEI0MVpySkxONkdoOVREeFpVNHZvM2t4QWI1d2VoWTc2X1dvQXVDNm1JdjcwaVVRWUpMUllqNExwMWxscjhQZFhZMV92OXZiWkk?oc=5",
+        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
         "title": "Bybit relaunches UK crypto platform after 2023 exit linked to FCA rules - The Block",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFdkhMM25MOVFpZXdMX1VRdEcxU2VLczVhc0xoWVhreHhrTHhWRS15WVNwTlZUbWlJd2tNajJ3QjZxSGZBUlBWTEVReHRxUXpvb2F5Ql9lRFBvR1poYnZPM1l0TDVETmkyclVaa3o0WUpHQ3poSTFlLXJDNnJYb2s?oc=5",
         "pub_date": "Fri, 19 Dec 2025 08:00:00 GMT",
@@ -285,17 +293,17 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Pi Network crypto up 50% after prolonged slump - VnExpress International",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTJKSE4zYmNZX3l5V0tOeGRURXd2SEFaRndHc0xUZTRmVGhieVhubENIRG9od1VRWWkzdHRoc01TZXhkamFscjZMY0hUaTlnd1NIMG11X19LQ3ZyVVpzRXZlcm9CRDRwLTI4WE9GQ2Fydks5azFTZ3d0aHlwSkZmeVBLanBpMjdiZ0lCR0pWbE9CRkhSNFlKNVMzZ0RGT2tnbDd4bA?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 02:25:12 GMT",
+        "title": "Bybit and Block Scholes Report Highlights Diverging Signals in Bitcoin Derivatives Markets - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeUo0dXNGUWdxcUJFd0ljTzVOd2g3cWpYWEstekpaRUYybXhnTk9vdE82OXJFbHlvcGk1RF94cFlUbThxWHF3VFRYM0gwY3RvRTdJNGNYelUwRkpKZVNfN1MzVGdCQVRlcGh5RzdSbl9pOXFHX0paeEJMTEU1a1A1dWprN0VfcXlpdjE2WWdYR3FkSlQxNGxhamhqbTB0QnEyUlJLdDYtYlRDRGtzbWg1T0d3MWNnUTdMLVdtakM2dXdJUTBUN24tMEQ2YzBqTUUzVnNHRU5NUDF5bFdObkQyaTJKM2g?oc=5",
+        "pub_date": "Fri, 27 Feb 2026 09:48:12 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Bybit",
-        "title": "Bybit and Block Scholes Report Highlights Diverging Signals in Bitcoin Derivatives Markets - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeUo0dXNGUWdxcUJFd0ljTzVOd2g3cWpYWEstekpaRUYybXhnTk9vdE82OXJFbHlvcGk1RF94cFlUbThxWHF3VFRYM0gwY3RvRTdJNGNYelUwRkpKZVNfN1MzVGdCQVRlcGh5RzdSbl9pOXFHX0paeEJMTEU1a1A1dWprN0VfcXlpdjE2WWdYR3FkSlQxNGxhamhqbTB0QnEyUlJLdDYtYlRDRGtzbWg1T0d3MWNnUTdMLVdtakM2dXdJUTBUN24tMEQ2YzBqTUUzVnNHRU5NUDF5bFdObkQyaTJKM2g?oc=5",
-        "pub_date": "Fri, 27 Feb 2026 09:48:12 GMT",
+        "title": "Pi Network crypto up 50% after prolonged slump - VnExpress International",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTJKSE4zYmNZX3l5V0tOeGRURXd2SEFaRndHc0xUZTRmVGhieVhubENIRG9od1VRWWkzdHRoc01TZXhkamFscjZMY0hUaTlnd1NIMG11X19LQ3ZyVVpzRXZlcm9CRDRwLTI4WE9GQ2Fydks5azFTZ3d0aHlwSkZmeVBLanBpMjdiZ0lCR0pWbE9CRkhSNFlKNVMzZ0RGT2tnbDd4bA?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 02:25:12 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -573,17 +581,17 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Coinbase In Talks For $25B Deal To Help Bybit Enter U.S. Market - BlockchainReporter",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX1pnSDRNNWlLSEtabkRwdV93cWJRa3lNQjRUbmFGZUVuNXdMek15R2pYdnhHb01UQkRNd2lFb3dYTlNpWWlvX0VEc2dRY2pVSHRWa3h0NHc2NEdQUVdvam1vYXJwNy1yZXZ4VFlJRy1ENWMwRlhyZFRXVkFHRGYxMVowcldSZWlVWnVybTB3U2RndWN4a0gzNw?oc=5",
-        "pub_date": "Sat, 14 Mar 2026 18:03:22 GMT",
+        "title": "AAVE Rallies 14% as Bybit, Mantle Integration Connects DeFi Lender to 70M Users - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV0xnWGVuS19ONGNzSTdVbUFfa3FRdVVEZXg4UHlCRWdsbGtjUVNwV2ZWLVNoSDVHLXJzUk1WVXZhTmVfckdHTWZBSmtVRTh3VmllS2VyVS1zM3lUbTdWZjk3czJTWTI2bUFfU3JEcjh4N1dqcC1FekI0UUtwWnlqZ3h1T2htaHFtUlIzdE0tNmg1U1E5ZFg3VDJUbjNvcUhyMnRZVHdtVThET1dIS1dLMnpnNVpzOEV4dlUxWnV3?oc=5",
+        "pub_date": "Tue, 02 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Bybit",
-        "title": "AAVE Rallies 14% as Bybit, Mantle Integration Connects DeFi Lender to 70M Users - CoinDesk",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV0xnWGVuS19ONGNzSTdVbUFfa3FRdVVEZXg4UHlCRWdsbGtjUVNwV2ZWLVNoSDVHLXJzUk1WVXZhTmVfckdHTWZBSmtVRTh3VmllS2VyVS1zM3lUbTdWZjk3czJTWTI2bUFfU3JEcjh4N1dqcC1FekI0UUtwWnlqZ3h1T2htaHFtUlIzdE0tNmg1U1E5ZFg3VDJUbjNvcUhyMnRZVHdtVThET1dIS1dLMnpnNVpzOEV4dlUxWnV3?oc=5",
-        "pub_date": "Tue, 02 Dec 2025 08:00:00 GMT",
+        "title": "Coinbase In Talks For $25B Deal To Help Bybit Enter U.S. Market - BlockchainReporter",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX1pnSDRNNWlLSEtabkRwdV93cWJRa3lNQjRUbmFGZUVuNXdMek15R2pYdnhHb01UQkRNd2lFb3dYTlNpWWlvX0VEc2dRY2pVSHRWa3h0NHc2NEdQUVdvam1vYXJwNy1yZXZ4VFlJRy1ENWMwRlhyZFRXVkFHRGYxMVowcldSZWlVWnVybTB3U2RndWN4a0gzNw?oc=5",
+        "pub_date": "Sat, 14 Mar 2026 18:03:22 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -685,18 +693,18 @@
       },
       {
         "exchange": "Bybit",
-        "title": "The ByBit Heist and the Future of U.S. Crypto Regulation - CSIS | Center for Strategic and International Studies",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96cnVSVTBYb20wdE5TNGtReUIyT0EwdlUwZHN6b2VzYTlBand5aEVReTNES01hLUE1NUNFVlkxRUxPVW5hYU4tcUlhdlQ5c0JZQUstVjF0YkhoLW5McW1XejJDRUhwQzJvbU5DMlJ2cmljRzBJUXdqcmlqRm5BUQ?oc=5",
-        "pub_date": "Tue, 18 Mar 2025 07:00:00 GMT",
-        "sentiment": "negative",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
         "title": "Crypto exchange Bybit steps up India push with team expansion, user growth drive, crypto card plans - TradingView",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbjA2TnNWVVpDSXlYdkdBcGJJLV80dy0tdHBzd0pDaHNJdDJ6UXV0RTdlOGhzOUpBbFVybURBSlJjYmE1WlBJRm9kNFNDcWRtQlJ6Z3JCVzJnelV2QzlzNWR2NEZQMUtLeTRvQXA4WXNudUFGaXMtd3dJbjFfTHJVYWs0Q2FUVEhMVkd2RXNfY0F4TlFob0xKbVJlZzlVaHRaSTY2RHhFN2JaNUJBdXBMUXBsejJHTnFNS2xOVkhxLVcyWWhWbHlpZUptdm80Tm00a3JWWlF4Z25Ja2gwNWR3SE9taGc3bGl6T2pqZWdxSzRrZw?oc=5",
         "pub_date": "Tue, 30 Sep 2025 07:00:00 GMT",
         "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "The ByBit Heist and the Future of U.S. Crypto Regulation - CSIS | Center for Strategic and International Studies",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96cnVSVTBYb20wdE5TNGtReUIyT0EwdlUwZHN6b2VzYTlBand5aEVReTNES01hLUE1NUNFVlkxRUxPVW5hYU4tcUlhdlQ5c0JZQUstVjF0YkhoLW5McW1XejJDRUhwQzJvbU5DMlJ2cmljRzBJUXdqcmlqRm5BUQ?oc=5",
+        "pub_date": "Tue, 18 Mar 2025 07:00:00 GMT",
+        "sentiment": "negative",
         "source": "rss"
       },
       {
