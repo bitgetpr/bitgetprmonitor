@@ -1,7 +1,7 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-16T13:31:34.551110+00:00",
+    "generated_at": "2026-03-16T13:45:22.444258+00:00",
     "articles": [
       {
         "exchange": "Bybit",
@@ -189,18 +189,18 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Typing Replaces Clicking in Crypto Trading as Bybit Tests Conversational Orders - Prittle Prattle News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXdCVE9WWTlqYlJJLUVpNEw3QUh6ZlNpTlM3YnlHQ1E2OUE4TmFIWXV2V2lfeGhaejFsVFpUXzJLbG1USVhhOGMwaWVKU2pSRDI0YXFybGw4WWMyMUY2RzM4eHdNRkFibEQwc0ZqeHNOVXpzaWFjZVdwanpEUzA1T3A5UE54aFlhRnQtQjB2U09VZTZPbG03dzdDMnhmbHdDZ081b0dac3lKRVBLU1E?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 10:19:39 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
         "title": "Ripple’s RLUSD Listed on Top Crypto Exchange Bybit - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVlWSmRlY2R4d3FyRjRwa0RDOVJLQjg4QkpfUHYxLVhqMTg4Sy1taTNXNUpWZWZwSjFoQmNyMEtZNDlwX3F3QWhmcWVtQUJoRWJGbTZGVU9OT0J2dzBSTFdER2ZKS1VtNWtyTUM4ZVVRQm8yRmgzS3BRZTJlN0t4Y2lB?oc=5",
         "pub_date": "Sat, 27 Sep 2025 07:00:00 GMT",
         "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Typing Replaces Clicking in Crypto Trading as Bybit Tests Conversational Orders - Prittle Prattle News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXdCVE9WWTlqYlJJLUVpNEw3QUh6ZlNpTlM3YnlHQ1E2OUE4TmFIWXV2V2lfeGhaejFsVFpUXzJLbG1USVhhOGMwaWVKU2pSRDI0YXFybGw4WWMyMUY2RzM4eHdNRkFibEQwc0ZqeHNOVXpzaWFjZVdwanpEUzA1T3A5UE54aFlhRnQtQjB2U09VZTZPbG03dzdDMnhmbHdDZ081b0dac3lKRVBLU1E?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 10:19:39 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -842,6 +842,342 @@
         "pub_date": "Wed, 10 Dec 2025 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bittensor (TAO) zeigt erneut starke Leistungen auf dem Kryptowährungsmarkt. Der Token liegt derzeit bei etwa 289,1 US-Do",
+        "link": "https://www.blockchainstories.de/2026/03/16/analyst-ein-durchbruch-ueber-200-us-dollar-koennte-bittensor-in-richtung-300-us-dollar-fuehren/",
+        "pub_date": "2026-03-16T13:34",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Your curated guide to the events shaping blockchain’s next chapter.",
+        "link": "https://www.designrush.com/agency/blockchain-development-companies/trends/blockchain-conferences",
+        "pub_date": "2026-03-16T13:33",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "PANews reported on March 16 that, according to Bybit, spot silver broke through the $80/ounce mark and is currently trad",
+        "link": "https://www.panewslab.com/en/articles/019cf6ae-48bd-77be-8aa6-20b17c01c2eb",
+        "pub_date": "2026-03-16T13:13",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bạc giao ngay vượt mốc 80 USD/ounce và đang giao dịch quanh 80,024 USD/ounce, giảm 0,66% trong ngày, theo dữ liệu từ Byb",
+        "link": "https://tintucbitcoin.com/gia-bac-giao-ngay-vuot-80-usd/",
+        "pub_date": "2026-03-16T12:57",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "... #bitcoin #hyperliquid #ai 💎Crypto All In One Hyper Swap Website: https://www.hyper-swap.io/ 🔥Dreamcash Invitation Li",
+        "link": "https://odysee.com/@alessandrodecrypto:8/Bitcoin-news-price-update-16.03:8",
+        "pub_date": "2026-03-16T12:55",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Formula 1 was supposed to be crypto’s big, glossy billboard to the world.",
+        "link": "https://www.kriptoworld.com/f1-just-showed-how-fragile-cryptos-real-world-branding-really-is/",
+        "pub_date": "2026-03-16T12:50",
+        "sentiment": "negative",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Imaginez pouvoir anticiper une violente hausse de Bitcoin plusieurs heures avant qu’elle n’apparaisse sur votre graphiqu",
+        "link": "https://viralmag.fr/comment-suivre-les-baleines-crypto-en-2026/",
+        "pub_date": "2026-03-16T12:45",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "PANews 3月16日消息，据Bybit行情，现货白银突破80美元/盎司整数关口，现报80.024美元，日内跌幅0.66%。",
+        "link": "https://cn.tradingview.com/news/panews:97510303ee3f9:0/",
+        "pub_date": "2026-03-16T12:45",
+        "sentiment": "negative",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "PANews 3月16日消息，據Bybit行情，現貨白銀突破8美元/盎司整數關口，現報8.24美元，日內跌幅.66%。",
+        "link": "https://tw.tradingview.com/news/panews:97510303eacdf:0/",
+        "pub_date": "2026-03-16T12:45",
+        "sentiment": "negative",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bybit , вторая крупнейшая в мире криптовалютная биржа по торговому объему, объявила о запуске торговых ИИ-навыков ( AI T",
+        "link": "https://topcryptonews.ru/novosti-bitcoin/trejding-siloj-mysli-bybit-vnedryaet-ai-skills-dlya-upravleniya-ii-agentami-bez-lishnih-nastroek.html",
+        "pub_date": "2026-03-16T12:44",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Disclosure: This article does not represent investment advice. The content and materials featured on this page are for e",
+        "link": "https://crypto.news/how-to-track-crypto-whales-a-comprehensive-guide-to-market-intelligence/",
+        "pub_date": "2026-03-16T12:41",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Waiting for a high price: pricing the bubble and valuing the narrative.JinseFinance2026/03/16 19:58Follow",
+        "link": "https://www.coinlive.com/news/waiting-for-a-high-price-pricing-the-bubble-and-valuing",
+        "pub_date": "2026-03-16T12:35",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Mantle (MNT) zieht erneut Aufmerksamkeit auf dem Kryptomarkt auf sich, während viele andere Layer-2-Token weiterhin Schw",
+        "link": "https://www.blockchainstories.de/2026/03/16/warum-mantle-moeglicherweise-besser-abschneidet-als-andere-layer-2-projekte/",
+        "pub_date": "2026-03-16T12:31",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "A diferencia de semanas anteriores, la que termina ha sido particularmente positiva para el mercado de criptomonedas. En",
+        "link": "https://cryptonews.net/es/news/bitcoin/32558889/",
+        "pub_date": "2026-03-16T12:23",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "МИРОВЫЕ КОНФЛИКТЫ МОГУТ ПРИВЕСТИ К ПАДЕНИЮ СТОИМОСТИ БИТКОИНА ДО 10 ТЫСЯЧ ДОЛЛАРОВ. НОВОСТИ МИРА КРИПТОВАЛЮТ",
+        "link": "https://zarubejom.ru/events/ne-vremya-bitkoina-/",
+        "pub_date": "2026-03-16T12:18",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "ChainCatcher 消息，据 Coinglass 数据显示，BTC 全网合约持仓量在过去 24 小时增长 5.91%，当前总持仓量为 495.44 亿美元。其中 Binance 持仓量为 87.35 亿美元，OKX 持仓量为 30.5",
+        "link": "https://www.chaincatcher.com/article/2252220",
+        "pub_date": "2026-03-16T12:09",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Vàng giao ngay vượt mốc 5.000 USD/ounce và đang giao dịch quanh 5.000,83 USD, giảm 0,37% trong ngày. Dữ liệu được Bybit ",
+        "link": "https://tintucbitcoin.com/gia-vang-giao-ngay-vuot-5-000-usd/",
+        "pub_date": "2026-03-16T12:08",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "2020 年 7 月，DeFi 之王 AC（Andre Cronje）亲自开启了“无预挖和预售、无团队和 VC 份额”的公平启动（Fair Launch）模式，一时传为美谈。",
+        "link": "https://www.jinse2.com/blockchain/3730371.html",
+        "pub_date": "2026-03-16T12:05",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "PANews 3月16日消息，据Bybit行情，现货黄金突破5000美元/盎司整数关口，现报5000.83美元，日内跌幅0.37%。",
+        "link": "https://cn.tradingview.com/news/panews:6c78a5786e3f9:0/",
+        "pub_date": "2026-03-16T12:04",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "BTC resistance at $73K, Aster mainnet launch, and Mantle’s Coinbase news put these altcoins on breakout alert",
+        "link": "https://dailycandle.substack.com/p/watch-these-alts-on-bitcoins-move",
+        "pub_date": "2026-03-16T12:03",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Groupe Financier Hana l'un des plus grands groupes de services bancaires et financiers de Corée du Sud, s'est associé à ",
+        "link": "https://www.lacryptomonnaie.net/anglais/hana-group-et-standard-chartered-unissent-leurs-forces-sur-les-actifs-numeriques/",
+        "pub_date": "2026-03-16T12:00",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "This episode of WuBlockchain podcast explores the long-term evolution of Vietnam’s crypto market through the perspective",
+        "link": "https://wublock.substack.com/p/with-thanh-le-how-vietnam-leaves",
+        "pub_date": "2026-03-16T11:55",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Трейдинг силой мысли: Bybit внедряет AI Skills для управления ИИ-агентами без лишних настроек",
+        "link": "https://coinfeed.ru/news/trejding-siloj-mysli-bybit-vnedryaet-ai-skills-dlya-upravleniya-ii-agentami-bez-lishnih-nastroek.html",
+        "pub_date": "2026-03-16T11:49",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "作者：Shouyi，Biteye 内容团队",
+        "link": "https://www.jinse2.com/blockchain/3730368.html",
+        "pub_date": "2026-03-16T11:32",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "In-depth comparative review of 6 major exchanges; step-by-step guide to becoming your own lobster trader.JinseFinance202",
+        "link": "https://www.coinlive.com/news/in-depth-comparative-review-of-6-major-exchanges-step-by-step-guide-to",
+        "pub_date": "2026-03-16T11:30",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "YOUR COSMETIC CARE STARTS HERE",
+        "link": "https://www.bestdevops.com/top-10-crypto-custody-platforms-features-pros-cons-comparison/",
+        "pub_date": "2026-03-16T11:28",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Ethereum zeigt erneut starke Bewegungen auf dem Kryptowährungsmarkt. Die zweitgrößte Kryptowährung steigt in den vergang",
+        "link": "https://www.blockchainstories.de/2026/03/16/ethereum-koennte-laut-analyst-am-beginn-eines-neuen-anstiegs-stehen/",
+        "pub_date": "2026-03-16T11:28",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Ethereum laat opnieuw sterke beweging zien op de cryptomarkt. De op een na grootste cryptocurrency stijgt in de afgelope",
+        "link": "https://www.blockchainstories.com/2026/03/16/ethereum-kan-volgens-analist-aan-begin-van-nieuwe-stijging-staan/",
+        "pub_date": "2026-03-16T11:28",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "СМИ сообщили о переговорах между Coinbase и Bybit о возможном инвестиционном соглашении.",
+        "link": "https://incrypted.com/smy-coinbase-vedet-peregovory-ob-ynvestytsyjah/",
+        "pub_date": "2026-03-16T11:27",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Media reported talks between Coinbase and Bybit on a potential investment agreement.",
+        "link": "https://incrypted.com/en/media-coinbase-is-in-talks-to-invest/",
+        "pub_date": "2026-03-16T11:27",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "ЗМІ повідомили про переговори між Coinbase і Bybit щодо можливого інвестиційного договору.",
+        "link": "https://incrypted.com/ua/zmi-coinbase-vede-peregovory-pro-investytsiji/",
+        "pub_date": "2026-03-16T11:27",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Media poinformowały o negocjacjach między Coinbase a Bybit w sprawie możliwej umowy inwestycyjnej.",
+        "link": "https://incrypted.com/pl/media-coinbase-prowadzi-rozmowy-na/",
+        "pub_date": "2026-03-16T11:27",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bitcoin has rallied more than 10% from its 8 March low of $66K to above $73K, supported by $763M of spot BTC ETF inflows",
+        "link": "https://blockscholesresearch.substack.com/p/iran-wants-to-make-a-deal-and-i-dont",
+        "pub_date": "2026-03-16T11:26",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "CFG per kelias minutes sprogo daugiau nei 60 % po to, kai Binance paskelbė, kad įtrauks kriptovaliutą į savo biržos sąra",
+        "link": "https://regionuzinios.lt/cfg-kaina-soktelejo-daugiau-nei-60-po-binance-itraukimo-i-sarasa/",
+        "pub_date": "2026-03-16T11:19",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "この記事の要点 チェイナリシスが2026年3月16日に最新レポートを公開 ...",
+        "link": "https://bittimes.net/news/219179.html",
+        "pub_date": "2026-03-16T11:01",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Calling all traders — are you all geared up for a new Bybit Quest? ICYMI, Bybit Quests is a series of challenges that wi",
+        "link": "https://www.coincarp.com/uk/exchange/announcement/bybitbybit-quest-learn-about-bybit-ai-hub-and-win-25-u/",
+        "pub_date": "2026-03-16T11:00",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "金融庁が暗号資産の無登録販売について罰則強化か",
+        "link": "https://www.neweconomy.jp/posts/557070",
+        "pub_date": "2026-03-16T10:51",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bybit , друга у світі криптобіржа за обсягом торгівлі, оголосила про запуск AI Trading Skill — функції, що дає змогу вик",
+        "link": "https://minfin.com.ua/ua/2026/03/16/170088738/",
+        "pub_date": "2026-03-16T10:50",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bitcoin zeigt heute erneut Bewegung in Richtung einer wichtigen Preiszone. Die größte Kryptowährung steigt in den vergan",
+        "link": "https://www.blockchainstories.de/2026/03/16/bitcoin-kurs-steigt-aber-analyst-sieht-risiko-einer-starken-korrektur/",
+        "pub_date": "2026-03-16T10:33",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bitcoin laat vandaag opnieuw beweging zien richting een belangrijke prijslijn. De grootste cryptocurrency stijgt de afge",
+        "link": "https://www.blockchainstories.com/2026/03/16/bitcoin-koers-stijgt-maar-analist-ziet-risico-op-scherpe-correctie/",
+        "pub_date": "2026-03-16T10:33",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "TRON se ha unido al Programa de Socios de Criptomonedas de Mastercard, en un esfuerzo de la compañía de pagos por amplia",
+        "link": "https://cryptonews.net/es/news/market/32555305/",
+        "pub_date": "2026-03-16T10:33",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Vous en avez assez de jongler entre cinq ou six applications différentes pour simplement gérer vos cryptomonnaies ? Ouvr",
+        "link": "https://viralmag.fr/satu-wallet-le-super-app-crypto-tout-en-un-sur-solana/",
+        "pub_date": "2026-03-16T10:28",
+        "sentiment": "neutral",
+        "source": "meltwater"
       }
     ]
   }
