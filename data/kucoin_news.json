@@ -1,7 +1,7 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-16T12:21:12.784880+00:00",
+    "generated_at": "2026-03-16T12:27:51.595172+00:00",
     "articles": [
       {
         "exchange": "KuCoin",
@@ -261,14 +261,6 @@
       },
       {
         "exchange": "KuCoin",
-        "title": "KuCoin vs Bitget vs Coinbase: Best Crypto Exchanges 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9teXp5OXhlUUQ3c3FRRmZKVFFxVGVNNG1rYXU5eHJJMkt3ang5UmFTeDJIbU1qVkdpb25QT1dzX1J4QmZOOElpTHdiaFE5YlE3dW9QaEc3Q2J0T2N4YzlsYXVR0gFiQVVfeXFMT215enk5eGVRRDdzcVFGZkpUUXFUZU00bWthdTl4ckkyS3dqeDlSYVN4MkhtTWpWR2lvblBPV3NfUnhCZk44SWlMd2JoUTliUTd1b1BoRzdDYnRPY3hjOWxhdVE?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:21:24 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "KuCoin",
         "title": "KuCoin Presents KuMining: Embodying \"Simple Mining, Smart Gains\" for Effortless Crypto Accumulation - PR Newswire",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRFFSbUVrYXdocVVXRFdjb1ZPTU9rdHZCNEFHNzJ5NHNFdGVRVmlnYTlhUUlnbHZuVU5TUWdqWGNyTjZfZzZlc2pVdGlfc2NSUThYN1N4OEd6d09RSmhfNFRsY1pDb1hCdGhVemFtWU9MbVNLbWhCSmFEdnJwcHZfa01rc3g4blkxdGFDa1h6TUs0bEdwTHR0T012OFU4UFJucmpueVRDREZvWUhtcUNCWGw0enFITk9xSlhWWWNyc3gtanFYLUhLYTBzS2Z6R0FaN0g2YUJQMzhxTVBZNklUZlNvaXM2QQ?oc=5",
         "pub_date": "Wed, 03 Sep 2025 07:00:00 GMT",
@@ -305,6 +297,14 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMTJPLU9tbmFMcGl5UUV0Wmc4em9JVEJ3SWpkeHdTYkh4RVZGUlBuU3JMT2hyRGFGZmhldFg5OEREZFU5UTV1M0xSQUwwZ0toYkNCcDVSOGtJOVB4OENDbHltMlJmbGZUamViUjZ5eUI0RExoNzlEUmlpRHNET3hsdGxiWEtSakJzZmlpVUY3bW5HMTlfWTYzaXpxbDFEN2k4RjlaVDdhMFltN3VpMDJtNExCSmo0Q3V4bURTOUNPYWZ4cnU0UXlmYlVEcG1kU25a?oc=5",
         "pub_date": "Wed, 11 Mar 2026 06:18:17 GMT",
         "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "KuCoin",
+        "title": "Best Crypto Exchange Italy 2026: Bitget vs KuCoin Fees - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObnlDRldSR0JVOS1keUdUZzAtRkdnTURFQzNoOVdpRUYwN25wanhPUWJlZ25IbnZOZ1J4aFcwcGV0eUxJOFpXQVU2amdIcU40aDdWUHJRM0Y3OHpSVnVWT0RSMzFUc1VkT1BMUXFPR2Ryb0JlUDVGNi16aXdnRWhieGxNLW9oSW1HQ1VmMkt2Q1NibzBpODBQRThrUFpqTldBZ1FBdlI5MllnR2VVR1BWaUdIeEZoM0hVR1czS1VWZ3LSAcYBQVVfeXFMTXVpa3BadGJEZmpxTkd4ZmdsM2kxYTRrMGh5UU9UOTN1bTBPNTFFelptRFJmakJTTEEybGdiVjIxQ0tfTzF5RGpMQXh2TU9oQi0wMWNMQ3Y0ZDNIX0VmYTA4WXhKa2drSDlUSDhOUTJOT09TVndJRmQydUZiR0FweWt2MjFiOUllY053VUpvZGs5OG00aHROMHgzZGx6V1N6X3lrck14U0NZbHpqdGV4bnJIODJ5b0hleVBCa1RhSjZraEdyT01B?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -616,6 +616,14 @@
         "title": "KuCoin secures AUSTRAC registration to operate as crypto exchange in Australia - Crypto Briefing",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc09TdTdONUY1LW8wM2pnM3pFT3NWRXNrQkVUaEZseVpzOGR6RWIyTWMySXlNSnFUUHoycFVzWHlPOGhoa2JGc013M2IzMTktbDRJT21PUkZtRWlwTE5TZVFoTVFlbUhYNWkwRk1yaVZPWWc?oc=5",
         "pub_date": "Tue, 25 Nov 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "KuCoin",
+        "title": "KuCoin targets 10% of Dogecoin mining capacity via new mining platform - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQjZJZndnYlkzRGpQYW1sZlFZbDU4YngxSUVQQVNwR2ZOTHdTOE9DSlMybXRIb1JQNHpiUW1WOWp2Z19KVWV0R0tjUmtGLTNHU1RpRlpwRkJteHFWSGtmVWVqV1hiM3RUcUdYaDM5dGJpLWlpSzNxMnBEeVdOSWI4bUVEUmRjek16Q19SLWg2S005NnhkcGdKc1hRLTdETGhZaGFoVG5EUmxNU2pELWgtZE5NaXJyVnM2alNtLThULV9VaXFuVmlkeV9ONVA?oc=5",
+        "pub_date": "Wed, 03 Sep 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
