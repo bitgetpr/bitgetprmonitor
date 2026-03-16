@@ -209,13 +209,12 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
             data = json.loads(raw)
             print("  [DEBUG] Meltwater keys: {}".format(list(data.keys())))
             mentions = data.get("result", {}).get("documents", [])
-            if mentions:
-                print("  [DEBUG] First doc keys: {}".format(list(mentions[0].keys())))
             for m in mentions:
-                title   = m.get("title", "") or m.get("document", {}).get("title", "")
-                link    = m.get("url", "")   or m.get("document", {}).get("url", "")
-                pub     = m.get("publish_date", "") or m.get("published", "")
-                mw_sent = str(m.get("sentiment", "") or "").lower()
+                title   = m.get("content", "")[:120]
+                link    = m.get("url", "")
+                pub     = m.get("published_date", "")
+                enrich  = m.get("enrichments", {})
+                mw_sent = str(enrich.get("sentiment", {}).get("label", "") if isinstance(enrich.get("sentiment"), dict) else enrich.get("sentiment", "")).lower()
                 if mw_sent in ("positive", "negative", "neutral"):
                     sentiment = mw_sent
                 else:
