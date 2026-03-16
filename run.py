@@ -173,19 +173,21 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
     if not api_key:
         print("  [SKIP] No Meltwater API key set.")
         return []
-    base_url = "https://api.meltwater.com"
-    end_dt   = datetime.now(timezone.utc)
-    start_dt = end_dt - timedelta(days=lookback_days)
+
+    base_url  = "https://api.meltwater.com"
+    end_dt    = datetime.now(timezone.utc)
+    start_dt  = end_dt - timedelta(days=lookback_days)
     start_iso = start_dt.strftime("%Y-%m-%dT%H:%M:%SZ")
     end_iso   = end_dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
-articles = []
+    articles = []
     auth_headers = {
         "Authorization": "Bearer " + api_key,
         "Accept": "application/json",
         "Content-Type": "application/json",
     }
-for search_id, exchange in saved_search_ids.items():
+
+    for search_id, exchange in saved_search_ids.items():
         print("  [Meltwater] Fetching search {} for {}...".format(search_id, exchange))
         try:
             url = base_url + "/v2/searches/" + search_id + "/mentions"
@@ -201,7 +203,7 @@ for search_id, exchange in saved_search_ids.items():
             data = json.loads(raw)
             mentions = data.get("hits", {}).get("hits", []) or data.get("mentions", []) or []
             for m in mentions:
-                src  = m.get("_source", m)
+                src   = m.get("_source", m)
                 title = src.get("title", "") or src.get("document", {}).get("title", "")
                 link  = src.get("url", "")   or src.get("document", {}).get("url", "")
                 pub   = src.get("published", "") or src.get("document", {}).get("published", "")
@@ -224,7 +226,7 @@ for search_id, exchange in saved_search_ids.items():
             print("  [ERROR] Meltwater fetch failed for {}: {}".format(exchange, e))
         time.sleep(0.3)
 
-print("  [Meltwater] {} articles fetched.".format(len(articles)))
+    print("  [Meltwater] {} articles fetched.".format(len(articles)))
     return articles
 
 LAST_WEEK_PATH = "data/last_week_sov.json"
