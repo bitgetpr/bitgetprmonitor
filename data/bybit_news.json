@@ -1,7 +1,7 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-16T11:02:11.120449+00:00",
+    "generated_at": "2026-03-16T11:11:21.639544+00:00",
     "articles": [
       {
         "exchange": "Bybit",
@@ -101,9 +101,9 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Coinbase Could Potentially Invest in Bybit Amid Global Push - BeInCrypto",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aMUdRX0dBSkcyS0Q5ZkVldGFtbE1jazFPajVzMFdnaHNuUlNWQnBndHRCdHZjUEthR1V3STJydzB0YnNfS1lDbmJBcmM0UmJiWHdjYWptaktGOUgwVF9fR05FbHEzb3d5VGhhT3R3c0tJdw?oc=5",
-        "pub_date": "Sat, 14 Mar 2026 13:41:00 GMT",
+        "title": "Bybit EU Leads Paris Blockchain Week 2026 as Title Sponsor; CEO Ben Zhou to Take the Stage By Chainwire - Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNlQ3cHJrUEdFY3ZSNndkM1N6dTZRdXhsdlZyNkxLVmdwT01uVml1SnphZFpUVk10Mm5KbzlCSDNINVdfYVA4NVFjcUZMY0trVjJqTmxyZndCVXhTd0FNQUxXdFptU2xkY1FhRVFLT3BUV0UwWWJwX1JRTV8yRW9kMXNKZGJuTXU2WWx1UFdZYlJyZlE2RXFObFRIQzJ5QlZWYi1uNFp0emxIanh5TWhudHR2TW11bWNuSW9TdUU5ZmJKemZKSTF4Y3hZZUZxSjZsQnI4emFkS0NqRWc3TERqTFJn?oc=5",
+        "pub_date": "Thu, 12 Mar 2026 10:36:07 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -157,6 +157,14 @@
       },
       {
         "exchange": "Bybit",
+        "title": "Coinbase Could Potentially Invest in Bybit Amid Global Push - BeInCrypto",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aMUdRX0dBSkcyS0Q5ZkVldGFtbE1jazFPajVzMFdnaHNuUlNWQnBndHRCdHZjUEthR1V3STJydzB0YnNfS1lDbmJBcmM0UmJiWHdjYWptaktGOUgwVF9fR05FbHEzb3d5VGhhT3R3c0tJdw?oc=5",
+        "pub_date": "Sat, 14 Mar 2026 13:41:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
         "title": "Bybit Pay Joins The Mastercard Crypto Credential Network, Simplifying Verifiable Crypto Transfers - HackerNoon",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGNZeXJ5UkhtcWE5V19maE42X1NHaWFwSzVGOXV0WGpQQ0NsY2N6NzVPZjhIZV9fQWF0a2E1bXU5TU85TFNzR2ZWcWNXN2xDX0tENi1WdEMwUDVyRkgyRXdOU3BPcU5sYV85YXFBT05zZXBqRWdOSGt6MWtTYWRYWE1iYmR5X2VOMEN5QXlIN1RFVndJa2hSYXFabV92NnJ0VS1WdkdSemRlZ3JjVzNIeGcxSmozRERITThr?oc=5",
         "pub_date": "Thu, 12 Mar 2026 19:08:45 GMT",
@@ -184,14 +192,6 @@
         "title": "Bybit Launches All-New Rewards Hub, Reimagining the Trading Rewards Experience - Chainwire",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFN4c19OVDRBc0dZZlUzYjRpRVNOZ2c1VWJRdUdocHl5ckhvQlFnejB4RFV1WW5kdExXT0dpb2RGWS1iSFlWWEJIcVFTc0pLMGVHOUdWMm9nTjN2VVlVNmFUZVhPS1BrZEZGOHlFQUstZml0TlE1SXh5MjhaWml1OUR3dkhfZm9ud1cwVVY2WlpOWXJaaVVLOGRhZkUtZzBJdTZnemtxRkhqRk9NeVdsSw?oc=5",
         "pub_date": "Thu, 12 Mar 2026 14:07:14 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
-        "title": "Best Crypto Exchanges UK 2026: Bybit vs Bitget vs Kraken vs Coinbase - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTERHUjl0NklzaFFxanpEU1VKTUxIa1gwLWViUmpWY0JCVXNRLTlpNXVOUmJxN2x0dkZlWXBWd25mdzJNQVdpaFFzalVEY1V5R2FUbE9ZbzlIR2xMQUpLYTlRWVZqQ3VLZzA5dWNlb0pONkw1bC1QN3FVc0E3VXF0TUl2TW9HSGRIdVhaanc5WlNhS3pFcThQZFFUOVVrMXl1RFdOeFAwT2lwLWpDa3g4QjZDMGgzNXlRVnZrTWg4T2dLVGvSAcMBQVVfeXFMTkxER1I5dDZJc2hRcWp6RFNVSk1MSGtYMC1lYlJqVmNCQlVzUS05aTV1TlJicTdsdHZGZVlwVnduZncyTUFXaWhRc2pVRGNVeUdhVGxPWW85SEdsTEFKS2E5UVlWakN1S2cwOXVjZW9KTjZMNWwtUDdxVXNBN1VxdE1Jdk1vR0hkSHVYWmp3OVpTYUt6RXE4UGRRVDlVazF5dURXTnhQME9pcC1qQ2t4OEI2QzBoMzV5UVZ2a01oOE9nS1Rr?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:02:05 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -733,25 +733,9 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Bybit Celebrates TradFi Expansion With Launch of 1 Million USDT Fusion Cup - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXVlb05DbVRKMUgwMksyYkJYa3BnS0Uxa3BkTnVibjdPNnBGTnBRWjQxallROXBxVGRTN3VRODFlU09hVHhBUm1wUm82RV9TOGg0ZlU0dDl3Y3k2TUh5alBfb2I1Z0VNZWpsTmVhUUs0SFByTWFMSkRtR0dac0h0OVNQNG5PcjNMOV9odEc4aHMwUlJXRmlDWWlUcW91YUxKSC1odWtTTXd1WDh3WGhaLS1SaXQ2Vk1vb3Awc0J2QkJoWjVMWnhkazFtN0piZw?oc=5",
-        "pub_date": "Mon, 23 Jun 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
         "title": "Bybit's Mantle Vault Captures Capital Flight to Safety with 50% AUM Jump in January - PR Newswire",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMldCSUdFUlgxdEV6eEJfTGEzOHBIVW9yZHJOWEJUc3FoNlZKQmJVcG1HNzdadXRINDFseEVqcXQwZWhTb19vVWFNMEp3QXFma3lxSGtMX3ZJWUFGcVNMdlRBOWRpaXVqT1FmZ2pUVGVYYUY5QkFORzl2aUJFVzVYYlFJZjBWdW9OSm8xbzBPOHdJc0paMVBVSTdWRHVMYkQ0RGk0NjBFVzhCZzg2UlMtU1I5MGZtRUZKRjRaVVlJQUkzczhEMEhTZUkxQk5DWDYxM2VWVWtUNHNBUQ?oc=5",
         "pub_date": "Wed, 04 Feb 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
-        "title": "Bybit Private Wealth Management Sustains Positive Momentum in January 2026 - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSmJqSWZCMlVieVlka2xRWDBRbWZXMDJCSVgyODJUaHRwcGFBaEVaWENHdk5XdlJiSWJiV3I2cWYtT2tpSFRfclowU015clZWeWtBUEh3Vk5QNVVqeEtmckw3ZnBXdWU4bkF3TDhRSjhUSExoLThhalNocVVIUENfa3RHRTdmY2lldGNVWHRLdl9qMjAzTWY0WTBWdHhLMzlXS0J6a1BrSzdjemlIYnNvWjAxSkdhZVhLSEhUekJ6bFVQcnZDYjg0VTVUTVl1X1U?oc=5",
-        "pub_date": "Wed, 11 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -789,9 +773,9 @@
       },
       {
         "exchange": "Bybit",
-        "title": "State Street Bolsters Crypto Services with Taurus Tie-Up - DailyCoin",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT3lHVVBzMXNJTHR3NXFMa21EVjNpMFNjd0VKQW9Ua0hnd0hZcHJITkZQS1ZwdmVrUFAwWmtJUlNiVXg1VTZTdkVMM0tmOWFEYVZHOVJ5Zm5LQ0xmTkNEelUxN0R4UmlWMGNhbTlWUUNObGNVSTdPMVU4V0tCdUlDSGhMZlpfdw?oc=5",
-        "pub_date": "Tue, 20 Aug 2024 07:00:00 GMT",
+        "title": "Bybit Private Wealth Management Sustains Positive Momentum in January 2026 - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSmJqSWZCMlVieVlka2xRWDBRbWZXMDJCSVgyODJUaHRwcGFBaEVaWENHdk5XdlJiSWJiV3I2cWYtT2tpSFRfclowU015clZWeWtBUEh3Vk5QNVVqeEtmckw3ZnBXdWU4bkF3TDhRSjhUSExoLThhalNocVVIUENfa3RHRTdmY2lldGNVWHRLdl9qMjAzTWY0WTBWdHhLMzlXS0J6a1BrSzdjemlIYnNvWjAxSkdhZVhLSEhUekJ6bFVQcnZDYjg0VTVUTVl1X1U?oc=5",
+        "pub_date": "Wed, 11 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -801,6 +785,14 @@
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54SEVWRndPbVNZVF9OS09hd2JqbGRUczE2VDcxb0MyRUF4S3VrYUhtZ3FQMGMtaGJ4LVhsaWZTcDZRUktUU3JIQ19pWUxicXFqbDltWXZwLU83bGFOQkRuV3pmOFF0QXZTVUFXaVV3VFVtaFBLMlVQRHpOY2NQdw?oc=5",
         "pub_date": "Mon, 06 Oct 2025 07:00:00 GMT",
         "sentiment": "negative",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "State Street Bolsters Crypto Services with Taurus Tie-Up - DailyCoin",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT3lHVVBzMXNJTHR3NXFMa21EVjNpMFNjd0VKQW9Ua0hnd0hZcHJITkZQS1ZwdmVrUFAwWmtJUlNiVXg1VTZTdkVMM0tmOWFEYVZHOVJ5Zm5LQ0xmTkNEelUxN0R4UmlWMGNhbTlWUUNObGNVSTdPMVU4V0tCdUlDSGhMZlpfdw?oc=5",
+        "pub_date": "Tue, 20 Aug 2024 07:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
