@@ -216,8 +216,6 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
                 total = (data.get("result") or {}).get("document_count", 0)
                 print("  [Meltwater] {} page {}/{} ({} so far)".format(
                     exchange, page, -(-total // 50), len(mentions)))
-                if len(mentions) >= total:
-                    break
                 page += 1
                 time.sleep(0.3)
             for m in mentions:
