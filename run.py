@@ -213,7 +213,7 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
                         break
                     except urllib.error.HTTPError as e:
                         if e.code == 429:
-                            wait = 30 * (attempt + 1)
+                            wait = int(e.headers.get("Retry-After", 60 * (attempt + 1)))
                             print("  [WARN] 429 rate limit, waiting {}s...".format(wait))
                             time.sleep(wait)
                         else:
@@ -262,7 +262,7 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
                 time.sleep(2)
         except Exception as e:
             print("  [ERROR] Meltwater fetch failed for {}: {}".format(exchange, e))
-        time.sleep(5)
+        time.sleep(30)
     print("  [Meltwater] {} articles fetched.".format(len(articles)))
     return articles
     
