@@ -1,7 +1,7 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-16T11:11:21.643661+00:00",
+    "generated_at": "2026-03-16T12:04:54.379296+00:00",
     "articles": [
       {
         "exchange": "KuCoin",
@@ -149,6 +149,14 @@
       },
       {
         "exchange": "KuCoin",
+        "title": "KuCoin Launches Tesla and Strategy Equity-Linked Perpetual Crypto Contracts - FinanceFeeds",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWplcTJZNnRGNm9nRV8xWHRMS0pkZldlSTctMHEtWllDd19RNVFHV1RQVEZFWTJJTGZfR2Y2T25Ia1A4THc0S05vXzNxTHJpZGg2MGhKanVwMVpVcHB6MkU4bkd6T2RhNkRfWm9GbjJlTG5sc2stTEVCMTdMYTU3Yll0NVlUdkh6Nm1ManFqM2syYTZCS1dyR0JmUF95MDVkYXlr?oc=5",
+        "pub_date": "Fri, 13 Mar 2026 19:02:18 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "KuCoin",
         "title": "KuCoin Secures AUSTRAC Digital Currency Exchange Registration, Enhances Fiat Access for Australian Users - PR Newswire",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPY0hfbTl2QWY0MkdJUURCam81NjFMN1lFMnBZVGtWQnRuUXdRUUxHOHF6bERIVEFLbGRaZFY3dmxFVnduRGx5cmh3ZGJINmhkblBpaDBHYU1mWHF3MjJBRmdOWGVNMVZlTFNTd3lYdklnYlR1TkNzVHdxUXZWQ0FqY1FaZU5xaUtEN3VPZVNmRWJEQUZWZDhtak5xOFFHZDVza1VvUkpoaDl3U2hYaFlDTzc4bmNNc0ZSdFBhVmtTN25tSzhid0hsSmdMTkxKRG9Fa1hhUDlWbWE0N2llZXJiSFE4NFlDcVpNVzhZc1lzdWt3ZFE2MUdB?oc=5",
         "pub_date": "Tue, 25 Nov 2025 08:00:00 GMT",
@@ -237,14 +245,6 @@
       },
       {
         "exchange": "KuCoin",
-        "title": "KuCoin Skills Hub launches to power modular AI crypto capabilities for users and institutions - The Cryptonomist",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uWXJYQ2x3SXpYb0MyY3VrU3ZyOXlzNmluTjBWN2ItbzVvR0E2RGROSUstVDVBSzlCUkkzSUZmcmVLc2plcTh5Zkc0djVsY09POVlhdEdCSDZtMElJWmdrc0JJTTdONC1GZ2d3?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 13:08:32 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "KuCoin",
         "title": "Crypto Exchange KuCoin Launches Mining Pool for Dogecoin, Litecoin and Soon Bitcoin - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdW5Jd0wwOUlvU2gwQVh3U3QtbFFMVTIzdS1iX2JOQUZMZmV2V1lULWkwaFgxSU5PSXNRRU1fc2JmbnBsZWwzSi1Yc1hVVkMtVWVqMmhaSWZhMzFKVWZxTW00OUZUSmQ3dUJVaHdpeDNER0J4cVI2NjJXeTFmMVQwOXpwVV9tRFRRaWpQVw?oc=5",
         "pub_date": "Thu, 23 Oct 2025 07:00:00 GMT",
@@ -253,9 +253,9 @@
       },
       {
         "exchange": "KuCoin",
-        "title": "KuCoin vs Bitget vs Coinbase: Best Crypto Exchanges 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9teXp5OXhlUUQ3c3FRRmZKVFFxVGVNNG1rYXU5eHJJMkt3ang5UmFTeDJIbU1qVkdpb25QT1dzX1J4QmZOOElpTHdiaFE5YlE3dW9QaEc3Q2J0T2N4YzlsYXVR0gFiQVVfeXFMT215enk5eGVRRDdzcVFGZkpUUXFUZU00bWthdTl4ckkyS3dqeDlSYVN4MkhtTWpWR2lvblBPV3NfUnhCZk44SWlMd2JoUTliUTd1b1BoRzdDYnRPY3hjOWxhdVE?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:21:24 GMT",
+        "title": "KuCoin Skills Hub launches to power modular AI crypto capabilities for users and institutions - The Cryptonomist",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uWXJYQ2x3SXpYb0MyY3VrU3ZyOXlzNmluTjBWN2ItbzVvR0E2RGROSUstVDVBSzlCUkkzSUZmcmVLc2plcTh5Zkc0djVsY09POVlhdEdCSDZtMElJWmdrc0JJTTdONC1GZ2d3?oc=5",
+        "pub_date": "Sun, 15 Mar 2026 13:08:32 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -281,14 +281,6 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFZLV3NUQnh6SHNzaVNHQ2d0cno3OU9lLURuc1RtUTl1ajgtZUpwRjd1MjI3T1VuajBuRC1JeFpvTENuc1BzZnlNQ2ZGTWNfMkJsdURJcWd1VzUtYWZZRnAzcFJXcjlVNWJjSEdNeDduWE1sMkFISUsxRjZlTUF2cVBEZE1LU1R5QmlfUFFqemtLcUZTR1dpQWJR?oc=5",
         "pub_date": "Mon, 16 Mar 2026 05:00:05 GMT",
         "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "KuCoin",
-        "title": "KuCoin Introduces Stock Index Perpetuals for Tesla and MicroStrategy - FinanceFeeds",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2ttTmFxWHB6RWZtZnV2eXdsMkxSLVBYRkgtT1pnbTFoQWRHMEhTVERKTEhTdEp6OTdBVXRJQl9nZmxjSDRfd1kxZXQxSDlwWk9Id1h5WkswbTBuRHlILW9IbkF4LXFTc1FjY3dxVS1ZRldfcC1FUFI4NzVvTi1JbzNJcEJmaUw1UmpJMWtGY0p5VFRQT21YUF9R?oc=5",
-        "pub_date": "Fri, 13 Mar 2026 14:25:50 GMT",
-        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -333,7 +325,7 @@
       },
       {
         "exchange": "KuCoin",
-        "title": "KuCoin Vs Binance 2025: Which Crypto Exchange is Better? - NFT Plazas",
+        "title": "KuCoin Vs Binance 2025: Which Crypto Exchange is Better? - NFTPlazas.com",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wcnVBeUJZQi1ydnhpVGpPQUFPN1BIS2RfSXVLb1BqbVYyeGZYejVxcFhlRm1UTkhPMUpaRFdDSXRGLUdKblZ2cDc4MDl5VnN5VVZqdnNQMllDLTFCTFE?oc=5",
         "pub_date": "Fri, 12 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
@@ -469,17 +461,17 @@
       },
       {
         "exchange": "KuCoin",
-        "title": "How to Use KuCoin in the US 2026: Read My Detailed Guide - Cybernews",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2dHZKYUdaRmVETDBVMjlOcmJUUEY0QnJaV1A4TG1veWhkQXlxWjhpcURoVThNS0xPZXNRYllYN3p6d3Nmekc4MzZOc1hxOXR0blRyOGEwbms0WUJuOGstRjhkMU9kcW1iamswZUNIa1hPMFE?oc=5",
-        "pub_date": "Tue, 17 Feb 2026 08:00:00 GMT",
+        "title": "Portal to Bitcoin ($PORTAL) Lands Multi-Exchange Listings on Binance, Bitget, KuCoin, and More - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTRPR0lRbjZOVkt3TUZHVjhTS1h5OWxkTFRublRiX3UwMHpjU1NFV3dSOGdsWjFKenU0bnNPdTd6VE8wTnhRNXZTbkpTYjdzUWowaTlSTTNYMVQwVFNrUDUzNnc2NWVtVTBTSlQxTmlLNVVjSjg3T3d1cDFrUWhFbkhaZXljZw?oc=5",
+        "pub_date": "Wed, 03 Sep 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "KuCoin",
-        "title": "Portal to Bitcoin ($PORTAL) Lands Multi-Exchange Listings on Binance, Bitget, KuCoin, and More - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTRPR0lRbjZOVkt3TUZHVjhTS1h5OWxkTFRublRiX3UwMHpjU1NFV3dSOGdsWjFKenU0bnNPdTd6VE8wTnhRNXZTbkpTYjdzUWowaTlSTTNYMVQwVFNrUDUzNnc2NWVtVTBTSlQxTmlLNVVjSjg3T3d1cDFrUWhFbkhaZXljZw?oc=5",
-        "pub_date": "Wed, 03 Sep 2025 07:00:00 GMT",
+        "title": "How to Use KuCoin in the US 2026: Read My Detailed Guide - Cybernews",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2dHZKYUdaRmVETDBVMjlOcmJUUEY0QnJaV1A4TG1veWhkQXlxWjhpcURoVThNS0xPZXNRYllYN3p6d3Nmekc4MzZOc1hxOXR0blRyOGEwbms0WUJuOGstRjhkMU9kcW1iamswZUNIa1hPMFE?oc=5",
+        "pub_date": "Tue, 17 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -501,7 +493,7 @@
       },
       {
         "exchange": "KuCoin",
-        "title": "KuCoin Review 2025: Pros, Cons, and Key Features for Traders - NFT Plazas",
+        "title": "KuCoin Review 2025: Pros, Cons, and Key Features for Traders - NFTPlazas.com",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwZ0VGTEJpTzVMWVJLdWNBblZrZ2hObXZhNHRndkg4ZWhDd2JnaWxGbDd4cDBGd0dhUnpwNDdJMW9ydnZndlk3OG1XQjFCcHZBTHc1SGdtWDU?oc=5",
         "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
@@ -624,14 +616,6 @@
         "title": "KuCoin secures AUSTRAC registration to operate as crypto exchange in Australia - Crypto Briefing",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc09TdTdONUY1LW8wM2pnM3pFT3NWRXNrQkVUaEZseVpzOGR6RWIyTWMySXlNSnFUUHoycFVzWHlPOGhoa2JGc013M2IzMTktbDRJT21PUkZtRWlwTE5TZVFoTVFlbUhYNWkwRk1yaVZPWWc?oc=5",
         "pub_date": "Tue, 25 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "KuCoin",
-        "title": "KuCoin targets 10% of Dogecoin mining capacity via new mining platform - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQjZJZndnYlkzRGpQYW1sZlFZbDU4YngxSUVQQVNwR2ZOTHdTOE9DSlMybXRIb1JQNHpiUW1WOWp2Z19KVWV0R0tjUmtGLTNHU1RpRlpwRkJteHFWSGtmVWVqV1hiM3RUcUdYaDM5dGJpLWlpSzNxMnBEeVdOSWI4bUVEUmRjek16Q19SLWg2S005NnhkcGdKc1hRLTdETGhZaGFoVG5EUmxNU2pELWgtZE5NaXJyVnM2alNtLThULV9VaXFuVmlkeV9ONVA?oc=5",
-        "pub_date": "Wed, 03 Sep 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
