@@ -253,13 +253,13 @@ def build_competitor_card(name, subtitle, badges, threat_label, threat_class, ar
     for label, cls in badges:
         badge_html += "<span class='bk " + cls + "'>" + label + "</span>"
 
-link_html = ""
+    link_html = ""
     for text, url in links:
         link_html += "<a class='lk' href='" + url + "' target='_blank'>" + text + "</a>"
     if link_html:
         link_html = "<div class='lks'>" + link_html + "</div>"
 
-news_html = ""
+    news_html = ""
     if articles:
         news_html += "<div class='cs'>This Week</div><ul class='cl'>"
         for a in articles:
@@ -278,7 +278,7 @@ news_html = ""
     else:
         news_html = "<div class='cs'>This Week</div><p style='font-size:12px;color:var(--mu);padding:4px 0'>No articles found this run</p>"
 
-return (
+    return (
         "<div class='cd " + card_class + "'>"
         "<div class='ch'><div>"
         "<div class='cn'>" + name + "</div>"
