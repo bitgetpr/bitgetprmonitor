@@ -189,7 +189,6 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
         try:
             url = base_url + "/v3/search/" + search_id
             page = 1
-            mentions = []
             while True:
                 payload = json.dumps({
                     "start":      start_iso,
@@ -212,43 +211,42 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
                 batch = (data.get("result") or {}).get("documents", [])
                 if not batch:
                     break
-                mentions.extend(batch)
                 total = (data.get("result") or {}).get("document_count", 0)
                 print("  [Meltwater] {} page {}/{} ({} so far)".format(
-                    exchange, page, -(-total // 50), len(mentions)))
+                    exchange, page, -(-total // 50), len(articles)))
+                for m in batch:
+                    content = m.get("content") or ""
+                    if isinstance(content, str):
+                        title = content[:120]
+                    elif isinstance(content, dict):
+                        raw = content.get("text") or content.get("body") or content.get("opening_text") or ""
+                        title = raw[:120]
+                    else:
+                        title = str(content)[:120]
+                    link     = m.get("url") or ""
+                    pub      = m.get("published_date") or ""
+                    enrich   = m.get("enrichments") or {}
+                    sent_raw = enrich.get("sentiment") or ""
+                    if isinstance(sent_raw, dict):
+                        mw_sent = (sent_raw.get("label") or "").lower()
+                    else:
+                        mw_sent = str(sent_raw).lower()
+                    if mw_sent in ("positive", "negative", "neutral"):
+                        sentiment = mw_sent
+                    else:
+                        sentiment = score_sentiment(title)
+                    if not title:
+                        continue
+                    articles.append({
+                        "exchange":  exchange,
+                        "title":     title,
+                        "link":      link,
+                        "pub_date":  pub[:16] if pub else "",
+                        "sentiment": sentiment,
+                        "source":    "meltwater",
+                    })
                 page += 1
-                time.sleep(0.3)
-            for m in mentions:
-                content = m.get("content") or ""
-                if isinstance(content, str):
-                    title = content[:120]
-                elif isinstance(content, dict):
-                    raw = content.get("text") or content.get("body") or content.get("opening_text") or ""
-                    title = raw[:120]
-                else:
-                    title = str(content)[:120]
-                link     = m.get("url") or ""
-                pub      = m.get("published_date") or ""
-                enrich   = m.get("enrichments") or {}
-                sent_raw = enrich.get("sentiment") or ""
-                if isinstance(sent_raw, dict):
-                    mw_sent = (sent_raw.get("label") or "").lower()
-                else:
-                    mw_sent = str(sent_raw).lower()
-                if mw_sent in ("positive", "negative", "neutral"):
-                    sentiment = mw_sent
-                else:
-                    sentiment = score_sentiment(title)
-                if not title:
-                    continue
-                articles.append({
-                    "exchange":  exchange,
-                    "title":     title,
-                    "link":      link,
-                    "pub_date":  pub[:16] if pub else "",
-                    "sentiment": sentiment,
-                    "source":    "meltwater",
-                })
+                time.sleep(2)
         except Exception as e:
             print("  [ERROR] Meltwater fetch failed for {}: {}".format(exchange, e))
         time.sleep(0.3)
