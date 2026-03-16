@@ -178,16 +178,16 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
     start_dt  = end_dt - timedelta(days=lookback_days)
     start_iso = start_dt.strftime("%Y-%m-%dT%H:%M:%S")
     end_iso   = end_dt.strftime("%Y-%m-%dT%H:%M:%S")
-    articles = []
+    articles  = []
     auth_headers = {
-        "apikey": api_key,
-        "Accept": "application/json",
+        "apikey":       api_key,
+        "Accept":       "application/json",
         "Content-Type": "application/json",
     }
     for search_id, exchange in saved_search_ids.items():
         print("  [Meltwater] Fetching search {} for {}...".format(search_id, exchange))
         try:
-            url = base_url + "/v3/search/" + search_id
+            url  = base_url + "/v3/search/" + search_id
             page = 1
             while True:
                 payload = json.dumps({
@@ -206,8 +206,21 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
                     headers=auth_headers,
                     method="POST"
                 )
-                with urllib.request.urlopen(req, timeout=15) as resp:
-                    data = json.loads(resp.read())
+                for attempt in range(3):
+                    try:
+                        with urllib.request.urlopen(req, timeout=15) as resp:
+                            data = json.loads(resp.read())
+                        break
+                    except urllib.error.HTTPError as e:
+                        if e.code == 429:
+                            wait = 30 * (attempt + 1)
+                            print("  [WARN] 429 rate limit, waiting {}s...".format(wait))
+                            time.sleep(wait)
+                        else:
+                            raise
+                else:
+                    print("  [WARN] Skipping {} after 3 failed attempts.".format(exchange))
+                    break
                 batch = (data.get("result") or {}).get("documents", [])
                 if not batch:
                     break
@@ -249,7 +262,7 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
                 time.sleep(2)
         except Exception as e:
             print("  [ERROR] Meltwater fetch failed for {}: {}".format(exchange, e))
-        time.sleep(0.3)
+        time.sleep(5)
     print("  [Meltwater] {} articles fetched.".format(len(articles)))
     return articles
     
