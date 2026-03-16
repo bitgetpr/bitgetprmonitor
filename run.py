@@ -207,21 +207,22 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
             with urllib.request.urlopen(req, timeout=15) as resp:
                 raw = resp.read()
             data = json.loads(raw)
-            mentions = data.get("result", {}).get("documents", [])
+            mentions = (data.get("result") or {}).get("documents", [])
             for m in mentions:
-                content = m.get("content", "")
+                content = m.get("content") or ""
                 if isinstance(content, str):
                     title = content[:120]
                 elif isinstance(content, dict):
-                    title = content.get("text", content.get("body", ""))[:120]
+                    raw = content.get("text") or content.get("body") or ""
+                    title = raw[:120]
                 else:
                     title = str(content)[:120]
-                link    = m.get("url", "")
-                pub     = m.get("published_date") or ""
-                enrich  = m.get("enrichments") or {}
-                sent_raw = enrich.get("sentiment", "")
+                link     = m.get("url") or ""
+                pub      = m.get("published_date") or ""
+                enrich   = m.get("enrichments") or {}
+                sent_raw = enrich.get("sentiment") or ""
                 if isinstance(sent_raw, dict):
-                    mw_sent = sent_raw.get("label", "").lower()
+                    mw_sent = (sent_raw.get("label") or "").lower()
                 else:
                     mw_sent = str(sent_raw).lower()
                 if mw_sent in ("positive", "negative", "neutral"):
