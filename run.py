@@ -207,6 +207,7 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
             with urllib.request.urlopen(req, timeout=15) as resp:
                 raw = resp.read()
             data = json.loads(raw)
+            print("  [DEBUG] Meltwater keys: {}".format(list(data.keys())))
             mentions = data.get("documents", []) or data.get("mentions", []) or []
             for m in mentions:
                 title   = m.get("title", "") or m.get("document", {}).get("title", "")
