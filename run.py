@@ -182,7 +182,7 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
 
     articles = []
     auth_headers = {
-        "Authorization": "Bearer " + api_key,
+        "user-key": api_key,
         "Accept": "application/json",
         "Content-Type": "application/json",
     }
