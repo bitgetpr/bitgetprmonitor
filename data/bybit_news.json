@@ -1,7 +1,7 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-16T15:00:09.470455+00:00",
+    "generated_at": "2026-03-16T15:20:41.438106+00:00",
     "articles": [
       {
         "exchange": "Bybit",
@@ -301,6 +301,14 @@
       },
       {
         "exchange": "Bybit",
+        "title": "Singapore leads world in crypto adoption: Bybit report - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU3hjRHNnRFhDWUdzRDNfTld5ZUZ0bGYtS1ZOVmJPelpWNnMweGdRaEw3ZHJOcEpHdm5iS29mdTNwTkJ4UVJGZ3AtV0x6NzFlZEFJS09xUVNFTW9rQzlIVkNKMWpBSk5oR2EzaG1sM2Q4LTN4NmRkMGVscm5FbVBTSXBHcy1hWTZ2RTFn?oc=5",
+        "pub_date": "Wed, 10 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
         "title": "Pi Network crypto up 50% after prolonged slump - VnExpress International",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTJKSE4zYmNZX3l5V0tOeGRURXd2SEFaRndHc0xUZTRmVGhieVhubENIRG9od1VRWWkzdHRoc01TZXhkamFscjZMY0hUaTlnd1NIMG11X19LQ3ZyVVpzRXZlcm9CRDRwLTI4WE9GQ2Fydks5azFTZ3d0aHlwSkZmeVBLanBpMjdiZ0lCR0pWbE9CRkhSNFlKNVMzZ0RGT2tnbDd4bA?oc=5",
         "pub_date": "Mon, 16 Mar 2026 02:25:12 GMT",
@@ -309,9 +317,9 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Singapore leads world in crypto adoption: Bybit report - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU3hjRHNnRFhDWUdzRDNfTld5ZUZ0bGYtS1ZOVmJPelpWNnMweGdRaEw3ZHJOcEpHdm5iS29mdTNwTkJ4UVJGZ3AtV0x6NzFlZEFJS09xUVNFTW9rQzlIVkNKMWpBSk5oR2EzaG1sM2Q4LTN4NmRkMGVscm5FbVBTSXBHcy1hWTZ2RTFn?oc=5",
-        "pub_date": "Wed, 10 Dec 2025 08:00:00 GMT",
+        "title": "Bybit to Halt New User Registrations in Japan - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3JLcGJETjlKaTJTZXk0bkNqZ1o1VUJuWS15RW9US3FkWXhySW40TnRMWURIMFd2aDZhdE1Sei1sVHJiUlJOOXJoYzlpcjBmX0FlYkN1dFB1MFJVVERjNThZRU5IYnNjLS13Tjc2bko4U0JocGNwUnRyR0NMaGl4TV9BbktJYnNn?oc=5",
+        "pub_date": "Thu, 30 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -321,14 +329,6 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNejJBVlNiQ0tSVVljNWhxbjJKZFdIZVNsNTRBejlEUUVEQmdmVHl2a2NsOGlSMlcwems1VlpvMGtFa1NSS3F5Q1pSSV9YSXVqUVNoR21MbUVIcnJZTlg0YkdUTkthWmo5d0RhekJuWU94UzJIbkloV1ZjVzRfSHdnM0VTaFNhMUpjVmtoRjFrSXRQakg4cXVEa9IBngFBVV95cUxNVWpJTlY4VDRuNk9QLVhDR29TcGVhdUFLR0tnMzlGRmZlVzZfX050Z0VyRXZ1OGJJMXFTNWlmX1h1Nl9wc2k5TmU1akxvSUdFSV9SbndlU2w1N1llendyQ2QtczFUVjFwX1JDczhpaE5GSm4tRlhLNTZKY1BjSTExVmtJbEs2eHlDU1hPVE5UWFEzWWpoQkZ4dTBkSUUydw?oc=5",
         "pub_date": "Sat, 14 Mar 2026 07:39:00 GMT",
         "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
-        "title": "Bybit to Halt New User Registrations in Japan - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3JLcGJETjlKaTJTZXk0bkNqZ1o1VUJuWS15RW9US3FkWXhySW40TnRMWURIMFd2aDZhdE1Sei1sVHJiUlJOOXJoYzlpcjBmX0FlYkN1dFB1MFJVVERjNThZRU5IYnNjLS13Tjc2bko4U0JocGNwUnRyR0NMaGl4TV9BbktJYnNn?oc=5",
-        "pub_date": "Thu, 30 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
         "source": "rss"
       },
       {
