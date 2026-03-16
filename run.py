@@ -217,8 +217,8 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
                 else:
                     title = str(content)[:120]
                 link    = m.get("url", "")
-                pub     = m.get("published_date", "")
-                enrich  = m.get("enrichments", {})
+                pub     = m.get("published_date") or ""
+                enrich  = m.get("enrichments") or {}
                 sent_raw = enrich.get("sentiment", "")
                 if isinstance(sent_raw, dict):
                     mw_sent = sent_raw.get("label", "").lower()
