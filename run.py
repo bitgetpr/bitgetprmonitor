@@ -303,7 +303,7 @@ def generate_html(output):
     colors       = [EXCHANGE_COLORS[e] for e in ex_order]
     sov_values   = [exchanges[e]["sov"] for e in ex_order]
 
-cards_html = ""
+    cards_html = ""
     for ex in sorted(exchanges, key=lambda x: -exchanges[x]["sov"]):
         d     = exchanges[ex]
         delta = d["sov_delta_wow"]
@@ -328,7 +328,7 @@ cards_html = ""
             "</div></div>"
         )
 
-table_rows = ""
+    table_rows = ""
     for ex in sorted(exchanges, key=lambda x: -exchanges[x]["sov"]):
         d     = exchanges[ex]
         color = EXCHANGE_COLORS[ex]
@@ -356,7 +356,7 @@ table_rows = ""
             "</td></tr>"
         )
 
-art_rows = ""
+    art_rows = ""
     for a in articles[:80]:
         color = EXCHANGE_COLORS.get(a["exchange"], "#aaa")
         pub   = a["pub_date"][:16] if a["pub_date"] else "--"
@@ -369,11 +369,11 @@ art_rows = ""
             "<td class='muted'>" + pub + "</td></tr>"
         )
 
-bg = exchanges.get("Bitget", {}).get("sentiment", {"positive": 0, "neutral": 0, "negative": 0})
+    bg = exchanges.get("Bitget", {}).get("sentiment", {"positive": 0, "neutral": 0, "negative": 0})
     mw_count = sum(1 for a in articles if a.get("source") == "meltwater")
     rss_count = total_art - mw_count
 
-css = (
+    css = (
         "*{box-sizing:border-box;margin:0;padding:0}"
         ":root{--bg:#0d0f14;--s:#161a23;--s2:#1e2330;--br:#2a2f3d;--tx:#e8eaf6;--mu:#7986a3}"
         "body{background:var(--bg);color:var(--tx);font-family:'Segoe UI',sans-serif}"
@@ -468,7 +468,7 @@ css = (
         "@media(max-width:900px){.sb{grid-template-columns:repeat(2,1fr)}.mg{grid-template-columns:1fr}.wrap{padding:16px}}"
     )
 
-page = (
+    page = (
         "<!DOCTYPE html><html lang='en'><head>"
         "<meta charset='UTF-8'>"
         "<meta name='viewport' content='width=device-width,initial-scale=1'>"
@@ -620,7 +620,7 @@ def main():
         datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")))
     print("=" * 60)
 
-MELTWATER_API_KEY = os.environ.get("MELTWATER_API_KEY", "")
+    MELTWATER_API_KEY = os.environ.get("MELTWATER_API_KEY", "")
     MELTWATER_SEARCHES = {
         "26257006": "Binance",
         "26256926": "Bitget",
@@ -629,24 +629,24 @@ MELTWATER_API_KEY = os.environ.get("MELTWATER_API_KEY", "")
     }
     MELTWATER_SEARCHES = {k: v for k, v in MELTWATER_SEARCHES.items() if k}
 
-all_articles = []
+    all_articles = []
     seen_titles  = []
 
-print("\n[1/3] Fetching {} Google News feeds...".format(len(GOOGLE_FEEDS)))
+    print("\n[1/3] Fetching {} Google News feeds...".format(len(GOOGLE_FEEDS)))
     for url, exchange in GOOGLE_FEEDS.items():
         for article in parse_feed(url, assigned_exchange=exchange):
             if not is_duplicate(article["title"], seen_titles):
                 seen_titles.append(normalize_title(article["title"]))
                 all_articles.append(article)
 
-print("\n[2/3] Fetching {} direct media feeds...".format(len(DIRECT_FEEDS)))
+    print("\n[2/3] Fetching {} direct media feeds...".format(len(DIRECT_FEEDS)))
     for url, exchange in DIRECT_FEEDS.items():
         for article in parse_feed(url, assigned_exchange=exchange):
             if not is_duplicate(article["title"], seen_titles):
                 seen_titles.append(normalize_title(article["title"]))
                 all_articles.append(article)
 
-print("\n[3/3] Fetching Meltwater...")
+    print("\n[3/3] Fetching Meltwater...")
     if MELTWATER_API_KEY and MELTWATER_SEARCHES:
         for article in fetch_meltwater(MELTWATER_API_KEY, MELTWATER_SEARCHES, EXCHANGES):
             if not is_duplicate(article["title"], seen_titles):
@@ -655,30 +655,30 @@ print("\n[3/3] Fetching Meltwater...")
     else:
         print("  [SKIP] Set MELTWATER_API_KEY + search IDs to enable.")
 
-print("\nTotal unique articles: {}".format(len(all_articles)))
+    print("\nTotal unique articles: {}".format(len(all_articles)))
 
-mention_counts   = defaultdict(int)
+    mention_counts   = defaultdict(int)
     sentiment_counts = defaultdict(lambda: {"positive": 0, "negative": 0, "neutral": 0})
     for a in all_articles:
         ex = a["exchange"]
         mention_counts[ex] += 1
         sentiment_counts[ex][a["sentiment"]] += 1
 
-total_mentions = sum(mention_counts.values())
+    total_mentions = sum(mention_counts.values())
 
-sov_map = {
+    sov_map = {
         ex: round(mention_counts.get(ex, 0) / total_mentions * 100, 1) if total_mentions > 0 else 0.0
         for ex in EXCHANGES
     }
 
-last_week = load_last_week_sov()
+    last_week = load_last_week_sov()
     sov_delta = {
         ex: round(sov_map[ex] - last_week[ex], 1) if ex in last_week else None
         for ex in EXCHANGES
     }
     save_sov(sov_map)
 
-exchange_data = {
+    exchange_data = {
         ex: {
             "mentions":      mention_counts.get(ex, 0),
             "sov":           sov_map[ex],
@@ -688,7 +688,7 @@ exchange_data = {
         for ex in EXCHANGES
     }
 
-output = {
+    output = {
         "generated_at":   datetime.now(timezone.utc).isoformat(),
         "total_articles": len(all_articles),
         "total_mentions": total_mentions,
@@ -698,11 +698,11 @@ output = {
         "top_articles":   {ex: get_top_articles(all_articles, ex) for ex in EXCHANGES},
     }
 
-with open("data/dashboard_data.json", "w", encoding="utf-8") as f:
+    with open("data/dashboard_data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     print("data/dashboard_data.json written.")
 
-for ex in EXCHANGES:
+    for ex in EXCHANGES:
         ex_articles = [a for a in all_articles if a["exchange"] == ex]
         ex_path = "data/" + ex.lower() + "_news.json"
         history = []
@@ -724,12 +724,12 @@ for ex in EXCHANGES:
             json.dump(history, f, ensure_ascii=False, indent=2)
     print("Per-exchange news history written.")
 
-html = generate_html(output)
+    html = generate_html(output)
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
     print("index.html generated.")
 
-print("\n-- Share of Voice --")
+    print("\n-- Share of Voice --")
     for ex, d in sorted(exchange_data.items(), key=lambda x: -x[1]["sov"]):
         delta = d["sov_delta_wow"]
         if delta is None:
