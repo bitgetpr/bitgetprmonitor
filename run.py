@@ -207,14 +207,23 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
             with urllib.request.urlopen(req, timeout=15) as resp:
                 raw = resp.read()
             data = json.loads(raw)
-            print("  [DEBUG] Meltwater keys: {}".format(list(data.keys())))
             mentions = data.get("result", {}).get("documents", [])
             for m in mentions:
-                title   = m.get("content", "")[:120]
+                content = m.get("content", "")
+                if isinstance(content, str):
+                    title = content[:120]
+                elif isinstance(content, dict):
+                    title = content.get("text", content.get("body", ""))[:120]
+                else:
+                    title = str(content)[:120]
                 link    = m.get("url", "")
                 pub     = m.get("published_date", "")
                 enrich  = m.get("enrichments", {})
-                mw_sent = str(enrich.get("sentiment", {}).get("label", "") if isinstance(enrich.get("sentiment"), dict) else enrich.get("sentiment", "")).lower()
+                sent_raw = enrich.get("sentiment", "")
+                if isinstance(sent_raw, dict):
+                    mw_sent = sent_raw.get("label", "").lower()
+                else:
+                    mw_sent = str(sent_raw).lower()
                 if mw_sent in ("positive", "negative", "neutral"):
                     sentiment = mw_sent
                 else:
@@ -234,7 +243,7 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
         time.sleep(0.3)
     print("  [Meltwater] {} articles fetched.".format(len(articles)))
     return articles
-
+    
 LAST_WEEK_PATH = "data/last_week_sov.json"
 
 def load_last_week_sov():
