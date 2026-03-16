@@ -210,6 +210,8 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
             mentions = (data.get("result") or {}).get("documents", [])
             doc_count = (data.get("result") or {}).get("document_count", 0)
             print("  [DEBUG] doc_count={} mentions_len={}".format(doc_count, len(mentions)))
+            if mentions:
+                print("  [DEBUG] Sample doc: {}".format(str(mentions[0])[:300]))
             for m in mentions:
                 content = m.get("content") or ""
                 if isinstance(content, str):
