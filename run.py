@@ -217,7 +217,7 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
                 if isinstance(content, str):
                     title = content[:120]
                 elif isinstance(content, dict):
-                    raw = content.get("text") or content.get("body") or ""
+                    raw = content.get("text") or content.get("body") or content.get("opening_text") or ""
                     title = raw[:120]
                 else:
                     title = str(content)[:120]
