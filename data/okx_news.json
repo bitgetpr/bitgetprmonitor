@@ -1,7 +1,7 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-16T12:27:51.589641+00:00",
+    "generated_at": "2026-03-16T12:36:54.940229+00:00",
     "articles": [
       {
         "exchange": "OKX",
@@ -261,14 +261,6 @@
       },
       {
         "exchange": "OKX",
-        "title": "OKX CeDeFi Trading: Unified Access to Solana, Base & X Layer DEX assets - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SbVRTUy04QkZWRS01ME5LV0RoWVJXS0ItS05jNGlIUGhmdnMyR082OTVMT1lkd1J6UGR6ZTJXeXZaZUVBM3FMT0JkUzVZVklZN0x6X1pDXzUwLUdvVGc?oc=5",
-        "pub_date": "Thu, 13 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
         "title": "NYSE Parent ICE Deepens On-Chain Presence with Stake in Crypto Exchange OKX - TipRanks",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmROU1JnVHhBT21tNl9pS3ZKOTNFNXFRSEx2eGh4ZF9HSXhhYVF5RFRiNHZIZTlBZ1d2UTd5WU9naEp6NXBXSmJ0V2tvV0lGS2U3WGx5SDYtT1F2d3hzNTNiMkpzQ3RHbGZjdUZzc29zbXZOcFgwams4VWtfU0tzS19EVXMzblFHajBPeUJEZFlIdUJYLWpDV3FDX3pNOTVaSEtUag?oc=5",
         "pub_date": "Thu, 05 Mar 2026 08:00:00 GMT",
@@ -277,9 +269,25 @@
       },
       {
         "exchange": "OKX",
+        "title": "How ICIJ traced hundreds of millions from Huione Group to major crypto exchanges - International Consortium of Investigative Journalists - ICIJ",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdnNfSW8xRTFyNVcwOXF1M0FDcV8xU3U2d3lpZmRIcnJMVlR2OWJNYXFyR25EMUt0U0pIcU03bEFOd2VtODkzRkxJTnQ5UWFqMzlQbXVRc1prbzZNYU10MzAwMzJOMkFHRUxTU1N4b2xpdlpYbzhNLXVhZG8yeHlBUUVOUW9zRXBmWHB6Z1NobVIydlBlcEdUYWpBRTFhZjFlX0NFOUp1Q1pvVGdmeGVDdDhnT25BRXRHS0VBTEdQMkpLaUNlWDRlVzVB?oc=5",
+        "pub_date": "Thu, 20 Nov 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
         "title": "The Lowest Crypto Fees? OKX Beats the Competition - Cointribune",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzNveTdRbnBrTW1mSWFWRDZwbzRpTTlGYkg2TjAyWUxYMjNYOEp4V2lnRi14T0RxRWR0VU9ZUW9LVHNRWFc4S3E3MWlLZjJTaEpxcGZ5S2o4aFB4UXlsU0phRW1rZnVxaGY5aFdKTXFNWmhobjEyem5UanZkMGRESXJXUzZfYjA?oc=5",
         "pub_date": "Sat, 14 Mar 2026 17:14:29 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "How to Set Up a Crypto Wallet? - OKX",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FNHJBaHFxWWhsTmR0bnloRkE4bzFQUzJSaVdDZHZXNDZ0dmFJRVVqdUY3a2NGc1c4LWpPRjVSZlhuRGlxQW00X2pXVVJ5NURDajFoRmp6dURMMDF0SzJLTG9UQXpyN3JWLVNkV2VGSXlqbGtR?oc=5",
+        "pub_date": "Thu, 30 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -309,9 +317,25 @@
       },
       {
         "exchange": "OKX",
+        "title": "Best Crypto Exchange for Low Fees in 2025: A US Trader's Guide - OKX",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42aVZ3RklmVno2eWxwMkpCZjZQbW1zcFZVN1N1dlRmcm5uRjMtR3lBRWpqYldjelA4eUdIc3puZjlMMUdqdmNDS0FzUTFZTW1mSDZjV2VGZ2w1T1JON2tZYjdHbElScG1JMEFOaTBVM2pyLU8w?oc=5",
+        "pub_date": "Sat, 25 Oct 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
         "title": "Solana Price Prediction Faces $91 Resistance After NYSE Owner Invests in OKX at $25B, but Pepeto Builds What No Other Presale Even Attempts - CoinCentral",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeDFMUENLVF9lTi1hbVBVakZBNVF0T1FydEJ5UExEYnBieTFBYWFPYUw3M2JrYk5wcE8wNTZ3djZ4ek1JU29JZEtYYWVaNU9FR3NiZEtrOFNCSWpWVi1ZUFU2bmJtRzhTazY2aGVCTUtlSU1KYmxhdTBONkQ2OFptNjF5WWVKcDZYck1CQ0lIbzRuMXg2R19TekxQRWhobXpTTl9waEl2Z0NOd3pxMHVncTUyQms5Q3phVWlHLUVhUU90MGw1b296SF9QaGhYWEthWHdCZkhHYTJZMjBRNEJpNXZoNDVsOEFVdGhDcGl3N2lPOHc?oc=5",
         "pub_date": "Sat, 14 Mar 2026 20:00:51 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Global crypto exchange OKX pushes into U.S. market with trading and wallet offering - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHNNVjV4NVRDZGV5SFdLeEJjeWtxZHh3ZFVOV0hOX044SHBzb2pDYlV2ODM1dXduWEJYUy1yRzZtSnpJUGd2REZBblBKMVQ2WDc1eE10U1R4dEVCQ2JsTkZuTFVUeDk3NmJNcmJncXNwZUtsNzZJQktiMG1oTTV4RW85aTc2TTdEMUNTcU4yV0ZwVUNkU0cyaDJhQUF3WVF5RzJxbS1UcllDOXJseGJ0eThMa1bSAboBQVVfeXFMTmJLcjN5cEtTMENkVUpfRm92SUdod3hVUHFhTTJvbUVUUzVVUWk3NmxDdTI0QjFJZS0yNi1pWS10WDNHS282SVB1cFVONWI3WnVTeUx2Z0FwaGR0Q1R1YXpySzlsWVNGT0ZiRUdVcDBvN3ZrbFBxXzRKbVhBNVh3QXB5UEl2NVdhaW9qbGVacm5TMi1zdDdxOENPdEIyRlJpRzVIOWloak1aNmFhNTdZaGV4T2NBTmIxUVdn?oc=5",
+        "pub_date": "Wed, 16 Apr 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -337,14 +361,6 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmgxT3BrUlA0bmxMaUNNemNKN2k5Qk54NG1xMG54X2FhTjVXbmJtcjBQdDI1WExMc2cyV1pNSjg4MHVHcmd0SXpyY1Fpd3hPOUEyNlhBMXRoM0p5VTkwdWpkN1pJQzRPLUFxZ0JrQVJPcEc3UDdJd3VyX1ZSXzBQaEYtZWo5cHpvd2hXekM3MERIZldJUFVHNTRyVDlHYW1XQS0wVXFqZmZaWlBKeGFsTVBKckhCMnEwTVFsTkpxX0ROMFhj?oc=5",
         "pub_date": "Wed, 11 Mar 2026 01:58:01 GMT",
         "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Global crypto exchange OKX pushes into U.S. market with trading and wallet offering - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHNNVjV4NVRDZGV5SFdLeEJjeWtxZHh3ZFVOV0hOX044SHBzb2pDYlV2ODM1dXduWEJYUy1yRzZtSnpJUGd2REZBblBKMVQ2WDc1eE10U1R4dEVCQ2JsTkZuTFVUeDk3NmJNcmJncXNwZUtsNzZJQktiMG1oTTV4RW85aTc2TTdEMUNTcU4yV0ZwVUNkU0cyaDJhQUF3WVF5RzJxbS1UcllDOXJseGJ0eThMa1bSAboBQVVfeXFMTmJLcjN5cEtTMENkVUpfRm92SUdod3hVUHFhTTJvbUVUUzVVUWk3NmxDdTI0QjFJZS0yNi1pWS10WDNHS282SVB1cFVONWI3WnVTeUx2Z0FwaGR0Q1R1YXpySzlsWVNGT0ZiRUdVcDBvN3ZrbFBxXzRKbVhBNVh3QXB5UEl2NVdhaW9qbGVacm5TMi1zdDdxOENPdEIyRlJpRzVIOWloak1aNmFhNTdZaGV4T2NBTmIxUVdn?oc=5",
-        "pub_date": "Wed, 16 Apr 2025 07:00:00 GMT",
-        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -413,6 +429,14 @@
       },
       {
         "exchange": "OKX",
+        "title": "How to Buy Crypto with a Debit Card Instantly - OKX",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rYjZQVHpYdVkxWlpZazJKQkdGd1QyY2R6dm51UjBIY0ptSFBDY05OSG95Ny1KWEVCei1Ma2Q3Mm5VMFcySndLUUJuc1AwUUVITVFzV0FMa3daczFPbHpRdzFWNTZDUHhDWlRv?oc=5",
+        "pub_date": "Fri, 31 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
         "title": "What crypto exchanges are watching in 2026, according to OKX’s Rafique - TradingView",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOek05aWwxSWx5ekdFZHNMMEtWNFJ0MTRLWTVGWVVHZ1NBTkpHY2dubE1KLXZhRHlpVEItZ0lxZkZpcjQxM01waURjRldOZmRVSk1jNnowV0R0VmRUNXlMRmw3ekF6eEtZbWZQalFZUk5DeUlwM1VOZ2p4N1QwRHAwSmJhTzZIYTJKWFFCMGFsMk5CbjJ0NlQ3QVhDU252TFJUVERibEk0cW50Uk1MU2R3OGVneVdsUWFOOXFrTkZONHNlWEYxRm1kTUxrS0lEdw?oc=5",
         "pub_date": "Fri, 02 Jan 2026 08:00:00 GMT",
@@ -437,6 +461,14 @@
       },
       {
         "exchange": "OKX",
+        "title": "Reddit Crypto Community Trends, News & Top Coins - OKX",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YY1RzMjdpRl9kNkFTb3J6S2YyUWxNd1F5S2JFMHNUdHIzTWFtcmlTQ1NvQ1Q1SERsS21MUUR4RXpQRHZpb3A4QldLTDhaeF8zaGZOeTlwVTUxZEMxWGNyVTF0bUZmVGVsREs4?oc=5",
+        "pub_date": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
         "title": "How to Receive Bitcoin: A Simple Step-by-Step Guide - OKX",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aUkxGbTdsaHVudHF6dF93OUYxb1dGaU52V0o0TEtQYUV0OFQ5dzg0VG5qR241TFp6Zkd0Z2ZsZGU3MVN6Q1VwNHZ6bU9RM3pnX2s1YUpQdWd6UVluOHRxM2hHTVREamljaG4wV25Tbw?oc=5",
         "pub_date": "Fri, 24 Oct 2025 07:00:00 GMT",
@@ -449,6 +481,14 @@
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVEdQVUdUX3hZWFd6ZGlXQzZZdm5IQlhnaVJXbUdFSFU1Q3pzYWpaZmdjR3JTbTRMazJaanpsbmpYRGppck5vaklnQ1YzZzdSekt4c2Y4YS1kUlJMcXBnRGtxUzZGOC12ZnZJWDd2ckgwX05hakRIZGlVZHNNeW1USm5ZTFJERmtxVVE?oc=5",
         "pub_date": "Sun, 14 Sep 2025 07:00:00 GMT",
         "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Why Is Crypto Down? 7 Reasons & Action Steps for Investors - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SOVpxOElqdVpEN3ppSHF0VGZlWWNoZDhGUjJDQ1NUV09EbXo5elhNVXo3QXhXM3RvYmJWYklERUE0aHRwb0NxNzhFOUIxN3BzY0lEUEg2ZjhBMEtacm9aeVdhd0FwaUc0?oc=5",
+        "pub_date": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "sentiment": "negative",
         "source": "rss"
       },
       {
@@ -509,14 +549,6 @@
       },
       {
         "exchange": "OKX",
-        "title": "Litecoin whale moves 1.25 mln LTC off exchange, raising accumulation hopes - AMBCrypto",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYUlhUVhIYWNSTmtKSlJPRHZBSFAzZmJPUm9xQTdmV0tyZlQ0b1dCS1JJYVU3MDY3MkN0QmM0RHk0ajhaUmhWNlMzd3pNdGtaNF9Dc1c2Y2xYOTBpOWZfcFZ4WW1Rd0ZDbHZUTUNjYjdDYTFaalp3ZFhQZGN6VTN1cm91eXFKTUZuRXBxM1BmdmRWTDhUWlAzSzQySjLSAaIBQVVfeXFMUGs3YWFIVS1McXhpdUV5dlFtNnB5VGhwSzlFa1Ewbm1jM3pSVG1kUVhBUnRZdWprLVdYS3FUQUpxeV9QN2hmZ1l3c2E4clJZNjZPOS0tc2huRUFFVExQaFNqVjA5ajRCRTdud3BsalkyX2tYT2Z5dmVfV1k3MDhNTGVXUGhfQ0x2cWQ2UVFDb25KZzZoYjh1ajl2SjVHTl8zajBB?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 16:00:19 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
         "title": "OKX $25B Valuation, South Korea Crypto Rules & Kazakhstan National Reserves - StealthEX.io",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3VfNXoxRWNIZlJacHI3NF92V2dKV20yZW1DNzNrbHZ1S1NCZE12RGRpZEs0Zmc5cTJfVjc1N2Ywb251cDJoZEZMTlpFY3hNMlNWWXlXejNVWHlxT2ZwV0ljdTdQVFV5QnA3N0JhVmZLa0FvcWdIS25jWHBSRWdHV0ppbkRaMld3TTRya3QwMlp3cnFxNFF4Y0ZXbU1yNDg?oc=5",
         "pub_date": "Tue, 10 Mar 2026 15:30:04 GMT",
@@ -533,9 +565,33 @@
       },
       {
         "exchange": "OKX",
+        "title": "Litecoin whale moves 1.25 mln LTC off exchange, raising accumulation hopes - AMBCrypto",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYUlhUVhIYWNSTmtKSlJPRHZBSFAzZmJPUm9xQTdmV0tyZlQ0b1dCS1JJYVU3MDY3MkN0QmM0RHk0ajhaUmhWNlMzd3pNdGtaNF9Dc1c2Y2xYOTBpOWZfcFZ4WW1Rd0ZDbHZUTUNjYjdDYTFaalp3ZFhQZGN6VTN1cm91eXFKTUZuRXBxM1BmdmRWTDhUWlAzSzQySjLSAaIBQVVfeXFMUGs3YWFIVS1McXhpdUV5dlFtNnB5VGhwSzlFa1Ewbm1jM3pSVG1kUVhBUnRZdWprLVdYS3FUQUpxeV9QN2hmZ1l3c2E4clJZNjZPOS0tc2huRUFFVExQaFNqVjA5ajRCRTdud3BsalkyX2tYT2Z5dmVfV1k3MDhNTGVXUGhfQ0x2cWQ2UVFDb25KZzZoYjh1ajl2SjVHTl8zajBB?oc=5",
+        "pub_date": "Sun, 15 Mar 2026 16:00:19 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Contact OKX Support, Live Chat & Help Center - OKX",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91LUR4YjN0NXpzN2VaMnhaVzRjcEdxZ2pKcktHNnJreU5KRUFWZjhjWXdXdVhTOEl3aEY0Wl9RSXlabVBYM040X3l2cS1hN2RfZVpka21IVmdnbkt3UkFzZm5Pb0RlUFM2Rk1CdFM2NmRCZw?oc=5",
+        "pub_date": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
         "title": "OKX Crypto Exchange Platform - Blockchain Council",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa2ZNXzlfclNPVHFOVHF4d1E0NDJGVHFSMGl3dVdkNzV1d2N4eXZMVnl0YWQzWDVjVU9DZG1OVzdKTlhfeGNCS29fSmZMaEdSNHdId04zNE9EeWRyMUNNRjJtX1RWZXRFaE9xR3B6M3puZ0N4c3RQaE93T0ZKZ0hnMkxPX0Z2UQ?oc=5",
         "pub_date": "Mon, 10 Nov 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "How to Get OKB (OKB) - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fYzNlNy1USFBwRm80Z2pGN015N25XX1l3WFpyODFzdDZmWTJRdzhyQmFndEEwUnpka2VUOUIzVU1JbWVTcllrVE0zWGxWcEFiTUE?oc=5",
+        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -545,14 +601,6 @@
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Cc05wNlBTRFhaRFE5aTJreVJVMW53M2tpNl9OMTIxUF9ZSEJqNHZfeWNFTk5vQnRoSEtrVTFlaUtDdDk4QWE0dGk4T25MVUI5UnZ5YjhyY2xNX2gwR181eDBoWWpTal9vYkdMbmNyd0Q?oc=5",
         "pub_date": "Mon, 09 Mar 2026 09:38:39 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKX expands custody partnership with Standard Chartered into Europe - The Block",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS3loNzdyUUtnUXZ0U1B6b3lpazlyOFdzU29uUUdXT21tU2lmNndTa01NQldvU2thQW9sc01QYXFoWDhUNUtNNENiSkpIckZUelBLTmJURFJERGk2Z01JZ2NEcWRkS1k5TGRfVXhpVnNLdDNHQXJFMXlKWWFzYWI5SVdvX0tPN1NJZHZCLUdNdw?oc=5",
-        "pub_date": "Thu, 16 Oct 2025 07:00:00 GMT",
-        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -576,14 +624,6 @@
         "title": "Automated Profits: OKX Trading Bots Explained - Cointribune",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcEM5RDl1NlJ2bVk0RFBROEttcV91ZkZGU2NnZUtCWUFMdTYxc2tGV1pvNkZkczZiWkRfMXFadUxiNVBBdUgwdEZFaGlDMnQ3QlZkVGRnWkJpQlVoT2Z2a2VUUXQ4cjF4NXlCN2tSNlZNNkVlemdtdWMzU29oM1FCb2Rn?oc=5",
         "pub_date": "Sat, 14 Mar 2026 17:14:30 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "23.727 RIVER USDT Perpetual Swap - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JMl9tbUNSWjczLVRhSHJUZlhvblZXNmZTZXpXRThXTVk2ZUpXUE9wOGtrVV9NSEtkQ2R6NDFWWWlzX0FsQ25UQVVhM2o2UkFLRTNpMXIxc1lRQQ?oc=5",
-        "pub_date": "Fri, 09 Jan 2026 12:11:49 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -629,9 +669,9 @@
       },
       {
         "exchange": "OKX",
-        "title": "How to Deposit Crypto? - OKX",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kY2l5TjJGNnR6MFVQMFJxTGRtSXFnM1R4ci0yN25CcHBmdDRJX082QmUzZTNmOXpUbkxIekplVFFwZGtUbWNPaU1zZXlQSWxvdDA3QlYyaDJJYzY0WWRjcnJuN1plZUZodUNTbg?oc=5",
-        "pub_date": "Sat, 25 Oct 2025 07:00:00 GMT",
+        "title": "29.08 GIGGLE USDT Perpetual Swap - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83UDZVUy1iVmsxV21uem1TSjZ3dXFGUEVONm1PbjVxSldQZy1pdlhBYWtLR0g2aEFvSUduZm5xYi1NaGxTTGRNS2ZncDJpQTYzQjJxcmdIV1FZcUE?oc=5",
+        "pub_date": "Sat, 25 Oct 2025 08:59:27 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -653,22 +693,6 @@
       },
       {
         "exchange": "OKX",
-        "title": "What is AIXBT by Virtuals - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96QUpwR19SRkw1WXB1aDdhVWxDczVlZkRoZjVMY0FwOFAzT3p0TjBHc2VmYUZCUVJMOFdobVc4QjRtZHhjblpVNmQzdXFfLWNsZUMxdWtMcG0yNXByZmZuUA?oc=5",
-        "pub_date": "Mon, 22 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "What Is Clover Finance (CLV)? - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1odTJmbTdHdHhyOU91TXByTEJfSXIyTjEyMi1McVlyYkVEV2M5VFIyM2VrX3JCYkdpeXdZT1c4MTRrQlp2ZTl0ZmFnck5NSms5LXZMakdJUTMzblhpUGVONG9B?oc=5",
-        "pub_date": "Thu, 25 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
         "title": "We’ve officially launched our fully regulated centralized crypto exchanges in Germany and Poland! - OKX",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01RnFqa2tNbXdWa2o5UmhYeHU4Wld2QXUzRmRvV203NGZtRlBZUG1ZTVNqa3JsdW1YMWZLSFBvcmZNWGxnS0g1RTdVUWx1dVphVk1nWTI4cUJobi1remhYVllLaw?oc=5",
         "pub_date": "Mon, 16 Jun 2025 07:00:00 GMT",
@@ -681,14 +705,6 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMkVBSmp2QjdjcWt0bFZBT1RKOFRJRW1abGpmVzQxanc2VWpZNFZuZWZmRGV1NWRpSWhZS1Z0TUlMWnJGSGx4dmZWYzkyTllKRHV0ZjlRNktLMUxqV1luZEY4Z0NQR1Ffam5naFNDeW9OWkZiVXNSMmJlRTFWYU41bmFyQzNJRWN0bEdiOTN1WEdwb3hNa1E5bTN4MFNVM2lVcDV2RlZpX2tlSFJ5UGVnaHo1SkY?oc=5",
         "pub_date": "Mon, 28 Jul 2025 07:00:00 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Best Crypto Credit Cards: A US User's Guide - OKX",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54Qm5OOGFXV092UFkyNVNHbElETHhQODd5X1ZKakFTQTA3WWJOVmN4VDVERzBsR2w5WmtabDlRY21rbmhqeW5ZWEJxamFUYWhWeVFTZEVCN1dpcWtteXgzZzJ2MTRrM3dnX2VlLVlQSXY?oc=5",
-        "pub_date": "Sat, 25 Oct 2025 07:00:00 GMT",
-        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -709,41 +725,17 @@
       },
       {
         "exchange": "OKX",
-        "title": "Crypto Exchange OKX Plans to Go Public in the US: Report - Decrypt",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rYWRiUzRHY0dIYmcyXzl3THMtSU1LY0tZS1B6Zl9VR0pWSlJ0WExlM3NPSXo5bmV3NjNlTTJHbnpVcWlJSHU1VHdqUGticTJQVkY3dHJKS3VpRWlPblFnV2R2X3dkQdIBbkFVX3lxTE56ZDd4Tjk3a09GdFd3SVJBSTJBVGFuQnFsYV9pcE9tS0ItRW9aQkhESWItMWtseFhjcEVDcFNlZUFqc1ZLYkpZbm1fZzUweVEwZTF1Uks2N09sZFdXLUVTOF9FVXQ1dXV5OXNQN1lR?oc=5",
-        "pub_date": "Sun, 22 Jun 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Crypto exchange OKX joins Global Dollar Network, integrates Paxos-issued USDG stablecoin - The Block",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVcwNTh3b3U2bjVjcktHOFBNSEFnRklHNW9qQUVodVBkeG05YlQ4bnhZbFB0OGRqQlI3ZEc3MUhFdTZGcFQ0OXFOR0w4U0EzZ2V0Q191OTJrZTVyQ0JmREczXzdZelhvVVRzUldMRThPV0JnU2pIZ3FVZjNFTGxCb1c4T3hHSm5DZjln?oc=5",
-        "pub_date": "Mon, 14 Jul 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKX Review for 2026 - Fees, Features, Pros & Cons Revealed - Cryptonews",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43Z0NIRU1MTFVlbkNubHZOc1RkcWI3dTE1TVBtV2tONnhfakt3RHhZR2ZCaWs2bUlGTVRpZWRKcXpuZHducWgyV1VPTVFrbGlycUR6Vw?oc=5",
-        "pub_date": "Thu, 25 Sep 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "TURTLE Tokenomics and Airdrop: Everything You Need to Know - OKX",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xM0JKbGJnRU1NdEpidFBwcUR3OU55T29RQlF5eHUwcHlIZUVOaGNSc1hhYTlZVmU4MDJFWXFYTTZ6RDJ3VTZ6SjdyQXowNndNa2toU3hXOHB3MVhXakhuTVJQNnN5WjUxSTJzbUJBbFB5M00?oc=5",
-        "pub_date": "Tue, 30 Sep 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
         "title": "Bridging Traditional and Digital Markets: OKX Partners with Deltix to Power Institutional Trading - OKX",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaMjRqRk1VaVFXQW9BbjlERDRaQU1RaWQ3WFkyRHZ5dDVzSXpKUlU1ajFodS1sVWk3YUtKQnI2RURQd0gwdjlLYmM4ZWVfV1JCMFVzdzlhNFBWTFJOOEVZ?oc=5",
         "pub_date": "Tue, 09 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "ICE, OKX Joint Venture to Offer Crypto Futures - Markets Media",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd3lvbC00QXZCWFNDV1ZMMjd1MkdvcjNFei1TQmRQXzQtdERZQmY5cHlJakYtVm5BU2VBMlhBeWlFT1Jla3N1OUEzNktTMkItWTlBUlNlYVdYdExuQUxQSjB1ZzJrbTFmanlEQ0ktR0hRMGhMTG9MTVJ0OERwTFJfSA?oc=5",
+        "pub_date": "Thu, 05 Mar 2026 16:52:21 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -757,9 +749,9 @@
       },
       {
         "exchange": "OKX",
-        "title": "ICE, OKX Joint Venture to Offer Crypto Futures - Markets Media",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd3lvbC00QXZCWFNDV1ZMMjd1MkdvcjNFei1TQmRQXzQtdERZQmY5cHlJakYtVm5BU2VBMlhBeWlFT1Jla3N1OUEzNktTMkItWTlBUlNlYVdYdExuQUxQSjB1ZzJrbTFmanlEQ0ktR0hRMGhMTG9MTVJ0OERwTFJfSA?oc=5",
-        "pub_date": "Thu, 05 Mar 2026 16:52:21 GMT",
+        "title": "OKX Cuts Third of Institutional Staff in Major 2026 Restructuring - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUmtObGV0M05xOWxScGEySW5pZS1KWjNVWGNlVGF3alRKME5NN3JOc045M25LbFh5MEdIX28tQUF2ZEZKNnNxbVNFZUtFTE93WU4tUVRId0ItT3MtOGZIbTFvUEtPbjJUZDhQZjdLNVNZSHJUSUs5NGVjMUExTWdtM3FfcjRtOE0?oc=5",
+        "pub_date": "Fri, 09 Jan 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -781,14 +773,6 @@
       },
       {
         "exchange": "OKX",
-        "title": "OKX Cuts Third of Institutional Staff in Major 2026 Restructuring - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUmtObGV0M05xOWxScGEySW5pZS1KWjNVWGNlVGF3alRKME5NN3JOc045M25LbFh5MEdIX28tQUF2ZEZKNnNxbVNFZUtFTE93WU4tUVRId0ItT3MtOGZIbTFvUEtPbjJUZDhQZjdLNVNZSHJUSUs5NGVjMUExTWdtM3FfcjRtOE0?oc=5",
-        "pub_date": "Fri, 09 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
         "title": "Why NYSE’s Parent Is Betting on OKX to Rebuild U.S. Market Structure - Finance Magnates",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYXJKdmVOQURYRllvSF9vZGhYcjdaOXRQZC1oNHpPRi1KOHJXWkM5YWs1cDlsbEVERWxkTkxjU05JTnR0RHpZbWlaX3NoX0FwejBFWGRUMGF1SlFVbHE0WDFGcmMySng0VElmX2d4YUxmc1F2NG5hZnNLMEZpd2hyZHp2T01iSTRMM05VZzhCejA5ZjhOcEFKYmpuSk1XazlNczVHZDRyVkNlckpWNHI0d0Jfd01kR2tDMExacVBrY9IBxAFBVV95cUxQR2VONC1Tdzg1TklFX09acWJRWW1FSkJsT185Mk0tdEx0anoyOG11RXVSaHVpcWNQb0EzTlBua044WVVMQ1R4dnF1VHkyTldWT1BZNXNITWdxSnpnQ2FLZG41WVZmcUw5bFltTHY1M1lZRnUzNkNXYktZeGhpZXdTbmF0X2JmZjI1SlBPdkoza2tVWkVOZmV1RXVxaVRyLURhb0l6UmExSVl5RHQ2V20weHJzbTRVLXN5ZVJsd0oyQkk2RVhS?oc=5",
         "pub_date": "Fri, 06 Mar 2026 08:00:00 GMT",
@@ -800,14 +784,6 @@
         "title": "Cryptocurrency Market: How Perpetual Futures Are Revolutionizing Institutional Trading - OKX",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ3ZVWEdBNE0yYjduMEw4bEYxZE93RDQ5RTJ5RHltckhtdUR2LWpTcGc1Nk9jQUdmb2RHc1VheWx3Z0hlY2VCZnU4THJWSXhwOXlHVHozV3ZhQ0U2TGhHVWM3MGxrQmNYclcxMWlXcDFQbTJXRmI2SzVzOWxWUy1ia2puRHM0dw?oc=5",
         "pub_date": "Mon, 27 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "USD Margined Futures - OKX",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hWVAtUzNVT3NNWGdEcFZKUWVaSGJoSkhoaG8tdHAwcHAycDU2Mkd0ejVEZ1FLN0ZrX0pCNUpfNVJuQ2lJTmk4ZFNDWHNTRjN3MFBYSkVfX0pZYllja1ZmQUtFcXB5dEJGc0lxLQ?oc=5",
-        "pub_date": "Thu, 06 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -829,6 +805,14 @@
       },
       {
         "exchange": "OKX",
+        "title": "USD Margined Futures - OKX",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hWVAtUzNVT3NNWGdEcFZKUWVaSGJoSkhoaG8tdHAwcHAycDU2Mkd0ejVEZ1FLN0ZrX0pCNUpfNVJuQ2lJTmk4ZFNDWHNTRjN3MFBYSkVfX0pZYllja1ZmQUtFcXB5dEJGc0lxLQ?oc=5",
+        "pub_date": "Thu, 06 Nov 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
         "title": "A New Standard for Institutional Spot Margin in Europe - OKX",
         "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zU0czRDhnNEtIcGlQc0MtaTl2VktWY0s1blVmOGViTk4zRlo3aWV4X013amt0VmJJX1hBcFN0SDRXOURyN252NkNicEU?oc=5",
         "pub_date": "Mon, 15 Dec 2025 08:00:00 GMT",
@@ -837,9 +821,9 @@
       },
       {
         "exchange": "OKX",
-        "title": "OKX + Autowhale: A Powerful Institutional Partnership for Europe - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRUUVMRmFISDc0ekwyUjNNWFhvVVppTXk3WEFtNnNJblYzUWp6bUxPZzlieVJBOXBWQWFiOWI5T2hyQ1BKemF6WUlJRF9LSnNFcVcxUDRoMkVzU0hORFE?oc=5",
-        "pub_date": "Mon, 14 Jul 2025 07:00:00 GMT",
+        "title": "Ethereum Investment Trend: Key Insights, Institutional Adoption, and Market Drivers - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNURUanRVdC13T1lFbTNsdzUxdTFhZlp6T1FoeGEyeExzMWhEaktmVUFYMGc5dzVodVhJRk1SY01aOEhNZEREZXdVdF9KLS1VSVJjT1R2REQwYkJEeTMzNXZTODFnZDlSWVJHZ25wVTE2bkFBVGwxOFdsbDQxdThaQVlRcEJTdTFYVGZr?oc=5",
+        "pub_date": "Wed, 03 Dec 2025 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -853,18 +837,106 @@
       },
       {
         "exchange": "OKX",
-        "title": "Ethereum Investment Trend: Key Insights, Institutional Adoption, and Market Drivers - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNURUanRVdC13T1lFbTNsdzUxdTFhZlp6T1FoeGEyeExzMWhEaktmVUFYMGc5dzVodVhJRk1SY01aOEhNZEREZXdVdF9KLS1VSVJjT1R2REQwYkJEeTMzNXZTODFnZDlSWVJHZ25wVTE2bkFBVGwxOFdsbDQxdThaQVlRcEJTdTFYVGZr?oc=5",
-        "pub_date": "Wed, 03 Dec 2025 08:00:00 GMT",
+        "title": "Whales, Institutional Players, and BTC: How Gunden's Exit Signals a Market Shift - OKX",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DMHBZWlpBMVp5ZXAwbi1FNXEzOVdMQ3RjRGM4ZXM5TVJ6bHVFSWQ0cnc1RENTMUM2dFJxaV90ck9XUVdqcjVRRi1oVGpucGNFSU1IellIcC1RaHkzRHMxVnd6VUJObzFWS21RRjRfQ18?oc=5",
+        "pub_date": "Fri, 21 Nov 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "ZEROBASE Token: Unlocking Privacy, Scalability, and Institutional DeFi Solutions - OKX",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1Q1ZhQXVQRjBVUWRIdlVyT0l3UFB5QnNrSEpDaUJ6WkQxVVJSMkM2Z20xVVpmZDZNdndwdUdvcUhWZjFWamRzU2NBb3J3RndXY2hyNUkzTkpVdzhhTmFCY1hkUXlZVE9ONF9MdnpkcW5Fa00?oc=5",
+        "pub_date": "Fri, 17 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "OKX and Standard Chartered Extend Institutional Crypto Services to Europe - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXRURDMyazR3Sjg0cWVGVUhUZU51OHZuUHRnandHak9KUkN4OFh2WVRIbWNsWkRMVklXMW42bWZtVU5MWVlGVS11OEFnVUlURFl5ZGkzcmtSREx6OEJJdUVzVi1SRlBSVlhzU1RNQlg0dVV4YTczWmJBOVNQUGlsVGtYYnhuTl94RzJFXzZncmNWYkU?oc=5",
+        "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "FalconX ETH Address: How Institutional Players Are Shaping Ethereum's Future - OKX",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KZWtfS05iQWl3ZFAta09id3RfMEpVNnBUQmxtY3BJU3p2OHVEd2hfdnhqQUl2c0dyTjQzQU8yVl9VTVZnclpfS1kzcmlQdFdCQkhpUDVIVUJVQTlzaFVubENOMEZ6eDF3VGxLT0lTM3pVV2NTVlF2dWI4b1Jja2s?oc=5",
+        "pub_date": "Fri, 05 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Staking Data Revolution: How Figment’s Acquisition of Rated Labs is Shaping Institutional Crypto Strategies - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnVHFmOHZQQlYyVDJ6TEotS2tFanZwWnd3V1ZMSlA3VnBhcDlMUDc1UlE1OGtfeGFhVHNRRzJSNktkNE1oLVh5eGE4NlREX2hFSUo4ZHZGak8xUnhIQjlzdld2WUFwTW0w?oc=5",
+        "pub_date": "Fri, 17 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Canton Coin ETP: Unlocking Institutional Blockchain Innovation with Privacy and Compliance - OKX",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BY1huZHl1eVQ3QTV0RlVSeVg1UlkwbnBRVUpwbEkxWUMyOTJlbzFadThjTE5DLU94YmpQYks1X0xWQ29UMWwtMGdELW9Yek9vTHNOM3FnTjFVWV81SHJOcFFIZERtSzVobnI1OQ?oc=5",
+        "pub_date": "Wed, 19 Nov 2025 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
       {
         "exchange": "OKX",
-        "title": "Institutional Confidence in Action: OKX, Standard Chartered, and Temple Capital Strengthen Digital Asset Infrastructure - OKX",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc19mS0VSc0NISU1aN1BTU0hjN2d5aG5HUHh2S3VlNWdkQmxtYldTcFhNVzhBSG03aVhkc1lPbDIxdC1WZmZaWTNQVHVnWm90WU94UlFPMUJLbkVmc2NsOFlxbWRLeDRuSm8zOVFPT3ZpNWljQlRtbjNPbG5Qb3lIWTRuNHJLUGxJTmtaUUxBeHlQUQ?oc=5",
-        "pub_date": "Mon, 08 Dec 2025 08:00:00 GMT",
+        "title": "OKX + Autowhale: A Powerful Institutional Partnership for Europe - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRUUVMRmFISDc0ekwyUjNNWFhvVVppTXk3WEFtNnNJblYzUWp6bUxPZzlieVJBOXBWQWFiOWI5T2hyQ1BKemF6WUlJRF9LSnNFcVcxUDRoMkVzU0hORFE?oc=5",
+        "pub_date": "Mon, 14 Jul 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "XRP ETF Approval: How Regulatory Changes Could Transform Institutional Adoption - OKX",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9odkRaQktVWE1mWk5JcDBkVzdtMThQX2pxNzhGT2F3TDZiMEtId0lZNng5SGdrR0w1UkZoY3dhclpKZDFMUjdTTUd5eS1VdmRCTGRfSE9kTUx2Rng3VWRzT1doXy02OVd4VGV2MnVaSV81ZTg?oc=5",
+        "pub_date": "Sat, 27 Sep 2025 07:00:00 GMT",
         "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "XRP ETF Net Inflows Near $1 Billion: Why Institutional Interest is Surging - OKX",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vcW4tandaQ19aX0kxSk82Sk5lSk5JNmR0NnE4YW5FbTVjT2YwS19tQXNKcWRyd2V5MWtJZkNQQ0lfcVBUN1RWSk9NSnEyS3NOVFZRd044TWYwZ3VqZUZtV0hrVUJ4Q2p1VnBEdWIyc0pRRF80WXdZ?oc=5",
+        "pub_date": "Sat, 06 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Ripple XRP: Evernorth’s Bold Strategy to Revolutionize Institutional Adoption - OKX",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEs3dk5OYk1sVlJtN29FelpQeVBBOW1BTXk5cFkyWnVKM1dwZWoxaDEwdDJLSmNwZUpMZllUWHN5R3JrWmtfczNGZ3c5ZXFfU3llLUQ1QURSNVVZcVZpRjVHZkd4MFduaUMwSDRlT3dlOTZ1N0htRUtuWk9MeXVNd0gzVXA?oc=5",
+        "pub_date": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "INJ ETF by 21Shares: Unlocking Institutional Access to Injective's Blockchain Potential - OKX",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZYc2FoTVROVjROclp1ZTNmcFpuV1JJNnlyWmM1YTlMMVBOazV5WG9YaGpLb0xLeTlWNEVldWRaalhjTGN0bkNjbXlqX3UtcnF4Zjd4QVFpbDgtWVI2bmFraHdrMDJROXZzZjVzeF8?oc=5",
+        "pub_date": "Mon, 20 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "AVAX Investment: How Institutional Adoption and ETFs Are Transforming Avalanche - OKX",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sc01HWEtzcnRwaWltZ1NkUWVsR0NDX003aDg2dkstS1E4N3I2eDFEd0QzeUVGX1pRLUpUaEZzTExsbnF1b05Ed1pqQk83VUwwSVREVkZjTVpSTHVtT0ZfdVgydkNBMkFvY0ItWEFIcWd1UzhKT1BNUQ?oc=5",
+        "pub_date": "Mon, 20 Oct 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "OKX Expands Standard Chartered Custody Partnership to Europe for Safer Institutional Trading - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcWhlV2dsNmVLSE1HSFB1QXR0Q3F0X0pEZ0g2U0RFQjlPVkR5Nko4RFhzM3BkTmFqQnYwVzNZeGFTdlY5SzZDaWZzeUh3aDJKd0w5VUlYdm1IWTZKOFo0VXZDamE0a1gxakZVaDRVVkNhWjB4OUxEdTZacG56MUlaVVhJMWFKR191TWlYVQ?oc=5",
+        "pub_date": "Thu, 16 Oct 2025 07:00:00 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -885,26 +957,10 @@
       },
       {
         "exchange": "OKX",
-        "title": "Canton Coin ETP: Unlocking Institutional Blockchain Innovation with Privacy and Compliance - OKX",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BY1huZHl1eVQ3QTV0RlVSeVg1UlkwbnBRVUpwbEkxWUMyOTJlbzFadThjTE5DLU94YmpQYks1X0xWQ29UMWwtMGdELW9Yek9vTHNOM3FnTjFVWV81SHJOcFFIZERtSzVobnI1OQ?oc=5",
-        "pub_date": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "XRP ETF Approval: How Regulatory Changes Could Transform Institutional Adoption - OKX",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9odkRaQktVWE1mWk5JcDBkVzdtMThQX2pxNzhGT2F3TDZiMEtId0lZNng5SGdrR0w1UkZoY3dhclpKZDFMUjdTTUd5eS1VdmRCTGRfSE9kTUx2Rng3VWRzT1doXy02OVd4VGV2MnVaSV81ZTg?oc=5",
-        "pub_date": "Sat, 27 Sep 2025 07:00:00 GMT",
+        "title": "Bonk, Treasury, Nasdaq: How This Meme Coin is Reshaping Institutional Finance - OKX",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HQ21HY0ZGcDIwSVJrZFRuUlNyaldPTnFzZUt6TFRMbzZBcVpTWDhYTHNnOTJfbnN2cllFdk80WmNBaGd4VzJzQ21UQVNMc3laWUt5SVdtaU5hWTA4OHRLaXpRYUZxOV9ETW0zb21FNVJZMEQ3cDdV?oc=5",
+        "pub_date": "Sat, 25 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Will OKB Price Hit $200 After NYSE Parent Company Investments in OKX Exchange? - CCN.com",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUNJcEZUR0hYU1JwZy1xRzhiZEdmWEhXdnU3N2hqUTNWcnZZRmpaTzJmRkx3dTFQUEp0aDNOVHFuSVBuTm5Hd3dEY21oWjlySC1sTjRZRklpbDMxTFlmbDVsNnF3YnZac09oWWRrRVdKZnBTQzdfSTR3OEIxcy14SkVKTURua3FEX2ZuYWp3azNoakU1bUpneXFkZjM4YkpPSnc?oc=5",
-        "pub_date": "Fri, 06 Mar 2026 13:20:42 GMT",
-        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -917,62 +973,6 @@
       },
       {
         "exchange": "OKX",
-        "title": "MiCA-Compliant Digital Asset AMCs: A New Infrastructure for European Institutions - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KMjlNcHJoaXpmamhVTFlCc0FtYzlSVGVocEtlLXpHbE9iT3dlZW4yNFpaNlNBWXJvX3UwR0xEVlFodFlaUUIyTzdrM2VSUmFfU05jZEV2M0pNdw?oc=5",
-        "pub_date": "Fri, 29 Aug 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "ZEROBASE Token: Unlocking Privacy, Scalability, and Institutional DeFi Solutions - OKX",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1Q1ZhQXVQRjBVUWRIdlVyT0l3UFB5QnNrSEpDaUJ6WkQxVVJSMkM2Z20xVVpmZDZNdndwdUdvcUhWZjFWamRzU2NBb3J3RndXY2hyNUkzTkpVdzhhTmFCY1hkUXlZVE9ONF9MdnpkcW5Fa00?oc=5",
-        "pub_date": "Fri, 17 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Whales, Institutional Players, and BTC: How Gunden's Exit Signals a Market Shift - OKX",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DMHBZWlpBMVp5ZXAwbi1FNXEzOVdMQ3RjRGM4ZXM5TVJ6bHVFSWQ0cnc1RENTMUM2dFJxaV90ck9XUVdqcjVRRi1oVGpucGNFSU1IellIcC1RaHkzRHMxVnd6VUJObzFWS21RRjRfQ18?oc=5",
-        "pub_date": "Fri, 21 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Staking Data Revolution: How Figment’s Acquisition of Rated Labs is Shaping Institutional Crypto Strategies - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnVHFmOHZQQlYyVDJ6TEotS2tFanZwWnd3V1ZMSlA3VnBhcDlMUDc1UlE1OGtfeGFhVHNRRzJSNktkNE1oLVh5eGE4NlREX2hFSUo4ZHZGak8xUnhIQjlzdld2WUFwTW0w?oc=5",
-        "pub_date": "Fri, 17 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "DeFi vs CeFi vs CeDeFi: Comparison - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qclFIZTNKT2tHZ2oyaUZ5UGg0LTk0NmFmMk9LQ2g0b21NR1VHZi1DMkFuVTktaHBBRDZvZnRZTTBDN0J3SWg0WndURlpXZG9NLVJFM0NuaFdtY3pla1hob3dmRzEtdw?oc=5",
-        "pub_date": "Wed, 12 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "XRP ETF Net Inflows Near $1 Billion: Why Institutional Interest is Surging - OKX",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vcW4tandaQ19aX0kxSk82Sk5lSk5JNmR0NnE4YW5FbTVjT2YwS19tQXNKcWRyd2V5MWtJZkNQQ0lfcVBUN1RWSk9NSnEyS3NOVFZRd044TWYwZ3VqZUZtV0hrVUJ4Q2p1VnBEdWIyc0pRRF80WXdZ?oc=5",
-        "pub_date": "Sat, 06 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "AVAX Investment: How Institutional Adoption and ETFs Are Transforming Avalanche - OKX",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sc01HWEtzcnRwaWltZ1NkUWVsR0NDX003aDg2dkstS1E4N3I2eDFEd0QzeUVGX1pRLUpUaEZzTExsbnF1b05Ed1pqQk83VUwwSVREVkZjTVpSTHVtT0ZfdVgydkNBMkFvY0ItWEFIcWd1UzhKT1BNUQ?oc=5",
-        "pub_date": "Mon, 20 Oct 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
         "title": "Ripple, XRP, Treasury: How Evernorth's $1 Billion SPAC Merger Could Transform Institutional Adoption - OKX",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByRUxpaTY5Zm81YXdsLWczR0twZXREQVRnWHoxLTZmZTRMVXdnQ2tCdmxoS2FnR25WYzhSc18wSkhObkQ1M3h0dThoSHZROHpxVFJ6Rm05UmlMWUpTMDdWY3NranpuODhoV2hxc1R1Z1NjMnRt?oc=5",
         "pub_date": "Mon, 20 Oct 2025 07:00:00 GMT",
@@ -981,73 +981,9 @@
       },
       {
         "exchange": "OKX",
-        "title": "FalconX ETH Address: How Institutional Players Are Shaping Ethereum's Future - OKX",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KZWtfS05iQWl3ZFAta09id3RfMEpVNnBUQmxtY3BJU3p2OHVEd2hfdnhqQUl2c0dyTjQzQU8yVl9VTVZnclpfS1kzcmlQdFdCQkhpUDVIVUJVQTlzaFVubENOMEZ6eDF3VGxLT0lTM3pVV2NTVlF2dWI4b1Jja2s?oc=5",
-        "pub_date": "Fri, 05 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Ethereum Staking with Lido: How Liquid Staking is Revolutionizing Institutional Investments - OKX",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93VjlpbjA2c1lvMUhVV1BELVBVVFhhclJOVlhPYWhXSUxHaVNRLVFDV3BQVTFGdDFXUUdSM3RpemticzgwaW5jcGt2SkQ5LXlFU1hpWFg2eU8zQmhQVDBWbXFjQ3ZiQkJ6WXRpdjRqd2xYR2xj?oc=5",
-        "pub_date": "Sat, 06 Dec 2025 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKX and Standard Chartered Extend Institutional Crypto Services to Europe - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXRURDMyazR3Sjg0cWVGVUhUZU51OHZuUHRnandHak9KUkN4OFh2WVRIbWNsWkRMVklXMW42bWZtVU5MWVlGVS11OEFnVUlURFl5ZGkzcmtSREx6OEJJdUVzVi1SRlBSVlhzU1RNQlg0dVV4YTczWmJBOVNQUGlsVGtYYnhuTl94RzJFXzZncmNWYkU?oc=5",
-        "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKX Expands Standard Chartered Custody Partnership to Europe for Safer Institutional Trading - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcWhlV2dsNmVLSE1HSFB1QXR0Q3F0X0pEZ0g2U0RFQjlPVkR5Nko4RFhzM3BkTmFqQnYwVzNZeGFTdlY5SzZDaWZzeUh3aDJKd0w5VUlYdm1IWTZKOFo0VXZDamE0a1gxakZVaDRVVkNhWjB4OUxEdTZacG56MUlaVVhJMWFKR191TWlYVQ?oc=5",
-        "pub_date": "Thu, 16 Oct 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Ripple XRP: Evernorth’s Bold Strategy to Revolutionize Institutional Adoption - OKX",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEs3dk5OYk1sVlJtN29FelpQeVBBOW1BTXk5cFkyWnVKM1dwZWoxaDEwdDJLSmNwZUpMZllUWHN5R3JrWmtfczNGZ3c5ZXFfU3llLUQ1QURSNVVZcVZpRjVHZkd4MFduaUMwSDRlT3dlOTZ1N0htRUtuWk9MeXVNd0gzVXA?oc=5",
-        "pub_date": "Wed, 29 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Ripple XRP Breakout: Key Indicators, Institutional Interest, and Future Potential - OKX",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RYnJ1RVNtM1VPSlhlT29uajJMUFZXYXVnMFd2RDViSEhoNk9GSmljb04yalhob1V1Z1NfNmxCSDR5bll0ZG5EdDNHMlR6NFFOMzFIOEZKRDBESXVXY3ZYRElqeGtpR2YzZ3hiUw?oc=5",
-        "pub_date": "Tue, 07 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "CeDeFi Growth Potential: The Future of Hybrid Finance - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VaFBKWTl4c2ZrUlFLenpfdnVhVTR4dGEtWVJGQnhBSFFHcW9aNGNSQVlLZ21hb3pxSzF2SHFCRHhMWUtmX2JKTGViLW0xOGFyOWw2UWt2VTFha1VvMEJxMENLRnhGZ3c?oc=5",
-        "pub_date": "Wed, 12 Nov 2025 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "XRP ETF Launch: What It Means for Institutional Adoption and Market Growth - OKX",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoYUh5SUFLdzdxejhyRk1yUlVLN2s2dTczRGdXekN4SnpQMEcwMEVMSU0xTzhxRjRULWVLb3B0TjVpcUcybURNMEczU3lxbF9GZnVWMEVoamNMZTNaT290bVhEVFRnSVQ4YjRlTTA0ekxOdmtpSVdiTmJ3MmhvaHM?oc=5",
-        "pub_date": "Mon, 03 Nov 2025 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "INJ ETF by 21Shares: Unlocking Institutional Access to Injective's Blockchain Potential - OKX",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZYc2FoTVROVjROclp1ZTNmcFpuV1JJNnlyWmM1YTlMMVBOazV5WG9YaGpLb0xLeTlWNEVldWRaalhjTGN0bkNjbXlqX3UtcnF4Zjd4QVFpbDgtWVI2bmFraHdrMDJROXZzZjVzeF8?oc=5",
-        "pub_date": "Mon, 20 Oct 2025 07:00:00 GMT",
+        "title": "Institutional Confidence in Action: OKX, Standard Chartered, and Temple Capital Strengthen Digital Asset Infrastructure - OKX",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc19mS0VSc0NISU1aN1BTU0hjN2d5aG5HUHh2S3VlNWdkQmxtYldTcFhNVzhBSG03aVhkc1lPbDIxdC1WZmZaWTNQVHVnWm90WU94UlFPMUJLbkVmc2NsOFlxbWRLeDRuSm8zOVFPT3ZpNWljQlRtbjNPbG5Qb3lIWTRuNHJLUGxJTmtaUUxBeHlQUQ?oc=5",
+        "pub_date": "Mon, 08 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1061,18 +997,18 @@
       },
       {
         "exchange": "OKX",
-        "title": "Stellar Stablecoin Network: How U.S. Bank’s Pilot Program Could Transform Institutional Finance - OKX",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85b294ZUZuOHQ4VW52ZkxuS0tPdWlCcTJObmU3WFp4U2Q4QnNUZ0pCQWNCRm93MTh1MmNzbDNMRzN5WVFUS1JtYzNCNEplbG5CTjdZV0N6LTJ5b0pQenlqR3pueEo2Y3FkRWdNbDdiQkhfZkNrcHo0ZHlsTUY?oc=5",
-        "pub_date": "Fri, 28 Nov 2025 08:00:00 GMT",
-        "sentiment": "negative",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
         "title": "Cardano Institutional Adoption: How Regulatory Clarity and DeFi Growth Are Shaping the Future - OKX",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51d19UT0RKX3BEU0tLS2tsM1NZcmgtY1BXRWl1cFpmOUNNRWFqSEEyajk4UkNKdHJtRnB2X2ZnRE1JVUVXcFFheW5Ba28zZWR6WlhqMHVfOEZBVEhKM0xQME1yVGxPT0pzSVBzZjM4SGxMd3g0RG04?oc=5",
         "pub_date": "Sat, 04 Oct 2025 07:00:00 GMT",
         "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "DeFi vs CeFi vs CeDeFi: Comparison - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qclFIZTNKT2tHZ2oyaUZ5UGg0LTk0NmFmMk9LQ2g0b21NR1VHZi1DMkFuVTktaHBBRDZvZnRZTTBDN0J3SWg0WndURlpXZG9NLVJFM0NuaFdtY3pla1hob3dmRzEtdw?oc=5",
+        "pub_date": "Wed, 12 Nov 2025 08:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -1085,9 +1021,9 @@
       },
       {
         "exchange": "OKX",
-        "title": "Ether Growth: How Ethereum's Institutional Adoption is Shaping the Future of Finance - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NQVpJME5mS0xGd2x0M0VxWnBXMmhLR2Zqc1JFdXB6eE1FYXJ5VlZRT0JwckoweWUwV2pvWlBOYzNjd25XclBWTDVLU3ZWd2tmc0ZNOTZKb1hzN2R2bUItOUFBMndPVW9Hb01GeWx3ZzY5WWtjeFBVVE9n?oc=5",
-        "pub_date": "Sat, 15 Nov 2025 08:00:00 GMT",
+        "title": "XRP ETF Launch: What It Means for Institutional Adoption and Market Growth - OKX",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoYUh5SUFLdzdxejhyRk1yUlVLN2s2dTczRGdXekN4SnpQMEcwMEVMSU0xTzhxRjRULWVLb3B0TjVpcUcybURNMEczU3lxbF9GZnVWMEVoamNMZTNaT290bVhEVFRnSVQ4YjRlTTA0ekxOdmtpSVdiTmJ3MmhvaHM?oc=5",
+        "pub_date": "Mon, 03 Nov 2025 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -1101,26 +1037,10 @@
       },
       {
         "exchange": "OKX",
-        "title": "Crypto Market Fund: How Tokenized Money Market Funds Are Revolutionizing Institutional Finance - OKX",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kT2NwbFp6RC02aThrYUktRjl6N1ZHbDd6Z3EyYl93czl6Tmk2SjRNclNqZVBFMUpZekRpRXJRSk4wSVNXN0JEQll5RjhYVl9nb2c3LXZNNjVDYldtRDBMTVFJU1lTVEY1NWpBUnE1VENERVJKeEhKblE1cHpoZw?oc=5",
-        "pub_date": "Mon, 18 Aug 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Bonk, Treasury, Nasdaq: How This Meme Coin is Reshaping Institutional Finance - OKX",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HQ21HY0ZGcDIwSVJrZFRuUlNyaldPTnFzZUt6TFRMbzZBcVpTWDhYTHNnOTJfbnN2cllFdk80WmNBaGd4VzJzQ21UQVNMc3laWUt5SVdtaU5hWTA4OHRLaXpRYUZxOV9ETW0zb21FNVJZMEQ3cDdV?oc=5",
-        "pub_date": "Sat, 25 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "BitMine and FalconX: How Institutional ETH Accumulation is Shaping Ethereum’s Future - OKX",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkcVZfZkcyS3VvUk90aTh0dzFUSlFIU1h5MGFuNjBXeTBzZGpaSnc2bHVQT3JjNzY2c1NTcDJnYmJWSS1GTmJKWXZJaEYzLV80STgtUlRWU2Rad0NkWlFsY20xcWhycVY1OW84LWwyenRmSTNnYlE?oc=5",
-        "pub_date": "Wed, 29 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
+        "title": "MiCA-Compliant Digital Asset AMCs: A New Infrastructure for European Institutions - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KMjlNcHJoaXpmamhVTFlCc0FtYzlSVGVocEtlLXpHbE9iT3dlZW4yNFpaNlNBWXJvX3UwR0xEVlFodFlaUUIyTzdrM2VSUmFfU05jZEV2M0pNdw?oc=5",
+        "pub_date": "Fri, 29 Aug 2025 07:00:00 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -1133,9 +1053,25 @@
       },
       {
         "exchange": "OKX",
-        "title": "Grayscale Solana ETF: Unlocking Staking Rewards and Institutional Adoption - OKX",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xMmdHbmQwcHZKSlR5bjZ5YmZMd3ZxVjBfNlFpX3pmQ1BRS0xLQlRxaHM5cVVhSU5jOUE1QlRlb3RlSFFYM1VRZlB4OS1CbkE3bGJEWkxuZFRzS2Q0REVHR3RmSG9iaUxKUlhHUF9CTlZIRF9jVl84?oc=5",
-        "pub_date": "Wed, 05 Nov 2025 08:00:00 GMT",
+        "title": "BitMine and FalconX: How Institutional ETH Accumulation is Shaping Ethereum’s Future - OKX",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkcVZfZkcyS3VvUk90aTh0dzFUSlFIU1h5MGFuNjBXeTBzZGpaSnc2bHVQT3JjNzY2c1NTcDJnYmJWSS1GTmJKWXZJaEYzLV80STgtUlRWU2Rad0NkWlFsY20xcWhycVY1OW84LWwyenRmSTNnYlE?oc=5",
+        "pub_date": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "CeDeFi Growth Potential: The Future of Hybrid Finance - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VaFBKWTl4c2ZrUlFLenpfdnVhVTR4dGEtWVJGQnhBSFFHcW9aNGNSQVlLZ21hb3pxSzF2SHFCRHhMWUtmX2JKTGViLW0xOGFyOWw2UWt2VTFha1VvMEJxMENLRnhGZ3c?oc=5",
+        "pub_date": "Wed, 12 Nov 2025 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Ripple XRP Breakout: Key Indicators, Institutional Interest, and Future Potential - OKX",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RYnJ1RVNtM1VPSlhlT29uajJMUFZXYXVnMFd2RDViSEhoNk9GSmljb04yalhob1V1Z1NfNmxCSDR5bll0ZG5EdDNHMlR6NFFOMzFIOEZKRDBESXVXY3ZYRElqeGtpR2YzZ3hiUw?oc=5",
+        "pub_date": "Tue, 07 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1149,18 +1085,34 @@
       },
       {
         "exchange": "OKX",
-        "title": "OKX Launches Rubix: Digital Assets-as-a-Service for Financial Institutions - Fintech Finance",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk9mQ1dMcDBqaERjMXhhNG5rVjhTbEVqLXBIQ3FhcDZMakdpN3VKZTk3X2VzUHVVVnRsQy04b3pjcFNMbFhTdGxrY0hYR3lmOEh5cDZFWkNYT05FRUgxUk12ZGo0M0M1Z09uREFGeWZyQWNTS0tUYzUySUxQLXpNTVUxUzNDM2Rmb0o3c2hGZnlySkJvMnl1R2NTdDV6VWlSRWVXUWYxTGlfVHkxQjRoOTYxOXUwdDhWWmFlTA?oc=5",
-        "pub_date": "Thu, 23 Oct 2025 07:00:00 GMT",
+        "title": "Litecoin's $ETF Price Surge: Key Drivers, Institutional Adoption, and Market Trends - OKX",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lMWQyQzJYNnhqNWhiT1ZCZFpUUXlLWG1zOWhZMHpNbVlzNmNtNWw0SkVqbkpLWE5KbFFiZ1JGWm1ndEhOMV9lM21Vd3JoZzZ3ZWxQanFLazA3YlBTMElKaHV0Zm8ydFVKWVBtNWdLQlZIT1RudVk4RnltMA?oc=5",
+        "pub_date": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Ethereum Staking with Lido: How Liquid Staking is Revolutionizing Institutional Investments - OKX",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93VjlpbjA2c1lvMUhVV1BELVBVVFhhclJOVlhPYWhXSUxHaVNRLVFDV3BQVTFGdDFXUUdSM3RpemticzgwaW5jcGt2SkQ5LXlFU1hpWFg2eU8zQmhQVDBWbXFjQ3ZiQkJ6WXRpdjRqd2xYR2xj?oc=5",
+        "pub_date": "Sat, 06 Dec 2025 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
       {
         "exchange": "OKX",
-        "title": "Ripple Tokenized Treasuries: How XRPL is Revolutionizing Institutional Finance - OKX",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WSUdYOFBCMkhUTHZLZWZsRmE3OFRMNC02ZUNUTUhLcGJ4YVlBQnAxbTY5TTFsVnJEZFJZcU1PdmFNQXpvNFY5dGlvVFNiS2dsSF9ETUVKOVBPZWxEVXd2MDZxRDJuVE50MDJrUnFuQ2NBejY1dktwcjBCdUw?oc=5",
-        "pub_date": "Sun, 28 Sep 2025 07:00:00 GMT",
+        "title": "Grayscale Solana ETF: Unlocking Staking Rewards and Institutional Adoption - OKX",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xMmdHbmQwcHZKSlR5bjZ5YmZMd3ZxVjBfNlFpX3pmQ1BRS0xLQlRxaHM5cVVhSU5jOUE1QlRlb3RlSFFYM1VRZlB4OS1CbkE3bGJEWkxuZFRzS2Q0REVHR3RmSG9iaUxKUlhHUF9CTlZIRF9jVl84?oc=5",
+        "pub_date": "Wed, 05 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "OKX Launches Rubix: Digital Assets-as-a-Service for Financial Institutions - Fintech Finance",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk9mQ1dMcDBqaERjMXhhNG5rVjhTbEVqLXBIQ3FhcDZMakdpN3VKZTk3X2VzUHVVVnRsQy04b3pjcFNMbFhTdGxrY0hYR3lmOEh5cDZFWkNYT05FRUgxUk12ZGo0M0M1Z09uREFGeWZyQWNTS0tUYzUySUxQLXpNTVUxUzNDM2Rmb0o3c2hGZnlySkJvMnl1R2NTdDV6VWlSRWVXUWYxTGlfVHkxQjRoOTYxOXUwdDhWWmFlTA?oc=5",
+        "pub_date": "Thu, 23 Oct 2025 07:00:00 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -1173,25 +1125,25 @@
       },
       {
         "exchange": "OKX",
-        "title": "Cardano's ETF Inclusion: What It Means for Institutional Adoption and Crypto Growth - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvUnNiRVFPaEUzWlA3bE1XY2E2alpOeUpRZGdXckM2LU5KZnZyV0hZUjVCSDR0V25SUU40V2MydnFIUTU3SjRHWWdOM1NNckhaWWh5eG9nNTNPLUZzaTRKcmtsb1lHNWFVNEtNdkZJM0FpanpjWFVCVUZ3?oc=5",
-        "pub_date": "Sun, 26 Oct 2025 07:00:00 GMT",
-        "sentiment": "positive",
+        "title": "Ripple Tokenized Treasuries: How XRPL is Revolutionizing Institutional Finance - OKX",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WSUdYOFBCMkhUTHZLZWZsRmE3OFRMNC02ZUNUTUhLcGJ4YVlBQnAxbTY5TTFsVnJEZFJZcU1PdmFNQXpvNFY5dGlvVFNiS2dsSF9ETUVKOVBPZWxEVXd2MDZxRDJuVE50MDJrUnFuQ2NBejY1dktwcjBCdUw?oc=5",
+        "pub_date": "Sun, 28 Sep 2025 07:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "OKX",
-        "title": "Expanding Our Partnership with Standard Chartered into the European Economic Area - OKX",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPemFzaG1IMjh4QXI4SF9JdGZHTFRoT2E3S3dDVnZtalBCZk5DYndlN0FzcjZteHZNb01KbHdTM2V6THdTekNDb0JHbzV6UzRzZGNHM25wSkpXYUZYSlJLcHZtYlVUT1RrT3FEcTZ2M1czWWY0aFRVdjNmQzJYQmo2Nw?oc=5",
-        "pub_date": "Tue, 14 Oct 2025 07:00:00 GMT",
-        "sentiment": "positive",
+        "title": "Crypto Market Fund: How Tokenized Money Market Funds Are Revolutionizing Institutional Finance - OKX",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kT2NwbFp6RC02aThrYUktRjl6N1ZHbDd6Z3EyYl93czl6Tmk2SjRNclNqZVBFMUpZekRpRXJRSk4wSVNXN0JEQll5RjhYVl9nb2c3LXZNNjVDYldtRDBMTVFJU1lTVEY1NWpBUnE1VENERVJKeEhKblE1cHpoZw?oc=5",
+        "pub_date": "Mon, 18 Aug 2025 07:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "OKX",
-        "title": "Litecoin's $ETF Price Surge: Key Drivers, Institutional Adoption, and Market Trends - OKX",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lMWQyQzJYNnhqNWhiT1ZCZFpUUXlLWG1zOWhZMHpNbVlzNmNtNWw0SkVqbkpLWE5KbFFiZ1JGWm1ndEhOMV9lM21Vd3JoZzZ3ZWxQanFLazA3YlBTMElKaHV0Zm8ydFVKWVBtNWdLQlZIT1RudVk4RnltMA?oc=5",
-        "pub_date": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "title": "OKX Institutional Business Restructure Leads to Job Cuts - News and Statistics - IndexBox - Market Intelligence Platform",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOE02MkQ2M1pOaGwxeW54Q1FYRkFndkZrNEQ4WUI5RFUzTmVKR1BxdUxyTEdFRm8yWEdEbzRTZFk1X3NxZWFnX3daMmNTX2k0UEpBM0YyUnh3VVNLSk5QSUJqYWJEWGdBMEZ0ZW5kMjFWbWY1VTdRU25PUFVocnZqTzc3WDJzeWlNN240bE1pOGg5MXotVmVnLQ?oc=5",
+        "pub_date": "Fri, 09 Jan 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1205,34 +1157,26 @@
       },
       {
         "exchange": "OKX",
-        "title": "How Regulatory Clarity and Institutional Adoption Are Transforming the Crypto Market - OKX",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1haVEtXWW45eFFvOXg1NzhIcjJITWdFZjhBNlI2bnNqeVJwRmlFU0lScDE5Y2dDRUVlNTNuMUZmQzJmMmJ3YkFXakphY0xtYkRVVmtiVDM4Z2R4SWtqRlNIV040Z2xMMXlaNlpMSmxVZnlDaWJSZlpkTkVVeUNiUlBmQ2FSdnZ5S0lGS09MaVA?oc=5",
-        "pub_date": "Mon, 18 Aug 2025 07:00:00 GMT",
-        "sentiment": "neutral",
+        "title": "Stellar Stablecoin Network: How U.S. Bank’s Pilot Program Could Transform Institutional Finance - OKX",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85b294ZUZuOHQ4VW52ZkxuS0tPdWlCcTJObmU3WFp4U2Q4QnNUZ0pCQWNCRm93MTh1MmNzbDNMRzN5WVFUS1JtYzNCNEplbG5CTjdZV0N6LTJ5b0pQenlqR3pueEo2Y3FkRWdNbDdiQkhfZkNrcHo0ZHlsTUY?oc=5",
+        "pub_date": "Fri, 28 Nov 2025 08:00:00 GMT",
+        "sentiment": "negative",
         "source": "rss"
       },
       {
         "exchange": "OKX",
-        "title": "Aptos ETF by Bitwise: What It Means for Crypto and Institutional Investors - OKX",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xQkt2b183M0JVYWYzLWdIclJJODQwM2JNWml5OGZucG9HMk15TVlERVNicGZudk15VmFkUERoOElMMzkwUTJtekpfRjFERm9WM0pNN3YwTGE0WmVVSmt5eHEtN1JSWmZ6SFk5aDBKVVE0bzY4?oc=5",
-        "pub_date": "Sat, 04 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKX Ventures to invest in STBL to launch RWA-backed stablecoin on X Layer - thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWE0NjhNaWlPYUlGVXRISFFtMFh6NU5LV1Y4VXl5V3d5UFJyb2txNUVFb0l6Nnp4bVZKbWhoeEI1SmluRl9hNEg0a1pQc19rQzdXRFFMeGdXS0xTWnBLR20xM3o0WTNyY0FsVlMxYWo1S2hURUlENkdZYmFoSVllOUozbDU3VDZmRE9TRktQYWJjWXpzM0cxeU9fQ01FdHpoS3BrX0lCS0RKaDdORlM2WVZJNWw?oc=5",
-        "pub_date": "Mon, 16 Feb 2026 08:00:00 GMT",
+        "title": "Cardano's ETF Inclusion: What It Means for Institutional Adoption and Crypto Growth - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvUnNiRVFPaEUzWlA3bE1XY2E2alpOeUpRZGdXckM2LU5KZnZyV0hZUjVCSDR0V25SUU40V2MydnFIUTU3SjRHWWdOM1NNckhaWWh5eG9nNTNPLUZzaTRKcmtsb1lHNWFVNEtNdkZJM0FpanpjWFVCVUZ3?oc=5",
+        "pub_date": "Sun, 26 Oct 2025 07:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
       {
         "exchange": "OKX",
-        "title": "Will Solana Reach $500? Analyst Scenarios & Price Forecasts - OKX",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yejNUOEtNcS1uU2RjTHdxVUstM3c4YTduenZ2YnFCVkFZNzAySU9hVVFRaVpxaC05X1ZjQ2llUDdEakRacnZsT3pBVW04QWowcHp1bFgxTDhMVzRHNzNwYi1QSkg5eVl6d1B3Mkpn?oc=5",
-        "pub_date": "Fri, 07 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
+        "title": "Ether Growth: How Ethereum's Institutional Adoption is Shaping the Future of Finance - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NQVpJME5mS0xGd2x0M0VxWnBXMmhLR2Zqc1JFdXB6eE1FYXJ5VlZRT0JwckoweWUwV2pvWlBOYzNjd25XclBWTDVLU3ZWd2tmc0ZNOTZKb1hzN2R2bUItOUFBMndPVW9Hb01GeWx3ZzY5WWtjeFBVVE9n?oc=5",
+        "pub_date": "Sat, 15 Nov 2025 08:00:00 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -1240,6 +1184,22 @@
         "title": "ETH Price Analysis: Can Institutional Demand and Bullish Patterns Propel Ethereum to New Highs? - OKX",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkNExHV282YlhWb3hsME5GTk5XNk5ZVVlsSjdiMFVETURaaWVTU2xYYlQwOW9KMjltdU5MRkN5Zlk4VzlvcVNjdUlWTGhYRFd5ZkFxRThnVXRSbFNZUkx4UU04T1h2WG5FOXBKaHhzT0YtSUd1YmtsR0hRLVpZUQ?oc=5",
         "pub_date": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Bitcoin Market Structure: How Institutional Adoption and Regulatory Clarity Are Reshaping the Crypto Landscape - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVWdrWkxtODl1b3haNE9ybU9vQkhDZ1BMelhvUHJWLXBDQkpDb2FkQUNLV0RxeWVnZWh0c3E1V1FtTDI2eVNyLTJnTWdkR25DbXN1bzZJRFJmVlpzMGppNk90ai1zY2NwdzlITndURXhVRmdUejM4Z1R6LTRjWW1lZWFlYS1TbWlhMUE?oc=5",
+        "pub_date": "Wed, 27 Aug 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Expanding Our Partnership with Standard Chartered into the European Economic Area - OKX",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPemFzaG1IMjh4QXI4SF9JdGZHTFRoT2E3S3dDVnZtalBCZk5DYndlN0FzcjZteHZNb01KbHdTM2V6THdTekNDb0JHbzV6UzRzZGNHM25wSkpXYUZYSlJLcHZtYlVUT1RrT3FEcTZ2M1czWWY0aFRVdjNmQzJYQmo2Nw?oc=5",
+        "pub_date": "Tue, 14 Oct 2025 07:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -1253,22 +1213,6 @@
       },
       {
         "exchange": "OKX",
-        "title": "Solana Pantera Investment: How Institutional Adoption is Reshaping Blockchain Finance - OKX",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVVZrYUpxME1XUEVtZUJuWHhhakJSMlU5LVRtMkZpRXhwY0RPMEFFejRlektYdWtpMTMxQzBfNGRSWk4xa0Q5N1RhckRGZFQ3RUg4amc4ME4xQ3A1X2V5NE43Y1lqRjdYQmpPQnh2aHl5d3hUM1g4X3lxZm81azVQTVBQX2gxUms?oc=5",
-        "pub_date": "Tue, 26 Aug 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "XRP's Path to Financial Integration: Spot ETF Approval, Bank Charter, and Institutional Adoption - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DZGN1NmxOblJZTU1SbjQtZjVYUEFNblNsUEtVMERXLXpTSWl6c0hIbWV5cFRfaXVQb2V4YXc3SGp4VVc1OTN0Wmd3Y1NqTC0ydFRVX3RvWnM3bTRGRGo1WjZ6SFZYQQ?oc=5",
-        "pub_date": "Tue, 15 Jul 2025 07:00:00 GMT",
-        "sentiment": "negative",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
         "title": "ETH Institutions and Bitwise: How Institutional Demand is Transforming Ethereum’s Future - OKX",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ybnZYSEpDYWlwX1hic0FYamZRblB3b1l2cjQ3cFV2UGc2LUNNWFNOTENkZ2VPU1d3d28zcHNsampfM2t6clZZSHJCU25Rd0E3eWdQRzRUQUpCc053Y0FuZ2tBSmtNRVJva01hUjE2djlCNGFDNGtwM1Nqdnk?oc=5",
         "pub_date": "Wed, 06 Aug 2025 07:00:00 GMT",
@@ -1277,17 +1221,9 @@
       },
       {
         "exchange": "OKX",
-        "title": "Bitcoin Market Structure: How Institutional Adoption and Regulatory Clarity Are Reshaping the Crypto Landscape - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVWdrWkxtODl1b3haNE9ybU9vQkhDZ1BMelhvUHJWLXBDQkpDb2FkQUNLV0RxeWVnZWh0c3E1V1FtTDI2eVNyLTJnTWdkR25DbXN1bzZJRFJmVlpzMGppNk90ai1zY2NwdzlITndURXhVRmdUejM4Z1R6LTRjWW1lZWFlYS1TbWlhMUE?oc=5",
-        "pub_date": "Wed, 27 Aug 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "XRP's Evolution: From Cross-Border Payments to Institutional Adoption Amid Regulatory Challenges - OKX",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wXzkwQlRqZG53VTFkd1hjYnlScXVib0NIc1hxZEJnSWpiTnB0V3d4cTRkOVVLQVBwZXh2eld0N0lrU0tWUXR6Q2RVZkhUZGdGMFJlaHhjdW5ZM0JndVllOFRxYXVySUlBSDhucFNjRHJjbEpVMUl4b3Iyd2lRWXM?oc=5",
-        "pub_date": "Tue, 15 Jul 2025 07:00:00 GMT",
+        "title": "Will Solana Reach $500? Analyst Scenarios & Price Forecasts - OKX",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yejNUOEtNcS1uU2RjTHdxVUstM3c4YTduenZ2YnFCVkFZNzAySU9hVVFRaVpxaC05X1ZjQ2llUDdEakRacnZsT3pBVW04QWowcHp1bFgxTDhMVzRHNzNwYi1QSkg5eVl6d1B3Mkpn?oc=5",
+        "pub_date": "Fri, 07 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1301,10 +1237,18 @@
       },
       {
         "exchange": "OKX",
-        "title": "Chainlink vs XRP: How Chainlink Surpasses XRP in Institutional Blockchain Adoption - OKX",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrVWhOUEpSbmxmOE9aQVJ6SG9mVnVnWGg3OWI4QWhkeXZ4REJqSU1ZdHEyZDBvSC1Nc0JGQUFPRURNZG00bXZLelRvUThxbU1TcWNDYm4xcF9jZmJHN0wzZjdQbEF5elN4dFlxa3dyZW45SW1FQUpmMjFIWmNHZw?oc=5",
-        "pub_date": "Sat, 23 Aug 2025 07:00:00 GMT",
-        "sentiment": "positive",
+        "title": "XRP's Path to Financial Integration: Spot ETF Approval, Bank Charter, and Institutional Adoption - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DZGN1NmxOblJZTU1SbjQtZjVYUEFNblNsUEtVMERXLXpTSWl6c0hIbWV5cFRfaXVQb2V4YXc3SGp4VVc1OTN0Wmd3Y1NqTC0ydFRVX3RvWnM3bTRGRGo1WjZ6SFZYQQ?oc=5",
+        "pub_date": "Tue, 15 Jul 2025 07:00:00 GMT",
+        "sentiment": "negative",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Aptos ETF by Bitwise: What It Means for Crypto and Institutional Investors - OKX",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8teGZLblh2MlRCQnBYTnFyb3owWWIzWXZrMzNLa094TnRSek5iX3dtVXZVZ2s1aWhVVHFjbTNQOFloY0ZjdVUwdHhHMWVlRVdxbDZ2Z1IyME9iTVVRSjZuN2VpNDFqSEVleGI2Qg?oc=5",
+        "pub_date": "Sat, 04 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -1313,6 +1257,14 @@
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42RWstTkdHZUY1MlJBVTh1MjZ6VWlhUVF2eHlFQWFpUXdyY1JyZkM1d1EyMmFfWEhZQ1JpY2RBNjItVWZYQ0hPNnhOVnhWVkRWUXlqc01LQk1fYXNIR05RTHQ0VUdnR1JYX21Idm1JTXlnOTFJaUlV?oc=5",
         "pub_date": "Wed, 06 Aug 2025 07:00:00 GMT",
         "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "How Regulatory Clarity and Institutional Adoption Are Transforming the Crypto Market - OKX",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1haVEtXWW45eFFvOXg1NzhIcjJITWdFZjhBNlI2bnNqeVJwRmlFU0lScDE5Y2dDRUVlNTNuMUZmQzJmMmJ3YkFXakphY0xtYkRVVmtiVDM4Z2R4SWtqRlNIV040Z2xMMXlaNlpMSmxVZnlDaWJSZlpkTkVVeUNiUlBmQ2FSdnZ5S0lGS09MaVA?oc=5",
+        "pub_date": "Mon, 18 Aug 2025 07:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -1333,34 +1285,10 @@
       },
       {
         "exchange": "OKX",
-        "title": "Cardano ETF: SEC Delays, Institutional Adoption, and Market Impacts - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41cjQxSjQxdUhTbEw3MTFIbFpjVU1iV2dMbjQ3dzNnaFhKVGc5am54OUNiUk5lTWtBTzF0XzJzSE9veVkzdXI5RnRuQVlab09nbEoyUVpwX1JKdTJSb2FiS2FSYU8yZkJY?oc=5",
-        "pub_date": "Tue, 26 Aug 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Ethereum Price Trends: Key Insights, Technical Analysis, and Institutional Impact - OKX",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGVVJLdS1BVG1QNVkweE16NWE0RWV5VV9LX0hfN2VMNHJqNlNjd0ttazZuTGpOcmMzV0NYUDJoMllRcGpSS1hBNmFFOEpySGdIOEZyY2t6MzZHaTRyZ1I5dGFfcGNlRkhMcnZxemtmbkQ?oc=5",
-        "pub_date": "Sun, 17 Aug 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Hedera Whales Breakout: Key Signals, Institutional Interest, and Price Potential - OKX",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MdWViWUJDMDhiRW1TV2ZrNnNLSFhDbF9DMDNqUjgyaVJaakZZRE9JdkJxN0IxZkNXdFd4X1FIZUx6dVZYaHNob2FFOUczQmgzUHVBNlUycTRlQUNMOFpNWl8tRVBMZVlyakJsbFYxX0pxRG9nOFlUeWVKZTE?oc=5",
-        "pub_date": "Sun, 24 Aug 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Sui Custody: How Institutional Adoption is Transforming Blockchain Finance - OKX",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02NFItMWliWXlwZFAxSHRuREt2R2hJdUlGLTU2YUhxSGFtcGd4dFY0ZEFzMEFrSFFLR2sxTkdtcWsxMnoyMnZVdDhSTUNjNnk5ODlsdXJBc1hEZDUzNU40SmV6MjlfV2t1LThJR0I2RXNPekdYVnAzcF9n?oc=5",
-        "pub_date": "Mon, 11 Aug 2025 07:00:00 GMT",
-        "sentiment": "neutral",
+        "title": "OKX expands custody partnership with Standard Chartered into Europe - The Block",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS3loNzdyUUtnUXZ0U1B6b3lpazlyOFdzU29uUUdXT21tU2lmNndTa01NQldvU2thQW9sc01QYXFoWDhUNUtNNENiSkpIckZUelBLTmJURFJERGk2Z01JZ2NEcWRkS1k5TGRfVXhpVnNLdDNHQXJFMXlKWWFzYWI5SVdvX0tPN1NJZHZCLUdNdw?oc=5",
+        "pub_date": "Thu, 16 Oct 2025 07:00:00 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -1373,26 +1301,18 @@
       },
       {
         "exchange": "OKX",
+        "title": "Chainlink vs XRP: How Chainlink Surpasses XRP in Institutional Blockchain Adoption - OKX",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrVWhOUEpSbmxmOE9aQVJ6SG9mVnVnWGg3OWI4QWhkeXZ4REJqSU1ZdHEyZDBvSC1Nc0JGQUFPRURNZG00bXZLelRvUThxbU1TcWNDYm4xcF9jZmJHN0wzZjdQbEF5elN4dFlxa3dyZW45SW1FQUpmMjFIWmNHZw?oc=5",
+        "pub_date": "Sat, 23 Aug 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
         "title": "Grayscale Cardano ETF: What You Need to Know About ADA’s Institutional Momentum - OKX",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX080bXFLaF9ucnRaNkFjWUdySkwyU3VTYmRmUTFpaEtfMUwzcmNBRzZOb1FDUHl6VWpXZVNRSWNwVXNJYkZqRTFBSHdweU1jOUxYeVBOaWJaNFRObkpnZkt0NjhaSExEX2hqVW1JcW1BZ0E1UExUUllBUlBfRlB5ckNqNFg0ZWM?oc=5",
         "pub_date": "Wed, 13 Aug 2025 07:00:00 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "HBAR Price Recovery: Key Indicators Signal Potential Breakout Amid Institutional Tailwinds - OKX",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51UDJHeVExN2tScnNyTWV3UlF2OU1pRnBqdFVxVlVxUGx1R2xDcXJtX3NkZkdtdm40Q2p6dDBVeFo5NGRIX1NYdHJkVU13V1VyYXNBUWoydnhNMGJpV1hIMVBJV3gtX3U3cWJXYURRZw?oc=5",
-        "pub_date": "Thu, 10 Jul 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Sui: Exploring Its Price Performance, Institutional Growth, and DeFi Impact - OKX",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40RE5sMFFRdTdQM3d3OHBGSVdSX1VHM1dibjMzS0hmb1VkY3o5STJudjM3bzM5VkxzeU1XekpvWDhESEk3REliaDN1NlJoVW1uaUE1Q2w5SXA5THd4eUtNVkF0dnppTGEyMDZIZXFB?oc=5",
-        "pub_date": "Wed, 20 Aug 2025 07:00:00 GMT",
-        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -1405,41 +1325,9 @@
       },
       {
         "exchange": "OKX",
-        "title": "Cronos CRO Roadmap: Tokenization, AI Integration, and Institutional Adoption by 2026 - OKX",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLRE9CYUZBYi1TeE5GWVduQ3Z2Y1c5LXJnRzdmU0ZLanc4bXpfbTVERjVaNmtjQ0pHUXAwaXFwVFM5eEZ3Szd4WW1Yam1vMWFBaWtSVzJYZ2ZqbE9nemduTFVmaExoMklEdmpwY0Jjc0pkdUFkMFlXVkJsZWw?oc=5",
-        "pub_date": "Thu, 28 Aug 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKX Layoffs: Strategic Workforce Reduction Amid Institutional Business Challenges - CryptoRank",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRU5PWjNKTE40WnVwWkY0MGJJdXBINEZ6QmxydGdhTXpBMGdfVE94cEdaNzdMZWJQLXFXeTFGX05ONXY0R0V5WkpDMjVGR0kzd21aT3I0Y0s0QVNrdjBsYnU1bkMxczZobzJtQ3pBR1lIcjZzSVVJUzgyQW1CME5wY2RDbG9XOEZPNkdJ?oc=5",
-        "pub_date": "Fri, 09 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "How Wall Street took over the bitcoin options market - CoinDesk",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRjk4SHJINFJsdk4yTmUwakVYWmxBYWxUOF92SVFSZjVsNGR2b1pIcUlmYnJMbWFBVkh5S1U4YTNwWE1ncWRjUG1fOG1iS1pIX1VnOUo1N0o3dE1ReGNzc2JBcWdNck5nRDcyVDVyY1VJSTFiYVJ4WGtvU0NCMGNqWnVEMGNzTzN5SmRnRWpfeVRKZXpmam1YcHBGRDQ?oc=5",
-        "pub_date": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Grayscale Boosts Cardano Allocation to 18.5%: A Game-Changer for Institutional Crypto Adoption - OKX",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaWI3Qm9uVGZpR2h2TVZ0NmRHMHpSemducXJWSUt5Y3ROckw3b2x3TUhGS250R2FubFRSZFlackMtMWNLM0UtVjk4N2o4X0J0R0NKVTZoZ1Vma214dU9mVzY5dFVqSFJTTnJJcHRvc1ZnYjQ2Z2s2d0Y3YzB6YzE0cVNFbw?oc=5",
-        "pub_date": "Thu, 10 Jul 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Solana Blockchain Privacy: How Confidential Balances Are Revolutionizing Institutional Use Cases - OKX",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GLURKSzNYc3lGZWVvSHdqQXhSY091bzVrMmoxMmtTYW9GWFdoeGJJallCOE94YVN4b2M3aFBqWkJieFZZeTJWa05DSnFST3JyM1pNRDlFSGp4VzVha1l3Q1JseGN3TDdzVVJpc0N3Q1JMdVZyTk0yN3ZjQ2hHdw?oc=5",
-        "pub_date": "Tue, 12 Aug 2025 07:00:00 GMT",
+        "title": "XRP's Evolution: From Cross-Border Payments to Institutional Adoption Amid Regulatory Challenges - OKX",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wXzkwQlRqZG53VTFkd1hjYnlScXVib0NIc1hxZEJnSWpiTnB0V3d4cTRkOVVLQVBwZXh2eld0N0lrU0tWUXR6Q2RVZkhUZGdGMFJlaHhjdW5ZM0JndVllOFRxYXVySUlBSDhucFNjRHJjbEpVMUl4b3Iyd2lRWXM?oc=5",
+        "pub_date": "Tue, 15 Jul 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1453,10 +1341,122 @@
       },
       {
         "exchange": "OKX",
-        "title": "Cronos ETF Bulls: How Staking Rewards and Institutional Interest Are Shaping the Future - OKX",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT05JaEV2clBYQmdFeTBidmdINFJnbFlTdDhLSGFjZXZBSHZMQkNpQnlxQ01RZFdvTjQwcjFUWllwTHJzOFNVZER3QUowMVZRMTVEb1h6Uk1SYkpEUWJOOVBUcjhlVWZBdmtRaGRENU1YVG1Bem9oTGpGN2J3TUlHUndxSG1aZw?oc=5",
-        "pub_date": "Wed, 06 Aug 2025 07:00:00 GMT",
+        "title": "Ethereum Price Trends: Key Insights, Technical Analysis, and Institutional Impact - OKX",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGVVJLdS1BVG1QNVkweE16NWE0RWV5VV9LX0hfN2VMNHJqNlNjd0ttazZuTGpOcmMzV0NYUDJoMllRcGpSS1hBNmFFOEpySGdIOEZyY2t6MzZHaTRyZ1I5dGFfcGNlRkhMcnZxemtmbkQ?oc=5",
+        "pub_date": "Sun, 17 Aug 2025 07:00:00 GMT",
         "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Cardano ETF: SEC Delays, Institutional Adoption, and Market Impacts - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41cjQxSjQxdUhTbEw3MTFIbFpjVU1iV2dMbjQ3dzNnaFhKVGc5am54OUNiUk5lTWtBTzF0XzJzSE9veVkzdXI5RnRuQVlab09nbEoyUVpwX1JKdTJSb2FiS2FSYU8yZkJY?oc=5",
+        "pub_date": "Tue, 26 Aug 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Solana Pantera Investment: How Institutional Adoption is Reshaping Blockchain Finance - OKX",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVVZrYUpxME1XUEVtZUJuWHhhakJSMlU5LVRtMkZpRXhwY0RPMEFFejRlektYdWtpMTMxQzBfNGRSWk4xa0Q5N1RhckRGZFQ3RUg4amc4ME4xQ3A1X2V5NE43Y1lqRjdYQmpPQnh2aHl5d3hUM1g4X3lxZm81azVQTVBQX2gxUms?oc=5",
+        "pub_date": "Tue, 26 Aug 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Sui: Exploring Its Price Performance, Institutional Growth, and DeFi Impact - OKX",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40RE5sMFFRdTdQM3d3OHBGSVdSX1VHM1dibjMzS0hmb1VkY3o5STJudjM3bzM5VkxzeU1XekpvWDhESEk3REliaDN1NlJoVW1uaUE1Q2w5SXA5THd4eUtNVkF0dnppTGEyMDZIZXFB?oc=5",
+        "pub_date": "Wed, 20 Aug 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Hedera Whales Breakout: Key Signals, Institutional Interest, and Price Potential - OKX",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MdWViWUJDMDhiRW1TV2ZrNnNLSFhDbF9DMDNqUjgyaVJaakZZRE9JdkJxN0IxZkNXdFd4X1FIZUx6dVZYaHNob2FFOUczQmgzUHVBNlUycTRlQUNMOFpNWl8tRVBMZVlyakJsbFYxX0pxRG9nOFlUeWVKZTE?oc=5",
+        "pub_date": "Sun, 24 Aug 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "HBAR Price Recovery: Key Indicators Signal Potential Breakout Amid Institutional Tailwinds - OKX",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51UDJHeVExN2tScnNyTWV3UlF2OU1pRnBqdFVxVlVxUGx1R2xDcXJtX3NkZkdtdm40Q2p6dDBVeFo5NGRIX1NYdHJkVU13V1VyYXNBUWoydnhNMGJpV1hIMVBJV3gtX3U3cWJXYURRZw?oc=5",
+        "pub_date": "Thu, 10 Jul 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Cronos CRO Roadmap: Tokenization, AI Integration, and Institutional Adoption by 2026 - OKX",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLRE9CYUZBYi1TeE5GWVduQ3Z2Y1c5LXJnRzdmU0ZLanc4bXpfbTVERjVaNmtjQ0pHUXAwaXFwVFM5eEZ3Szd4WW1Yam1vMWFBaWtSVzJYZ2ZqbE9nemduTFVmaExoMklEdmpwY0Jjc0pkdUFkMFlXVkJsZWw?oc=5",
+        "pub_date": "Thu, 28 Aug 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Sui Custody: How Institutional Adoption is Transforming Blockchain Finance - OKX",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02NFItMWliWXlwZFAxSHRuREt2R2hJdUlGLTU2YUhxSGFtcGd4dFY0ZEFzMEFrSFFLR2sxTkdtcWsxMnoyMnZVdDhSTUNjNnk5ODlsdXJBc1hEZDUzNU40SmV6MjlfV2t1LThJR0I2RXNPekdYVnAzcF9n?oc=5",
+        "pub_date": "Mon, 11 Aug 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Solana Blockchain Privacy: How Confidential Balances Are Revolutionizing Institutional Use Cases - OKX",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GLURKSzNYc3lGZWVvSHdqQXhSY091bzVrMmoxMmtTYW9GWFdoeGJJallCOE94YVN4b2M3aFBqWkJieFZZeTJWa05DSnFST3JyM1pNRDlFSGp4VzVha1l3Q1JseGN3TDdzVVJpc0N3Q1JMdVZyTk0yN3ZjQ2hHdw?oc=5",
+        "pub_date": "Tue, 12 Aug 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "XRP's Cross-Border Revolution: Utility, Adoption, and Future Outlook - OKX",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tdnlFVDg2Z1Iyc0xuLVctX2t0WmlkMGl0bFZzSGN2NmtlMUpXUlQzajBHR3NSUmZlcGk5MG1lME52R05xQ0JWbjlrZklUaDh1NG5UT09YalBKeHlGWDVqRXBzYVdWWldQdTVj?oc=5",
+        "pub_date": "Wed, 30 Jul 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "XRP's Bullish Surge: Legal Wins, Institutional Adoption, and Legislative Catalysts Fuel Growth - OKX",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUdYQjFKX3VvNFR1cHNPWENsZXlXUllPQVA3SDBtQ25sTnhZVjNGVm1oYkhaNm9MNVhPYVhaZ05UempjR2s3Ym1sanM1TmIzX0lLZS00bEUwY1l4RjhVRFdvTGtiTjd6MzQzWV81Q2paNGpxOGhWYldMbTU1VG1jbw?oc=5",
+        "pub_date": "Mon, 14 Jul 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "XRP's Cross-Border Revolution: Legal Wins, Institutional Adoption, and Future Potential - OKX",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sRHNoZURtSnFHTmI5dHRjWml4bTNlVEdYektzZ1kzLWtGemZWX0JJVXBZZUZGVjdFLVZCRGVJdkx4eXMxcEtNOGRTMko2b0VDRmdvZ2JodzFuWlVibDNxLVktbEw1NncxNEdFTA?oc=5",
+        "pub_date": "Wed, 16 Jul 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "OKX Layoffs: Strategic Workforce Reduction Amid Institutional Business Challenges - CryptoRank",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRU5PWjNKTE40WnVwWkY0MGJJdXBINEZ6QmxydGdhTXpBMGdfVE94cEdaNzdMZWJQLXFXeTFGX05ONXY0R0V5WkpDMjVGR0kzd21aT3I0Y0s0QVNrdjBsYnU1bkMxczZobzJtQ3pBR1lIcjZzSVVJUzgyQW1CME5wY2RDbG9XOEZPNkdJ?oc=5",
+        "pub_date": "Fri, 09 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Cryptocurrency, Stocks, and Market: How Bullish’s IPO Signals a New Era for Institutional Adoption - OKX",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52aWx3bFRUOTJKMktqMFBib2hqbWJyMGZLX1BXbHFTai02MWdIVklxV21lQkY2LWpSUkdiN1BPckc1MDVUaVZGbTd4anNUQ0pzV2tLNkVkRklHaEtJbVlVQWJLNW1IVTlnQ18xV0h0aVVLVW5XWGkyazliX00?oc=5",
+        "pub_date": "Wed, 13 Aug 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "OKX Partners With Standard Chartered to Bring Bank-Grade Crypto Custody to Europe - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTHBnYndxNUg2OVdoVElkeVZyMFROWVBnU3hBWGdGUmZkMzRoOHZTQ1VZV1Q4MXlaVzJzdmpqeVZkV1FYRzFrUkhIZ0pQLWVpeV9EYXh6bE96X0NnY3NCM2d4eTBVdm9CdWVFQXpEdzdhdmtBczVfTmpEN3J2U3JORlZTLVVMVHNGR1JjUGpVLXE5NHp5ZmtlOVdXOHlaTWZQektxdWxLMVA3NEZMYy1oOWQ2ZDdEbkFxc1VDZnRkY2Nic2NIcU9xQXBxZ0RZVlBiUGUySi1nQVM?oc=5",
+        "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT",
+        "sentiment": "negative",
         "source": "rss"
       },
       {
