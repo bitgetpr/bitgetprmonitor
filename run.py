@@ -37,9 +37,6 @@ POSITIVE_KEYWORDS = [
     "investment", "funding", "expansion",
 ]
 
-
-
-
 NEGATIVE_KEYWORDS = [
     "hack", "scam", "fraud", "down", "outage", "crash", "lawsuit", "fined",
     "breach", "exploit", "stolen", "arrested", "investigation", "ban",
@@ -176,8 +173,7 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
     if not api_key:
         print("  [SKIP] No Meltwater API key set.")
         return []
-
-base_url = "https://api.meltwater.com"
+    base_url = "https://api.meltwater.com"
     end_dt   = datetime.now(timezone.utc)
     start_dt = end_dt - timedelta(days=lookback_days)
     start_iso = start_dt.strftime("%Y-%m-%dT%H:%M:%SZ")
