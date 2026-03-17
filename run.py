@@ -216,12 +216,15 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
                     title = raw[:120]
                 else:
                     title = str(content)[:120]
-                link     = m.get("url") or ""
+                link        = m.get("url") or ""
+                source_domain = (m.get("source") or {}).get("domain", "") or \
+                                (m.get("source") or {}).get("url", "")
+                check_str   = link + " " + source_domain
                 blocked_domains = [
                     "bitget.com", "binance.com", "mexc.com",
-                    "okx.com", "bybit.com","kucoin.com",
+                    "okx.com", "bybit.com", "kucoin.com",
                 ]
-                if any(d in link for d in blocked_domains):
+                if any(d in check_str for d in blocked_domains):
                     continue
                 pub      = m.get("published_date") or ""
                 enrich   = m.get("enrichments") or {}
