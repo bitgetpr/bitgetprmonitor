@@ -714,7 +714,7 @@ def main():
     NEWSAPI_API_KEY = os.environ.get("NEWSAPI_API_KEY", "")
     exchanges   = ["Bitget", "Binance", "Bybit", "OKX","KuCoin", "MEXC"]
     newsapi_articles   = fetch_newsapi(NEWSAPI_API_KEY, exchanges)
-    meltwater_articles = fetch_meltwater(MELTWATER_API_KEY, SAVED_SEARCH_IDS, exchange_map)
+    meltwater_articles = fetch_meltwater(MELTWATER_API_KEY, MELTWATER_SEARCHES)
     all_articles = meltwater_articles + newsapi_articles
     
     print("\n[1/3] Fetching {} Google News feeds...".format(len(GOOGLE_FEEDS)))
