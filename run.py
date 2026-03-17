@@ -253,6 +253,60 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
     print("  [Meltwater] {} articles fetched.".format(len(articles)))
     return articles
 
+def fetch_newsapi(api_key, exchanges, lookback_days=7):
+    if not api_key:
+        print("  [SKIP] No NewsAPI key set.")
+        return []
+    import urllib.parse
+    base_url  = "https://newsapi.org/v2/everything"
+    end_dt    = datetime.now(timezone.utc)
+    start_dt  = end_dt - timedelta(days=lookback_days)
+    from_date = start_dt.strftime("%Y-%m-%d")
+    articles  = []
+    blocked_domains = [
+        "bitget.com", "binance.com", "mexc.com",
+        "okx.com", "bybit.com", "kucoin.com",
+    ]
+    for exchange in exchanges:
+        print("  [NewsAPI] Fetching articles for {}...".format(exchange))
+        try:
+            params = urllib.parse.urlencode({
+                "q":        exchange,
+                "from":     from_date,
+                "sortBy":   "publishedAt",
+                "language": "en",
+                "pageSize": 50,
+                "apiKey":   api_key,
+            })
+            req = urllib.request.Request(base_url + "?" + params)
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                data = json.loads(resp.read())
+            for a in data.get("articles", []):
+                link  = a.get("url") or ""
+                if any(d in link for d in blocked_domains):
+                    continue
+                title = (a.get("title") or "")[:120]
+                pub   = (a.get("publishedAt") or "")[:16]
+                if not title or title == "[Removed]":
+                    continue
+                sentiment = score_sentiment(title)
+                articles.append({
+                    "exchange":  exchange,
+                    "title":     title,
+                    "link":      link,
+                    "pub_date":  pub,
+                    "sentiment": sentiment,
+                    "source":    "newsapi",
+                })
+            print("  [NewsAPI] {} articles fetched for {}.".format(
+                len(data.get("articles", [])), exchange))
+        except Exception as e:
+            print("  [ERROR] NewsAPI fetch failed for {}: {}".format(exchange, e))
+        time.sleep(0.5)
+    print("  [NewsAPI] {} articles fetched total.".format(len(articles)))
+    return articles
+
+
     
 LAST_WEEK_PATH = "data/last_week_sov.json"
 
@@ -657,6 +711,12 @@ def main():
     all_articles = []
     seen_titles  = []
 
+    NEWSAPI_KEY = os.environ.get("NEWSAPI_API_KEY", "")
+    exchanges   = ["Bitget", "Binance", "Bybit", "OKX","KuCoin", "MEXC"]
+    newsapi_articles   = fetch_newsapi(NEWSAPI_KEY, exchanges)
+    meltwater_articles = fetch_meltwater(MELTWATER_KEY, SAVED_SEARCH_IDS, exchange_map)
+    all_articles = meltwater_articles + newsapi_articles
+    
     print("\n[1/3] Fetching {} Google News feeds...".format(len(GOOGLE_FEEDS)))
     for url, exchange in GOOGLE_FEEDS.items():
         for article in parse_feed(url, assigned_exchange=exchange):
