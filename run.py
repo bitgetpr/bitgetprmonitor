@@ -178,6 +178,24 @@ def parse_feed(url, assigned_exchange=None):
                 matched = [
                     ex for ex, kws in EXCHANGES.items()
                     if any(kw in full_text for kw in kws)
+                ]
+            else:
+                matched = [assigned_exchange]
+            if not matched:
+                continue
+            sentiment = score_sentiment(full_text)
+            for ex in matched:
+                articles.append({
+                    "exchange":  ex,
+                    "title":     title,
+                    "link":      link,
+                    "pub_date":  pub,
+                    "sentiment": sentiment,
+                    "source":    "rss",
+                })
+    except ET.ParseError as e:
+        print("  [ERROR] XML parse error: {} -- {}".format(url[:60], e))
+    return articles
 
 def fetch_meltwater(api_key, saved_search_ids, lookback_days=7):
     if not api_key:
