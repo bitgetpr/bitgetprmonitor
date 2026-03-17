@@ -699,75 +699,68 @@ def main():
         datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")))
     print("=" * 60)
 
-    MELTWATER_API_KEY = os.environ.get("MELTWATER_API_KEY", "")
-    MELTWATER_SEARCHES = {
+MELTWATER_API_KEY = os.environ.get("MELTWATER_API_KEY", "")
+    NEWSAPI_API_KEY   = os.environ.get("NEWSAPI_API_KEY", "")
+    MELTWATER_SEARCHES = {k: v for k, v in {
         "26257006": "Binance",
         "26256926": "Bitget",
         "26256928": "Bybit",
         "26256978": "OKX",
-    }
-    MELTWATER_SEARCHES = {k: v for k, v in MELTWATER_SEARCHES.items() if k}
+    }.items() if k}
+    exchanges = ["Bitget", "Binance", "Bybit", "OKX", "KuCoin", "MEXC"]
 
-    all_articles = []
+all_articles = []
     seen_titles  = []
 
-    NEWSAPI_API_KEY = os.environ.get("NEWSAPI_API_KEY", "")
-    exchanges   = ["Bitget", "Binance", "Bybit", "OKX","KuCoin", "MEXC"]
-    newsapi_articles   = fetch_newsapi(NEWSAPI_API_KEY, exchanges)
-    meltwater_articles = fetch_meltwater(MELTWATER_API_KEY, MELTWATER_SEARCHES)
-    all_articles = meltwater_articles + newsapi_articles
-    
-    print("\n[1/3] Fetching {} Google News feeds...".format(len(GOOGLE_FEEDS)))
+print("\n[1/3] Fetching {} Google News feeds...".format(len(GOOGLE_FEEDS)))
     for url, exchange in GOOGLE_FEEDS.items():
         for article in parse_feed(url, assigned_exchange=exchange):
             if not is_duplicate(article["title"], seen_titles):
                 seen_titles.append(normalize_title(article["title"]))
                 all_articles.append(article)
 
-    print("\n[2/3] Fetching {} direct media feeds...".format(len(DIRECT_FEEDS)))
+print("\n[2/3] Fetching {} direct media feeds...".format(len(DIRECT_FEEDS)))
     for url, exchange in DIRECT_FEEDS.items():
         for article in parse_feed(url, assigned_exchange=exchange):
             if not is_duplicate(article["title"], seen_titles):
                 seen_titles.append(normalize_title(article["title"]))
                 all_articles.append(article)
 
-    print("\n[3/3] Fetching Meltwater...")
-if MELTWATER_API_KEY and MELTWATER_SEARCHES:
-    meltwater_articles = fetch_meltwater(MELTWATER_API_KEY, MELTWATER_SEARCHES)
-else:
-    print("  [SKIP] Set MELTWATER_API_KEY + search IDs to enable.")
-    meltwater_articles = []
-    meltwater_articles = []
+print("\n[3/3] Fetching Meltwater + NewsAPI...")
+    if MELTWATER_API_KEY and MELTWATER_SEARCHES:
+        meltwater_articles = fetch_meltwater(MELTWATER_API_KEY, MELTWATER_SEARCHES)
+    else:
+        print("  [SKIP] Set MELTWATER_API_KEY + search IDs to enable.")
+        meltwater_articles = []
 
-
+newsapi_articles = fetch_newsapi(NEWSAPI_API_KEY, exchanges)
 
 for article in meltwater_articles + newsapi_articles:
-    if not is_duplicate(article["title"], seen_titles):
-        seen_titles.append(normalize_title(article["title"]))
-        all_articles.append(article)
-
-    mention_counts   = defaultdict(int)
+        if not is_duplicate(article["title"], seen_titles):
+            seen_titles.append(normalize_title(article["title"]))
+            all_articles.append(article)
+mention_counts   = defaultdict(int)
     sentiment_counts = defaultdict(lambda: {"positive": 0, "negative": 0, "neutral": 0})
     for a in all_articles:
         ex = a["exchange"]
         mention_counts[ex] += 1
         sentiment_counts[ex][a["sentiment"]] += 1
 
-    total_mentions = sum(mention_counts.values())
+total_mentions = sum(mention_counts.values())
 
-    sov_map = {
+sov_map = {
         ex: round(mention_counts.get(ex, 0) / total_mentions * 100, 1) if total_mentions > 0 else 0.0
         for ex in EXCHANGES
     }
 
-    last_week = load_last_week_sov()
+last_week = load_last_week_sov()
     sov_delta = {
         ex: round(sov_map[ex] - last_week[ex], 1) if ex in last_week else None
         for ex in EXCHANGES
     }
     save_sov(sov_map)
 
-    exchange_data = {
+exchange_data = {
         ex: {
             "mentions":      mention_counts.get(ex, 0),
             "sov":           sov_map[ex],
@@ -777,7 +770,7 @@ for article in meltwater_articles + newsapi_articles:
         for ex in EXCHANGES
     }
 
-    output = {
+output = {
         "generated_at":   datetime.now(timezone.utc).isoformat(),
         "total_articles": len(all_articles),
         "total_mentions": total_mentions,
@@ -787,11 +780,11 @@ for article in meltwater_articles + newsapi_articles:
         "top_articles":   {ex: get_top_articles(all_articles, ex) for ex in EXCHANGES},
     }
 
-    with open("data/dashboard_data.json", "w", encoding="utf-8") as f:
+with open("data/dashboard_data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     print("data/dashboard_data.json written.")
 
-    for ex in EXCHANGES:
+for ex in EXCHANGES:
         ex_articles = [a for a in all_articles if a["exchange"] == ex]
         ex_path = "data/" + ex.lower() + "_news.json"
         history = []
@@ -812,19 +805,15 @@ for article in meltwater_articles + newsapi_articles:
         with open(ex_path, "w", encoding="utf-8") as f:
             json.dump(history, f, ensure_ascii=False, indent=2)
     print("Per-exchange news history written.")
-
-    html = generate_html(output)
+html = generate_html(output)
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
     print("index.html generated.")
 
-    print("\n-- Share of Voice --")
+print("\n-- Share of Voice --")
     for ex, d in sorted(exchange_data.items(), key=lambda x: -x[1]["sov"]):
         delta = d["sov_delta_wow"]
-        if delta is None:
-            dstr = "(first run)"
-        else:
-            dstr = "({}{}% WoW)".format("+" if delta >= 0 else "", delta)
+        dstr  = "(first run)" if delta is None else "({}{}% WoW)".format("+" if delta >= 0 else "", delta)
         s = d["sentiment"]
         print("  {:8s}: {:4d} mentions | SOV {:5.1f}% {} | +{} ~{} -{}".format(
             ex, d["mentions"], d["sov"], dstr,
