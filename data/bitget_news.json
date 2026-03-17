@@ -1,14 +1,46 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-17T06:07:44.776327+00:00",
+    "generated_at": "2026-03-17T12:21:12.890778+00:00",
     "articles": [
       {
         "exchange": "Bitget",
-        "title": "Turkey Crypto Exchange Regulations 2026: Binance, Bitget, Coinbase Guide - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHQ0dxbU9Ka25TMHo3eUMtcTJVSkZUdC14SFZmbVFfUmxmejJGRnNRMWRKdUhXV2x3RV9VRmV1eW0tdmVWWlI4UVdDb1hUYnYzVGxGY1FiTDZkbjF5WHFvUlhvZW3SAWRBVV95cUxQR0NHcW1PSmtuUzB6N3lDLXEyVUpGVHQteEhWZm1RX1JsZnoyRkZzUTFkSnVIV1dsd0VfVUZldXltLXZlVlpSOFFXQ29YVGJ2M1RsRmNRYkw2ZG4xeVhxb1JYb2Vt?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 11:24:55 GMT",
+        "title": "Piteas vs Coinbase, Kraken, Binance & Bitget: Exchange Comparison 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14YXk3bk5mME9LOHpHSWk2MnU5ek9xMnNuN21OR1NqYzZ3bmtQWFczS0RJNzhzcXh5QzJMRWNieEVUaDNjZVphY3o5emQxMWUxS3hGV1pLZU1YVnI5dkUwcXB5WWFYQdIBZkFVX3lxTE14YXk3bk5mME9LOHpHSWk2MnU5ek9xMnNuN21OR1NqYzZ3bmtQWFczS0RJNzhzcXh5QzJMRWNieEVUaDNjZVphY3o5emQxMWUxS3hGV1pLZU1YVnI5dkUwcXB5WWFYQQ?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 05:23:07 GMT",
         "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitpanda vs Coinbase, Binance, Kraken & Bitget: 2026 Exchange Comparison - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPbDE4SUwwNDktNVQyYmNHRjNKU3kyMFR3RUNoQzRLWjN3NVZTNExqV21adDdLcXR3MDRwQjBTcktrREFmWXJ2eHEyRUNsODVvRG9TbVp1c2toV3BvTTlfVUM0UHFPZ9IBZkFVX3lxTFBPbDE4SUwwNDktNVQyYmNHRjNKU3kyMFR3RUNoQzRLWjN3NVZTNExqV21adDdLcXR3MDRwQjBTcktrREFmWXJ2eHEyRUNsODVvRG9TbVp1c2toV3BvTTlfVUM0UHFPZw?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 16:45:49 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "ChangeNow vs Binance, Coinbase, Kraken & Bitget: Exchange Comparison 2024 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uV0hSNm1ORlJKOE5BMU0tWVo5aGY1Wi1pSTZoSHp1M0cwR3BCVDZMSVBvbUo4VTh2MDA1RHVhMGJIbDE4Z2wxT2dDZW1jN1dwcEVQSURWYVFqRGhiRzd0M1o0NNIBaEFVX3lxTE51VXBUamd5SjJWQ2lLOE1XRmd6ZkJVekNqalNJSDBxS2UwZ2FGdWJRUHJnY1R0blJWa01YX0VTZ0hQYjdfNEdUd21zaFhtOGRQWVRqUkZubUVhbE1ySVhfZ1hSOXBUaFd3?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 05:02:50 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Partners With Ondo to Expand Tokenized Markets With US Stocks, ETFs and Commodities - Cryptonews.net",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzOThKYU44LWRwTG5fblhocnRreEFJbUsxWEhnYXd0S2tKOXZiaTh1dzJyNnI3SjMwZ2VHZmczQXdaNnQ2WVRmcW1yTG54dGRtNnZJZnlORQ?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 12:11:13 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget expands spot market with Ondo tokenized stocks, ETFs and precious metals - Longbridge",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00ZUF6RjFTeUIzWVlxQlYwM0dab1gwZmM1UmtlTTRrN3ZUVmlvT2J1NUlaVFc0Q1ktdnI1a0FORXZGbHJMZjhFYk1DZHY2Zw?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 12:03:56 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -53,17 +85,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "ForTube (FOR) Price, Trading & Bitget Exchange Guide 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQXFab0tvMm9Kd240ZnIwUHpBZFBhOE5rdEVPNkNXMFJmTzNmcGV6V0RORjB5emZiZVpaY2FMNGZwc3dLcEZrajExVXA2VkxsUGdmaUVrYzhyTDkzZElaUzBSay1aZ215ODBsb1U5dlptZVd5T21XTTUwU1BBcURDNnUxcHMzNTBWWTlQOWZkbm1STnlTczhDUEgzVV9PYkgzVEdlY0ZiNG9HS2hMY0ZYVUN2UlJ6VFNDcmdmbnU5NG5KVHJlbGJIWjBlSTdzVThJRE4zYVpId9IB1wFBVV95cUxNQXFab0tvMm9Kd240ZnIwUHpBZFBhOE5rdEVPNkNXMFJmTzNmcGV6V0RORjB5emZiZVpaY2FMNGZwc3dLcEZrajExVXA2VkxsUGdmaUVrYzhyTDkzZElaUzBSay1aZ215ODBsb1U5dlptZVd5T21XTTUwU1BBcURDNnUxcHMzNTBWWTlQOWZkbm1STnlTczhDUEgzVV9PYkgzVEdlY0ZiNG9HS2hMY0ZYVUN2UlJ6VFNDcmdmbnU5NG5KVHJlbGJIWjBlSTdzVThJRE4zYVpIdw?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget vs Blofin: Best Crypto Exchange for UK Traders 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcm9tVHQwQTNjaC1qTUpJcUNoUHJYUEl3azZKZTRYZWdEUjdWQ0U2TDhhN3dWZ2JXTVpEc3AwcDE3ZFViRFEyS2tRZFBRMTVKRlRTdlpvaXRKbWxaZ0tFWmMxaHZkb3h5NVFXT2hlSlZHSTJNbHpSWElFNVNJdUI5U2pvOWpmd21YQjVhT1k0MnFtWXhUWDFTakwzWE5uTDJfMHFxeVFEUVFIMzE3SUJ6ZWVoWG9FZ0FnNFhKWDNJNEgzckxNS3I2QktTV0dHMFZiNmJYMU530gHWAUFVX3lxTE1yb21UdDBBM2NoLWpNSklxQ2hQclhQSXdrNkplNFhlZ0RSN1ZDRTZMOGE3d1ZnYldNWkRzcDBwMTdkVWJEUTJLa1FkUFExNUpGVFN2Wm9pdEptbFpnS0VaYzFodmRveHk1UVdPaGVKVkdJMk1selJYSUU1U0l1QjlTam85amZ3bVhCNWFPWTQycW1ZeFRYMVNqTDNYTm5MMl8wcXF5UURRUUgzMTdJQnplZWhYb0VnQWc0WEpYM0k0SDNyTE1LcjZCS1NXR0cwVmI2YlgxTnc?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 03:58:23 GMT",
+        "title": "Coinbase vs Bitget: Best Crypto Exchange for UAE Investors 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1VucHRLZEFzam94R3RMR0hTY2k2S0JINlk2MHZFaEJsOUg2b19vRVgtR1N2WkNXRHFMeWg2SHhBcXlBZnhmdnFuYzNJZ01kLVNVQmZHOTFld2ZPM3ktWFRCLWFjTDQwSHcydzJRZ19qUTVWcnQtNWpvQVFjZXdWSlJEU3lObWU4aGZBVXV2NEhHcE9vMUlTRlFxY1BZc0g3eEtUV3VRdHRnS056YjVn0gGvAUFVX3lxTE1zVW5wdEtkQXNqb3hHdExHSFNjaTZLQkg2WTYwdkVoQmw5SDZvX29FWC1HU3ZaQ1dEcUx5aDZIeEFxeUFmeGZ2cW5jM0lnTWQtU1VCZkc5MWV3Zk8zeS1YVEItYWNMNDBIdzJ3MlFnX2pRNVZydC01am9BUWNld1ZKUkRTeU5tZThoZkFVdXY0SEdwT28xSVNGUXFjUFlzSDd4S1RXdVF0dGdLTnpiNWc?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 03:59:47 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -85,6 +109,22 @@
       },
       {
         "exchange": "Bitget",
+        "title": "ForTube (FOR) Price, Trading & Bitget Exchange Guide 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQXFab0tvMm9Kd240ZnIwUHpBZFBhOE5rdEVPNkNXMFJmTzNmcGV6V0RORjB5emZiZVpaY2FMNGZwc3dLcEZrajExVXA2VkxsUGdmaUVrYzhyTDkzZElaUzBSay1aZ215ODBsb1U5dlptZVd5T21XTTUwU1BBcURDNnUxcHMzNTBWWTlQOWZkbm1STnlTczhDUEgzVV9PYkgzVEdlY0ZiNG9HS2hMY0ZYVUN2UlJ6VFNDcmdmbnU5NG5KVHJlbGJIWjBlSTdzVThJRE4zYVpId9IB1wFBVV95cUxNQXFab0tvMm9Kd240ZnIwUHpBZFBhOE5rdEVPNkNXMFJmTzNmcGV6V0RORjB5emZiZVpaY2FMNGZwc3dLcEZrajExVXA2VkxsUGdmaUVrYzhyTDkzZElaUzBSay1aZ215ODBsb1U5dlptZVd5T21XTTUwU1BBcURDNnUxcHMzNTBWWTlQOWZkbm1STnlTczhDUEgzVV9PYkgzVEdlY0ZiNG9HS2hMY0ZYVUN2UlJ6VFNDcmdmbnU5NG5KVHJlbGJIWjBlSTdzVThJRE4zYVpIdw?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget vs Blofin: Best Crypto Exchange for UK Traders 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcm9tVHQwQTNjaC1qTUpJcUNoUHJYUEl3azZKZTRYZWdEUjdWQ0U2TDhhN3dWZ2JXTVpEc3AwcDE3ZFViRFEyS2tRZFBRMTVKRlRTdlpvaXRKbWxaZ0tFWmMxaHZkb3h5NVFXT2hlSlZHSTJNbHpSWElFNVNJdUI5U2pvOWpmd21YQjVhT1k0MnFtWXhUWDFTakwzWE5uTDJfMHFxeVFEUVFIMzE3SUJ6ZWVoWG9FZ0FnNFhKWDNJNEgzckxNS3I2QktTV0dHMFZiNmJYMU530gHWAUFVX3lxTE1yb21UdDBBM2NoLWpNSklxQ2hQclhQSXdrNkplNFhlZ0RSN1ZDRTZMOGE3d1ZnYldNWkRzcDBwMTdkVWJEUTJLa1FkUFExNUpGVFN2Wm9pdEptbFpnS0VaYzFodmRveHk1UVdPaGVKVkdJMk1selJYSUU1U0l1QjlTam85amZ3bVhCNWFPWTQycW1ZeFRYMVNqTDNYTm5MMl8wcXF5UURRUUgzMTdJQnplZWhYb0VnQWc0WEpYM0k0SDNyTE1LcjZCS1NXR0cwVmI2YlgxTnc?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 03:58:23 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
         "title": "Poloniex vs. Bitget vs. Coinbase: 2026 Crypto Exchange Comparison - Bitget",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWVpoVVlYdHRiQ1dkdnpPemFRNjNQNE5EM2h2QV9UZVFXYS1pRTB5Z3owZ01CTWFWNkxhNHAteWszdUgyazJtY2JqSHNXUHpiWkFLdEs1TXNjWVFBUC1rTlExWUlPa2dMRlktTUNrMFY4RWZ3UUxyeU1LWmlQZWVla1h4TVZLOGVoVDFIRzhfUHpwVzVrU2p1QUpCa2lTZldYbWpRMzRSVXRfUmY1bjFOQnRHbmpNdEZZZWlNMkUzajNtMXZzWll3dTF5YTcxaXFZNzRndkVqMlZrbmFt0gHcAUFVX3lxTE1ZWmhVWVh0dGJDV2R2ek96YVE2M1A0TkQzaHZBX1RlUVdhLWlFMHlnejBnTUJNYVY2TGE0cC15azN1SDJrMm1jYmpIc1dQemJaQUt0SzVNc2NZUUFQLWtOUTFZSU9rZ0xGWS1NQ2swVjhFZndRTHJ5TUtaaVBlZWVrWHhNVks4ZWhUMUhHOF9QenBXNWtTanVBSkJraVNmV1htalEzNFJVdF9SZjVuMU5CdEduak10RlllaU0yRTNqM20xdnNaWXd1MXlhNzFpcVk3NGd2RWoyVmtuYW0?oc=5",
         "pub_date": "Tue, 03 Mar 2026 10:31:28 GMT",
@@ -93,26 +133,18 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Best Crypto Exchange 2026: Bitget vs Bitfinex Comparison - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaE5NQ21JWFlSVEo1bUV1RklOcUFPOVhUZ1pIT2ZHRUVybUtyVXhJaUExRlgzMUpmQ0FqdXdLTkNlOWYyTUZ5RDlNcGVtRVI1VnpmUDBzaTN2Y1NFODlGZ21WSnl6X2hZbC1uNzdVUVRRN2RmckZ3enhfcDd1Z0ZiWUVOQTQ0UWRmWXROWXFmdnFaUzZ6MWJCZ3VNYnR2ZnV4c0HSAaIBQVVfeXFMUGhOTUNtSVhZUlRKNW1FdUZJTnFBTzlYVGdaSE9mR0VFcm1LclV4SWlBMUZYMzFKZkNBanV3S05DZTlmMk1GeUQ5TXBlbUVSNVZ6ZlAwc2kzdmNTRTg5RmdtVkp5el9oWWwtbjc3VVFUUTdkZnJGd3p4X3A3dWdGYllFTkE0NFFkZll0TllxZnZxWlM2ejFiQmd1TWJ0dmZ1eHNB?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:11:18 GMT",
+        "title": "Best Crypto Exchanges 2026: Bitget, CoinW, Coinbase, Kraken Comparison - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWUg5S19tSmRkWjJHcFlBTGtBTnRmN09uQ0M2RjVwSGZQR2FRaUxFUjV3RUxRRFZKakhhcmNlUGF4Ullya25FX3E3UTRCMDZ5Wm1TVDBpT19tUE96QlRLVmZZNUZxVnM0cG5pVzZGQ2ZsVmFya01TaDRSWklfWEM2NElLZkNQZFJiYjRNQVpWWjJJaXBfaUlsTVpVTFpzdDdrVzFxOVp0bjBMNzhm0gGyAUFVX3lxTFB4RktPRUkzM1Z0bXUtNW5ZeFRNaUxfOGRQVHhIQ09DM2tRTjJjOV92MzR1clowTHB5emVKMVR3S1pjMXBBa0xqd3VxUXB6NFdCNzRvM2NkVDBUQjUxMUtEejhkOGtESl9uSlRGNGJLcTItWEkybGJWcE9fX2hWNEo2N3N4UDBjNGtZZTJLYVp3QURScnBtZXppVGQyZVRnbWZmVTljNy1FMlQ4ZlczX2IyQ2c?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Solesbot Crypto Bot Guide: Bitget Exchange Advantages 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm5YajdzZU92Z1M3bTNxck40bEpub3JIU1o0M3FsdmtHU2dMd1dBaEhpOEtHd0k2WTRic2M2STlzSUppOWJzdTE4NFFCMEEwLTBUSWRveDBzaC1VMjFISHk5NXJ5aFZSd2FIU085RGJaZWt5ZTVSTXBWalhvSTh0N1pSOFl1Z3JraVlubjhkWXFnWGx5LXMzbENHWTl5MFJRQUtGeFFNVjVLNTRBUTZJMDMzQUFCVUFqbkNnQk5n0gG-AUFVX3lxTE9SblhqN3NlT3ZnUzdtM3FyTjRsSm5vckhTWjQzcWx2a0dTZ0x3V0FoSGk4S0d3STZZNGJzYzZJOXNJSmk5YnN1MTg0UUIwQTAtMFRJZG94MHNoLVUyMUhIeTk1cnloVlJ3YUhTTzlEYlpla3llNVJNcFZqWG9JOHQ3WlI4WXVncmtpWW5uOGRZcWdYbHktczNsQ0dZOXkwUlFBS0Z4UU1WNUs1NEFRNkkwMzNBQUJVQWpuQ2dCTmc?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:26:39 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Coinbase vs Bitget vs Kraken: Best Crypto Exchange 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1lHVWlyMW9qNmJGc0djX1BGNGMzdU5xZUV4Q0Y4VjVTQjlGMFlwRUt0UDJHRk8za0o1Y2hSVlZjZFNtdXZYZnd1NXdhMy05VkFfeU9oRG5OWUJKcE8zZC1uVVZ3eXRad1VxX1pONzRMVmlLWm5NYWhVWXdGNWJYSnpRcGI5dl9pdk90RVFkRHhWQkZYTmlDRDEzQXJFUjBsR1BzTDNkS0JNMUl6YkllNnc1SjVWVkY5QWFuX0JEWm9JZC1Z0gHKAUFVX3lxTE9ZeEQ2ZS10ZTlnajd1QmtySjdTY1dHbFNUX0c3WWFlZ3pEaGZkUi05TzNGZnl1YUJWeFJ4aWJMQ3h5NXpOWlB0dkVUNWlVbEhhSDlCQ0h0WjRYOFh3SFF1ZGF1Ym5sUlRtVHFEcTYtMmtRRUZMS1psOEpYSTVjenBBWkNlcF9HMXNuOHhwenRBZ3poblA3Y1hmb3VMT0Z5eU9BZkkzMl80RnpVSGJrVi00REx1aFpIbEFZSFJxb0VrTmotYVhzRWNuWlE?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:22:06 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Best Crypto Tools & Bitget Exchange Guide 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjVVa25KOVhyVF9UTE9FLWlydFNyZG54MkFkZm9OTE45Q1ZRMk45RGpIdXpBV1FLSjRKM1FsWUhFbjlCUzI1QnZFZ1JOblEyb1NpaUVZbVlnWlFULU00Y0x1UnlUNVRaSEZQU2I2MXkzZnBleEtYOEYteFk5dUp2NUM0amRSWER3NEg4a0c4V2dKWHRjM2ZKTW5RWnYxRVdrdk5PcUx3THpvaUdNcndYQV9DanlvVHljekZzY2N30gG-AUFVX3lxTE1uNVVrbko5WHJUX1RMT0UtaXJ0U3JkbngyQWRmb05MTjlDVlEyTjlEakh1ekFXUUtKNEozUWxZSEVuOUJTMjVCdkVnUk5uUTJvU2lpRVltWWdaUVQtTTRjTHVSeVQ1VFpIRlBTYjYxeTNmcGV4S1g4Ri14WTl1SnY1QzRqZFJYRHc0SDhrRzhXZ0pYdGMzZkpNblFadjFFV2t2Tk9xTHdMem9pR01yd1hBX0NqeW9UeWN6RnNjY3c?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:33:26 GMT",
-        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -121,6 +153,14 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdElhc0Y5Q2dCaXl6U0dFOGJjZUhIQ0VWRTE0QXMwdGZWVWZIZUJBRXN1YzNvVDBSdjJzR3padHZBWUVCWUU4TTRBZGdsZnNEY2daMHdyRW1MU1hhd1ZrdEtDN0p5WDN3VGdhRHAxcjE3eHFZZnh0LTRqeG1OS001dzVPMzdvSG9NcXVPa1pxQXdlbi16dXFLY29XS1hlaU0tbXdWZHM0dWNpRjdHckprZDFIR1ZSeW9pX1I5Z3N4QVFKRGRoc2Rj0gHHAUFVX3lxTFB0SWFzRjlDZ0JpeXpTR0U4YmNlSEhDRVZFMTRBczB0ZlZVZkhlQkFFc3VjM29UMFJ2MnNHelp0dkFZRUJZRThNNEFkZ2xmc0RjZ1owd3JFbUxTWGF3Vmt0S0M3SnlYM3dUZ2FEcDFyMTd4cVlmeHQtNGp4bU5LTTV3NU8zN29Ib01xdU9rWnFBd2VuLXp1cUtjb1dLWGVpTS1td1ZkczR1Y2lGN0dySmtkMUhHVlJ5b2lfUjlnc3hBUUpEZGhzZGM?oc=5",
         "pub_date": "Tue, 10 Mar 2026 04:14:27 GMT",
         "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "IJEX vs Bitget: 2026 Exchange Comparison and Security Guide - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1VoeS1JMC1wVU9HQWs1V0xSZHQtVzJLMGsxWVZyM25qRWVrd21wU0RTWnZXOFdHdnJxTmx4aW1kU3ZmZlJvS0FON010X2dsaFV1MnY0MmpBbUZIMWJNTF84YnFDVHpmNEFzd2xCNzJrelNaX3FBUzlwNXF0ZFlUbjdFSlJwdVZYY0ZhcGdVYUFmdUNSQ1NESWp1Tjc2bFBnZXlqelJabnREN3JuX082Y2tud0JLMi1hQWJwUEpzdmpybWlmbkI0bHRyV1ZGaVlveGs5d9IB1AFBVV95cUxNa1VoeS1JMC1wVU9HQWs1V0xSZHQtVzJLMGsxWVZyM25qRWVrd21wU0RTWnZXOFdHdnJxTmx4aW1kU3ZmZlJvS0FON010X2dsaFV1MnY0MmpBbUZIMWJNTF84YnFDVHpmNEFzd2xCNzJrelNaX3FBUzlwNXF0ZFlUbjdFSlJwdVZYY0ZhcGdVYUFmdUNSQ1NESWp1Tjc2bFBnZXlqelJabnREN3JuX082Y2tud0JLMi1hQWJwUEpzdmpybWlmbkI0bHRyV1ZGaVlveGs5dw?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:30:45 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -141,25 +181,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Solesbot Crypto Bot Guide: Bitget Exchange Advantages 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm5YajdzZU92Z1M3bTNxck40bEpub3JIU1o0M3FsdmtHU2dMd1dBaEhpOEtHd0k2WTRic2M2STlzSUppOWJzdTE4NFFCMEEwLTBUSWRveDBzaC1VMjFISHk5NXJ5aFZSd2FIU085RGJaZWt5ZTVSTXBWalhvSTh0N1pSOFl1Z3JraVlubjhkWXFnWGx5LXMzbENHWTl5MFJRQUtGeFFNVjVLNTRBUTZJMDMzQUFCVUFqbkNnQk5n0gG-AUFVX3lxTE9SblhqN3NlT3ZnUzdtM3FyTjRsSm5vckhTWjQzcWx2a0dTZ0x3V0FoSGk4S0d3STZZNGJzYzZJOXNJSmk5YnN1MTg0UUIwQTAtMFRJZG94MHNoLVUyMUhIeTk1cnloVlJ3YUhTTzlEYlpla3llNVJNcFZqWG9JOHQ3WlI4WXVncmtpWW5uOGRZcWdYbHktczNsQ0dZOXkwUlFBS0Z4UU1WNUs1NEFRNkkwMzNBQUJVQWpuQ2dCTmc?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:26:39 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "USTC Price, Trading Guide, and Bitget Exchange India 2026 - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tQkZ2S2NJTHlETXpBWGRiNGsxNk5vTUR5MEVObGF5eGV4QU5FaXlqdnE5TUotVlA5Q2tMT2dvMkhVTnFtbGZRMnJDc0FhZVpZNk1FRGVxRENuM0VO0gFiQVVfeXFMTm4xdjFrSHNHaVhqQ1dzMUxBdTBjeXpRNFhmdm1vNkxUeHV6MFlzS3Aybkc0VE5kYmlISlJBSTRfZWNta2VuUDFmQ2xGWFUxUDVBVmpoa3o2TUItWXZwM1JuRlE?oc=5",
         "pub_date": "Tue, 10 Mar 2026 03:49:18 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Fartboy Crypto UK Guide 2026: Fees, Safety, Bitget Exchange - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMUU4Ukw4WjJfN0tCS0xxX0JUNjd6ZU9vQTh5c0tNUmtvOTdHa0pOT0NtZllCSTJhRVhLRm5yMHdDT0tmTVZ6bGJ4THRzVktQTVFMWHB4S1djdHBIRWE2RFEyUTR5YllHSWxIcndxV0k4TUVKdGs1Y3FncDliaFN5U0NheHZpRjdHdUwzUWoyZVRCa0YwcWY3UXdiU01Bb2RNelBzNFhJSdIBpwFBVV95cUxPMUU4Ukw4WjJfN0tCS0xxX0JUNjd6ZU9vQTh5c0tNUmtvOTdHa0pOT0NtZllCSTJhRVhLRm5yMHdDT0tmTVZ6bGJ4THRzVktQTVFMWHB4S1djdHBIRWE2RFEyUTR5YllHSWxIcndxV0k4TUVKdGs1Y3FncDliaFN5U0NheHZpRjdHdUwzUWoyZVRCa0YwcWY3UXdiU01Bb2RNelBzNFhJSQ?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:10:35 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -173,6 +197,22 @@
       },
       {
         "exchange": "Bitget",
+        "title": "How to Sell X Money @ (X Money) | Sell X Money - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ldmxpb2hCbTlKaW5PZUoxdFhOSUx5QW9qbjVYWDlTd3Jyd25ISk5IU3hLR1BrN3o5RzF5clNsSThpcmJMMnVSZWpVY0VtQTdKbWdNbHpWUzF1WnE0VWpncnVSYkxBTjN6?oc=5",
+        "pub_date": "Thu, 12 Mar 2026 00:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Fartboy Crypto UK Guide 2026: Fees, Safety, Bitget Exchange - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMUU4Ukw4WjJfN0tCS0xxX0JUNjd6ZU9vQTh5c0tNUmtvOTdHa0pOT0NtZllCSTJhRVhLRm5yMHdDT0tmTVZ6bGJ4THRzVktQTVFMWHB4S1djdHBIRWE2RFEyUTR5YllHSWxIcndxV0k4TUVKdGs1Y3FncDliaFN5U0NheHZpRjdHdUwzUWoyZVRCa0YwcWY3UXdiU01Bb2RNelBzNFhJSdIBpwFBVV95cUxPMUU4Ukw4WjJfN0tCS0xxX0JUNjd6ZU9vQTh5c0tNUmtvOTdHa0pOT0NtZllCSTJhRVhLRm5yMHdDT0tmTVZ6bGJ4THRzVktQTVFMWHB4S1djdHBIRWE2RFEyUTR5YllHSWxIcndxV0k4TUVKdGs1Y3FncDliaFN5U0NheHZpRjdHdUwzUWoyZVRCa0YwcWY3UXdiU01Bb2RNelBzNFhJSQ?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 04:10:35 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
         "title": "Bitget: Best UK Crypto Exchange 2026 - Security & Low Fees - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WcG56NmVuNVA1MlJQTXF1b3loV2Z3dWw5bUNOeFhGX2s2UGU0cDcwa3l2TUtCdGJhQ2NWcTZIdzVWcExDTmhubWNkcElYck83STVBNGtzRWNEWmxY0gFiQVVfeXFMT3hKWmhYU1lwdkNqVXhnZmV0ZmlWYWdhaHFmSy12UmM3cnRMU3F4Z2R6YVMtS09xanBRNDVFLUdLTmRtR1F4R29aOXdERjJVWW9QWFU5Sl9UZFJydnZHZ01sVXc?oc=5",
         "pub_date": "Tue, 10 Mar 2026 04:11:10 GMT",
@@ -181,10 +221,10 @@
       },
       {
         "exchange": "Bitget",
-        "title": "How to sell LIFE AI (LIFE) via a crypto wallet - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TOU52V2ktZHI0bThFLUlDVjZnLU5PX20zSjNvUGctSkU0T280R0JtSU9taE03djdwQ0M2RE93VEZvaHFfNWpqczlOaUd4M1Nfb0g0eg?oc=5",
-        "pub_date": "Wed, 11 Mar 2026 00:00:00 GMT",
-        "sentiment": "neutral",
+        "title": "UK Crypto Exchange Safety Guide: Bitget vs Coinbase 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3czRUt0SnNIS1ZucjZnTEoydmYwNkdLVkc5OFhTY3BJR0NUQWFFbTE3bGpGZ3NkbjRCc180V2ZtMWUxSUQ4N2ZTMlRPbTUwbEttUnY3ZEx5LXQ4LXdiX29zRVhlNFRjWjNpQUt6Ums3N194QmdMZGM2cVUwaFNtVFdLTkI4Qkg3OExTVUZPTmdYc2UwSTdZc21JbmVEOTM4RHhndFNQMW1sU0V6bEtXZkxWeUJFcTdxQ0VTVzlCS1d4V0tk0gHKAUFVX3lxTFBiUEMweHVwdFozVVBxZXJNWlRUTUVOVU5fWmZJTlFKZ20yTWgyVnFDYU9YdjRvalBMV1hIbnRLaWdkZF8wbVhKcDJ5S0hiVHdqRkl2bXRfSE9BanRmUkp1dGg0TUswbEFrbnRESW5fa19IV1pLd19xTFFJa3E0TlRxR0NHQjFuaXR5MkY1WE1UdlJSN0FhbUJ0WnV0NlJQcDJ2bkVRU3lEVklTUlppckdOa2tmQUIyZllHQWs3dm5TanZyTVhaUG4ySmc?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 03:58:08 GMT",
+        "sentiment": "negative",
         "source": "rss"
       },
       {
@@ -197,6 +237,14 @@
       },
       {
         "exchange": "Bitget",
+        "title": "Best Crypto Tools & Bitget Exchange Guide 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95WUs0eE9EeGdKc1JCNDZpRWg5cl80Vm9lNVRwdDhFREpKSEMxbXZZalVhdGV2TnhLdVdpb3VsN0NwYUpOZ2RIc2hEbzRWeGh3a2o3ZlRMWmRGWk5H0gFiQVVfeXFMTUtVUUQ4eF9TQ3JVSWd5WG11RTNwSFFxWVFSUUJVUnR1NVBQRHl6QmtUQkVIQmpWQUJ5M2tWSF9pS1VhSU5Qb1RLV3FFeUNCbHVmZzRiWmJzWjFES1pVOE0xY1E?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
         "title": "Peanut Coin UK Guide: Secure Trading & Bitget Exchange 2026 - Bitget",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDN3eDlUSTRmQWUxSTlTRmRaR2FXWnhwdmpaeG5xMFJEbk5aS1JUVGZsVHNFaVZkc2M0QzZmSVBzQXZkcHFuUDBzMnctZTZoOUR3R192OWhtaTVUWmhDcHdvcEJheGQ1X3ZCMk9Ma0dhQ1Jyc1VhbWFNcHE5RzdYUDZiVzRzOVJoV2ZKUFh4eUVXZWo2ZG5NRnVrTlhkeFFhdng4ZDV4OVRQVWU3em5OaklyLTVYT3JUbUtiSlF4MNIBvwFBVV95cUxPSDN3eDlUSTRmQWUxSTlTRmRaR2FXWnhwdmpaeG5xMFJEbk5aS1JUVGZsVHNFaVZkc2M0QzZmSVBzQXZkcHFuUDBzMnctZTZoOUR3R192OWhtaTVUWmhDcHdvcEJheGQ1X3ZCMk9Ma0dhQ1Jyc1VhbWFNcHE5RzdYUDZiVzRzOVJoV2ZKUFh4eUVXZWo2ZG5NRnVrTlhkeFFhdng4ZDV4OVRQVWU3em5OaklyLTVYT3JUbUtiSlF4MA?oc=5",
         "pub_date": "Tue, 10 Mar 2026 04:07:06 GMT",
@@ -205,10 +253,26 @@
       },
       {
         "exchange": "Bitget",
+        "title": "Kraken vs Bitget: Best UK Crypto Exchange 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVnEwRkdRNmc0aDJoNHFhRUhJXzhKYjZTOXcxWXJLa0psekZuNVpXdVByVGhrSTFJa2tWSkl2aUpkQjJDbFZPRFpaeUlvcmE2X3NBR1FpNzhLaElKdVdlRV9fXzV1QTVSS0FJMWlIUHMwTEVseDdFaTJ4bzNmV0tLME8zZFdWbm9vQVF5a2JsUEVYeF9HclpzdzZHRHF0OFdiM1VtMVVURGlrY05BMUM1T1p30gGyAUFVX3lxTFBWcTBGR1E2ZzRoMmg0cWFFSElfOEpiNlM5dzFZcktrSmx6Rm41Wld1UHJUaGtJMUlra1ZKSXZpSmRCMkNsVk9EWlp5SW9yYTZfc0FHUWk3OEtoSUp1V2VFX19fNXVBNVJLQUkxaUhQczBMRWx4N0VpMnhvM2ZXS0swTzNkV1Zub29BUXlrYmxQRVh4X0dyWnN3NkdEcXQ4V2IzVW0xVVREaWtjTkExQzVPWnc?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 04:01:49 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
         "title": "CoinEx vs Bitget: Best Crypto Exchange UK 2026 Comparison - Bitget",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa1VxdGxLTFI2UmsySDMyaDNsdDMtZGZSelNfZTB5b0xURjJKUG1neVU3WGtPdVZSTmVIYktVTmxULWdoNGI1RW1IVGo4TTU5RnVwSzJ6WkRXTENEMTE4eUVsLUxkMi1HRFJPNk5nNVRmY2FSdzFHaEw2ZjhvOUx0d2JEYVpINkZETUtNNkQ5OFhsTzNJT29VZWZRNTRYTUNnYjZCdThTYVRuMnk2UE1OT21qQkR3N3l5LWNLNkRka0FONUR6dndNMmM3eW3SAcwBQVVfeXFMTWtVcXRsS0xSNlJrMkgzMmgzbHQzLWRmUnpTX2UweW9MVEYySlBtZ3lVN1hrT3VWUk5lSGJLVU5sVC1naDRiNUVtSFRqOE01OUZ1cEsyelpEV0xDRDExOHlFbC1MZDItR0RSTzZOZzVUZmNhUncxR2hMNmY4bzlMdHdiRGFaSDZGRE1LTTZEOThYbE8zSU9vVWVmUTU0WE1DZ2I2QnU4U2FUbjJ5NlBNTk9takJEdzd5eS1jSzZEZGtBTjVEenZ3TTJjN3lt?oc=5",
         "pub_date": "Tue, 10 Mar 2026 03:58:24 GMT",
         "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Exchange 2026: Crypto Security, Compliance, Trading Guide - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0c5S3hHMkdfMnN0S3VSMUgzUXhVcEZpOVVRZTlKSDh4RjA5Zm9GaTV5M1I0QVhyVm05Sk02bEVKR1VjMFV2T3lMYXhXd056cW5kZHdHblNGejFqZlFmNlNET2pEY205cndtWFNUZTB4SU41ZkwwdTlZQXZWNXNjYy1XWmNfRmpaVnBPSDhpQ2xDM1JjWnA0cnF2bXNmMW56NGfSAacBQVVfeXFMTWt3Ym9jTVNpNkxaVXhRdTFJR0JmNzVjZGl6VVBpSGIxdldvZHVyTXZqZ1g3VGp2Q1hnM3prR3YwN2VaQWZfdTJTdW03cFVJeFc1cldaQmZpMmNNXzdTSm03MlV4emJueEZ1SS1ud3hXTzFELW5GRms1a2Y4S0VUTWdSb25pY3MxaDV5UmFoMVlzcDROR05MUkF2ZjRiMFhVMF82bEFyT3c?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:24:50 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -229,9 +293,17 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget vs Deribit: Best Crypto Exchange for 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1B6ZXFfTXh6OUJnY1RxbGZ5Q3E5MGhDOUYyeVZCY2ExVmZDb2VWcWdyS25Qajkzdm9iYUZoMk82cC0yR2lmVW9RYm9ZZy1rMmgyT1hpX3MyVHhEMlBhZHJPYndEekRyR3ZYdWQ1MmFZX0duN3hhd1puMWJYSXBFUnZXN3JhU1FyM2s4QXBYOUljSlRyR09hLVhQTGJmRlpKMVQ2d2Nfem4tUlNLV3pIYV9HNFdITUVRUy16NDN0MjB6cjDSAcgBQVVfeXFMUGhuZ09QZG5qUFR0ck9iOEtOZ0FBODZDUkw4cHMxWnEwb1NCay02M1NNbjQ5NzZJSmhrX2tXa0lYd1Qza3c0TlE2YVNzckxwaGZLSUU0dXhVa3lETEdwZXVqSEpaUGZhbnh4VTZCVzB5VnM4U01KenVCUGJIU210ZDhNZm1DRmZvVVdidVZ2Rm1HZ1hyNTRpYWxSYy1ja3IxM3c4QUtvQ1VsdGlWdFg3Mm1wVUNUM1M3ZEU5MktaUjVVNGdQQ3R6Z0Q?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:22:00 GMT",
+        "title": "Best Crypto Exchanges UAE 2026: Rain vs Bitget vs Binance - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZW43bjNEM3Z5ZnAxR3BvMXNwdmdzUE1ibGVTMjk2ZUZGQ2gtNFlULXFCVmVOS0Y4bWF5WHZ3T3NVNzhTaVJpaW1rVWZqSWVQTlN4NVEzc0FYOTlmT2ppN21DUzVfWmFueUhEU01jenloRE4xU2otamlSODE1aVQxTlp2V2c3cjNVSnlVcDN2NEVuN1N0MWZQNGY0c3NEa0kwdGtTeGYxQlZBWWxYZEZfRUZpYWNURkZZdlB30gG7AUFVX3lxTE1lbjduM0QzdnlmcDFHcG8xc3B2Z3NQTWJsZVMyOTZlRkZDaC00WVQtcUJWZU5LRjhtYXlYdndPc1U3OFNpUmlpbWtVZmpJZVBOU3g1UTNzQVg5OWZPamk3bUNTNV9aYW55SERTTWN6eWhETjFTai1qaVI4MTVpVDFOWnZXZzdyM1VKeVVwM3Y0RW43U3QxZlA0ZjRzc0RrSTB0a1N4ZjFCVkFZbFhkRl9FRmlhY1RGRll2UHc?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 04:04:32 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Best Crypto Exchanges in Italy 2026: Bitget, Coinbase, Kraken, Binance - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tWVl2alJ3S3dLVVZkd21WcWtOYm9kZ3ZFM2hiTU81Qk13ZV9qQUtUOUtVelI1aXFMLTFzY0hFSkdPVW5RWDdSOXc4V0RfMFRUSnlxVkZxSGlzeHlMYXfSAV5BVV95cUxNLVlZdmpSd0t3S1VWZHdtVnFrTmJvZGd2RTNoYk1PNUJNd2VfakFLVDlLVXpSNWlxTC0xc2NIRUpHT1VuUVg3Ujl3OFdEXzBUVEp5cVZGcUhpc3h5TGF3?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:51:49 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -253,6 +325,14 @@
       },
       {
         "exchange": "Bitget",
+        "title": "Best Crypto Exchanges UK 2026: Bitget vs Changelly Guide - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00ZkZUd2xTVWRxTWU4c1JzY1ltZE1HTm1vQVhoZkJmc01PNkRfTjNDRnp6RFlwZTJtQldTZWRPOEEzdjFfU3lrNEpxTlJseFRKcDlnNldHbUhfV0420gFiQVVfeXFMTUtiaFpJamRxdzE3bXFHVV9nZWhOQmVXWVh4emNYYWNmS0JGc2w1M08zOGx3SDFEUWt0bTN5a3RhM0hMRWczaW5OWU9ldU5PUHRkb0ZmMDNJRmt2Vm9iWVFDNFE?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 04:22:05 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
         "title": "Best Crypto Exchange USA 2026: Coinbase vs Bitget Comparison - Bitget",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3lwcGdxbFZUc2xMc0tQa0NlM3ppajdUb2NhSHJ6LUN2XzJnRHAtNUJ3N3pDaW5xZE5zdVczMkRzYTc1N2VwSEpnckRTaXJPX0hEcFlyY2ZoSkczMzRidVR6Q1FMVzlVUkFQSEpXM1FEUzBtS2RMRXRndDFfMmliSTVPd0JHSG0xcFBkOTYzV3dwdW81Mzc2V09CdWR2MGJOVjRhY0ZIQVBFSGVneXFMWNIBtgFBVV95cUxOcXFuS3Z6a1p1ZHlCZ1BGWnhDdEcyQ2x3RUM0eXJyelhXN3dvRU1pa1FERDIxXzRZNzVxOENRQ0FmSU9Qa3NjMUtGdXdoS2p6b0k1dG84SmcyR1FuVmlaWF9MQVJ2dmp6cUEyNmtHMkNLZEg3aXRkOG5GNnNhdXVFLVZRaC1leTBKWG5ZMFJHWFJmd0JXM3QtWmpXSzdtZXdjb1NuajhRcy03Rm1QaVloYTRHODNZdw?oc=5",
         "pub_date": "Tue, 03 Mar 2026 10:22:36 GMT",
@@ -265,6 +345,22 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWlVPYWQtcjEtUnRxYzdPengtSUpWOG8zNXFkZUFHQ2o2TFhELUVsSllGSHpabWpISGc3UU54N2E3X3U3TFBhSGJkV3VzVmdYdHlsUGphd3pRcUtw0gFiQVVfeXFMTmhZdGRYWjR5TWhnUHdzaUEtMUx4azZaTlhFdG1VS1ZJeDRxeWFSUnAwMWFQR25nbG9BVHpMeThEeEtWTVhjS1c2UWpxcF9URTA1UW8tSVdCOUtsZkMtcnAzcGc?oc=5",
         "pub_date": "Tue, 10 Mar 2026 04:13:00 GMT",
         "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Exchange Review 2026: Fees, Security, Features Compared - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCWDE2Vk9TNFItLVAyblNxWHJHd2xFR0M5YlltUmV6SnNGNUc0MEpIbS1kcnNPOHdVdTlFYVJVRTN2YVBybzV4a01sU0VaS2RpT0R4UWdkcUl0MEhW0gFiQVVfeXFMT0ZQWEJGRmZuRGF0QXV5QVVLVW1BcWFycUFfMHZhdXJyODlCQjl6NGk4VGdjd0lpR0NIT3ZnYjBmT3JKdVJZc25FeVRhTnNFRzU0TkZoX2NlVzdJQlh2aFlvWXc?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Signals Next Phase of Exchanges With TradFi Integration - THISDAYLIVE",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnJxRV81WHQzbkxveUxDN2xxTHR3X193NHY1QWl3cWlSelhJdl9pMUpabi1SNnVBUG5tNGNQQzBUZFJIZ2RkdzBuT3pxMkJLU3F5Z3o0U1VpWFo2Z3hybHdxSWtoUHV3MzdwUjlBdUJUelJYYjhqR2FjODRENkdxbW1yZjE4bUxTdnZ0NkxObURDcnpvVmJ4R0stTUdvOUVBZjBCc3VLWQ?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 03:48:09 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -285,50 +381,18 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Exchange Review 2026: Fees, Security, Features Compared - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCWDE2Vk9TNFItLVAyblNxWHJHd2xFR0M5YlltUmV6SnNGNUc0MEpIbS1kcnNPOHdVdTlFYVJVRTN2YVBybzV4a01sU0VaS2RpT0R4UWdkcUl0MEhW0gFiQVVfeXFMT0ZQWEJGRmZuRGF0QXV5QVVLVW1BcWFycUFfMHZhdXJyODlCQjl6NGk4VGdjd0lpR0NIT3ZnYjBmT3JKdVJZc25FeVRhTnNFRzU0TkZoX2NlVzdJQlh2aFlvWXc?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Best Crypto Exchanges Australia 2026: Bitget vs KuCoin, Kraken, Binance - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43QThTZTc4MmpiQzZTQm1hOFhDY0licXJWTHJTOTNMUHVXb0g0RXlJelF0Z19MR1R6Z05HSmZ5MTd3M2p4OFkzdHpPRndWRE1VcWdsbjhsN1RRZXlwZmfSAV5BVV95cUxON0E4U2U3ODJqYkM2U0JtYThYQ2NJYnFyVkxyUzkzTFB1V29INEV5SXpRdGdfTEdUemdOR0pmeTE3dzNqeDhZM3R6T0Z3VkRNVXFnbG44bDdUUWV5cGZn?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:48:51 GMT",
+        "title": "Why Bitget Is America’s Leading All-in-One Crypto Exchange - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0JEblFKWkR0c2IxMlZ1LWtGUFZwYVJEVlhlS2RPb0VmMTJfdGs3QWlFQlVITlhWUktLYnpNcUU4aUxHYmg2dHFCak4xbTB5cWw2UXlfVVRFaEVYbDhwZ193dmduajI3WXBzd3dHLWs4U2RaSmNRN0ozSml5OFgyZEF6bkRPd3FRZkJfYWh2c2lJbGhINDIteXF5aEdoSGZ4WmFNMWRlTzVHcXhkNjNQcEZrUTNRMy1ncGtLdF85OFFmZW55M182TVNiRGhwNWlwS3dOWE5R0gHbAUFVX3lxTE5oRWxqRm5Nb1Njb2hzaHR2LTNmM05jUjV1emxmY2dJZGlhay1RUkc0MzQ4d09xZXlLT3BPS3EtbXdUOUFKYVhXdWhKd3FGQkxUNHhwSkMwSVBfZG9MRFhnLThmaGhBa0VKUkFfcUF4a3hieUxyVGtWNGdjVTJ6RUgxeGxPREY2bUMwcFNZT1I5UHBxRmxCbE1WSjRtNElPdWIxeHJxVG5QdlNacnJEQWoyOEtBbFh2bUo0UndHb3VVckRsb29FbFl0YWk3UFhwaGIxQkNVMV9XTUdzTQ?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:29:51 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Exchange 2026: Crypto Security, Compliance, Trading Guide - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0c5S3hHMkdfMnN0S3VSMUgzUXhVcEZpOVVRZTlKSDh4RjA5Zm9GaTV5M1I0QVhyVm05Sk02bEVKR1VjMFV2T3lMYXhXd056cW5kZHdHblNGejFqZlFmNlNET2pEY205cndtWFNUZTB4SU41ZkwwdTlZQXZWNXNjYy1XWmNfRmpaVnBPSDhpQ2xDM1JjWnA0cnF2bXNmMW56NGfSAacBQVVfeXFMTWt3Ym9jTVNpNkxaVXhRdTFJR0JmNzVjZGl6VVBpSGIxdldvZHVyTXZqZ1g3VGp2Q1hnM3prR3YwN2VaQWZfdTJTdW03cFVJeFc1cldaQmZpMmNNXzdTSm03MlV4emJueEZ1SS1ud3hXTzFELW5GRms1a2Y4S0VUTWdSb25pY3MxaDV5UmFoMVlzcDROR05MUkF2ZjRiMFhVMF82bEFyT3c?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:24:50 GMT",
+        "title": "Wintermute: Crypto Market Liquidity & Bitget Exchange Guide 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnM1RVR0OUNiM3RBRE1vb1FiUi1FenNScTEyR3FKV2JKcjhJbF82RzJaNVUzTXdnZmlEV2xUZzJ0aUZ0Rjd3SXFIeEtmSVE0QTFBOENsQ3VsRFpTRURSY3lIbWxQbDdfR0g3V2lGUU95QjVOYnY0ZENfSDM3WFo0azlORkJOREp0YTd2U3pUaUlwYmhoSjUxdnFLeGRTbmdGdDA3QXJ5MW11d0JnaWlNalFNMjh1cFZlRGJhRGg5RDNZV0kyQmZMRjhHcVROUXhQZ2JV0gHYAUFVX3lxTE5qZ3dHNlE1a2xHa3VvQjAtZmlvdUs0WFJWbDBRUGlDNzh6WU9BR3Q1TThtaE9NelRJRFM5UHRMZnRfbW9mMTFyOEhEeHl5cDBhUk5vYTBRaUNzNTlFdHVnZzJ6eWxKOXpqX21sMWl2Nk9OdUN3MzN1SUNQY05PLVM5V0gyU0t2M0FZUmNJWndmTWcxem0za3ZqZEhwd1p4a1luS25MUW9IblR4YXVKR0tkMlNIWkhvRGNmNGNCcF9mNG5maE5fRmR5a1NaWjljcEpVaHZOR2J2SA?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:23:55 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Signals Next Phase of Exchanges With TradFi Integration - THISDAYLIVE",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnJxRV81WHQzbkxveUxDN2xxTHR3X193NHY1QWl3cWlSelhJdl9pMUpabi1SNnVBUG5tNGNQQzBUZFJIZ2RkdzBuT3pxMkJLU3F5Z3o0U1VpWFo2Z3hybHdxSWtoUHV3MzdwUjlBdUJUelJYYjhqR2FjODRENkdxbW1yZjE4bUxTdnZ0NkxObURDcnpvVmJ4R0stTUdvOUVBZjBCc3VLWQ?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 23:51:13 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "UK Bear Flag Meaning & Bitget Exchange Guide 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2hFQThaLWprQWYzTjFlZHVyUU9jZTAtS0J2ZTBxOXFPZnFIZktzX1hsUXA4TEdMOVlCWUIycDVnYTVQRm1nbl96cEJNYVlvNDEwRVhXMFdLb09FTTJzMC0yUjdDQlR6NC1KcWRpRWdMUUJXNk1hR1JzWmUtTFRsaWdGR2pPY0pYWnJUM3E5amNndWpzcURNWWtIY1hJNFBOZGpoSlBB0gGrAUFVX3lxTE1jVUEzWlJZcjFlUG9ENWoyMlJud2JBMWxnaHZpam81dWZQbEdCa2V5RXBaSnZaeUpEN1daZ25IZ3E0amw3a1h0QUR2ZTdVNnVJTW8yRG1ZbWhIazltS1pDX0w1dGF2OHZtdXUyck9UZ2lPNVF1NzlMQVU5aTlLazBEbTJaYXlXZGFfREV2MU9HT0hpS1JTdi1Fdnc1aERHRGlEcTBKNnVmaVVGRQ?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:16:31 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Best Crypto Trading Hours in India 2026: Bitget Guide - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSjh3ZnFJWDFiVU1NeEFPa3d6MEJ1UUwwQjJtSEV3SmgtN1hGSWpxWGg0WlQ3REZQMGRRWExqeG1WOHpZMG1lOXY5eXdBeDNfTjJVOHhaYmw3MUZvZEpHNVJPcTBWbkdOdjVLSXJRM1ZTbTRLWmFjQkpoaXo1UmN1WmNudzVEZ2ZJcl9BcmN5OXhKb19SQTFZVlVPUVNUeFXSAZ8BQVVfeXFMT0o4d2ZxSVgxYlVNTXhBT2t3ejBCdVFMMEIybUhFd0poLTdYRklqcVhoNFpUN0RGUDBkUVhManhtVjh6WTBtZTl2OXl3QXgzX04yVTh4WmJsNzFGb2RKRzVST3EwVm5HTnY1S0lyUTNWU200S1phY0JKaGl6NVJjdVpjbnc1RGdmSXJfQXJjeTl4Sm9fUkExWVZVT1FTVHhV?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 03:48:26 GMT",
-        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -349,26 +413,10 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Wintermute: Crypto Market Liquidity & Bitget Exchange Guide 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnM1RVR0OUNiM3RBRE1vb1FiUi1FenNScTEyR3FKV2JKcjhJbF82RzJaNVUzTXdnZmlEV2xUZzJ0aUZ0Rjd3SXFIeEtmSVE0QTFBOENsQ3VsRFpTRURSY3lIbWxQbDdfR0g3V2lGUU95QjVOYnY0ZENfSDM3WFo0azlORkJOREp0YTd2U3pUaUlwYmhoSjUxdnFLeGRTbmdGdDA3QXJ5MW11d0JnaWlNalFNMjh1cFZlRGJhRGg5RDNZV0kyQmZMRjhHcVROUXhQZ2JV0gHYAUFVX3lxTE5qZ3dHNlE1a2xHa3VvQjAtZmlvdUs0WFJWbDBRUGlDNzh6WU9BR3Q1TThtaE9NelRJRFM5UHRMZnRfbW9mMTFyOEhEeHl5cDBhUk5vYTBRaUNzNTlFdHVnZzJ6eWxKOXpqX21sMWl2Nk9OdUN3MzN1SUNQY05PLVM5V0gyU0t2M0FZUmNJWndmTWcxem0za3ZqZEhwd1p4a1luS25MUW9IblR4YXVKR0tkMlNIWkhvRGNmNGNCcF9mNG5maE5fRmR5a1NaWjljcEpVaHZOR2J2SA?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:23:55 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Mercatox vs. Bitget: Best US Crypto Exchanges Compared 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SRlYtS29PZk82dFkxdFNPeUZ3aVdIOUpVWnc4SUF4SFFwQ1RlWDQ4Y0Mwc01OcTVtbzVJdVJhNWxqbVMwRlZwMGh6aXcyamxKRktncGxfT2tQOXhC0gFiQVVfeXFMTkhNREZQWjhqRE00eU5saXBJdjVZVnFMV0Ytc3VqS0tLUk45WWVxbzFHcll0TVF5bDlMNUYzTk9ZRVJrMmt4MTMxclJsYXlQbmZkcFpqcHFGcHNBTWU2VUl0VFE?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "title": "Best Crypto Exchange Italy 2026: Bitget vs CEX.io Fees Comparison - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkVfTEVhNVJKaEdEaGxQTTlQWHhaOWcxcVFBSEJkYU5KUEF6SjlqYVdOT0x0N0t6SDBpYkdhLWQ2aGlxOVZvRFR6bXFSVHFnWDUxNjFLMkJyNFlIQmRXQnNEWmFJUEJoTWY1ZzF2SThsQmVVRW1DUDVBNEpPX0dFWVd4QU5oU2JxaHJKUlhWVmJIcXg5UGNaczJDbUpPSzJqbGVuMV93Y3A5NjF3bjhWVlZHWmhlaXZFMlM40gHAAUFVX3lxTFBYdlFZXzFoUUdTWWpmcWJrTHM2RVdTalJvUW10N2N5SEU0akZ4ZHdoSjREQjFkRHY4X290RGtKWHpLaVRwVXhJc2h4bUh6N2Qtbnk4R3o2dkE5a25iMVM2QjJlRTdoWG9QbnhQelNxQ2ZhNlJDa0Z0ZkNaRGJNUmxkVldabVFSYnQ3N1YycXNBcHQ5cUNxQ1J1TVNwcTFTVkdaT2hGVFBPZGs2SGxKU2ZaNmFMUE55ckVUOGlqYkdWUg?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:51:51 GMT",
         "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Referral for Binance: Complete 2026 Guide for United Kingdom Crypto Beginners and Fee Rewards - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN3BHWlJlRjN5V3pwdnBlMzM4d0NjLUU2cElValF2VVlTYWxBZ2ZLRng1NEZ3bEo5aDR6RGd2Yndrc2l4MFJGQzY1dnFlNV9wNHpWZjJFUU9XYjN6MVY4RmhGQ2JyTkl3ZEZGd19GMkpBQXdYWEduUloxbENtZW9MMnFzSWphZVpuZXkwSUR4M0RHd1ZDWWhJamFoZlF2UjNEZWVrbncxc3Jucjk2cGY5SWtSQjVEcHJaN0o1RnFJTjI?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:16:49 GMT",
-        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -376,6 +424,14 @@
         "title": "Best Crypto Futures Testnet & Bitget Exchange Guide Australia 2026 - Bitget",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHhDaG8xbEFXSUhMRmtoTVQzT2p5clJiRnZxTnJXQ3pVY0N3aVcyRF8xYks5VmVPZ3lLbk5Sck1uMThVcE5JZlVpUVd0eUt6bk1UNlJVUlJ3ejM5ZlR3WG02TGxCTVpjM2twT3VTTHE5MDVyRm5vd216SmhzY2ttLV9abEhiYjJRUlFWMkdpMXE3N0w1OUt2WWF4YVFBUDZoNTNxZ9IBqgFBVV95cUxNVWYzRWp3UXR6czRVNTBEbFdpbDkwSDNyTWxCUC0weHQ1Q0c0UFk1U1FWSFBxVTFmb1lrTHlDdXVoNmVEcnhFam51VVBxV20tcDk4N3lqSUd4Z2t6MnRrU0xtREJKNkk0V3hTcnIyeWgxYUYzZm1KRGZEVkZLWDR1bDhEWVVtVDNLNGNRcmF2RGN5N2ZETnRHWGxUbzc4YXRVdVh3OUpTZVljZw?oc=5",
         "pub_date": "Tue, 03 Mar 2026 10:48:53 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget vs Deribit: Best Crypto Exchange for 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50MGJodjRuSEhQZmRyelRGMFczRDZISFFYUlJuLXpJOHowZVE5QTUyX0Ywbm5kSlBydE9UV0J6cTA0QjFyTUd1OEZsN2lYN1h0UDN3S2FIUDR6d1pa0gFiQVVfeXFMUHkyNWVMSGFrZ1dPS1pZeDFLU1JELVlla2U3d3BqQVdDMXFVZDRRRGkxa2xhY05aU3FQOEJPYmpzQjI2cVpZb1NvMVpkVV81T2NoUEZXRk1uX2NEOEFiM1NHM2c?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -389,22 +445,6 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Best Micro-Wallets and Bitget Exchange Guide 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RYnl1M0Z0STROTG5xUmI5d1BsMWF5aUltMHFXU2ZGeHl1NWk4NUt3RVdHeFRqYzJFblFoSzlKbklTY0FueHlKMFZzZzkteVJQTTd1M2NVMndRQWRo0gFiQVVfeXFMUEpiRlJ1TUR6aE9aUWlab3pFbExNeFY1ZncyZkd4aDFBRTA3UEZJRlBjVThqTlM0UG01bmZLdUJZT2lzQWF2eXZXX3l3T2F6QzNvTF9vUmRfWFBMS2FBU09sNEE?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:30:17 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "XeggeX vs Bitget: Best Crypto Exchange for UK Users 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanBSMGhaU29ORDJfejQtOXhSUUxsX1hOcUJWdFhBbE1MOUY4dlhtWDM2RDJIWW1xODFiZ1hrS1pRXy12NkgzbmhKMGZkOUZOUmpMRmd1UXB0SW4xZEFCUF9OLUFIdFUxRUFGV2lMS1RhNHhqZ24xbEFUcVd6ZTlNeVp5V2FtRkFaSVBUb3lpVEtTTHpHZFFRdGdXcWEzam5vRVZOcU80V2F4cUJGX09EM0FBNFRVU1hVc2VV0gHAAUFVX3lxTFBmOGs4bjVhODd1dGZBNkVtS2FmbVU2R2pxY193TXprZG5TS3lvc1dNSzdSYlFxYjRqMWlQb3pEVXZXbjBHZW80RFhJbXJ5NVZqSk1JWlNrTUVCS2pQTlhQUGM0SW16cjdqMC12Y0pWSzM2UFFaM1p1UjViYjNpaEhXSkNmOUZsRTNXWUZuaTJ3dy1qOVhUMUplbTZFeUFYY3lQcW81Ni1hanAtNHFWNUJyeEdQOTczN0t0M3ZhQWppWQ?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:22:50 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "Bitget: Italy’s Leading Crypto Exchange for Secure Trading - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fSnp3UGVfZ09hM0FWRWVfMWl3SVpiM1I3R19QTndZRVZYaGtZT0dMVlBUQk5ReDhvb0l2emc5RlgzWUY1enFKQXA2RERQMDZRRWFWcWlCbUxlNjZMeWfSAV5BVV95cUxNX0p6d1BlX2dPYTNBVkVlXzFpd0laYjNSN0dfUE53WUVWWGhrWU9HTFZQVEJOUXg4b29JdnpnOUZYM1lGNXpxSkFwNkREUDA2UUVhVnFpQm1MZTY2THln?oc=5",
         "pub_date": "Tue, 03 Mar 2026 10:52:14 GMT",
@@ -413,9 +453,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "GDMining vs Bitget: Best Crypto Mining and Exchange 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbjVUWUlUbHVUVVpvMVo0MGUyUm1VVFhzZnVwYjJHUFdkVUlmUlFmeUJaY285ZVFHMElXV0swZ0xkQXVxbW5zaXRSSEwtX3JBRUxQc0tkNzJnakNtZFRkYXJOdXNkcjBTemJRYWpuS19KcUlEZ1VIeUxMLURINVQ3ZWNaekdTRkZ5Vl81NHBqZWxiZXJxMloyTVg0QllOT3h5bnJnZm41UlVJYjdEQUt6dnpOTERCdkRTSlVGQnd6NEliOWQwTi1XVXVldVNOZmtTVHZn0gHYAUFVX3lxTE5XYldRSnd1MUJ1U3FsM0czWG8wUFJPeWw4RHJLSVhGbDNxWVlFUERZcTA5VkxUUlpvck1PNWNpaVkxakxjZWdIeGFmV3pTcmZwOF9td3J2bThFaFM1RlB0bTNNZjhLVG5OTjlMejA4OUhuckVmMHdfbGNnZ3Mya1FKNlhtR3E3VlhfMVgtb24xa3FSNENoVnlwSGpTT2l3c0VJSGtfZWdfSWVldzBZSV9ITjRyNTVfX0R5ZUUyeTJyNm81R3ZQOWJ1M1ZreHJfUmVaRnhjdGxJSA?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:12:57 GMT",
+        "title": "Best Crypto Exchanges in Australia 2026: Bitget vs TradeOgre - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV0phVUQtV0hhQWd6NHg3eWFDbWhlWUZyWmhZOG9YY29nWGo4RFQ5dVM4V2E3cGpqTkNyQi01cXNSOFpkZUZxdFI3dnNjWndndXZqVnFmUEVyS29SaS1odzhwQURxQU9TU2c5YndKeE1TXy1ja2wwUnRtUHRXWlh3M0dFZFJEWGplSm5ybERGSDNGa0toZnJ4SkFRVDREMWU1N042aGswSGtJQXlMN0pIWU9CdkdZRV9OZWZ4NzBBOGZ5OFFFYk5Za2RuZ1_SAdIBQVVfeXFMTTBzeW9UZjQwcmtQVEl4TEIzZGUxaUVvb3BleGozYl9NSEc4M2Zrd3RIc2hSRWZXbDQ2eWZmRlRuSDZId0VKaWJTMV91MnVuWG41TUJQYTBMNmtaUjB4ZXU4MGRSbDBTbTU1ekl3SV9sRDFjYUtGYXg4NFhUWHZZeGRGOXJEV09MVmNfVXo3NUp2am9oNEFZeFRST3p2UDQ4T2FXc2M2YWhkc0tOLUtvdy11cVhaazQycmt6THFCZGVnNE16dF92TXpYYWxiT29DUkJB?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -445,6 +485,30 @@
       },
       {
         "exchange": "Bitget",
+        "title": "Coinhouse vs Bitget: Best Crypto Exchange for Safety & Assets 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa3lFTlVmZU1nTGlhOWdmQ0V3dEdYenNVdEtQSlZpUFBkbG1YQ284d29QcEIzaGJMMGZ3cVVSTWExZ09fa3o1ZVpPdHd6T0JZQU42RkQ0TVh6M0NXTzlfNDJLN3JaM2VmMDZUem1ZdlZfb2N2OXNWNC1DNXJXLWk4OEMwM3Blcm9ONU96dWpzMkZqWU54TlNhM3ZmVlYzODV3dkNaRFJSNHVaaVdydEV3bXlzSGt0YXdKRi1LVWhUc2hHdXMyNnNvbDgxbGlROTNa0gHWAUFVX3lxTFB3amJQaFpRaWNBYUJfc2trc3pyTldlNndGa0x3elhMVkw1Rk5pS3VOTzRWZ1lPRmJNWkVlcWFfVV9QZEx3a1h6alJyUUdiek1BbG5SLWY1eHdId084TFhwQnlFWFhpNl8za3ZiSHR5WG5ZbFpGcndJVzM2WHlfQW5Ra1JxS3REVzZMcjR4VzZDekRBNGpPNzkwazJUN3FTTDRxUHhCZmVZd19qOTJVWjJQOGdXUTBOTEJhMktpUHF1Q0dQNnd5RUZuYnBCQmphbmVNMTBmVHc?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget: Best Crypto Exchange in India for 2024 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlBCRmRqb3JSa0E5aV9ROWc5di1SaVdHQXRnUWs1OVZJd0oydjU5WWl2dW82NEhnbXVULW5YSTdnbE1GbnJGQ2dvNWd5MnA5MUV3aS1idEdYS3ZtUVY2a2c5UkNWVks2QjloRFZhTVdVaDJnWGNQMmg5ZEtkNF8yb2JZTWVoYkJibTJ5dDRoZkUzS01JaWhtVHRDckVEbW1aWHJEYVFWcFJrU1RYNXdJSFRTMNIBswFBVV95cUxPTlBCRmRqb3JSa0E5aV9ROWc5di1SaVdHQXRnUWs1OVZJd0oydjU5WWl2dW82NEhnbXVULW5YSTdnbE1GbnJGQ2dvNWd5MnA5MUV3aS1idEdYS3ZtUVY2a2c5UkNWVks2QjloRFZhTVdVaDJnWGNQMmg5ZEtkNF8yb2JZTWVoYkJibTJ5dDRoZkUzS01JaWhtVHRDckVEbW1aWHJEYVFWcFJrU1RYNXdJSFRTMA?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 03:50:45 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Is Bitget Safe? 2026 Crypto Exchange Security Guide - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uTUFLSFhpeDN2VEJNRVVPQmxGVGJxcm1ibzNkWjV3eTdrOE9BLVNHVmlOZDZrSGVteWcwVV90TTVyOEdiUTFlOUx6RmRLODUxTWVLQUZVZXRnX1RhbnJzOVVR0gFiQVVfeXFMT25NQUtIWGl4M3ZUQk1FVU9CbEZUYnFybWJvM2RaNXd5N2s4T0EtU0dWaU5kNmtIZW15ZzBVX3RNNXI4R2JRMWU5THpGZEs4NTFNZUtBRlVldGdfVGFucnM5VVE?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:28:50 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
         "title": "Bitget: Best All-in-One Crypto Exchange in India - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pRXVtTURWb0VUb2h1MGJvUmVYN20wSXZZQVFKQ3lLMnlzLWFlRUtGTlR1SkpRWm56cFlObmIwTDRzNmNCQk5sVnlGY1hJa2ZiZ0RIcFNGNFg4b2Rs0gFiQVVfeXFMTnhlRG00c0o5V0xIN0huRkhGM0pfODFVaFRRR1hMNDVaeXI1OGxVNlQ2Q2prN2lsNEE5eTIxTGs4Ylg2YXpBTlNQU2hOakhhU2NYaVlLWlRyYnpob0RENUJmU2c?oc=5",
         "pub_date": "Tue, 10 Mar 2026 03:48:10 GMT",
@@ -453,9 +517,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Best Crypto Exchange for Indian Investors 2026: YoBit vs Bitget - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQlpYX19uMWRoU09zUTZlbWhxd3dvNE9hZEVDU0N0aGd0OFlzT3YwdFRmOUFOZWxMakZ5VmVqZUdYWmVKMzBvaldOaDlha3RuYmxTZGMta0h6cFY5V0dZRFE2T0FsYjBWeU1kdUgwT1o5QzJaX2RRcmJ3ci1nOXRtdEw5MHdKZlROcWJkdnVUanBORGJGTDQyQjd4ekE3Q1paMUV3TXZBbjRWVUxyb2NSWXZ1Vkt6bXZqYWEyS3YyMVFfZlloQlFB0gHMAUFVX3lxTFBsLVJvaWlkekM5cUkxMTJTTHBjNF93OGxvSEhvbTZoMU81c19UTXNDZU5PUVhUZDhwY3RmUDFlVjhXd3JEREFlbGlTaG9fbkR2Z0VxWVpkYUtEakYyQ01LeG1xUlVnNktRQTZ6emxtdUhxSVFsZEpOMDBKY2pTZVo0WGpQMmlQbDhiLTU5ZzJudUFZMS01VVpQRWRsX2U4YTFzeE5FRWZodHZSVDBQbVJqQnNVemdlQ3p5WC1ZSXJoeUZ6U05RWWt6dUZ6LQ?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 03:47:28 GMT",
+        "title": "Bitget vs Weex 2026: Fees, Security, and Best Exchange Choice - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdzlMZldmNnB5M2VXT1RZSkg1YXdia1E0R1h1ejhaSjNnM0RqOV9ZVDBVOG1NQnhkX0pyUEtqX042c2thSHFSYnJUc1JPOGZzeWJ2WVNmZ1Awb2J5Um41VjZfTTBxR1FZWGE4WU9sNVlLZFdPUTd6Rndib21QVG1tdklQOHFQcWFydDJqQmxxMUlucVZEWVVkVFMzLXdXSkwxS1BGY25XeThhNVFFbUhWZHM1RGowMk1vRFJSUFZCME5PRnlRMi13TEg1QWxYTVhONlZB0gHTAUFVX3lxTE93OUxmV2Y2cHkzZVdPVFlKSDVhd2JrUTRHWHV6OFpKM2czRGo5X1lUMFU4bU1CeGRfSnJQS2pfTjZza2FIcVJiclRzUk84ZnN5YnZZU2ZnUDBvYnlSbjVWNl9NMHFHUVlYYThZT2w1WUtkV09RN3pGd2JvbVBUbW12SVA4cVBxYXJ0MmpCbHExSW5xVkRZVWRUUzMtd1dKTDFLUEZjbld5OGE1UUVtSFZkczVEajAyTW9EUlJQVkIwTk9GeVEyLXdMSDVBbFhNWE42VkE?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:50:16 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -469,9 +533,17 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Best Crypto Exchanges Germany 2026: Compare Bitget, Kraken, Coinbase - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLUc0bF85Z0JCSGZzMHpTcGpONC1OMFdXeThjalBYd1gxOWNMVVVuY2pIb2hSOGVqdzFhWWxPYXdiMHBZOTFQZkc5dVlwNlRzYUdlU2hpS3lxSm5GMDNwMHdqMlRKMk1kSkZWS0JJT21maXBtSXlyTUx5b1NlUEpwZGJqYXd2YVRiaVFvOFJqdTBWdlpXWl91cVV0a29CUzJsemViZ0lja28zQdIBrwFBVV95cUxNY2pMVm15U0lWUFFkM0Q2RTlOajFYRnB3N1FkSUt3T2VSMTZ0NXhDVnBTRG1XUldhMkl4S29hajBRUnZ6S21NVVk2emo5ek94TE9zQjd0eVVPMEhjdG1PU0hZcnhXbHFyQ08xQ1NYTmdvOVd6RmUyWFhMcHJKR0ZBOFhZMTl1ODhYdUZDaFVubHBqUWd3UGhLRTlFWlBRRmQzUFNTNEw2MGE2VTB5UTVj?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:51:19 GMT",
+        "title": "Octopus Energy 2026 Profits, Kraken Tech, Bitget Exchange Guide - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVzc2VVJfNjFoNEdXR0IxQ1pMN0RNX3dERFlZZGhPWTFOWVFGbUhQcm5XZVlwUEg1SzNmc042ZUlBRE5yVlRqNER6NTBuLXVZY1gzTFlfNXYtSm8yUWJzbnBxVlNtNWExOGE2S2licklJNkpxYVhEQzZoVDdZVm9OaTJubWFCR0pIWWJJZGFadHpvY1Z3SkJLRTlMbFFUc1F5MGpJMGVNMlNPZGhpM0RNZDlUTzlzWG03M2Iw0gG7AUFVX3lxTE9XNzZVUl82MWg0R1dHQjFDWkw3RE1fd0REWVlkaE9ZMU5ZUUZtSFBybldlWXBQSDVLM2ZzTjZlSUFETnJWVGo0RHo1MG4tdVljWDNMWV81di1KbzJRYnNucHFWU201YTE4YTZLaWJySUk2SnFhWERDNmhUN1lWb05pMm5tYUJHSkhZYklkYVp0em9jVndKQktFOUxsUVRzUXkwakkwZU0yU09kaGkzRE1kOVRPOXNYbTczYjA?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 04:22:26 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "ApolloX vs Bitget 2026: Best Crypto Exchange Comparison - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeUpKb1J2Y2FtOG5kQ084X2pQb2hMOUc2NEE1MXBMcFh2RlhGSGlJdGd5TTNxamhwRUo4TWhYR2pFUGM5MG1HNlFDdXBuZ1djSFgxMUJFb0NwSmh0bUxrRXIyWFVPQjhiaWN3RjJ1YUl6RXdkTzBSWDkyd2JBcHk2YnR3cTEyWHVFcXQzZkduQ3liU3Z5UHhIWkpEYlRocFlJeUluMERNTGlCckN2ZGx3SUR3Um9hNWhLSDFiUnQySTZrUVQzNnpn0gHMAUFVX3lxTFB2dmQ1SmpsVUh5em1WWkRZUnVCeURJcWxwXzgyako3bTZWa1pVdVZ1VnFRdXZqSmZZcHpjdlF0dEprZ0VRT09RVExTei0ycFZULUNxSGlQNVZqX19fX3BNN1FZM2dGY1RNejlKSW5HemJ5TDZDbGFtZll0SkVxOUxHem5ibV9oT1lqWDJGclB4UXVTejVaWmJLSXhyMWdYWTBKT0NxUEZDbW1NS0doVmxnQURrT1d3OHUyTThONHFUV012eW9HWWdCRlhFUg?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -485,6 +557,22 @@
       },
       {
         "exchange": "Bitget",
+        "title": "Bitget Lists Opinion (OPN) for Spot Trading - GlobeNewswire",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjAtaS1CdEpDTWllSmRzVFNCN0NBd0taRXR5SUo1d0ZKWWdPRzZfV0x5QlROWEg2eXI0eDExbnA3LUN3S0tBbXh6ekkxdVRiUkhMY2R1emV4VnUwQVA0bFlydHJFc3BhTmNjV1hsNm1CLVE5TE9OZmV5UnZDWUFWRUJRRWFjaEF0dnlMWDJNTXQ1Q0NPN1k2LWtLLVVPeDY1Z3BMRXVRdzk3dkZubS1DbHVWOA?oc=5",
+        "pub_date": "Wed, 04 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Best Crypto Exchange UAE 2026: Bitget, Fees, Safety, Regulation - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2lTTVZvSUlDT2dRdHhkalllZTRfTkk3dUY1VnVJeUgtWngxMmFMWUF0VkZyZXl1UW5sdi1HM3QyN1p6bnVZWk9XYUMyaXM3SEVJeVdBQ0dYSmFRelFTSDJlU2R0UWRkZllMUU5EX0NzOXZ1eFNNekZhSXljNEk1WERmMGZ1NE15S3BlZGJ2UDdjaENJc0JIeWF30gGfAUFVX3lxTE9QRWVUdF9BRDlwNjA2VWs4WUd5ZmtHOE5xaG9MdEZsTzVTem9ZYlNLZDNCTE5mRFg1b05wZldkX2VybDQ4TGFDenZ0b3dINmViX0RSQ1lFaGdWSHJadXJXLTR6dUtGbjRJLWlQV1JucGhiNXk4Wnd3dzJrb1MwS1FiYnFRcnhUOElOOEV5UXQxTlZ1ZFlXN0RTN2NNN01zSQ?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 03:59:48 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
         "title": "Bitget Review 2026: Pros, Cons, Fees and Key Features - NFT Plazas",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IYk94eE1DbzhlWm5yTHRVNVZ3d3B5c3o0bzNGVkNaeENBRDVkbi1tOEpBWGhEMUJIakxrbTFOUS1hdU9PVTFGcnNyV2VNbjBNbUdiV21qelE?oc=5",
         "pub_date": "Wed, 04 Mar 2026 08:00:00 GMT",
@@ -493,9 +581,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Limited - Via Ritzau",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVpVVl92bTMzZ2JVUTFkR09zWkFWcXJ5YU9ETnkwSG04NHZjZThXODNIRXQ4VkhlbkI3QnVxYTlaYWY1RHZTNDZRWjhCVlc4VkkxQ1RtRVdkRC13eWVVbDhRdmEzWExqb290TV83cThwZ0pYZHF2c0xqZ1ZpT0dDd1FZTW9sSnp1em5uWmpTV0Y0QQ?oc=5",
-        "pub_date": "Thu, 12 Mar 2026 14:00:00 GMT",
+        "title": "Bitget Bets Big on Universal Exchange (UEX) Model, Combining Crypto, TradFi, and Tokenized Assets - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkJkNEVPeGd0RjBQdUhGdXY4RVgwelpISG9tZlNSVEEzR1B6aGFNOVBScUMzLWFJc2Z5U01BYU5GcjZMZmRrNlltMjBEbTZCeXFlSnpHUTFKdGtzdno4dkdOanYwaVdyWGwycGptWG40ZFJnNVNjWGgxSldNUU5WUUh2MWQyVEk?oc=5",
+        "pub_date": "Thu, 25 Sep 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -509,25 +597,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget debuts GetClaw, a zero-install AI agent built for instant market insights - CryptoRank",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVFdyTGN4dzN5aGIxUWZIRG56OHFMVFFkS29yRzdNVmhISEs1cjlkaEpfcW1uVjBjT0VPSURhMnAxY2lvWFFYeUdBX0JFaEUtWU1XYlpuWEhrSDNuZGRBWi1NcGQ5YXBmLVZlZjNxYnMzTjhIVy1FaEJJcDZRX0Z4RURDeHlBblBlTjRJOVk4Q0Z4cXpHMmg1UXZLM1N6RVZoUUJ0TThUdC1xV25aZXhRa245NnFVckx6?oc=5",
-        "pub_date": "Wed, 11 Mar 2026 21:23:58 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Is Bitget the Safest Global Crypto Exchange in 2026? - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UanFpWXJ1SWxMQU1vVXFhWE5RWmN6eUtZRzJoVi1sckR0T2lPSjYwaFBkUmF3NlZybGEzd01wUFRRWUxQd0JRRlcyd21sNUFQR0ViZzBPVzVFWXU5ZEs0VUp30gFiQVVfeXFMTlRqcWlZcnVJbExBTW9VcWFYTlFaY3p5S1lHMmhWLWxyRHRPaU9KNjBoUGRSYXc2VnJsYTN3TXBQVFFZTFB3QlFGVzJ3bWw1QVBHRWJnME9XNUVZdTlkSzRVSnc?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:30:31 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Lists Opinion (OPN) for Spot Trading - GlobeNewswire",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjAtaS1CdEpDTWllSmRzVFNCN0NBd0taRXR5SUo1d0ZKWWdPRzZfV0x5QlROWEg2eXI0eDExbnA3LUN3S0tBbXh6ekkxdVRiUkhMY2R1emV4VnUwQVA0bFlydHJFc3BhTmNjV1hsNm1CLVE5TE9OZmV5UnZDWUFWRUJRRWFjaEF0dnlMWDJNTXQ1Q0NPN1k2LWtLLVVPeDY1Z3BMRXVRdzk3dkZubS1DbHVWOA?oc=5",
-        "pub_date": "Wed, 04 Mar 2026 08:00:00 GMT",
+        "title": "Bitget Unveils Unified On-Chain Trading Across Four Major Blockchains - FinTech Weekly",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUUJ6WVAwTHBxN19YTFBET01Fejl3azZmN2x4VTNvQ0VwTGMyTzZmSE0xdUpTdG1fcW1KMWNTTm5ZOUMtWGpFdmsyMWlIZGlhUlNZbXJpNUNWTF9xX3R6d05nalFPdVIyYm9yTjFDc01Ia081QVpwamdLem02QmMzbjNXcTY4U3FTSmdyUU53?oc=5",
+        "pub_date": "Wed, 24 Sep 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -541,14 +613,6 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Belarus blocks residents’ access to crypto exchanges Bybit, Bitget, and OKX - dlnews.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNUt1djdpcHV2RmxYdDJGTkJveXBxcmQtdUtwWTZOZzYwN0dMVGZuOXlZNllsS0tFWWhORTFqOTRVQnVPMEhMcURQcEI0MVpySkxONkdoOVREeFpVNHZvM2t4QWI1d2VoWTc2X1dvQXVDNm1JdjcwaVVRWUpMUllqNExwMWxscjhQZFhZMV92OXZiWkk?oc=5",
-        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "Bitget Onchain Expands to 4 Chains with AI Signals - Bitget",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQekFKakoxb1hudERsa3BtOEliY01TOTJ5bmJGaEdxczMyNEotdG9VVTdDSTZFaFgyQ3pVZExpMjIwYTdEZzM3X3dmdHNXbnliWmNKUXczSjZzODl5OFNsY09rVWIzMnVma291YkNWal9CdnY0SWQ2Wm9rdmpkd24xS2ZINDg?oc=5",
         "pub_date": "Tue, 23 Sep 2025 10:58:33 GMT",
@@ -557,17 +621,57 @@
       },
       {
         "exchange": "Bitget",
-        "title": "UK Cryptocurrency 2026: Aban Tether, Bitget, and Exchange Safety Guide - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS0d4OWZxaWZodGxKS3V0a1B4LUdTMFloX0NHUkhqZnhoaFEza3ByM3FJOEd3bmkyaGdhbkczMHZNWUdzNjFCVEFUcTE2R2JZTU1qdkZ4Y2RFOUg2M3d0TE9GR1hkd2hIME8yejN6SVZEYk9reThlMWdGLW04eHNSREVIcW1KUk5WNDhYNTdqeW1oVXJnclNBeXhRVUxlUnFpbFNKM2dfMFfSAa4BQVVfeXFMT1ppOTBCVFh1ZmtWNlNrbjhFQlc5dGxlZ1VzU1FMdkR2aTJDY0t4ZmcyNTRQRE5GX1hjNzdhM2REbXlROThtb3lzb3B1WUoxLWxqVE83UEhwWXFwQnRrWlZpRXhCdXlQLU0wRnI0TVFPZVVPZzFIUFd4aWFvTF9SQ01UNkhiTWhBT1lRaGtCNXUwWUpoVlcwSkI1NXNEU09GbkI5OERnY0tYbXo4b1h3?oc=5",
-        "pub_date": "Wed, 11 Feb 2026 08:00:00 GMT",
-        "sentiment": "negative",
+        "title": "Bitget debuts GetClaw, a zero-install AI agent built for instant market insights - CryptoRank",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVFdyTGN4dzN5aGIxUWZIRG56OHFMVFFkS29yRzdNVmhISEs1cjlkaEpfcW1uVjBjT0VPSURhMnAxY2lvWFFYeUdBX0JFaEUtWU1XYlpuWEhrSDNuZGRBWi1NcGQ5YXBmLVZlZjNxYnMzTjhIVy1FaEJJcDZRX0Z4RURDeHlBblBlTjRJOVk4Q0Z4cXpHMmg1UXZLM1N6RVZoUUJ0TThUdC1xV25aZXhRa245NnFVckx6?oc=5",
+        "pub_date": "Wed, 11 Mar 2026 21:23:58 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Bets Big on Universal Exchange (UEX) Model, Combining Crypto, TradFi, and Tokenized Assets - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkJkNEVPeGd0RjBQdUhGdXY4RVgwelpISG9tZlNSVEEzR1B6aGFNOVBScUMzLWFJc2Z5U01BYU5GcjZMZmRrNlltMjBEbTZCeXFlSnpHUTFKdGtzdno4dkdOanYwaVdyWGwycGptWG40ZFJnNVNjWGgxSldNUU5WUUh2MWQyVEk?oc=5",
-        "pub_date": "Thu, 25 Sep 2025 07:00:00 GMT",
+        "title": "Bitget Opens TradFi Trading to All Users After Record-Breaking Beta Demand - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXlvTXhzb2gtRThkWk5fOWcwSnZrSE5tVmRYeFdmVjBheXZNaTV3Vm9tLWhvbVp5b0VhY0N3VUpEU2NVeXFrTnFUMGxzYmdBVHF2OWRmNV84b1FpU3BBTXo5UVg0REpaUWtKaE1EOHQ4NTk2M1JNWnJhRmlEWC1Gc1g4Qjg?oc=5",
+        "pub_date": "Mon, 05 Jan 2026 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Secures Digital Asset License in Georgia, Running its Global Expansion Strategy in Eastern Europe - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wN1BMZVpkWV9fQ3dBM3VSTng4Yk5wdUtXQ3pOLWZidVdKaEFjS1V0RWRZUC1DU1hVekZ0WmNkWWZiQjVtWEI2ZlRmSTFHNjY4SG9yOVJIWHBTd3hTVDVTekNZaHlEcGFSZy1VVUZoMWl1cnNPUFpNbmJMWQ?oc=5",
+        "pub_date": "Thu, 19 Jun 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Publishes February 2026 Proof of Reserves, Maintaining 169% Total Reserve Ratio - GlobeNewswire",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX1BNTDhkU18yTG9wY3lMVFcxY0JjYTJKaGhUYU9YZjZDdnJoNW5QRDVoMWVMN2hUeVhyNVhhd3hfR1EyYUVYem9haW9BMUhyYWJSdmIwQ3RNWDYteTBWVk5fVnJ2bTRlUU1VOEl5ZjZfZHZSMFNCc3M3VVJCUVc2WU90Q0IzVHNwTS1MbVNSVUZIZ21keDhSTWg4Qm5zdjdTM19sblc1Sk1NQUdjYWR3VUJJS1lQTEtwNmprQTRGSklRZmZxeHBLTm9yVEpsV3lnNENkcDdZaVExZ2JhaHZtUHRpYmNVYnFEUnNURg?oc=5",
+        "pub_date": "Sun, 01 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "How to sell 5. (5.✨) via a crypto wallet - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iTHNidUowMWJ2Umhma3N2QzV1MmhraVRMczRDLURzUkY1blhPMXYycHBFalpvMUdfQnNWeGpYcXM1MnNoUnF1OWZGOUFxTjJ4MHh0S3JPWQ?oc=5",
+        "pub_date": "Fri, 03 Oct 2025 20:06:14 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Becomes First Exchange to Fully Integrate Ethereum Layer-2 Morph Chain - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSFRpOHMweFVwY3VRNUNqUmg2djBYdHU3bHNDME5oTkxfSUpJc1ZzbjlJcV93VEpVdjRYWnVwTGFZMHZnd291VlJfY3l4ZS04eWJfcU5yaVJlNTNuSEhTb1lQTzFrQ04zdFMwZVdHWWtpR3l6ZzFXU04zN0VyY3RTaXc1MzBkQlJD?oc=5",
+        "pub_date": "Wed, 05 Nov 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget: Market Data Deep-Dive - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MZkFWc2dkVUNXRkt5ZktMQXNQSTlpNFJHcjJHd2c1aGxOTGp5QlV2aVFYaDRUZWRHWHN4ZHFoTUF5bHJ6WlUzTHVxdGRlcmFZZjh4Z3BvUkpOaU1hRGxfZGNXWFhxdkVE?oc=5",
+        "pub_date": "Thu, 28 Aug 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -581,50 +685,10 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Unveils Unified On-Chain Trading Across Four Major Blockchains - FinTech Weekly",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUUJ6WVAwTHBxN19YTFBET01Fejl3azZmN2x4VTNvQ0VwTGMyTzZmSE0xdUpTdG1fcW1KMWNTTm5ZOUMtWGpFdmsyMWlIZGlhUlNZbXJpNUNWTF9xX3R6d05nalFPdVIyYm9yTjFDc01Ia081QVpwamdLem02QmMzbjNXcTY4U3FTSmdyUU53?oc=5",
-        "pub_date": "Wed, 24 Sep 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Secures Digital Asset License in Georgia, Running its Global Expansion Strategy in Eastern Europe - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wN1BMZVpkWV9fQ3dBM3VSTng4Yk5wdUtXQ3pOLWZidVdKaEFjS1V0RWRZUC1DU1hVekZ0WmNkWWZiQjVtWEI2ZlRmSTFHNjY4SG9yOVJIWHBTd3hTVDVTekNZaHlEcGFSZy1VVUZoMWl1cnNPUFpNbmJMWQ?oc=5",
-        "pub_date": "Thu, 19 Jun 2025 07:00:00 GMT",
+        "title": "Crypto Exchange Bitget Follows \"Vienna Playbook\" for European Expansion - trendingtopics.eu",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0VneDdGOUFxODFIRV90QktuY212SHhIS08ybUJWcUIyczF1UWFXRF92b3FFbmFQOWZWb0pLYXl2cnZjZmE5SkFzSExHcXpwbkZ6RjhsZzRFZmZOcUdSa1M4cUM3X0lCcTR3YWNzOVZaeTd5bVZKdnV5em9nTXhDNHljWm8taFlrYzFoU090M1VwNzUyV1gydWRiSUNsS0ZzV3c?oc=5",
+        "pub_date": "Sat, 28 Feb 2026 08:00:00 GMT",
         "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Opens TradFi Trading to All Users After Record-Breaking Beta Demand - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXlvTXhzb2gtRThkWk5fOWcwSnZrSE5tVmRYeFdmVjBheXZNaTV3Vm9tLWhvbVp5b0VhY0N3VUpEU2NVeXFrTnFUMGxzYmdBVHF2OWRmNV84b1FpU3BBTXo5UVg0REpaUWtKaE1EOHQ4NTk2M1JNWnJhRmlEWC1Gc1g4Qjg?oc=5",
-        "pub_date": "Mon, 05 Jan 2026 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget: Market Data Deep-Dive - CoinDesk",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MZkFWc2dkVUNXRkt5ZktMQXNQSTlpNFJHcjJHd2c1aGxOTGp5QlV2aVFYaDRUZWRHWHN4ZHFoTUF5bHJ6WlUzTHVxdGRlcmFZZjh4Z3BvUkpOaU1hRGxfZGNXWFhxdkVE?oc=5",
-        "pub_date": "Thu, 28 Aug 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget and Bitget Wallet launch tokenised US stocks and ETFs - Asset Servicing Times",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWE3YUFXek1FaUZxRXFRcXFjLWxKbmVkX3M1RTMzZEg4REk0WHZNTzBtNEZ6NFd2eERqcUt3alJ4YkdUeVpESzVqRGlGSVQ2aklxNGFCTjUwYTM4THZpdkpwYXNQNkI5TzZtOGR6S1JqOFFubFNuM3JTNVhhT09hUG9na0lVV2pjLUR5WXNGdXNfV280?oc=5",
-        "pub_date": "Thu, 04 Sep 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Releases Q3 2025 Transparency Report - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PdmdpY1F4emNNcmptcFl2b2lVVFlzdjlvZmNPa0R4UVBnLTNLa09FOEFaVnZDZ2NKZXdoYkE3QVNDX3ZBalZTZ0FWZ0syMEREZHJfcjhMWEg0Zm4zY0pNV1lURDNudEdROVZ3X3JaejNVODhDSnBCeU85MA?oc=5",
-        "pub_date": "Fri, 10 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -645,41 +709,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "1 | Introduction: The Exchange Trilemma - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblZZa1RSVHBwZzd2REpRMVZ0eWxxa2Vmc1dkM0x2ZVdObXpzdTl6Y29hVkxkOVdjS1hrTGZESlJMQlpSeGZnTzlJUzdobEp1MEJPdkdDU0ZldmNoUkhVRUEwZDZqc1h5SjdBbEJTTmJEcUYwMzV4MmdZS2FvY2FjbTlzdw?oc=5",
-        "pub_date": "Wed, 21 Jan 2026 10:10:51 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Becomes First Exchange to Fully Integrate Ethereum Layer-2 Morph Chain - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSFRpOHMweFVwY3VRNUNqUmg2djBYdHU3bHNDME5oTkxfSUpJc1ZzbjlJcV93VEpVdjRYWnVwTGFZMHZnd291VlJfY3l4ZS04eWJfcU5yaVJlNTNuSEhTb1lQTzFrQ04zdFMwZVdHWWtpR3l6ZzFXU04zN0VyY3RTaXc1MzBkQlJD?oc=5",
-        "pub_date": "Wed, 05 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget COO Vugar Usi Zade to Spotlight Convergence of TradFi and Web3 at London Blockchain Conference - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkp1Q2ZzYkVLVi1xeDB1X29CMXhTSzdmUjlCdlJwQmhVN1ZrS0tuTnNLRXE4ZVVnaGFkUkkzNHVVOE1nQXE2WUoxY09yYUR5cGQtbHJxV05CSzN3WlVBTjlfS3U1V0oxeUZ6bXE1SENIYS1BVGF6bnUxY21ONWRMcG9IT2JKZUVR?oc=5",
-        "pub_date": "Wed, 22 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Launches Recurring Buy for Crypto Investing - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjZFMnhWaGZwcnQtUVZqMVlKemw0ZWhTOHhPcTUyMnNEVmNQenlZdHZqVUdNd3NjRVJ6LTNCRXowbVQ4LWc1UzFZTmw2TnFtdC1HYXlBTVgwd3FIcGxBbG9EU0ZldUZVZ2hBdnhRallPand6T09xc3gxTXlUVmRkMHJOYTBfb2VmLWp6YTlQODE?oc=5",
-        "pub_date": "Thu, 31 Jul 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Lists Infrared (IR) in Innovation Zone - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVmtUeTdFalFnNFhQRFFVWTFNdjNPS2UzZ3JoV1g3U1BpbUpneXdlcWNCMGJmdXU3dHlab0xydzlYTWdBVlp5WDdjRW9hTkM0c0g5ZXRLV1d5Z2o4a05pb1Q5OHBycmZGcGlqMm4xczFVUXR4X3lEeW8ydW43UlE?oc=5",
-        "pub_date": "Wed, 17 Dec 2025 08:00:00 GMT",
+        "title": "Bitget Launches Gold, Forex and Commodities Markets for Crypto Users - GlobeNewswire",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbHhjTXRUNEZ2SUJWYW1rUk1tcWh3bURSN2czUi1UYWhnV2UzekNCY2dqaUJDZzBjclRIREg2TzBBcG1wYXhQeDM3TUlERTZRc0pXLU9BS3llTlhpdWI1dTFnSXFfNEQ5MnE2VEt4Z19NTXVHemI4RkJhbDN4TEpiby1DNkljNU1wMUUwMUlpbmtLU0ZFenh3cTRadi1aOVZGMmhlaGRUQXVGZndoc3JJWWJxZ3FBTjBXTEt6bXp2aS1Kd3JlS3BaRjhzMjJ5VnZzSWlXdnZB?oc=5",
+        "pub_date": "Tue, 16 Dec 2025 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -693,66 +725,26 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Marks New Era of Blockchain4Her with “Lady Forward” - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcDJTX1F4ZFdNZ2VGVTdfSHdZNnhHQ1FJeE1CQnZQem16ZlhxT3JaTzJObFNmbURDYUszbHVpQnpyLXBBY2Y0LXZNYXZ4RkQ0aHBoQXpzN3dUbjNBUVV3c1pvV29sUmpoZjRfOENUcWlPNjBuU2F4S1lzbkdNRTFHdkRB?oc=5",
-        "pub_date": "Thu, 18 Sep 2025 07:00:00 GMT",
+        "title": "Bitget Releases Q3 2025 Transparency Report - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PdmdpY1F4emNNcmptcFl2b2lVVFlzdjlvZmNPa0R4UVBnLTNLa09FOEFaVnZDZ2NKZXdoYkE3QVNDX3ZBalZTZ0FWZ0syMEREZHJfcjhMWEg0Zm4zY0pNV1lURDNudEdROVZ3X3JaejNVODhDSnBCeU85MA?oc=5",
+        "pub_date": "Fri, 10 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Bitget",
-        "title": "Anatomy of a Top-Tier Exchange: A Bitget Market Analysis - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LMVNKVG45d0xnekt0YjdMWWlHV2ZfaHl2RDh4b1MxSm5wT05uYTEtVk9MQ1AxcldWMWVOLWJQYTFSWXA4VkhVS0xBOFBlU1V1RFY1Q3hhNUdtM2lHZVhkTNIBZkFVX3lxTFBMd0RHVlp2a0Vkc24yVHlKUS12c0FhX2Q4M0kwTlhJUVBjX3FzUFhSb0Z1NUU1RW9wbnlNR2JuVkRjVjEtc1ltWTRYb2d4QzVzOTQ4TmlvcFFzSnIzallydlJIYm5FZw?oc=5",
-        "pub_date": "Mon, 08 Sep 2025 07:00:00 GMT",
+        "title": "TradeOgre Review: Is This Crypto Exchange Trustworthy in 2024? - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QLXhRY0FjTGhDUDlQNE4xZWhZMW5tZWlsclNXbElYNzRpRUNKVUpvZnpybllJdG9xWG5IWk5CSUZxU05tZlNLZVYzb2llWmUyS1NjRFdIaW43dnpGeGJWbtIBYEFVX3lxTE9QLXhRY0FjTGhDUDlQNE4xZWhZMW5tZWlsclNXbElYNzRpRUNKVUpvZnpybllJdG9xWG5IWk5CSUZxU05tZlNLZVYzb2llWmUyS1NjRFdIaW43dnpGeGJWbg?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 06:27:25 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Bitget",
-        "title": "Top Crypto Investment Platforms for 2026: Compare Security, Fees, and Features - Analytics Insight",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaDhwd0FUMXRhd3ZXWXVuVXR6T3FDZGpDclE1SGdWVFI5QkJIQmZ3Y2dySWlUZXk5TW0yLUt5RXNBQXVZbDlYS1VHVXdRQUxTdU84TGJyOVFfTDdLVmx4V0NkcGFtQlNqb2VUVzNPT3dNQ0VTNFVKbGh5bWpnUUFrS2QwOU5IODVha0NJcGxOVXlOY0RGa2RzcW5rZ0VKS3BCUW9NUVk3cDN1R2ZwVENyV2VFanNFN0JaZk5zVjR1LTVadDZfUU5HV1NOQzhvTG9FUEF2UG5IdXfSAeYBQVVfeXFMTk91WTZjRFFOU0g3UlpRbVhTVVZibUFLMXFMNFJDb1VUZHRBT2VmS2UzSzZMd1JiUGpCTWhKOU1vMjdMR1UxamxjM0tiZ1FNdzJSUVBvaTlSRWc3QW55YkdZZGZNSmxuLXNFQVNvYXQ3MmE4SG5OQWlEQW5YWGRiTVVTN3VPUHlQX3Y3V1dOTkpZMVI1TkpkZjVKaFNYSFh1dHhSblJsTmVkb3BLSlA1ZXdJVnpEeExHd3RxNmJTeW14X1JpcjdVb0xvQzlzSmM1QndzZGUtWkNuWkFpOG0yZFVVU3R5dUE?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 10:30:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Opens Access to Syrian Crypto Users - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTQWc3QjhHNm5ZVUVid3MxYkYxSU9lRUx5V3pnUHQ5azV5WmhZeFNGVlJhWkdadTFyVFBKWU1RV2xEdUFzWVdFQzV0dTV6Z1YyTEZuNFVzVDFkaDAxTXJGQjd3Nkx4eGM1R2RRenhnOTlWTEpPcUFtdnN6Z0Q?oc=5",
-        "pub_date": "Thu, 12 Jun 2025 07:00:00 GMT",
+        "title": "Turkey Crypto Exchange Regulations 2026: Binance, Bitget, Coinbase Guide - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHQ0dxbU9Ka25TMHo3eUMtcTJVSkZUdC14SFZmbVFfUmxmejJGRnNRMWRKdUhXV2x3RV9VRmV1eW0tdmVWWlI4UVdDb1hUYnYzVGxGY1FiTDZkbjF5WHFvUlhvZW3SAWRBVV95cUxQR0NHcW1PSmtuUzB6N3lDLXEyVUpGVHQteEhWZm1RX1JsZnoyRkZzUTFkSnVIV1dsd0VfVUZldXltLXZlVlpSOFFXQ29YVGJ2M1RsRmNRYkw2ZG4xeVhxb1JYb2Vt?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 11:24:55 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget lists RaveDAO (RAVE) for Spot Trading - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90akJTMUE2WFJaUlB1cUFpb082R2lER3gxUFNOZ1B2Mks2ZDVQNC1leWg5OFJ3U2JjWU5lQ1NJalZUdU5lSnhHOTg2UGZha1VrZUtBa3N4eGxIX1B2eU9SbzBmMUtWamVs?oc=5",
-        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Coinbase Reviews: Trustpilot Ratings & Crypto Exchange Comparisons 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sQjZjSl9nN2w2enRpZDQ1a0dFUW03cnE0Nkd1eXNuUnBGZmwzeDI2RnBkSGdSZWZCZm9QcnNwM0lnREM3aDZMUjl1OHJvdFNnVGR0T2swWWpSTzTSAWBBVV95cUxPUVYwRVNQYnlXOHNiTy12NThkU0xMZC1IbnFRU00zeXVMeDJVVF9JSDFISnFCNVQyZHBwVWxoaXJ3cmhkbnluZ0hoR2J3U2NEeDNSWjQzNkxXcUpqakhOQnQ?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 04:05:43 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bnom & Bitnomad Review 2026: Status & Better Crypto Exchange Alternatives - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SVUhDTHphS1VzQVBQRk82d1RqQVdPT1BCLU1CVTctdHhnZXQtUDNiSnY5Q2VUdHVncHJWM19CVFk1TFNES0JKR3dNa2ctOFBDNkVaOUtfNHp0S1pRT3lpetIBZkFVX3lxTE9tbG1xR3ZaNmRjR3pwSUx0bWVhalVra1R4bG0xTUR1d2dLNF9KeVB4V2EtSk15RWVyYTVXTklSaldVNmZVcVpqSXk5WnFCaTEtYXNlSDFJREtXMjhLYVQ5ajF4dWU5UQ?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 14:09:54 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "2026 Best Crypto Exchange: Bitget vs Robinhood Fees Comparison - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3lLQnVfMVVqSXBSaFN4R2NQeFpTd0NZSks5NUpSMHNvUXN6NENWU1dpOFlrd0E3NzcxVmtTSGJTSHJjVmE0eTM2UkQtYkU5SGpLd3lkUHgzR01ENDhTcDN0YzNtRDlKampPLWdZQ2todWRoeTBjZk1sTV9MWWZFQkNQYUpqdVQzc2h0VkZoTjJielcwRUF5N1FLNVBDczh2TmFWUdIBqgFBVV95cUxPVy1zRjVTb0VSU1VpX09mUVFxaC1ZeVQ1NHBSeW95ODJ0WEVKSVU5S1diMEg2VkliTTlabWJzbS1uc3FnbHRWdEE4VC0xNHE4ZEJXVVdVRWdRRWVUQmhqNGdEc3hlZWFZNTB5WTlpSHZHSTJkeVlDMk1YY0ZsQkN2dTZYTjlMY3lWMEk5UVNBQ1NnQjBmX3FFTnVoTTY5T0V6di0zLTcybEY5UQ?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:22:22 GMT",
-        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -773,17 +765,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Best Low-Fee Crypto Exchanges UK 2026: Bitget vs Binance - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVdEa3l1enkzRFZLYmxBV0VzaUVkYnJLbVlDQlR5eHowTDVXNGRHR0kyOURkOU8yZ3owc2ZuRlFRLWVDRmJRcUo5Q2pUYWd2aFJwS21PMVI3blJhNDNwS1ZfU3dJS3pRVjdfUHR0NFdJTGtKdUNQYTl3cGNkdll6d1p5MmJYSWVnTG13VlFzSTRCRHliNHNGcjRsTmJubV9IZGJNUjNzbzZDZHVKQ0hGSEN6MTFqQdIBuwFBVV95cUxPLTh6Qlo4dUdmMUdVNWZBeEZXTU0xRW5FN25iSmR6QXJucGZtVVRJWGIyYmZ4WktVY1VNdV82bzlGRkstUnNhWmYxMXhyaXhqNDdZY01ud0xOeTFzdkVfY00zNlNZNl9fa0JpQ0c5UldVcU9fMlZ3ZUhkeFh5ajk0akVZSF9CQWxZOV9RRVdMTHk0N1ZtQ0lYbm96TDlnbUM4dGdMZ0d4Q2s0TFRoWHZuZThvaEkwd09GSkVv?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:08:51 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Capybara Nation & Bitget: Top UK Crypto Exchange for $BARA 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQzF6ME91MVh5Slk1VjNTZDd2YWlwYmx5UVZ1QmN2UXVGbG5fdHFVcGxFckdBUDI4M2s5UFJ4dkcxMHNncU5YVXBTd2R1SEJiMi1MbW1YMmJlaXFvY0NqQ0pOQVltZDZteWlUMk05WW50ZnJNMEE1c1JDNWxWSF9DRkVRRmMzbXh1YjNCV0JZWkxzSFBtZzVNRVh2bUppZmVnYlJrbk9zSkZ5dHVDTlZ0UjZlVGIyTU5IM3RTVnhEWUhIR0lV0gHEAUFVX3lxTE5DMXowT3UxWHlKWTVWM1NkN3ZhaXBibHlRVnVCY3ZRdUZsbl90cVVwbEVyR0FQMjgzazlQUnh2RzEwc2dxTlhVcFN3ZHVIQmIyLUxtbVgyYmVpcW9jQ2pDSk5BWW1kNm15aVQyTTlZbnRmck0wQTVzUkM1bFZIX0NGRVFGYzNteHViM0JXQllaTHNIUG1nNU1FWHZtSmlmZWdiUmtuT3NKRnl0dUNOVnRSNmVUYjJNTkgzdFNWeERZSEhHSVU?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:06:27 GMT",
+        "title": "dYdX vs Bitget 2026: Crypto Exchange Fees and Safety Comparison - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUjRVVTlQcjhzS0RxUXU5dU9TNDRzV3pBbEVaUHNDZUlhUUt5ZEh4NVNuM0Q0OHVrbC1Ja1hCeUVkX1FTVlJaR2NIQ0JJVy15U3VTZmdMdEQ2Ukl0VVlKbFZaRXoyQjdJQUJYRHpCVjlEQ1MtT3ZfcGs2Z2NudzB5NzJUdkt3Q0prQ3ZzUi1UVHo4V2FBOTZkTGVpWTFRdVBQUEs1YWVvSlhYMkFaYVRJLTBwN2tibF9GZDBBOEt4dUVDeW9UTkVGXzcxNzBaa29hMzE3TzFzc9IB1wFBVV95cUxQUjRVVTlQcjhzS0RxUXU5dU9TNDRzV3pBbEVaUHNDZUlhUUt5ZEh4NVNuM0Q0OHVrbC1Ja1hCeUVkX1FTVlJaR2NIQ0JJVy15U3VTZmdMdEQ2Ukl0VVlKbFZaRXoyQjdJQUJYRHpCVjlEQ1MtT3ZfcGs2Z2NudzB5NzJUdkt3Q0prQ3ZzUi1UVHo4V2FBOTZkTGVpWTFRdVBQUEs1YWVvSlhYMkFaYVRJLTBwN2tibF9GZDBBOEt4dUVDeW9UTkVGXzcxNzBaa29hMzE3TzFzcw?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:49:34 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -797,56 +781,40 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Coinbase vs Bitget: Crypto Exchange Trends for UK Investors 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeDFaa2gzTkM5eGtIYmE2eXlveVc3RHl4NGs0SmVQZHhTMXNvSU9HOExjaWVNcUdlVUY1eDVCVVRMdXBCa1BjSS1lZkNqMnU0R2pLZmtwYU5mNjBFcXZDVWNBN05kS1YwNy1aNmFTNWxiVjM3U1dBUjZNc1NpRUdESENzU3RqX1NIZHdOdTF6ME9sMHJ1M2VSZXZ5bnpoYWZHa2xERWJFaDJnMC1BYUxOTXdn0gGyAUFVX3lxTE94MVpraDNOQzl4a0hiYTZ5eW95VzdEeXg0azRKZVBkeFMxc29JT0c4TGNpZU1xR2VVRjV4NUJVVEx1cEJrUGNJLWVmQ2oydTRHaktma3BhTmY2MEVxdkNVY0E3TmRLVjA3LVo2YVM1bGJWMzdTV0FSNk1zU2lFR0RIQ3NTdGpfU0hkd051MXowT2wwcnUzZVJldnluemhhZkdrbERFYkVoMmcwLUFhTE5Nd2c?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:19:18 GMT",
+        "title": "Capybara Nation & Bitget: Top UK Crypto Exchange for $BARA 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQzF6ME91MVh5Slk1VjNTZDd2YWlwYmx5UVZ1QmN2UXVGbG5fdHFVcGxFckdBUDI4M2s5UFJ4dkcxMHNncU5YVXBTd2R1SEJiMi1MbW1YMmJlaXFvY0NqQ0pOQVltZDZteWlUMk05WW50ZnJNMEE1c1JDNWxWSF9DRkVRRmMzbXh1YjNCV0JZWkxzSFBtZzVNRVh2bUppZmVnYlJrbk9zSkZ5dHVDTlZ0UjZlVGIyTU5IM3RTVnhEWUhIR0lV0gHEAUFVX3lxTE5DMXowT3UxWHlKWTVWM1NkN3ZhaXBibHlRVnVCY3ZRdUZsbl90cVVwbEVyR0FQMjgzazlQUnh2RzEwc2dxTlhVcFN3ZHVIQmIyLUxtbVgyYmVpcW9jQ2pDSk5BWW1kNm15aVQyTTlZbnRmck0wQTVzUkM1bFZIX0NGRVFGYzNteHViM0JXQllaTHNIUG1nNU1FWHZtSmlmZWdiUmtuT3NKRnl0dUNOVnRSNmVUYjJNTkgzdFNWeERZSEhHSVU?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 04:06:27 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Bitget",
-        "title": "dYdX vs Bitget 2026: Crypto Exchange Fees and Safety Comparison - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUjRVVTlQcjhzS0RxUXU5dU9TNDRzV3pBbEVaUHNDZUlhUUt5ZEh4NVNuM0Q0OHVrbC1Ja1hCeUVkX1FTVlJaR2NIQ0JJVy15U3VTZmdMdEQ2Ukl0VVlKbFZaRXoyQjdJQUJYRHpCVjlEQ1MtT3ZfcGs2Z2NudzB5NzJUdkt3Q0prQ3ZzUi1UVHo4V2FBOTZkTGVpWTFRdVBQUEs1YWVvSlhYMkFaYVRJLTBwN2tibF9GZDBBOEt4dUVDeW9UTkVGXzcxNzBaa29hMzE3TzFzc9IB1wFBVV95cUxQUjRVVTlQcjhzS0RxUXU5dU9TNDRzV3pBbEVaUHNDZUlhUUt5ZEh4NVNuM0Q0OHVrbC1Ja1hCeUVkX1FTVlJaR2NIQ0JJVy15U3VTZmdMdEQ2Ukl0VVlKbFZaRXoyQjdJQUJYRHpCVjlEQ1MtT3ZfcGs2Z2NudzB5NzJUdkt3Q0prQ3ZzUi1UVHo4V2FBOTZkTGVpWTFRdVBQUEs1YWVvSlhYMkFaYVRJLTBwN2tibF9GZDBBOEt4dUVDeW9UTkVGXzcxNzBaa29hMzE3TzFzcw?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:49:34 GMT",
+        "title": "Wise vs Bitget: Best UK Crypto Platform 2026 Comparison - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVBsRllXMElnOW94Qi1TYklYYVVWUmJJdVloc1V5SGNfYS1aWjNWdzVndmxEUExkeU1PR0lSY2sxeVZ3X0w3TG5XZUJkVzJJb1FZdzBDQXB3dEEtenNOajhPclcyNUZ0VkRPaWpQc0JIMm9MN3Jnc2VBclY4OTE0WmxKWGs0NGFmN2FPYUNaYzJWZkhOc3Rra0VWN0dCTkk5LThxY0pNY2h4RlpqT1Z2aUxmRkVDQlRxQ3JxNC1SODcxakpaRXZV0gHHAUFVX3lxTFBpUGxGWVcwSWc5b3hCLVNiSVhhVVZSYkl1WWhzVXlIY19hLVpaM1Z3NWd2bERQTGR5TU9HSVJjazF5VndfTDdMbldlQmRXMklvUVl3MENBcHd0QS16c05qOE9yVzI1RnRWRE9palBzQkgyb0w3cmdzZUFyVjg5MTRabEpYazQ0YWY3YU9hQ1pjMlZmSE5zdGtrRVY3R0JOSTktOHFjSk1jaHhGWmpPVnZpTGZGRUNCVHFDcnE0LVI4NzFqSlpFdlU?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 03:57:33 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Best Crypto Exchange 2026: Bitget vs Bitfinex Comparison - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaE5NQ21JWFlSVEo1bUV1RklOcUFPOVhUZ1pIT2ZHRUVybUtyVXhJaUExRlgzMUpmQ0FqdXdLTkNlOWYyTUZ5RDlNcGVtRVI1VnpmUDBzaTN2Y1NFODlGZ21WSnl6X2hZbC1uNzdVUVRRN2RmckZ3enhfcDd1Z0ZiWUVOQTQ0UWRmWXROWXFmdnFaUzZ6MWJCZ3VNYnR2ZnV4c0HSAaIBQVVfeXFMUGhOTUNtSVhZUlRKNW1FdUZJTnFBTzlYVGdaSE9mR0VFcm1LclV4SWlBMUZYMzFKZkNBanV3S05DZTlmMk1GeUQ5TXBlbUVSNVZ6ZlAwc2kzdmNTRTg5RmdtVkp5el9oWWwtbjc3VVFUUTdkZnJGd3p4X3A3dWdGYllFTkE0NFFkZll0TllxZnZxWlM2ejFiQmd1TWJ0dmZ1eHNB?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 04:11:18 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget vs Kraken 2026: Best Crypto Exchange for UK & Global Users - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTi1SZmxDSnVlcGZKMGI1WnQ4S1doNzdyUUxCTHdOb20xZnZ3UUpUejJGelUtVTVJa3dNR1pXNVB5V1lINnlPV2NkVVNqbTdsdVhZUUdPS0tnOHB3eFI0bkg4akpubTRZVE5VR2p5WkN4NTRUdTQtMzlzSy03c0dQdGlnMjJwbzVtUEY5dmtyN0kwbjRFTnNrTmtVU2tNc09QRWxVaFVteG5LVVF3MmMyWDc1NThRSnZaZnlxUGpVU3rSAcABQVVfeXFMTk4tUmZsQ0p1ZXBmSjBiNVp0OEtXaDc3clFMQkx3Tm9tMWZ2d1FKVHoyRnpVLVU1SWt3TUdaVzVQeVdZSDZ5T1djZFVTam03bHVYWVFHT0tLZzhwd3hSNG5IOGpKbm00WVROVUdqeVpDeDU0VHU0LTM5c0stN3NHUHRpZzIycG81bVBGOXZrcjdJMG40RU5za05rVVNrTXNPUEVsVWhVbXhuS1VRdzJjMlg3NTU4UUp2WmZ5cVBqVVN6?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:13:07 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "UK Crypto Exchange Safety Guide: Bitget vs Coinbase 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYlBDMHh1cHRaM1VQcWVyTVpUVE1FTlVOX1pmSU5RSmdtMk1oMlZxQ2FPWHY0b2pQTFdYSG50S2lnZGRfMG1YSnAyeUtIYlR3akZJdm10X0hPQWp0ZlJKdXRoNE1LMGxBa250REluX2tfSFdaS3dfcUxRSWtxNE5UcUdDR0Ixbml0eTJGNVhNVHZSUjdBYW1CdFp1dDZSUHAydm5FUVN5RFZJU1JaaXJHTmtrZkFCMmZZR0FrN3ZuU2p2ck1YWlBuMkpn0gHKAUFVX3lxTFBiUEMweHVwdFozVVBxZXJNWlRUTUVOVU5fWmZJTlFKZ20yTWgyVnFDYU9YdjRvalBMV1hIbnRLaWdkZF8wbVhKcDJ5S0hiVHdqRkl2bXRfSE9BanRmUkp1dGg0TUswbEFrbnRESW5fa19IV1pLd19xTFFJa3E0TlRxR0NHQjFuaXR5MkY1WE1UdlJSN0FhbUJ0WnV0NlJQcDJ2bkVRU3lEVklTUlppckdOa2tmQUIyZllHQWs3dm5TanZyTVhaUG4ySmc?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 03:58:08 GMT",
-        "sentiment": "negative",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Best Crypto Exchanges UK 2026: Bitget vs Changelly Guide - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcmVraV9JTmNweUlkaWZJNEpfMVZydjlTUXllaDJXQlJqWFRwdzBmd3pNb2NWeWpQZl8yMlVDUzEwdk1hdzZ6NXlrRXNVUTF4amFLTzJsRXgyNDI5b2toU1ZjNmdTYXU1N0NQS1MxVjFNSEU2Y1g3bEFnYVdnaWFsZFM4RGxRMjVseGpUQi1lU2x1RGlCUS1mdkxoVmtMNXhxUVdIRjRId0hTQzZKN3RGWUtvTkVUeEp5SjRRamh30gG-AUFVX3lxTFByZWtpX0lOY3B5SWRpZkk0Sl8xVnJ2OVNReWVoMldCUmpYVHB3MGZ3ek1vY1Z5alBmXzIyVUNTMTB2TWF3Nno1eWtFc1VRMXhqYUtPMmxFeDI0Mjlva2hTVmM2Z1NhdTU3Q1BLUzFWMU1IRTZjWDdsQWdhV2dpYWxkUzhEbFEyNWx4alRCLWVTbHVEaUJRLWZ2TGhWa0w1eHFRV0hGNEh3SFNDNko3dEZZS29ORVR4SnlKNFFqaHc?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:22:05 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget vs Margex: Best Secure Crypto Exchange for US 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3NZUE9lMXEwakl4V3B5bWgwWFlGWjVlV3Q2WnZDVlFQc01mWC1vZDVvdzFLZC1jaS1tV0QwQ2V2LVZVbmw3ckl4UXV2QlJfZnAzcjVaLVVoZElwSllmMGtheXo5Ym9iWVJnYjhkaWJDQ3prcHVFNTNuaTNHLVMyNUNLOTJweDIzajJhX0RyQ1owWHNEWFZMZFppV0hzUVUzUTJQTlN5RXB6cTFPZlFiLWlHdkk5b1hlcTk5YmtBSXF6dnlJLVIw0gHHAUFVX3lxTE9Pc1lQT2UxcTBqSXhXcHltaDBYWUZaNWVXdDZadkNWUVBzTWZYLW9kNW93MUtkLWNpLW1XRDBDZXYtVlVubDdySXhRdXZCUl9mcDNyNVotVWhkSXBKWWYwa2F5ejlib2JZUmdiOGRpYkNDemtwdUU1M25pM0ctUzI1Q0s5MnB4MjNqMmFfRHJDWjBYc0RYVkxkWmlXSHNRVTNRMlBOU3lFcHpxMU9mUWItaUd2STlvWGVxOTlia0FJcXp2eUktUjA?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:31:55 GMT",
-        "sentiment": "positive",
         "source": "rss"
       },
       {
         "exchange": "Bitget",
         "title": "Bitget Review 2026: America’s Top Low-Fee Crypto Exchange - Bitget",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLU9XZXQzTE9uLVphcTdsNXlpSTg4M1l6bmVGM1p6b1JOMjBDRUoxUVhINzd1R3kyUHc0LU50cTI4RXhVWXVaU3c0d2FIM0N2czBlczZZTW9DaFBlUHhTUGxIZUhSZWw0c0NBbHE3MTc2NXFKSk1KcWpPZ2F0a195T3pWY0xLWFRWejVTU0JUTkdvYnNyM2UwT3B2Tkk4REl0MzctS1hFcW5qYlpXemfSAa4BQVVfeXFMTy1PV2V0M0xPbi1aYXE3bDV5aUk4ODNZem5lRjNaem9STjIwQ0VKMVFYSDc3dUd5MlB3NC1OdHEyOEV4VVl1WlN3NHdhSDNDdnMwZXM2WU1vQ2hQZVB4U1BsSGVIUmVsNHNDQWxxNzE3NjVxSkpNSnFqT2dhdGtfeU96VmNMS1hUVno1U1NCVE5Hb2JzcjNlME9wdk5JOERJdDM3LUtYRXFuamJaV3pn?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget SAFU Explained: Top Crypto Exchange Security 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkU5T09PUDhvYlZrY2xSMFgyTzY4eDFtNHlCY3YyeUZueEwyeG5XWkNuOG1RN3VxT2N2UWhxWlZaOU43LU9jQTZNbzIzUVBvbkhraWZwdWtZbGdqMmVVZHctY3A4R0ZvVENhd1EwSlA5aVRKMEZmTFUyd2NPck9LaUtHWXVPamZZTUpUOWp4S0l5RTNGQUFHNmhzYld0WXdsRFl5OTJR0gGmAUFVX3lxTE9KRTlPT09QOG9iVmtjbFIwWDJPNjh4MW00eUJjdjJ5Rm54TDJ4bldaQ244bVE3dXFPY3ZRaHFaVlo5TjctT2NBNk1vMjNRUG9uSGtpZnB1a1lsZ2oyZVVkdy1jcDhHRm9UQ2F3UTBKUDlpVEowRmZMVTJ3Y09yT0tpS0dZdU9qZllNSlQ5anhLSXlFM0ZBQUc2aHNiV3RZd2xEWXk5MlE?oc=5",
         "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
@@ -861,25 +829,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget SAFU Explained: Top Crypto Exchange Security 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkU5T09PUDhvYlZrY2xSMFgyTzY4eDFtNHlCY3YyeUZueEwyeG5XWkNuOG1RN3VxT2N2UWhxWlZaOU43LU9jQTZNbzIzUVBvbkhraWZwdWtZbGdqMmVVZHctY3A4R0ZvVENhd1EwSlA5aVRKMEZmTFUyd2NPck9LaUtHWXVPamZZTUpUOWp4S0l5RTNGQUFHNmhzYld0WXdsRFl5OTJR0gGmAUFVX3lxTE9KRTlPT09QOG9iVmtjbFIwWDJPNjh4MW00eUJjdjJ5Rm54TDJ4bldaQ244bVE3dXFPY3ZRaHFaVlo5TjctT2NBNk1vMjNRUG9uSGtpZnB1a1lsZ2oyZVVkdy1jcDhHRm9UQ2F3UTBKUDlpVEowRmZMVTJ3Y09yT0tpS0dZdU9qZllNSlQ5anhLSXlFM0ZBQUc2aHNiV3RZd2xEWXk5MlE?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget: America’s Leading All-in-One Crypto Exchange - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xemVoNFNxYzdIVmQ3NXY5UWxIWS10UGhDUkZVbzVqQmdJcEtxUjl4TzdGTDhHYzlYaEpVOUZTSmhkbjE4OEFYT1RaeW00NXZ0Z2wzXzlybUlvaTJmbUHSAV5BVV95cUxPMXplaDRTcWM3SFZkNzV2OVFsSFktdFBoQ1JGVW81akJnSXBLcVI5eE83Rkw4R2M5WGhKVTlGU0poZG4xODhBWE9UWnltNDV2dGdsM185cm1Jb2kyZm1B?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:24:39 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Best Crypto Exchange India 2026: Bitget vs Koinswap vs Binance - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYVVCek1hQXJlMC03anFkLTNHS3N0UWdnZU03YmFuWU5sbkNGbXZDbFJWUFhHNExlbkJSdjU4YUtUY3FIN3c5Z3M1MjZDSUNkbWQ0WkM1czZNT09lQWFQZVlrM2hZZ2xaUnhuY1ZkUndJUlJhVjA2czYtbzNPQzE5MHc5WHFJTmk5Nmx0SmQ2OVdWci0yV0FSbjhzS0drMk96ZFBoNFd1N2VLeUxXYWZweVJyaS03eHfSAbcBQVVfeXFMTmFVQnpNYUFyZTAtN2pxZC0zR0tzdFFnZ2VNN2JhbllObG5DRm12Q2xSVlBYRzRMZW5CUnY1OGFLVGNxSDd3OWdzNTI2Q0lDZG1kNFpDNXM2TU9PZUFhUGVZazNoWWdsWlJ4bmNWZFJ3SVJSYVYwNnM2LW8zT0MxOTB3OVhxSU5pOTZsdEpkNjlXVnItMldBUm44c0tHazJPemRQaDRXdTdlS3lMV2FmcHlScmktN3h3?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 03:51:08 GMT",
+        "title": "Best Crypto Exchange USA 2026: Bitget, Coinbase, Fees, Safety - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDFmRHZSSS1UWm0tYk5RZm9uUkJ5Rmt0V0w0aXNsRFZVZXljYnQ2cGZ1TTFrR0JRSXlHYWFtVTZuSnFpdmZhM0JZd0FJSWZOTVBGYUU1X3lJcXhWY2E5X0xsMzg1VDBkYy0xeDhTRTlrdE9fMUdvN2o2ck5GOEFBaXJVTk9nS0Z0RmFkQ29oT01nWU41ODJSUVpSWWJkeGFnaDdGMHlvWEh3ZmtscVcxODVlTW9GdjAwZTNqNkdfWE7SAcABQVVfeXFMT1QxZkR2UkktVFptLWJOUWZvblJCeUZrdFdMNGlzbERWVWV5Y2J0NnBmdU0xa0dCUUl5R2FhbVU2bkpxaXZmYTNCWXdBSUlmTk1QRmFFNV95SXF4VmNhOV9MbDM4NVQwZGMtMXg4U0U5a3RPXzFHbzdqNnJORjhBQWlyVU5PZ0tGdEZhZENvaE9NZ1lONTgyUlFaUlliZHhhZ2g3RjB5b1hId2ZrbHFXMTg1ZU1vRnYwMGUzajZHX1hO?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:20:48 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -901,22 +853,6 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bittrex vs. Bitget 2026: Crypto Exchange Comparison - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3ROTmpxNXJZNlFzRHhFWFkxMnltZkdvLW4yc0hGazJPZHA5M3VFaUs3V0tQTUtkVTRZRVNCMUJYMXhTWDZzb0c5b0N4RnBycnp2VjlTLUpsel82bkVILXl1X1JtTHBoVk5jdEYtQnJwUE1FM1BfcTU2Q2hCekZBZE9VTUF1TXgtX1J3UGZOM3pja0dEblhsbUszeTI0emRoOWhYX3l3NS1yeUQ4SENCONIBtgFBVV95cUxQMFlzb1daUnFyS2Y2X1RUUGpPemNCSElTWFltWV9BMzlrQzIzR010d1VJaDgxMXEzOV9CbzBDNzRMQjhoaDRjNGttSzFyV2NxV0hQV3gzQTFiUUhJUEFreGhEMjFYZkRsaVd6c25yS1dIYW82TXZreEJURmVXcnpzR3BxRDVFWjZrOEhYeXpyWkJJM1VWRVN4cEZZNFAzd2lUeGVYc09MRzBHMmphWk9nVHctcEVfdw?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:23:58 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Best Crypto Exchange USA 2026: Bitget, Coinbase, Fees, Safety - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDFmRHZSSS1UWm0tYk5RZm9uUkJ5Rmt0V0w0aXNsRFZVZXljYnQ2cGZ1TTFrR0JRSXlHYWFtVTZuSnFpdmZhM0JZd0FJSWZOTVBGYUU1X3lJcXhWY2E5X0xsMzg1VDBkYy0xeDhTRTlrdE9fMUdvN2o2ck5GOEFBaXJVTk9nS0Z0RmFkQ29oT01nWU41ODJSUVpSWWJkeGFnaDdGMHlvWEh3ZmtscVcxODVlTW9GdjAwZTNqNkdfWE7SAcABQVVfeXFMT1QxZkR2UkktVFptLWJOUWZvblJCeUZrdFdMNGlzbERWVWV5Y2J0NnBmdU0xa0dCUUl5R2FhbVU2bkpxaXZmYTNCWXdBSUlmTk1QRmFFNV95SXF4VmNhOV9MbDM4NVQwZGMtMXg4U0U5a3RPXzFHbzdqNnJORjhBQWlyVU5PZ0tGdEZhZENvaE9NZ1lONTgyUlFaUlliZHhhZ2g3RjB5b1hId2ZrbHFXMTg1ZU1vRnYwMGUzajZHX1hO?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:20:48 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "Best Cryptocurrency Exchanges in USA 2026: Bitget vs Coinbase - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSVk1cnBDbk82MldDV2ZRV3A3d1ppUy1PXzNUZ1oySnA1TDVpUnpWcGNwdTByYW5pMWFpRml5M2FTdjJadHFYc3B1d0l3cXJSaVVZbGc3NXJ3Xy010gFiQVVfeXFMTnZMcnB3MTlKMXdkeGdvdFNhbjJsbmUwbUpPM3ZrS0pVcEc0cEF5WnhjWFF1Tm1ibFktUDRKcklzaWxoeGNGVnEwX01tQ0ltOHY2WW1aUkVFT2VLMHFwaXVZZVE?oc=5",
         "pub_date": "Tue, 03 Mar 2026 10:24:48 GMT",
@@ -925,25 +861,17 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Best Crypto Exchanges UK 2026: Bitget vs Coinsquare Compared - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oQmJSMFM5QjYzODJVZ0dYNG9LVG5TMGhrYVJpSVJKc0dXZno0dXBKaGI2bkNhNTN4SEVkQzRHY0llRzhGWnF3NWcwaDZOcDlnYXBYQ1BKRGZxeGMydWfSAV5BVV95cUxOaEJiUjBTOUI2MzgyVWdHWDRvS1RuUzBoa2FSaUlSSnNHV2Z6NHVwSmhiNm5DYTUzeEhFZEM0R2NJZUc4RlpxdzVnMGg2TnA5Z2FwWENQSkRmcXhjMnVn?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:00:45 GMT",
+        "title": "Best Crypto Exchange for UK Traders 2026: Bitget vs Binance & More - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wZzVUenZqU3dqNkxRbmpoSnBNTlh6TEhmeG1xQWlVRDlXTlhrY0drUGY5U0xMbkdHeHFIdGY5R3lLOWF1bEwtRjNKeVNMVGxrMnoyRmlWZ3RtSXpCYlHSAV5BVV95cUxNMGc1VHp2alN3ajZMUW5qaEpwTU5YekxIZnhtcUFpVUQ5V05Ya2NHa1BmOVNMTG5HR3hxSHRmOUd5SzlhdWxMLUYzSnlTTFRsazJ6MkZpVmd0bUl6QmJR?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 04:09:53 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
       {
         "exchange": "Bitget",
         "title": "XT.com vs Bitget: Best Crypto Exchange Review 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KRzVvakc0YnlJQXE5azdETVl2ZUw3RWpHajJKQ01UUktkRWhzSTFSanFLVWEwSHkzaGhLYVdGRFlKVDJVWU0wNnpjaFFCZlU3YnVzUmM0ZENTUy120gFiQVVfeXFMT0JmdUNtaUdTOTg2YTgwV0tJbkRmM1lLS1hfWkhfdF9JV0x5WDEzT0F4akhkcDVnRlZBbkV4b0Zmc2RqQS16MkFSZU44UVgzbmNEZU12SVR5UTV5M0djY0E5Q0E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxcnpYT08tVXA4OXh2YV9BekhfaEwxcFhEWndSZ3BLYUpuQkZwWW9rSngzVmtpZEpvWFlGU0YwZUpSN0dHWEFXUVBWQzlJTTFiaVF3TTNMcElKYVlLYkHSAV5BVV95cUxQcXJ6WE9PLVVwODl4dmFfQXpIX2hMMXBYRFp3UmdwS2FKbkJGcFlva0p4M1ZraWRKb1hZRlNGMGVKUjdHR1hBV1FQVkM5SU0xYmlRd00zTHBJSmFZS2JB?oc=5",
         "pub_date": "Tue, 03 Mar 2026 10:26:49 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Best Crypto Exchange for UK Traders 2026: Bitget vs Binance & More - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wZzVUenZqU3dqNkxRbmpoSnBNTlh6TEhmeG1xQWlVRDlXTlhrY0drUGY5U0xMbkdHeHFIdGY5R3lLOWF1bEwtRjNKeVNMVGxrMnoyRmlWZ3RtSXpCYlHSAV5BVV95cUxNMGc1VHp2alN3ajZMUW5qaEpwTU5YekxIZnhtcUFpVUQ5V05Ya2NHa1BmOVNMTG5HR3hxSHRmOUd5SzlhdWxMLUYzSnlTTFRsazJ6MkZpVmd0bUl6QmJR?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:09:53 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -965,17 +893,17 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Best Crypto Exchanges in India 2026: Bitget vs Binance & More - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aakZCRDZ5bnllSkF5MXplVzJUazRORGczdTUybHhQc3EtLUMxYTl5NktWLVdaTGRBWEp3ZDY1clZKQnNpakJtU2JPeWdGT1dpMzFGYVBmX3JmdnBF0gFiQVVfeXFMTXcycEMtSlpsVVd3OGdCR0tOLUhNQVY2emNxY19rcGNwNVhFUGNMWnA3OGJIRlBsMFJ6cUktbHpNUDk0a0U1d1VZZURYblpiRUw3QmlaS3JQR29JYXZrT2RKZFE?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 03:47:09 GMT",
-        "sentiment": "positive",
+        "title": "Bitget: America’s Top All-in-One Crypto Exchange 2024 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yQWxHRFBZZnJRMFhiSUJBR1Z4bW1CcG9Sa2JVRzc2TzRkN3BaUEFnNGYxMFJoal9ZdlNfSENMUkJmM0pJYzVfRV9ScjBHekY4dm9lZkY1NGJNelBP0gFiQVVfeXFMTUFiWXNRYlRDdjh0N2ZtdjQ2cS1IOFY0eWgtMGZxcEtqcmt1WDJxNHdoVzQyTC1laDM2NjhhOWVmZTJpNmU5eFlaeGl4emNQVGxHMnBNUVBhZVlkMzAxSlQyS0E?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Bitget",
-        "title": "Kraken vs Bitget: Best UK Crypto Exchange 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVnEwRkdRNmc0aDJoNHFhRUhJXzhKYjZTOXcxWXJLa0psekZuNVpXdVByVGhrSTFJa2tWSkl2aUpkQjJDbFZPRFpaeUlvcmE2X3NBR1FpNzhLaElKdVdlRV9fXzV1QTVSS0FJMWlIUHMwTEVseDdFaTJ4bzNmV0tLME8zZFdWbm9vQVF5a2JsUEVYeF9HclpzdzZHRHF0OFdiM1VtMVVURGlrY05BMUM1T1p30gGyAUFVX3lxTFBWcTBGR1E2ZzRoMmg0cWFFSElfOEpiNlM5dzFZcktrSmx6Rm41Wld1UHJUaGtJMUlra1ZKSXZpSmRCMkNsVk9EWlp5SW9yYTZfc0FHUWk3OEtoSUp1V2VFX19fNXVBNVJLQUkxaUhQczBMRWx4N0VpMnhvM2ZXS0swTzNkV1Zub29BUXlrYmxQRVh4X0dyWnN3NkdEcXQ4V2IzVW0xVVREaWtjTkExQzVPWnc?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:01:49 GMT",
+        "title": "Best Crypto Exchanges in India 2026: Bitget vs Binance & More - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aakZCRDZ5bnllSkF5MXplVzJUazRORGczdTUybHhQc3EtLUMxYTl5NktWLVdaTGRBWEp3ZDY1clZKQnNpakJtU2JPeWdGT1dpMzFGYVBmX3JmdnBF0gFiQVVfeXFMTXcycEMtSlpsVVd3OGdCR0tOLUhNQVY2emNxY19rcGNwNVhFUGNMWnA3OGJIRlBsMFJ6cUktbHpNUDk0a0U1d1VZZURYblpiRUw3QmlaS3JQR29JYXZrT2RKZFE?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 03:47:09 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -989,25 +917,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Kraken vs Bitget UK Fees: Which Crypto Exchange Is Best? - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLU5jV19KOGZWT3dnLWVkZzZTeEdXTS1EQjVNNGdLblJYQWxxZ0hLWDhERjFTenlES1pJY0ozS2QwY0Qza0F3ZEZSZFltSkx6bFltZ0NPZlNCc0ZuMUs3T0dJZ3RKLXlqcmNJQXVmUVVyV0pPaE53eWdvODE1QVFYajZ5eUlyNGk1cHRSc0QyQTlHNjJCNFJkU1oyV296QWQzQWJRdlduSWpUalNYSUI3NzVMdTRjRHYzemFF0gG7AUFVX3lxTE0tTmNXX0o4ZlZPd2ctZWRnNlN4R1dNLURCNU00Z0tuUlhBbHFnSEtYOERGMVN6eURLWkljSjNLZDBjRDNrQXdkRlJkWW1KTHpsWW1nQ09mU0JzRm4xSzdPR0lndEoteWpyY0lBdWZRVXJXSk9oTnd5Z284MTVBUVhqNnl5SXI0aTVwdFJzRDJBOUc2MkI0UmRTWjJXb3pBZDNBYlF2V25JalRqU1hJQjc3NUx1NGNEdjN6YUU?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:09:10 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "Bitget vs Coincasso: Best Crypto Exchange Guide 2026 - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMkRZS3JDNkJyalZEaW9aQXpfdjNYcGM0Y0E5NEpuNHJyQklmSHFEdTdVQ3VoT1FtVUtYbFozaGVTeVNsVUw3TWhlMmJyVFFJZXlpTFJlRHQ1XzNrMVFSZDdXSjByZzhhUm8tRzRLVVdIT3JLc3lQb1gwSFVWdndvVERHVVdGZEk4QVNNTWFuQ0JKNHUxMUN1S1VZOHl4M1hwNDlub1dYbV9SNEtDWkhnUDBPeXl4MTZDU25GVXdZQkNxWndvRS1wN2tn0gHKAUFVX3lxTFAyRFlLckM2QnJqVkRpb1pBel92M1hwYzRjQTk0Sm40cnJCSWZIcUR1N1VDdWhPUW1VS1hsWjNoZVN5U2xVTDdNaGUyYnJUUUlleWlMUmVEdDVfM2sxUVJkN1dKMHJnOGFSby1HNEtVV0hPcktzeVBvWDBIVVZ2d29UREdVV0ZkSThBU01NYW5DQko0dTExQ3VLVVk4eXgzWHA0OW5vV1htX1I0S0NaSGdQME95eXgxNkNTbkZVd1lCQ3Fad29FLXA3a2c?oc=5",
         "pub_date": "Tue, 03 Mar 2026 10:34:14 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Best Crypto Exchanges for Indian Traders 2026: Bitget vs Kraken - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZW9NX21Oc0tkd0xNdDBLdmZ1dDZ6SDNKazJ0aFRSZEZYWW5wMHdaektubmpZZWFmQWdrM25TSExEdXRNeUw2MVRmbWZjeG9TaG05UWhxZ0hsa0dpbzB2OS16MV81bGc5SFZPQVNkdEJCd0UxRVZPb1BNRmlZUTcySDBfYnlVM3czaDFTQU8yYUNyVkYybTRPN2x6TklWZF9tRjU3MGk2SENnUzB5ejlNWmo5T3hvU0dQNkx1T3lMWTAwZ2I1b2tRVEhkaExtaTg1dUZN0gHTAUFVX3lxTE5lb01fbU5zS2R3TE10MEt2ZnV0NnpIM0prMnRoVFJkRlhZbnAwd1p6S25ualllYWZBZ2szblNITER1dE15TDYxVGZtZmN4b1NobTlRaHFnSGxrR2lvMHY5LXoxXzVsZzlIVk9BU2R0QkJ3RTFFVk9vUE1GaVlRNzJIMF9ieVUzdzNoMVNBTzJhQ3JWRjJtNE83bHpOSVZkX21GNTcwaTZIQ2dTMHl6OU1aajlPeG9TR1A2THVPeUxZMDBnYjVva1FUSGRoTG1pODV1Rk0?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 03:47:43 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -1021,14 +933,6 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Gemini vs Bitget: Best Crypto Exchanges 2026 India Guide - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTXZBN2wxZ05PSmFiaWkwWkdNNkJhTkVCQVNEbUhteFdlOW9Bbm95Z2xHdS1nZlRBaTFIVTkyV2lVall0UUxjU3lBbjkxWTVHZlJfRXVNVzRnbVlRMUhaS29HZk02S1ZiRGc3QUF1TXR6WDljaW0zSjdlSlV0MGRrQ2pDN3piUEdxRV8xamQwQU5ab3BUZkIxUTRxLWdrbHNoeUV6Y2RvSXVEaU5BMEFoUEtUN0lOUzVCaHQwanBxRDJUbmk5OVVGZdIByAFBVV95cUxOTXZBN2wxZ05PSmFiaWkwWkdNNkJhTkVCQVNEbUhteFdlOW9Bbm95Z2xHdS1nZlRBaTFIVTkyV2lVall0UUxjU3lBbjkxWTVHZlJfRXVNVzRnbVlRMUhaS29HZk02S1ZiRGc3QUF1TXR6WDljaW0zSjdlSlV0MGRrQ2pDN3piUEdxRV8xamQwQU5ab3BUZkIxUTRxLWdrbHNoeUV6Y2RvSXVEaU5BMEFoUEtUN0lOUzVCaHQwanBxRDJUbmk5OVVGZQ?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 03:46:42 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "Best Crypto Exchanges 2026: Bitget, CoinTrader Pro & Top Platforms - Bitget",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSlo5VWktb1VhVDJXQ2NMZFhGQ1pERkd6OFhTSlYxcHBiUW5KZDd0X1BQeUc4d2RkTU82UFI0Qkd4QjJidU15Z2RMallCTVlpaWZhWUg1OU1hWGJOak8xQ1NGY29pQlZzWlVCTjk1TjJFRDZ5cVpkMkVlX09pTnZ2ZUtlaXJFa2VkMDlfVG5JeHYwb2dWMDFLM3JVN0U4bkRPUDZNWEdFV0F4dV94S3B3R21oNFFXdWZNTHBVatIBvAFBVV95cUxPSlo5VWktb1VhVDJXQ2NMZFhGQ1pERkd6OFhTSlYxcHBiUW5KZDd0X1BQeUc4d2RkTU82UFI0Qkd4QjJidU15Z2RMallCTVlpaWZhWUg1OU1hWGJOak8xQ1NGY29pQlZzWlVCTjk1TjJFRDZ5cVpkMkVlX09pTnZ2ZUtlaXJFa2VkMDlfVG5JeHYwb2dWMDFLM3JVN0U4bkRPUDZNWEdFV0F4dV94S3B3R21oNFFXdWZNTHBVag?oc=5",
         "pub_date": "Tue, 03 Mar 2026 10:20:46 GMT",
@@ -1037,9 +941,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget vs Coinbase vs Binance.US: Best US Crypto Exchange 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2MFBjR3NTaGd1dWJ3MURDRVFPeXBZUnQ0TFZrSmpPamFjVFNKTE5yQV85Q2NIVjV5YmdpTjgybVVaVko1ZzFXS21ndnJtcEFQVGxRQjRuU2NrblBR0gFiQVVfeXFMTjM5aUN6OUg1X3o0SzVpZm16MDNTeDM0WFdNSk5RSlMxcGk5SDh2eEdSVmx3Y2Rsa0ZnU0dTeXVxd2pka195d2dQTU50c3czZFQ4VHNudm5zUFlYWTUwSDQtOXc?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:29:57 GMT",
+        "title": "Gemini vs Bitget: Best Crypto Exchanges 2026 India Guide - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTXZBN2wxZ05PSmFiaWkwWkdNNkJhTkVCQVNEbUhteFdlOW9Bbm95Z2xHdS1nZlRBaTFIVTkyV2lVall0UUxjU3lBbjkxWTVHZlJfRXVNVzRnbVlRMUhaS29HZk02S1ZiRGc3QUF1TXR6WDljaW0zSjdlSlV0MGRrQ2pDN3piUEdxRV8xamQwQU5ab3BUZkIxUTRxLWdrbHNoeUV6Y2RvSXVEaU5BMEFoUEtUN0lOUzVCaHQwanBxRDJUbmk5OVVGZdIByAFBVV95cUxOTXZBN2wxZ05PSmFiaWkwWkdNNkJhTkVCQVNEbUhteFdlOW9Bbm95Z2xHdS1nZlRBaTFIVTkyV2lVall0UUxjU3lBbjkxWTVHZlJfRXVNVzRnbVlRMUhaS29HZk02S1ZiRGc3QUF1TXR6WDljaW0zSjdlSlV0MGRrQ2pDN3piUEdxRV8xamQwQU5ab3BUZkIxUTRxLWdrbHNoeUV6Y2RvSXVEaU5BMEFoUEtUN0lOUzVCaHQwanBxRDJUbmk5OVVGZQ?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 03:46:42 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -1048,6 +952,54 @@
         "title": "Top Crypto Exchanges in America 2026: Bitget, WhiteBIT, Coinbase - Bitget",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFdyeXZIVUNyRG9DTjZEVXJIU2FiVVlUcUNUZmQxN2lwaUJfY1VVSW5kQXJhWWVPSFFrZWxpaWdhQWFEcFJSZHQwOTJ0YkczeUdRVkwteWRpejJUQngzRXFVUUxZcGhEVzJ3TU1WTVhHb1FUNjNPYzZreEI2SG8zcEg3eEJ0bzZ4em5HbHMxSkFKRXU3dWttdFRvdEtITlBNSmp0YzBqVXpVLW5Ka3FwMk43dUpnMUdDNmhReU84NNIBxAFBVV95cUxNQ0RqVWVzVW9UN1JPOWhnWGx5Yk9VVlpVMjRxYzhYdFRKUjhrbjFpOTBDTDhxYlp5XzVPN2tkbGxFT1JEOWFJd1pWRm9NSXhSNWY3RDBFdWFqU0xYNFB2RkllV2NKeFlVNXYwWTl4RFlkYmdtTko1bW80clJPdG5KNGVuYm80US1lcnRkeFhYc05uTmpZaE5JdVFldEttVXY2eUk4RjJIdHBQNE9lRXB0VmVmR0dROWxUWEdxaV9ZUHNZdUZu?oc=5",
         "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget vs Margex: Best Secure Crypto Exchange for US 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb1VzSG1aRWZnREtkZklCYkQ2dUZnX2pCaEI2WG5PR2kzZnJ6QlpXWVFFanIzaGxjWHltYk5HRzJUZDB5eFlXRlFlX3lsbXVndTRPNEJaODhFRjRDeEg4N2lLOFRhT2JnR1Zvd3NmdVJCb3dDSkxIRUN2VlF2dWktLUhiSFQtb2VZQmt3TUc1dVhqN090ejFPWmxsRDdsVHJnN01MLXY3ajN5MlBrVnotMnItSmNaa085SXRUangyYmZzUdIBxwFBVV95cUxPT3NZUE9lMXEwakl4V3B5bWgwWFlGWjVlV3Q2WnZDVlFQc01mWC1vZDVvdzFLZC1jaS1tV0QwQ2V2LVZVbmw3ckl4UXV2QlJfZnAzcjVaLVVoZElwSllmMGtheXo5Ym9iWVJnYjhkaWJDQ3prcHVFNTNuaTNHLVMyNUNLOTJweDIzajJhX0RyQ1owWHNEWFZMZFppV0hzUVUzUTJQTlN5RXB6cTFPZlFiLWlHdkk5b1hlcTk5YmtBSXF6dnlJLVIw?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Best Crypto Exchange in Mexico 2026: YoBit vs Bitget - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMDRVRGdRaHo4bDVSYjFsS1JLWkpScFVtRUNJaWtMVmRZbTBkbzJPLVlIZF9KalNTaFhvNDRSOG1OZ3ZNcHBIV3VTb1V2OFdZdGZHZUJoRjZrNm1zWGxCZEtrR3dLb3JDVDNGRzRIYTZfM2t6Z3UtYnB0akRBdm9odG9zTUNDV3FzaFBReUhxOVp5S1pnSXFyWFRXVkhWVHJGY3U1MFZNbzFHVkQ0Mk9rVTdCczU2OTd6RW0teVBkaFhDaXVzSXpiVkNRWUc3eF9ZZlZjQURCWWpadDdiN1HSAd4BQVVfeXFMTzA0VURnUWh6OGw1UmIxbEtSS1pKUnBVbUVDSWlrTFZkWW0wZG8yTy1ZSGRfSmpTU2hYbzQ0UjhtTmd2TXBwSFd1U29VdjhXWXRmR2VCaEY2azZtc1hsQmRLa0d3S29yQ1QzRkc0SGE2XzNremd1LWJwdGpEQXZvaHRvc01DQ1dxc2hQUXlIcTlaeUtaZ0lxclhUV1ZIVlRyRmN1NTBWTW8xR1ZENDJPa1U3QnM1Njk3ekVtLXlQZGhYQ2l1c0l6YlZDUVlHN3hfWWZWY0FEQllqWnQ3YjdR?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 04:00:15 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Arkham and Bitget: Crypto Exchange Transparency and Tracking 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YM2NMVnpIY0I0ZHRZTU85R3hHVFZlV3E3amFPakdvM1ZsOGdFZFVHdXBfV2F0LVBTQ19DNlZtX1QtNUEwVkdiVTlhbUY3ZGJSLUpCSXNtdzdLNm550gFiQVVfeXFMTXA2djR3WFY2c2JHRHpkZzA2ZmpxemVwS0tuTzFFNV83X2Jna0RnMG9VV2I1b1B0ZlJsam5yRXUyVWJnekQtdktRS2xNSlRIU1Vuc0I1MHB4ZkRaWnNxV0wxSGc?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Crypto Guide 2026: Safe Trading, Wallets & Fees USA - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUVRSE1JaEdZX09pLVJId0FBUWNyc1poUnpGX0h5MXE3d2QyM1VGT05aZ0lORlprM2JqOEJ2enhfck5zT0Jyd3cwT1VsbElXR2FDWXVKcjVnekhLeElIXzNDM0VrMzA4WkFjSWs4TnpBZF9qZWZIcnBRQUFfakRsdTFNZFNxLUxzZG5mTWF3UXlpVkFRYjZJNWlsZTBEbTgwQzRXazdVZWYzUHFHVGk2T1lZMNIBuAFBVV95cUxQeHdWcHZoWDZrUVgxMTc5bjFXbDhRV3FTODdBdi1qZmFscl9WVkZwTWN4ZG12eExWaWdyaXZFSVVwRFl6VjFHMVNSN1FWSnlwVmt5dVN1cFBXWks2Y1V6NmY2UXZ3WngwZ3FoZ2QzRFpDT2RJbEhmRDJQWF8wcE1EbEhpZ3k5dG9KM1g1T3RxODg5YWlEaFZ4bWNRVXY1Y2gzNjdSNGhnM1BCMVBqczRaaW1QenRFTGhX?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Mercatox vs. Bitget: Best US Crypto Exchanges Compared 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEYzdGRWUVV6MllKb2RVS2UzSThRSGo4b1ZwUGwtc2RQTG9wZTNCRVpYQWx6aXBtaE92Z1E2d3ZuMENGYktVUjd2QTByaEZzTVNhTWZUZFZtSnItbFNiaXlvck4wWGJFRDhqY3Y4bHgxUmtuMER1M3NFZnZmN3Eyb1pZSXozV0Q4YVlXbXVEY0ZDNjRmVDh1MHl3MkVCLXlEdFpTTkxzLWZoX25oMmhfb3cxSG53Z3Zr0gG4AUFVX3lxTE9MRjN0ZFZRVXoyWUpvZFVLZTNJOFFIajhvVnBQbC1zZFBMb3BlM0JFWlhBbHppcG1oT3ZnUTZ3dm4wQ0ZiS1VSN3ZBMHJoRnNNU2FNZlRkVm1Kci1sU2JpeW9yTjBYYkVEOGpjdjhseDFSa24wRHUzc0VmdmY3cTJvWllJejNXRDhhWVdtdURjRkM2NGZUOHUweXcyRUIteUR0WlNOTHMtZmhfbmgyaF9vdzFIbndndms?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:34:42 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Payward Ltd (Kraken) vs Bitget: UK Crypto Exchange Comparison 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXVfTjQ1WjQxMXhoajRRM3R4XzFmRUsyZVdCcnRWTTYzS2c3OURBYlFUdTNsXzNVQkw5N0FIZWJtS3N3TmNNelhXd1dEZ1UyWFZTNTlaY1pjT1g4QllsNW1iWmVsaVRJU0ZTVEJJT2VXR2NnNXd4Y3otOWdMQzNTTmZYakNYQkhKbWdxWFdhZXhTQTA5Y1pUUUdYMVdYUE5jckFzTkJUdDZYUmFnRU51UktIaTlfOGp4cHdydzhxSTZKSzFObktR0gHHAUFVX3lxTE05dV9ONDVaNDExeGhqNFEzdHhfMWZFSzJlV0JydFZNNjNLZzc5REFiUVR1M2xfM1VCTDk3QUhlYm1Lc3dOY016WFd3V0RnVTJYVlM1OVpjWmNPWDhCWWw1bWJaZWxpVElTRlNUQklPZVdHY2c1d3hjei05Z0xDM1NOZlhqQ1hCSEptZ3FYV2FleFNBMDljWlRRR1gxV1hQTmNyQXNOQlR0NlhSYWdFTnVSS0hpOV84anhwd3J3OHFJNkpLMU5uS1E?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 04:01:32 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1165,14 +1117,6 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Tokenized stocks face hurdles as SEC keeps ETFs dominant - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56bmpfdmlva1dVN0hfTF92OWVZdmhBZDlQZnpfY181dDR1enZiQ25iYWxOaTlqZTdxc3ZkVk9HS1FLcEw4X01mc2h0UVZCeVlGcGwyX0l3NnNlT3ZRbHfSAWNBVV95cUxNZnVuWXdlclBhNzVUbFV1N2NmT2I5VVRJSW13eFRJMXFzWngyYWVDOGZhcmtvbktEV2pFdVNPbDFBMl9RSnRKRE5oS3NraWdnSVlPd3RfT09vaElqRko0Sl9zenM?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 14:09:31 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "NYSE/Nasdaq Tokenization: An Examination of the Transition from Conventional Finance - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SQmZfa1p5UTkwTm5HTVNYdS1qTUF6Vmx6NUdDWUE1TzRtMWczZlRNaTZZMzNoQkQzemJ3dzNHR3Z0VFZaMEpFeVZPSFdjNmJ5bmhLdV9HZEY4clA0dXfSAWNBVV95cUxQc2ZyUFRBaVpBNUZFUzhldU5acGdCQ1IzUzR2RjRKLXY5bEtOT3otWk14RFJxaVJITGhyY2R0LXBOdjFJMjdzNm5iYXlYUkZLYjFubS16WnRfSndrdExvSlkzUWc?oc=5",
         "pub_date": "Sun, 08 Mar 2026 20:51:55 GMT",
@@ -1201,6 +1145,22 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1E3SVNpR3lOTV81WG1HM24xdUdXQ3MwYUxEczk0YmxyVEZXaEFpa184YV82NXJtM2s5NE1yYk9NRzdkUldUX2ZkaEUwZnhkcV9oalZsQ2p0VW9Da2RjSm1nQTFtakQ5QTRpOXpFSnFfdldDUXNfM3JEV0lHYlp1UnlrOE8xcDN3RDRB0gGQAUFVX3lxTFAzbVZVZ0szcWltM1h3aWw4bU9EXzNPV2lUMng4ZEZuWm1yUUpvN2JVOThTSlVJWWlSQV9USVRvYVVrcWlqazZHYmZMU3dJZ2hKOXRvSnJtcVoxRDhPdmUtTTAwMHhBSC1ZS3JHVnBqZEZxM1doTDZRVUV6WmctUWs5dEFCZFE4UzRrQllRb2g0Rw?oc=5",
         "pub_date": "Fri, 30 Jan 2026 08:00:00 GMT",
         "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Tokenized stocks face hurdles as SEC keeps ETFs dominant - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56bmpfdmlva1dVN0hfTF92OWVZdmhBZDlQZnpfY181dDR1enZiQ25iYWxOaTlqZTdxc3ZkVk9HS1FLcEw4X01mc2h0UVZCeVlGcGwyX0l3NnNlT3ZRbHfSAWNBVV95cUxNZnVuWXdlclBhNzVUbFV1N2NmT2I5VVRJSW13eFRJMXFzWngyYWVDOGZhcmtvbktEV2pFdVNPbDFBMl9RSnRKRE5oS3NraWdnSVlPd3RfT09vaElqRko0Sl9zenM?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 14:09:31 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "US regulators say banks won't face extra capital charges on tokenized securities - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiTzVjckJPTFdsWXZaeWQwUElPalZmVXY5VVY4c2lsZjVtTE56Mm9hcGZleUZzeVNiLU5XMnVPVUhLZGNlb3NjcVE1bnBlSWV5dllKeURnSEpBX1hPYmfSAWNBVV95cUxQRUprM1ZWWG12RGp4djZSSDZZVXRPczBxVmg4ZW5QeWVRUVRSc2YzVkU4ZE1iZDZfS19PejhzSno5UG1xdFAzUVE4WldzZnBKUXlUY3RvbG5EX3BTai0wYjl4WVU?oc=5",
+        "pub_date": "Thu, 05 Mar 2026 05:06:49 GMT",
+        "sentiment": "negative",
         "source": "rss"
       },
       {
@@ -1293,14 +1253,6 @@
       },
       {
         "exchange": "Bitget",
-        "title": "How to Trade Tesla Tokens in India Safely 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVHJ6SjZkQkJPMlk0a1l1dEZacXlFLU1oYk5UQnFvV28wNlFmNmphRzEwYkVKd1F1V1RNX3QzcXMtdlY0eTNUakRUZkxXNWxLa2RxXzdsUkl6NGRwcjFfOTZLMi1XZEIzZWFXZ0NTenhyTzNYVVNQYWxfeE83U3B6Z2xOZ2FaY0xVa0JCdVhENWg2Uk9LMzVjU3JDVExvYVRhMHhCM2YxSjhZRW1aRmh2RjdUNFFUSm81b21VODhPV1FRRnhLN3fSAcYBQVVfeXFMUFRyeko2ZEJCTzJZNGtZdXRGWnF5RS1NaGJOVEJxb1dvMDZRZjZqYUcxMGJFSndRdVdUTV90M3FzLXZWNHkzVGpEVGZMVzVsS2tkcV83bFJJejRkcHIxXzk2SzItV2RCM2VhV2dDU3p4ck8zWFVTUGFsX3hPN1NwemdsTmdhWmNMVWtCQnVYRDVoNlJPSzM1Y1NyQ1RMb2FUYTB4QjNmMUo4WUVtWkZodkY3VDRRVEpvNW9tVTg4T1dRUUZ4Szd3?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 03:48:56 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "NYSE wants to go 24/7: Big board plans blockchain venue for tokenized stocks - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vcDN3Yml2YXktYVR4TmE0VHR4RGpWVXNqN1pqWXlUQTJWckYzU0JjZWlheHdoSDY3bFZ3UzUtT0pzdlY4NVBOZ3pkV1R1VklHVUkzWmVNdkdZa1Jod2fSAWNBVV95cUxOSGtYWUxEbGNwamN3Q1o4TmZjMmVpZTJPck80ZHVtQW5pSFpHR1pzZFg0QVNtNS1Vem5vY3JDcVJDNU83Y2swTWNYUDBlY0ZPYUlZbmtibVhVSW5wUmRRMUVaS0U?oc=5",
         "pub_date": "Mon, 19 Jan 2026 08:00:00 GMT",
@@ -1333,17 +1285,17 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Best Investment Platforms 2026: Bitget vs Coinbase vs Binance - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yUzlQcEJJNmJTN1F5NnN3aHJROVk0V2s5Z3QwY0xJdmkyM1NLdTAxLUJmN2paZzBhc2ZnY3RxeUFRcXg3NmJiSlQ0dG9NdEtUbGg0c3RIRjBmbzIx0gFiQVVfeXFMTnZWVXlkZXZzbGF4M1NfcXZDNWQ3MW9aS2xKRk9sYjQ5QXBvRkZwZnlRQklXdnBQU1QwZDN6Z0NUY0Nwb3lVaFNXbEFkZElUTE5td0hJWlR5ejVBb3o2cjZ5bXc?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:23:59 GMT",
-        "sentiment": "positive",
+        "title": "New York Stock Exchange Unveils Platform for Trading Tokenized Shares and ETFs - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00aFNmeEVXalY2dXcyMXY3RUJOMHRLTHBDMWNJMktmTnprZ2ppM3VRVGcwZFFmQVpvSmlWVDVaT1g3dlZNRUFzMmdLUW0tbGcyRVlaMVFUTm13d3ZnckHSAWNBVV95cUxNVWVkTWE5dXZqaGE3T1hYNVJEZDhqNFpUdFRnbDh1OXRNWUdsZ19ybkpoZ1pQbG5QbkdubFE0UWJJLWJIdGthMWpxSkpDUmdfdzZwYzJSdGJUUFE5VkwwUUFoVlU?oc=5",
+        "pub_date": "Mon, 19 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Bitget",
-        "title": "New York Stock Exchange Unveils Platform for Trading Tokenized Shares and ETFs - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00aFNmeEVXalY2dXcyMXY3RUJOMHRLTHBDMWNJMktmTnprZ2ppM3VRVGcwZFFmQVpvSmlWVDVaT1g3dlZNRUFzMmdLUW0tbGcyRVlaMVFUTm13d3ZnckHSAWNBVV95cUxNVWVkTWE5dXZqaGE3T1hYNVJEZDhqNFpUdFRnbDh1OXRNWUdsZ19ybkpoZ1pQbG5QbkdubFE0UWJJLWJIdGthMWpxSkpDUmdfdzZwYzJSdGJUUFE5VkwwUUFoVlU?oc=5",
-        "pub_date": "Mon, 19 Jan 2026 08:00:00 GMT",
+        "title": "Bitget xtocks Review: Tokenized Stocks & Crypto Trading 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObEM0c0FEZGpxYV9hZjhiQUZSVzdwc0J1ODctUVkzMjBfZ0VxV2VJNVU4NFhQRTZraHdLaWQzZzkxLVhaUEh2MUxyX1RYM2tQSGoxTnU0ZXNwN01GRWNPVmxvTVBseUFpRjZJSC1fOVl1eXZPcmtXUGt5MWlBUXpWSXZWR0ppeFdDVXRUTVROZ3ZsVTNnT016bmlETC1OWEM1ZUxPZmlVcVVNYkgzclV0cTR1QTljQkx3Z3gxb2lmdUNnZ9IBxwFBVV95cUxQNFd2THFpTFJuNmlOeko1OGtxOUxJUmFjOENxOXh3X1libU5EaTFiZ1BKNUpCSE82akEtM0lMTUdlc0FsTmZxaDNoNmVTN3FFcjBYVUhoNE1CVXlUZHBmcXpTcXB0WVVsYTdYcXJ0b3JsMC1FenpZay13d1hlb2d4N3d5M1E5TXhUZWEyaG5VYlhWbjA3WXhFUGdyU0t4UWtPTjYyekxGOW1uMHZiRzlFWExiSi1TWUIwOEJqcXdZdVhMTFhKV01R?oc=5",
+        "pub_date": "Tue, 10 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1357,6 +1309,14 @@
       },
       {
         "exchange": "Bitget",
+        "title": "Best Investment Platforms 2026: Stocks & Crypto Guide - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42SzdLQmJQMFVTSTJESmtOQzlDX0dsamtwLWdsUDZ1ZkpFcGlmSUhud2VjeGd2dlBqT1VaaHNycEE0ZE9aWWZpZ3RDakxuMjk4TzlEdGk2SS1GV2xUdlN2UjRR0gFiQVVfeXFMTjZLN0tCYlAwVVNJMkRKa05DOUNfR2xqa3AtZ2xQNnVmSkVwaWZJSG53ZWN4Z3Z2UGpPVVpoc3JwQTRkT1pZZmlndENqTG4yOThPOUR0aTZJLUZXbFR2U3ZSNFE?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:21:51 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
         "title": "Best Platforms for Toke Stock Analysis 2026 - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWpnbE9BcEdGQUdzY0Z6eXplWG01azVDSlg2ZTJvTk9fTHJqOERfNVRnNnF6elFOT0cxTjhCbUVrTEhVZWVwbHJxRnM3NW50VFJEc054cU42LW4ySVNfVUFxaVBDMDFhRGFZMWZWQzRuR1czcXozclhzUFRUb0NHZDluT2xNODkyYzY1ZGxsVU13SnZFM0Rod1JoREtta2N5ZE40MWJ3N28weDDSAbABQVVfeXFMT2h6aDJTV3R5TzZ5dkNxd3BMRU1tSExISlp4S1lYbEp5SFBoblkxWDBrX1FqTzhZV2dJUF9MVkd3ajVBR2pMeFJReWs1MENCUHlNdFkzclN6OXVTem16bHJ1TkNMUW0zcVBUYlJVbS11ZUUyZ3pWLVFva2tYQ1RSTjZva2F6NE5vamtjWTJVOTZjTklVS1gwUE05ekwxM0JnYWNSUVluZTh6ZklHQm1tN04?oc=5",
         "pub_date": "Tue, 10 Feb 2026 08:00:00 GMT",
@@ -1365,25 +1325,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget xtocks Review: Tokenized Stocks & Crypto Trading 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObEM0c0FEZGpxYV9hZjhiQUZSVzdwc0J1ODctUVkzMjBfZ0VxV2VJNVU4NFhQRTZraHdLaWQzZzkxLVhaUEh2MUxyX1RYM2tQSGoxTnU0ZXNwN01GRWNPVmxvTVBseUFpRjZJSC1fOVl1eXZPcmtXUGt5MWlBUXpWSXZWR0ppeFdDVXRUTVROZ3ZsVTNnT016bmlETC1OWEM1ZUxPZmlVcVVNYkgzclV0cTR1QTljQkx3Z3gxb2lmdUNnZ9IBxwFBVV95cUxQNFd2THFpTFJuNmlOeko1OGtxOUxJUmFjOENxOXh3X1libU5EaTFiZ1BKNUpCSE82akEtM0lMTUdlc0FsTmZxaDNoNmVTN3FFcjBYVUhoNE1CVXlUZHBmcXpTcXB0WVVsYTdYcXJ0b3JsMC1FenpZay13d1hlb2d4N3d5M1E5TXhUZWEyaG5VYlhWbjA3WXhFUGdyU0t4UWtPTjYyekxGOW1uMHZiRzlFWExiSi1TWUIwOEJqcXdZdVhMTFhKV01R?oc=5",
-        "pub_date": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "MetaMask Opens Access to Trading Tokenized Stocks and ETFs - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVc0lIeDlGUl80dXZuVEg1TEJBNXBWcHFKWVlxdFZ0cVB1Nml3d0lrYXNBSTcySmFINEhYS0ZsWnMyc2N5S3hWM29oOXJ5STZNYnE5Z0VRV3FIZjZpNEHSAWNBVV95cUxOV2luX2xUQ1FMX00tZnZSaGRkOWVWNDk1SXItSEpHaWw0a043REtPdHQ2LWpaRUJWZ0pFdTRyTndPZVJJeWVtMFg3dFJ0MHVuRkpOY1pRdmtRME5qbEZaOHo2bjA?oc=5",
         "pub_date": "Thu, 05 Feb 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "UK Digital Finance 2026: Bitget vs Kraken vs Coinbase - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04RmxHclBpV2lYeHNBekEwckQ4aGNPODFfOHdaMzFpcjdNZnlrbVBTc1l1dTBtOTFDWThrVWhvY3d1S196dE1ZQTRhWXMxdk1hNUJvamZON2pTX3Fv0gFiQVVfeXFMTWl0VGdtb2VlX21CZ2JCV1BXd1RBd05BRHpuaEoxdmM5THlnS1dkdzlhSXhISnRpbF9ydks5Sjl5SVgyNmstVFBTcmhDcF9CT3ZkRGlNX193WncxVnc3Skt0Ymc?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 04:17:09 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1408,14 +1352,6 @@
         "title": "DTCC Receives SEC Green Light to Tokenize Stocks and Bonds - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80SDlYZmlLZXNjM2huMFBqU2JtNEJWelBHeTZZbjY0WC02bE45ajhNOEVudW42UVJ4RnI0cWlteC1WcVlsa0hKc1ZuZVRJSjZ4b2ZQQWNkVkxIb3lLLWfSAWNBVV95cUxPNE5Vckpob285dkF5VUszUWxteXJsbU1CNS1Dd3lod3JTdk1wQjJJZWd1bUpEWjlWcFZndnJOZVdHZEMtdFNtSlkzZjZtaktlODZpd2FlVWJYM2ZwSFU3aDdNUkU?oc=5",
         "pub_date": "Fri, 12 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Solana becomes second-largest chain for tokenized stocks - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xd3NnSlAyTGpaa3B3ZkVUTVFla3RkdjVjbHJWQkJwVlRlWHdvYjNaUFZRSFBJa05uS19Vcjc0ZFVYb18teG0xNGJCUmtfenZRZENtYlc5Z0N0bTRQeFE?oc=5",
-        "pub_date": "Mon, 08 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1453,6 +1389,14 @@
       },
       {
         "exchange": "Bitget",
+        "title": "Nasdaq executive: Tokenized stock plan is being actively advanced, with SEC approval listed as the top priority - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kSnFkX2Q1UThGQWQ5eVRtWE9jb19USkp0SlUwN0lYWFV6M2xxREN3cjJmQTNjUkhsNWF4bUgtOFhEV1JDVUxVRUdPMFF1RG84Tm5saEcyZUlLQVc5OWfSAWNBVV95cUxNWjV0RXhTWEQzeXh1dEh5Z0RKQzNISWNTMUdMeDJfYklZWjVrVTJ6RTliWENGV2J0RTdxSXJ0cE05SU1CcGFYb01qNDV3VjdPanJCQ29qR3hQOVRiZ09UV3B4R0U?oc=5",
+        "pub_date": "Sat, 29 Nov 2025 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
         "title": "Morning Minute: NYSE Embraces Around-the-Clock Onchain Tokenized Trading - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZV3VZaG04TjNMYnN1M2NaMmJ4ZXcteWhORUtWNHd0NzFINWtVak5zNVdIWk5WWkVMeWJDMFhmYVpnQWp1TEE4RzVnREs1eVk1UVNpX1h4QUFpVjFkbkHSAWNBVV95cUxNNjZ1VEE5MWpnZ2czaGtmbkRkUnM2bnZYUERKY0RpZ2pTRE42aERpaGtIejdpRG91OUNDbzdvNjRHV1loY2pYODV5czhTSzE3Yi1wYy03bXFIZmk5Ml9veGVmZjg?oc=5",
         "pub_date": "Tue, 20 Jan 2026 08:00:00 GMT",
@@ -1469,18 +1413,18 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Exchanges Call on SEC: Deny Exemptions to Maintain Fairness in the Market - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXNmpDdXR2ZHU4ci1qS0tjTzVhMm1DNmVPODVEZFNWVVRaWDV6bnpuWFdEZ0w2YTRLZ3p6SzNZVTRfZDZ2N250MjM1Q0pfdHdFR3dxMWpBX3BCYmpSNGfSAWNBVV95cUxPRldvRG42Qy01bWNSRmpDbVNkWHlqQUozN3FPbnA0Vm0wRzM2Ty1BQnBUZ2MwazJvZHlSSFdPeGtxS01IZlc2MlRoNkhOemR1OW1ZRjdFOWdWZmFFdUlRQTUxUUE?oc=5",
-        "pub_date": "Sun, 30 Nov 2025 08:00:00 GMT",
+        "title": "UK Digital Finance 2026: Bitget vs Kraken vs Coinbase - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZQ05mbFJvbHNuWkZtcUxVYmxXNnlsTS1UWmJncFJfRWQ3Yy1vWFp4ZS12YlBQS0QtN1pQcFRmWW9uaG8yNzhaZkh3UjJvVlhPYjVXOGlFUnpzUTNH0gFiQVVfeXFMUElHODN3LWNUQ053YlFISzltNTJSQVlqTEkwaUFFcmVhQ3lrZ2ZTNTFTSW85UmZiWEI1TjdhSGthaGszSVQ4YUd6R0pvRnVaZW03dmo0bzlMbE5lLXA4QWM5Z0E?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 04:17:09 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Bitget",
-        "title": "Nasdaq executive: Tokenized stock plan is being actively advanced, with SEC approval listed as the top priority - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kSnFkX2Q1UThGQWQ5eVRtWE9jb19USkp0SlUwN0lYWFV6M2xxREN3cjJmQTNjUkhsNWF4bUgtOFhEV1JDVUxVRUdPMFF1RG84Tm5saEcyZUlLQVc5OWfSAWNBVV95cUxNWjV0RXhTWEQzeXh1dEh5Z0RKQzNISWNTMUdMeDJfYklZWjVrVTJ6RTliWENGV2J0RTdxSXJ0cE05SU1CcGFYb01qNDV3VjdPanJCQ29qR3hQOVRiZ09UV3B4R0U?oc=5",
-        "pub_date": "Sat, 29 Nov 2025 08:00:00 GMT",
-        "sentiment": "positive",
+        "title": "Exchanges Call on SEC: Deny Exemptions to Maintain Fairness in the Market - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXNmpDdXR2ZHU4ci1qS0tjTzVhMm1DNmVPODVEZFNWVVRaWDV6bnpuWFdEZ0w2YTRLZ3p6SzNZVTRfZDZ2N250MjM1Q0pfdHdFR3dxMWpBX3BCYmpSNGfSAWNBVV95cUxPRldvRG42Qy01bWNSRmpDbVNkWHlqQUozN3FPbnA0Vm0wRzM2Ty1BQnBUZ2MwazJvZHlSSFdPeGtxS01IZlc2MlRoNkhOemR1OW1ZRjdFOWdWZmFFdUlRQTUxUUE?oc=5",
+        "pub_date": "Sun, 30 Nov 2025 08:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -1517,14 +1461,6 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Reports Surge in Tokenized Equity Trading - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mMDZtTy1tTmhiZFRDN0VMV0FvVVV3ZEZhbVZqZkRPdlNNS1hrcW0taER4MmttV1Fod0dzV3JIMUFpYmkzV01Yb3hYb2VVOV9aMXdrckpXM0t6SmtGRjNuRTRUTl9RQWRNSmlob3Foank4dy00bmc?oc=5",
-        "pub_date": "Tue, 09 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "Bitget Report: Analysis of the Earnings Season Surge: Unpacking Immense Growth in Tokenized US Stock Demand - Bitget",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDc5MzZKV1E2c1hsT1V0ZGlNaG0xbUt0SC15Zm8zeEpRS05zaXhFNm1uM2tlV3lCSjRPb0NMaDJkdFNKUEVOY0FPTEJ0SmExSy1PWVVzTjlqdHo4bVlTOXJFR0RpdlczeFd4dWI1QTNOZ3AyRDhDOVJWSnZLeHF2SWxGeVBGcWk4Z0lXWUN3?oc=5",
         "pub_date": "Mon, 08 Dec 2025 08:00:00 GMT",
@@ -1533,9 +1469,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "US SEC allows DTCC to custody and recognize tokenized stocks and other RWA assets on the blockchain - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5maWt6WkYtY1lEOGtTR2RhM3ZvSUJCRF80UEJZMW5tM2VCYml0elpvd1dvOC1tdm50Vy1odW1fZmtzcFNmYWF0eUVVcGFfWlVFcURYQk9iSERtNldsLUHSAWNBVV95cUxQZllNWWdNanlfbVBjUHp6ZkdxclJhbW1QWEJlMGp2eEZRel9ZdGpCamM0S0pnRjF0LS1ENFhZbnNjdkdWMTRzUG5VeHhESVZ3TmpXQUQ0UnhPN0F2WUc0Uno3M2c?oc=5",
-        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "title": "Bitget Reports Surge in Tokenized Equity Trading - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mMDZtTy1tTmhiZFRDN0VMV0FvVVV3ZEZhbVZqZkRPdlNNS1hrcW0taER4MmttV1Fod0dzV3JIMUFpYmkzV01Yb3hYb2VVOV9aMXdrckpXM0t6SmtGRjNuRTRUTl9RQWRNSmlob3Foank4dy00bmc?oc=5",
+        "pub_date": "Tue, 09 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1549,6 +1485,14 @@
       },
       {
         "exchange": "Bitget",
+        "title": "US SEC allows DTCC to custody and recognize tokenized stocks and other RWA assets on the blockchain - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5maWt6WkYtY1lEOGtTR2RhM3ZvSUJCRF80UEJZMW5tM2VCYml0elpvd1dvOC1tdm50Vy1odW1fZmtzcFNmYWF0eUVVcGFfWlVFcURYQk9iSERtNldsLUHSAWNBVV95cUxQZllNWWdNanlfbVBjUHp6ZkdxclJhbW1QWEJlMGp2eEZRel9ZdGpCamM0S0pnRjF0LS1ENFhZbnNjdkdWMTRzUG5VeHhESVZ3TmpXQUQ0UnhPN0F2WUc0Uno3M2c?oc=5",
+        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
         "title": "Nasdaq: Approval of its tokenized stock program by the SEC is now a top priority - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNExOa2pvdG91amxoeVp0LURMMGZXM21rNHJFYlFjWS0xUnJNanlibGhteXhUYUFRek5qd3VMYVRNcUdNR3kwcTNXZDQwQnZKaDd2Ty05Z1pSVEhKTEHSAWNBVV95cUxPa0plSmVTdERRVzNoTXY0WjRGZTlETm84bmJMTjFQR3dDaEdTTHJnZnFMR3l4enJEUWliQ0ZYS3RVdjUzNTB5dm1jVGlycGpYNzNZcm14b2wxY0prQ2R0V3hFemM?oc=5",
         "pub_date": "Sat, 29 Nov 2025 08:00:00 GMT",
@@ -1557,9 +1501,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Tokenized Stocks Gain Momentum as Crypto Meets TradFi - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03c3BPOXBqVHV4aDgwWG9Oa201VHVpV0dQV2pmbDdfVmZXd0ZIME9CbGlqNUVfc19Wcm5vQmQ2YjBMUnpVa0JjVTR6S1JobWJ3M1Y2VUFkS0tYa3Z6cnfSAWNBVV95cUxPdHJ4QlVLdFBKUmczZlg3aENGV0JJLWlQSGY0dWtIZ1NYM3hoM0VHb0NOdmxlVUFJVGJ3Qy1kbUJBVGVvZDhxLUVyejBHV0g5MGU0UHJIZXZhc1Q5QjVIZm5PREk?oc=5",
-        "pub_date": "Fri, 28 Nov 2025 08:00:00 GMT",
+        "title": "Tokenized Funds & Securities: Guide to Top Platforms and Benefits 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFFFQ09fbS12N0dZWDJQbXBJVEhVbWExTjdVazhjSmpfR19yZm9aMDd5cnhzVFNRMElpUTJPZ1NxZ1ZNRGNRai0wLVdBVmxPTmU4UGpnYmZaU3UxT2FkYnVWRUhhcXk5VVVvejU3Z0ZXS3hYZThEN3ZUTzdla1QxNkFoRlFqb09SdVY0TTQ2UmdNU0gyS25BY3lwV184YnZwLWZPbTFsNHNseHpUTW1KSHhwdlI4ZEFrWEptOTllQ0JObFhlLUZ4N0pELW_SAdIBQVVfeXFMTnd5Qm5Yd1hqWVVIUVVQZTV3akh1bEI3dXdlSUpLTHNadzA0MXpLdkI1RmhTOEpzUHBfTjItdkZZS0JVbWJYTWlORWJSZ3hYQ2Y3ckhGYjBMUlNCRlBrZ1pZNmRBQmZHTHNXSUtNcEJvd1c2SXZlN0N5eW5wTElaTVhpcEFtbngwR2hwbmVpQmdPbVNDRGhuaEZFNkpadXZKNjlEYTNLZFdtdEQzTUJIemxpQnZleUgwUG1JTU1GMlk3VmEwaVREWlRPaC1lcnEtMzBR?oc=5",
+        "pub_date": "Tue, 10 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1573,9 +1517,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Tokenized Funds & Securities: Guide to Top Platforms and Benefits 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFFFQ09fbS12N0dZWDJQbXBJVEhVbWExTjdVazhjSmpfR19yZm9aMDd5cnhzVFNRMElpUTJPZ1NxZ1ZNRGNRai0wLVdBVmxPTmU4UGpnYmZaU3UxT2FkYnVWRUhhcXk5VVVvejU3Z0ZXS3hYZThEN3ZUTzdla1QxNkFoRlFqb09SdVY0TTQ2UmdNU0gyS25BY3lwV184YnZwLWZPbTFsNHNseHpUTW1KSHhwdlI4ZEFrWEptOTllQ0JObFhlLUZ4N0pELW_SAdIBQVVfeXFMTnd5Qm5Yd1hqWVVIUVVQZTV3akh1bEI3dXdlSUpLTHNadzA0MXpLdkI1RmhTOEpzUHBfTjItdkZZS0JVbWJYTWlORWJSZ3hYQ2Y3ckhGYjBMUlNCRlBrZ1pZNmRBQmZHTHNXSUtNcEJvd1c2SXZlN0N5eW5wTElaTVhpcEFtbngwR2hwbmVpQmdPbVNDRGhuaEZFNkpadXZKNjlEYTNLZFdtdEQzTUJIemxpQnZleUgwUG1JTU1GMlk3VmEwaVREWlRPaC1lcnEtMzBR?oc=5",
-        "pub_date": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "title": "Tokenized Stocks Gain Momentum as Crypto Meets TradFi - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03c3BPOXBqVHV4aDgwWG9Oa201VHVpV0dQV2pmbDdfVmZXd0ZIME9CbGlqNUVfc19Wcm5vQmQ2YjBMUnpVa0JjVTR6S1JobWJ3M1Y2VUFkS0tYa3Z6cnfSAWNBVV95cUxPdHJ4QlVLdFBKUmczZlg3aENGV0JJLWlQSGY0dWtIZ1NYM3hoM0VHb0NOdmxlVUFJVGJ3Qy1kbUJBVGVvZDhxLUVyejBHV0g5MGU0UHJIZXZhc1Q5QjVIZm5PREk?oc=5",
+        "pub_date": "Fri, 28 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1597,9 +1541,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Tokenized U.S. Treasuries keep RWA lead as tokenized equities accelerate - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qS0xXSTJNQ1c3RzlKOV9jUUhIZVNYRy05cGhwTkFUTWF2bHo3bzVKUTdQaDBXX1BvREZMby04b2V2VUtqQnM2VGlsaUdCenRvbVE2SjU1WFpOTS01UVHSAWNBVV95cUxQRTJpeThqamhrNWRrOWxnaHE1clZmS3loaWJHYnl3LVBqQTB6WmVseUdSTWNZMlUyeVNjeFdOaFhMaWtnVWxiTlJ5cHNqVDhTUENUR0lnSEhlRGUtNGRQNHphUzg?oc=5",
-        "pub_date": "Mon, 16 Feb 2026 08:00:00 GMT",
+        "title": "SBI Startale Pushes Tokenized Stocks and FX Into On-chain Trading - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjLXBuMWYxdl9jMlVyZHdIbTZUczdqT0VpWW1qY0xxemtzQnFoNW1lSlJVeGx6anF5MlZBZjRGQzlsQVIxZEZ6X0s4WGdOckxPSWpYVnRFUGkzSm00aXfSAWNBVV95cUxOdW4wbUxTMXFCTEtNQkVsNnZKemptdFJDS09uT2pXaGNRNGNvOHRDSTRNcjVrVWZ6OVdhdGM3TjlwRHlIeU1SNEYwYnNQUjZZVHBNUXJqQmRFT0ZKSDd1QndyeHM?oc=5",
+        "pub_date": "Thu, 05 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1613,9 +1557,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "SBI Startale Pushes Tokenized Stocks and FX Into On-chain Trading - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjLXBuMWYxdl9jMlVyZHdIbTZUczdqT0VpWW1qY0xxemtzQnFoNW1lSlJVeGx6anF5MlZBZjRGQzlsQVIxZEZ6X0s4WGdOckxPSWpYVnRFUGkzSm00aXfSAWNBVV95cUxOdW4wbUxTMXFCTEtNQkVsNnZKemptdFJDS09uT2pXaGNRNGNvOHRDSTRNcjVrVWZ6OVdhdGM3TjlwRHlIeU1SNEYwYnNQUjZZVHBNUXJqQmRFT0ZKSDd1QndyeHM?oc=5",
-        "pub_date": "Thu, 05 Feb 2026 08:00:00 GMT",
+        "title": "Tokenized U.S. Treasuries keep RWA lead as tokenized equities accelerate - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qS0xXSTJNQ1c3RzlKOV9jUUhIZVNYRy05cGhwTkFUTWF2bHo3bzVKUTdQaDBXX1BvREZMby04b2V2VUtqQnM2VGlsaUdCenRvbVE2SjU1WFpOTS01UVHSAWNBVV95cUxQRTJpeThqamhrNWRrOWxnaHE1clZmS3loaWJHYnl3LVBqQTB6WmVseUdSTWNZMlUyeVNjeFdOaFhMaWtnVWxiTlJ5cHNqVDhTUENUR0lnSEhlRGUtNGRQNHphUzg?oc=5",
+        "pub_date": "Mon, 16 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1632,6 +1576,14 @@
         "title": "Messari Research: Bitget’s UEX Model Scales with $18B in Tokenized Stock Volume and 82% Institutional Participation - Bitget",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDNyLTlZZTNSUDV4TUY3Sk4xb1hxX3lPb1Q0bUlXWG9pZEVSek0wMDF5azlOdVg2UU5QUXBCbmpDOUU5blFLNXBXdV9YWTY4eXc3cnFJMXptQlEtRzRrTWw1LThpc1lma05lMUhhcTJmWmM1TzJJVmx5NkQ0ckFzU19GQkZNNzVNeXA0LVNzWGk3ZzA4Y2VkYkhFYw?oc=5",
         "pub_date": "Thu, 15 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget targets 40% of tokenized stock trading by 2030 - Businessday NG",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDdXVWRGeTgybms3SW85c0s3bXpGenViVXhmZndrbVlvZGxsMklfbG9RQS12dGNIa1I0U21lblZBcHlCOVBlREtuZlRYMlpiNW1XWmtkMV82QWhKdm9CM0dFRzR0cEt1bFhfaTRFMkhkeGFodmF6czVhQUVJZURXcWF0REoyczM3WGZvWlJSODhteW8?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1669,14 +1621,6 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget targets 40% of tokenized stock trading by 2030 - Businessday NG",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDdXVWRGeTgybms3SW85c0s3bXpGenViVXhmZndrbVlvZGxsMklfbG9RQS12dGNIa1I0U21lblZBcHlCOVBlREtuZlRYMlpiNW1XWmtkMV82QWhKdm9CM0dFRzR0cEt1bFhfaTRFMkhkeGFodmF6czVhQUVJZURXcWF0REoyczM3WGZvWlJSODhteW8?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "NYSE Tokenization Strategy Sparks Debate Over Missing Details - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xbkN5MHNxMUhqQVBtV1hwV1M0WDBwc3EzUlEtLXBncUlnQzViQVlVRGxCbS0zN1dmaW1nUUo1a3dFamxTWkpRaEhGTWZEdTdRMTF5dkxwemZmNGc3UGfSAWNBVV95cUxQc3JMbHRvZ2xpdVFCeHh1SVFVSnk1TjlWM0ZoMTV0WWM0WTMxVElYZUJDcElZX0pfRDJLSkhkRW5HNnFqcnNiTXlKTGtlTmYwaGVYWWdJbVNZTUJuYVc1dFJ2czg?oc=5",
         "pub_date": "Fri, 23 Jan 2026 08:00:00 GMT",
@@ -1688,14 +1632,6 @@
         "title": "Stablecoins Lead Fastest-Growing Tokenized Asset Deployments - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfYVJRUjFScU15NmU1RmpMSTRUczRkRi1pMk40Si1kNjJYRjh5OTc2X3g0SFY1QU12ejZubGpNSWtZclpFX0ZLY2JMT0o1S2FIQ2ZQNV9WdVlsTXZVWmfSAWNBVV95cUxPZWtuWVRWemsyRVZaYUlJVlN1dDYtMjNNckJvclZvbkxpdVRHNU1GTFJwOTVmVWM2T0pFZHFOc1YzS2RBVmdva0FaRXVmWjN6TmdFTXJ0Q09pR3pDNXJPRVZtUlk?oc=5",
         "pub_date": "Thu, 12 Feb 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Apple Tokenized Stock (Hyperliquid) Price USD, AAPL Price Live Charts, Market Cap & News - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55S1RPS0N6a2k5d0EtNHVGQjlNRkg1YXlPTGJ3MTdJbk9JZEtiUW0tTm1CTjF2NEVnUlhzQV9VLTFaeHVTcGg0Q1RfVldXLUVsZ0psRFMyMVE2ekhOS0JQMDZhVVA4cVo5MEY2eGtBWQ?oc=5",
-        "pub_date": "Sat, 07 Mar 2026 11:06:40 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1773,18 +1709,18 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Stock Futures - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGWDhDUG1zeWRIREdYWDZhSVl4TnRMWno3SG1oM2xPWlpMQ0J4TlVKc1VMN3NKSVg3LWZuRERQbTJ4anVEeTNsNU1NcWVnMU5lMXFoMVhtUdIBXEFVX3lxTE5wOVZxbWlraTVGVFFFbEFublpBZlBOVVlyaHVVVTJaLUlObzNvRl9BZ0VGUURWUTRJc09ESUtKZGMyTThkeUU5ZllJclZFV3I5MzRuSDBTNFNWSHM5?oc=5",
-        "pub_date": "Wed, 20 Aug 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "Bitget’s $5 Billion Growth Highlights the Merging of Crypto and Wall Street - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NUUNncnBQdk43bmRXR1lGM21FNldZNENid0R0ZVZ4ai0wRGk3cVcxWER4UFFKcE9Lc2cwSzNITXNpZTRKT3E0NEJlRU8zaHZ2blY4b2FHR2JrU3Vpb3fSAWNBVV95cUxOSTNSWkNlcml0UWtzZnRXSFEwZ0JIOHBrR2trVDMtS2p2VlpRMkx1amx2VVZ0YmptLU1nNEktWG5pYXNDcFlMX0RVeXRUWGV6akQ4dmJNQ2xRb1ZnbzBnaGJ5YVk?oc=5",
         "pub_date": "Wed, 19 Nov 2025 08:00:00 GMT",
         "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Stock Futures - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGWDhDUG1zeWRIREdYWDZhSVl4TnRMWno3SG1oM2xPWlpMQ0J4TlVKc1VMN3NKSVg3LWZuRERQbTJ4anVEeTNsNU1NcWVnMU5lMXFoMVhtUdIBXEFVX3lxTE5wOVZxbWlraTVGVFFFbEFublpBZlBOVVlyaHVVVTJaLUlObzNvRl9BZ0VGUURWUTRJc09ESUtKZGMyTThkeUU5ZllJclZFV3I5MzRuSDBTNFNWSHM5?oc=5",
+        "pub_date": "Wed, 20 Aug 2025 07:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -1813,19 +1749,339 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Ondo’s SEC Clearance Comes as European Tokenized Stocks Advance via Bitget - Finance Magnates",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE5fX056a2hKT1B5dnIwMHZkSVFaN01IQjFrS1NUSTh4dGN4UGJUcXUyMHF1MF83cWhRTWh4UHB0ZXVKYzJYYlFPTUNzMGlNMk9yWGZXZXljMlZidlhMa1FoUTc5dF9yZUJkMm9VV1BDYlFndlhsb1NVdXJ3LUNKb1QyN0Z1TTQ4X3EtcGN6NzZWNGdCX1dPclZBUXR1bEtWMlQwamd5VEtxSXBPc0FpMjVQaDJ2ejRBZXkxc3pR0gHDAUFVX3lxTFBtaVB0TldLRnFIX2ZncURjWUFjZlVZc19WUTJBT0pUdkRsc29SQjQza1RqWUI4bWlialFFczVSdlVrQk1uaV8zM0luS0NDQXdUanZfUlNBZ1ROMk1uLWQ1YzB0WkZGQ01hWXc2Ny1zUnp0NDh6VzBkNFo3YTdZMlprYkVzOF9hWGtHSk5HNWY4UjMxYTNHc0hVWENxMFZDMFFsd3Z6NTVhSTVDQXdGTG90YmNGVk8wTVVLajhUWGl1MS1TZw?oc=5",
-        "pub_date": "Mon, 08 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "Warden: Building an Agentic Wallet in the Do-It-For-Me Economy",
         "link": "https://messari.io/article/warden-building-an-agentic-wallet-in-the-do-it-for-me-economy",
         "pub_date": "Mon, 09 Mar 2026 14:00:00 +0000",
         "sentiment": "positive",
         "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Crypto Wallets Can ‘Directly Compete With Neobanks'",
+        "link": "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks",
+        "pub_date": "Mon, 05 Jan 2026 13:44:47 +0000",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Биржа Bitget расширила свой спотовый рынок, добавив токенизированные акции, ETF и сырьевые активы через Ondo. Инструмент",
+        "link": "https://bits.media/pr/bitget-dobavila-tokenizirovannye-aktsii-etf-i-metally-na-spotovyy-rynok/",
+        "pub_date": "2026-03-17T12:10",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Mở bán sớm tiền điện tử Goated: Hướng dẫn đầy đủ, Airdrop, Tokenomics và Phân tích Nếu đang theo dõi những thông ",
+        "link": "https://fitcare.vn/2026/03/17/bitget-mo-ban-som-tien-dien-tu-goated-huong-dan-day-du-airdrop-tokenomics-va-phan-tich/",
+        "pub_date": "2026-03-17T12:09",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Задание 1. Подайте заявку на участие в партнерской программе в период акции, чтобы получить пакет ваучеров на увеличение",
+        "link": "https://hardfork.ru/global-news/partnerskaya-programma-bitget-vozvrat-40-i-privetstvennyj-bonus-na-600-usdt.html",
+        "pub_date": "2026-03-17T12:08",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Период проведения акции : с 17 марта 2026 г., 16:00, по 1 апреля 2026 г., 16:00 (мск) Участвующие CFD : XAUUSD, XAUAUD, ",
+        "link": "https://hardfork.ru/global-news/bitget-cfd-reshayushhaya-shvatka-razdelite-100-000-pobeditel-poluchit-4-000.html",
+        "pub_date": "2026-03-17T12:08",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Что такое фьючерсы на акции 1. Стандартные фьючерсы на акции — это инновационные бессрочные фьючерсы Bitget, основанные ",
+        "link": "https://hardfork.ru/global-news/fyuchersy-na-aktsii-na-bitget-kratkoe-rukovodstvo.html",
+        "pub_date": "2026-03-17T12:08",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Lý do nội dung dành cho người lớn của OpenAI đang làm rung chuyển lĩnh vực đầu tư AI – và những điểm khác biệt so",
+        "link": "https://tapchitienso.net/openai-dinh-gia-500-ty/",
+        "pub_date": "2026-03-17T12:00",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Криптобиржа Bitget расширила спотовый рынок за счет токенизированных активов от Ondo Global Markets. На платформе появил",
+        "link": "https://ru.cryptalist.io/news.php?id=21994",
+        "pub_date": "2026-03-17T11:58",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget , найбільша у світі універсальна біржа , розширює свій спотовий ринок за рахунок нової лінійки токенізованих акти",
+        "link": "https://minfin.com.ua/ua/2026/03/17/170154974/",
+        "pub_date": "2026-03-17T11:53",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget , найбільша у світі універсальна біржа (UEX), запрошує трейдерів та контент-кріейторів отримати свою частку доход",
+        "link": "https://minfin.com.ua/ua/2026/03/17/170154970/",
+        "pub_date": "2026-03-17T11:50",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget adds tokenized US stocks, ETFs, and commodities to spot market. New Ondo listings enable 24/7 trading of equities",
+        "link": "https://invezz.com/news/2026/03/17/bitget-expands-spot-market-with-ondo-tokenized-stocks-etfs-and-precious-metals/",
+        "pub_date": "2026-03-17T11:39",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget , the world’s largest Universal Exchange, is expanding its multi-asset trading ecosystem by introducing a new set",
+        "link": "https://cryptonews.net/news/market/32566904/",
+        "pub_date": "2026-03-17T11:36",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Nebius Group N.V. (NASDAQ: NBIS), một nhà cung cấp hạ tầng đám mây tập trung vào AI đang phát triển nhanh, đã công bố kế",
+        "link": "https://tintucbtc24h.com/bitget-co-phieu-nebius-group-n-v-nbis-giam-khi-lo-rong-q3-tang-len-do-thoa-thuan-3-ty-usd-voi-meta-2/",
+        "pub_date": "2026-03-17T11:30",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Cổ phiếu Nebius Group N.V. (NBIS) giảm khi lỗ ròng Q3 tăng lên do thỏa thuận 3 tỷ USD với Meta Nebius Group N.V. ",
+        "link": "https://tapchitienso.net/bitget-co-phieu-nebius-group-n-v-nbis-giam-khi-lo-rong-q3-tang-len-do-thoa-thuan-3-ty-usd-voi-meta/",
+        "pub_date": "2026-03-17T11:28",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "... 비트코인 / 사진 = 민심뉴스 DB 플랫폼 차단 명령 사유 규제 기관 차트 보기 (서울=민심뉴스) 룩온체인에 따르면 아르헨티나 법원이 암호화폐 예측 시장 플랫폼인 Polymarket에 대한 전국적인 차단 명령",
+        "link": "https://www.mimint.co.kr/bbs/view/news/S1N11/5301656",
+        "pub_date": "2026-03-17T11:23",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "... 비트코인 / 사진 = 민심뉴스 DB 플랫폼 24시간 거래량 미결제약정 월간 미결제약정 증가율 차트 보기 (서울=민심뉴스) 룩온체인에 따르면, 3월 17일 DefiLlama 데이터에서 perpetual DEXs",
+        "link": "https://www.mimint.co.kr/bbs/view/news/S1N11/5301640",
+        "pub_date": "2026-03-17T11:13",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "TokenInsight 在其年度评选中向 Bitget 颁发「年度综合型交易所 Universal Exchange of the Year」奖项，以表彰其在全球加密资产交易生态中的持续创新与综合实力。 据悉，TokenInsight 的",
+        "link": "https://news.zol.com.cn/1149/11499144.html",
+        "pub_date": "2026-03-17T11:10",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "... 2026-03-17 19:10:49 作者：狼叫兽 TokenInsight 在其年度评选中向 Bitget 颁发「年度综合型交易所 Universal Exchange of the Year」奖项，以表彰其在全球加密资产交易生",
+        "link": "https://www.sohu.com/a/997722592_114822",
+        "pub_date": "2026-03-17T11:10",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "ChainCatcher 消息，Bitget 近日宣布由 Ondo Finance 支持的代币化股票和 ETF 将上线 Bitget 现货市场的创新区、股票区及 ETF 区。 本次上线资产涵盖多只主流标的，包括特斯拉、英伟达、苹果、谷歌、微",
+        "link": "https://www.chaincatcher.com/article/2252481",
+        "pub_date": "2026-03-17T11:09",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Miközben a több eszközt lefedő kripto ETF-ek szabályozási útvonalai bővülnek, és lehetővé teszik a Bitcoinon és Ethereum",
+        "link": "https://www.kriptoworld.hu/a-memcoin-etf-ek-a-szabalyozoi-nyitottsagot-tukrozik-nem-az-intezmenyi-meggyozodest/",
+        "pub_date": "2026-03-17T11:03",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget SoftBank bán tháo Nvidia, đặt cược vào OpenAI: Lịch sử đầu tư của họ có dự đoán được kết quả không Khi năm 2025 d",
+        "link": "https://fitcare.vn/2026/03/17/softbank-ban-nvidia-mua-openai-2025/",
+        "pub_date": "2026-03-17T11:03",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Traditional finance is undergoing restructuring due to the growing corporate interest in tokenization, with the shift of",
+        "link": "https://bitrss.com/corporations-accelerate-stock-market-transition-to-blockchain-193659",
+        "pub_date": "2026-03-17T11:02",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "HBO представил обновленный актерский состав сериала «Одни из нас» / The Last of Us, который среди прочего включает отца ",
+        "link": "https://finoboz.net/technology/serial-odni-iz-nas-predstavil-aktera-kotoryj-sygraet-otca-ebbi/",
+        "pub_date": "2026-03-17T11:01",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "While regulatory pathways for multi-asset crypto ETFs are expanding and enabling broader asset inclusion beyond Bitcoin ",
+        "link": "https://www.kriptoworld.com/meme-coin-etfs-reflect-regulatory-openness-not-institutional-conviction/",
+        "pub_date": "2026-03-17T11:00",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget , крупнейшая в мире универсальная биржа , расширяет свой спотовый рынок за счёт новой линейки токенизированных ак",
+        "link": "https://happycoin.club/bitget-rasshiryaet-spotovyj-rynok-dobavlyaya-tokenizirovannye-akczii-etf-i-dragoczennye-metally-ondo/",
+        "pub_date": "2026-03-17T10:57",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Peisajul actual al activelor digitale indică o piață aflată într-un proces clar de maturizare, modelată de participarea ",
+        "link": "https://financialmarket.ro/fintech/digital-trends/piata-activelor-digitale-intra-intr-o-noua-etapa-capitalul-institutional-cauta-alternative-de-refugiu/",
+        "pub_date": "2026-03-17T10:55",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Традиционные финансы реструктурируются из-за растущего интереса корпораций к токенизации, перенос акций на блокчейн меня",
+        "link": "https://cryptalist.io/news.php?id=21992",
+        "pub_date": "2026-03-17T10:52",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "... / 사진 = 호수뉴스 최근 8일간 상승 과거 데이터 Bitget Wintermute 분석 차트 보기 (서울=호수뉴스) 룩온체인에 따르면 비트코인이 3월 9일부터 8일 연속 상승했다. 이는 거의 4년 만에 처음",
+        "link": "https://www.mimint.co.kr/bbs/view/news/S1N11/5301603",
+        "pub_date": "2026-03-17T10:52",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Câu lạc bộ Barcelona vừa có màn trình diễn tấn công hủy diệt trước Sevilla tại sân Lluís Companys, củng cố ngôi đầu bảng",
+        "link": "https://coinbay.io/vi/barcelona-thang-dam-sevilla-5-2-trong-ngay-raphinha-toa-sang-ruc-ro-35447",
+        "pub_date": "2026-03-17T10:46",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "The Bitget Builders meetup in Saint Petersburg attracted over 100 guests, confirming the hot momentum of the Eastern Eur",
+        "link": "https://coinbay.io/en/bitget-builders-event-in-saint-petersburg-boosts-russian-community-35446",
+        "pub_date": "2026-03-17T10:46",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Sự kiện kết hợp giữa tốc độ đường đua và tài chính số chính thức bùng nổ, tạo sân chơi khẳng định bản sắc cho cộng đồng ",
+        "link": "https://coinbay.io/vi/thu-thach-motogpxbitget-mang-den-co-hoi-nhan-thuong-usdt-cho-nha-dau-tu-35449",
+        "pub_date": "2026-03-17T10:46",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Buổi meetup Bitget Builders tại Saint Petersburg thu hút hơn 100 khách mời tham dự, khẳng định sức nóng của thị trường t",
+        "link": "https://coinbay.io/vi/su-kien-bitget-builders-tai-saint-petersburg-thuc-day-cong-dong-nga-35446",
+        "pub_date": "2026-03-17T10:46",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "The collaboration between Bitget exchange and the MotoGP racing series brings the “Smarter Speed” message, combining agi",
+        "link": "https://coinbay.io/en/motogpxbitget-campaign-promotes-smarter-speed-investment-mindset-35448",
+        "pub_date": "2026-03-17T10:46",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "FC Barcelona delivered a destructive attacking performance against Sevilla at Lluís Companys Stadium, consolidating the ",
+        "link": "https://coinbay.io/en/barcelona-thrashes-sevilla-5-2-on-raphinhas-dazzling-day-35447",
+        "pub_date": "2026-03-17T10:46",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Sự hợp tác giữa sàn Bitget và giải đua MotoGP mang đến thông điệp Smarter Speed, kết hợp giữa sự nhanh nhạy và phân tích",
+        "link": "https://coinbay.io/vi/chien-dich-motogpxbitget-thuc-day-tu-duy-dau-tu-toc-do-thong-minh-35448",
+        "pub_date": "2026-03-17T10:46",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Sự kiện Bitget Spring Camp 2026 chính thức khởi động nhằm mang tới những cơ hội tăng trưởng chiến lược cho cộng đồng nhà",
+        "link": "https://coinbay.io/vi/bitget-spring-camp-2026-kham-pha-he-sinh-thai-tien-ma-hoa-toan-cau-35445",
+        "pub_date": "2026-03-17T10:46",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "The event combining racetrack speed and digital finance officially kicked off, creating a playground to affirm identity ",
+        "link": "https://coinbay.io/en/motogpxbitget-challenge-offers-usdt-rewards-for-investors-35449",
+        "pub_date": "2026-03-17T10:46",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "The Bitget Spring Camp 2026 event officially kicked off, offering strategic growth opportunities for the international i",
+        "link": "https://coinbay.io/en/bitget-spring-camp-2026-exploring-the-global-crypto-ecosystem-35445",
+        "pub_date": "2026-03-17T10:46",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Global, March 17 , 2026 / AlexaBlockchain / – Bitget , the world’s largest Universal Exchange , is expanding its spot ma",
+        "link": "https://rawnews.com/bitget-expands-spot-market-with-ondo-securities-offerings/",
+        "pub_date": "2026-03-17T10:43",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Odailyの報道によると、Bitgetは最近、Ondo Financeがサポートするトークン化株式とETFがBitget現物市場のイノベーションゾーン、株式ゾーン、ETFゾーンに上場すると発表しました。 今回上場する資産には、テスラ、NV",
+        "link": "https://www.odaily.news/ja/newsflash/472536",
+        "pub_date": "2026-03-17T10:40",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Odaily News Bitget recently announced that tokenized stocks and ETFs backed by Ondo Finance will be listed on the Innova",
+        "link": "https://www.odaily.news/en/newsflash/472536",
+        "pub_date": "2026-03-17T10:40",
+        "sentiment": "neutral",
+        "source": "meltwater"
       }
     ]
   }
