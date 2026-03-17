@@ -1,7 +1,7 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-17T16:22:38.786058+00:00",
+    "generated_at": "2026-03-17T16:39:36.674525+00:00",
     "articles": [
       {
         "exchange": "Bybit",
@@ -32,14 +32,6 @@
         "title": "Bybit Private Wealth Management Reports February 2026 Performance Amid Market Volatility By Chainwire - Investing.com",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWW4wXzYtRDhYcVc0d3JjMEUxNVBmVjdib18tWFhYTlpSdXRNS0h6S3VVMWI3ZFhrRGx6WFhWN0hIMTQwdE9fRTBQWV9Ba1NmZWswVXo1SWo2TlE1cUVhd0xvMG5KSDduWTR0aEQzUXlKNlNZMENIb1lDek9rMmF5LU8tMXp2dWVzNWVheEFzTUpsMXZxMldEdEFEby1DSERucDFiSEUyZTRtcGotZkRGRTFxb1VqN0pkXzRpUEJLNEM1SjVTNGZtTW5tcmQwWWFLZ1JuQ0pqdnVlM01RU0VFNQ?oc=5",
         "pub_date": "Tue, 17 Mar 2026 08:34:01 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
-        "title": "Bybit vs Top Crypto Exchanges 2026: Fees, Features & Security Compared - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02cU5UbDgzelNnYWhETmlkdUNBX1gwRENwcmpHeDk2X0hHckJndHRheUJoSVF2WHpkZlA1Sy1OeE5RQnM1Z2JuS0tSZkxnVXdWdWN1LUU4MnpLZzQ3aGfSAV5BVV95cUxNNnFOVGw4M3pTZ2FoRE5pZHVDQV9YMERDcHJqR3g5Nl9IR3JCZ3R0YXlCaElRdlh6ZGZQNUstTnhOUUJzNWdibktLUmZMZ1V3VnVjdS1FODJ6S2c0N2hn?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 04:05:13 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -117,30 +109,6 @@
       },
       {
         "exchange": "Bybit",
-        "title": "USDT Trading on Bybit: Fees, Liquidity & Platform Comparison Guide - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjSjhMN3pibEt2eURoSXpiUF9lM2hjdG1HUEh6T2F0aEpsQjdCZExPdlNNZ1FpNk54d25mSTVHQTUwUmh6cGJFYkxETFhJaUxhTGE1cEt3TGUzVjdRUGfSAWNBVV95cUxOQi1WUGlad2E0N2FrUXJUdm1aRWpwUEY3aUZBTmpnbTlQUGtXRlFFQ0ZRbFViY3BGdUgxbzRKMlRwU1ZIS2tneXFWZlMzYlh4ZVhKQ3AtR1NDOGU2ZzVOdzRacDA?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 05:34:22 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
-        "title": "Bybit Italy 2026: Access, Regulations & Top Crypto Exchange Alternatives - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPMnBsejB6Y0ttaERYUWNXYjZkVzZLck51V0xUS3BSRWM2OEZnMUh6OE9MbWZrVVMzZ3A3WTJhSlBYSHlWd1RrQWlsYlBDZjRCdFJjNWlhN1pST2lHX0HSAV5BVV95cUxQTzJwbHowemNLbWhEWFFjV2I2ZFc2S3JOdVdMVEtwUkVjNjhGZzFIejhPTG1ma1VTM2dwN1kyYUpQWEh5VndUa0FpbGJQQ2Y0QnRSYzVpYTdaUk9pR19B?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 14:33:52 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
-        "title": "Bybit Launches AI Skills: Powering AI Agents for Crypto Trading With Zero Setup, 253 API Endpoints and Growing - Decrypt",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa18wa2FOTlp2SHBKdWZ1YVBaZkZ6MUZfSmlCLVRteVhwNXh5Z05lZ0l4RTN2a0dicjk0TG5pTlhyOTB4R1FLTC1BeHNNM0JNdFBJRXQwYnRMVWdlcm5zcmIwc2cwOGhqdVV6X2RfMEV2RnBCLXlTYmgtcW5yakthS0dQV2VzRklxeHZNSko2MW52QWNZTk4zSDFtMG82Q1NidGtNTTVoc1Z4Um9rdW5xVWh5LTk3QmdrdjZXRGZMdzMxM1JjSG5qaGJfR0tNMjDSAdcBQVVfeXFMT3AzbGlCRWIzVk9JMDJ4WVBhajR2TXZWcFFjdXF5V1lFNGVNRHFibEt0dW51LW1ySGY1M2JjVnhLZW5temdtd2RTTDItNVpmVkVjemNsZ2FicVIxNTJ6M1BEYkV2bVM1aXdKRnpGeV9RNVBuRUxLbUJuN2d2Q1QzMnhaNlRzWVR5ZVBrc0JBd3RiOVNPeThmUkFkQkdHX3V5WTc2TDV5T1pCcHZ2Qi1XckZmWi1ZZzFuRHNjOUU1cVk0SHlyT3RxZ09CMVh6M0wyWGd6cVVka1U?oc=5",
-        "pub_date": "Fri, 13 Mar 2026 14:01:42 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
         "title": "Bybit Launches All-New Rewards Hub, Reimagining the Trading Rewards Experience By Chainwire - Investing.com",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObnAyYjBaaEg4b05HRWk3OFpJNUJ4Y2diUURhd1l6M3pxckc0empiOWNNTWlSVUY4SlNMclpzbnluWHBRVUR6WHF1TXdvanBUWUxTOVpGeUFXQ3p0UDlIQkpNeDhKLW13LXE2c09JSUJlaEsyOUg4Z2dLb0d5UWhaM3BWNUxXRkpTYjcybi13SHNOSjJyZzI3VllkbVhMOGJDTURwZWp4VlotNzZIYVNET1ltUF9lc2MzbGNkdFVlZEtkLUtVaUxlMGlxSVhKaU9R?oc=5",
         "pub_date": "Thu, 12 Mar 2026 14:04:23 GMT",
@@ -173,6 +141,14 @@
       },
       {
         "exchange": "Bybit",
+        "title": "Bybit Launches AI Skills: Powering AI Agents for Crypto Trading With Zero Setup, 253 API Endpoints and Growing - DailyCoin",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmduYXlVVW5BVlczYWduaTBhck1zcVZpUVNwcXNjTXJNeEVTbEt0Um5Ud2hXLXM5OExJRmlzUmNCbXptdFRYemR5cnd1d3drRGpKLXIzank4OFRJRmR5ZksyS2lJdVlWekdyemkyV19FalBwQlRRQ3lKb0U5ZzFPeVdzb2FTM1pTUjVNLTl2dlhkNFJMRFRrekZwdjhRc194bzJzZlR3N1JSNG91RjdUUy04RWdYWVZiRFRabFdtSmF4MktMcTNJcDBtZGQxejR1RmpzTGVsU2MyS25FWUNB?oc=5",
+        "pub_date": "Fri, 13 Mar 2026 14:06:22 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
         "title": "Bybit is adding bank accounts to its crypto platform with eye on U.S. expansion: Bloomberg - CoinDesk",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWnpvYV8zZENneVEzeHp1b2hjcFN3eTdDTXVybENINkNpZ3R0MVpxU0xaX3dReU5sanJ4QmE2YlRoZ1psRHVrSTZEOGhIUkxnSTVMUDJuN2Nzdm1ac3RLTTNPeEttTHdZeDc3QWxNNFRBNG9YMFgwTGhoMGliYVhVVFRRWTQ4SnBhZ3ZrWnNzeUN2M1BHeDdtN2R5cDA3TktPYUU5MVdyaVB0Skp5RDNYNkRsYmY?oc=5",
         "pub_date": "Thu, 29 Jan 2026 08:00:00 GMT",
@@ -189,26 +165,10 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Bybit launches AI Trading Skill Hub, powering every AI agent with a Bybit-grade brain - Bybit",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS2VjYVlWTEthamptbFNJanVxV25ybGlNMUljSVRzdmNBV1FoczgwdkNKelZHY2VlZGt2RE1fRUFqNjJNMFQxM3JUNUloNEF3LTltU1FmSTV1djNEZU5yVHZNc1RuTXZEZko3TmRhb0RCWkN1a3FMT3JDcklxYjdNMEpYUUp6QktfX2dMeENBNVIwdUtCcG5tS1h2WVpKRWpEcVU2cnhDTGZzTzRrMVdaSzlHdWxvYWZTcmRSN2lMTS1rbTRIbzNOWHozNjhqUV9QUkxuUjlNQzFic1MzQTJyT1JB?oc=5",
-        "pub_date": "Fri, 13 Mar 2026 12:21:04 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
         "title": "Crypto exchange Bybit to restrict access for Japanese users as regulatory pressure mounts - CoinDesk",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc3VOZTlZSkFPVFVmR3BPcnNUMHB1enhlR01ocld3dlhWdFlBNWF1Y2NZUDFRRjRxYjF0eEhQbTVCU3B0d2ktX3JrWEYxUDFTT1FSVGVNajVJaDFfd1J2RnI1VERYRy11Wnk0UHVrZkxfS1UwLTVGUGkxa1FlWXZEendLMWVpaVVWclpiRWVvWE9iUlVKbTNOLTNfUUZ1ZWtPVDlOMXBFVlE3MjlWNEdhRG9PaWhCck5VenQ5OERmNzBTaWw5VmV2Mi1TRHNNeGc?oc=5",
         "pub_date": "Tue, 23 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
-        "title": "Bybit and Tether Launch Golden Month Giveaway Featuring 1 Ounce of Gold and $30 Referral Rewards - thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcndDeF85SS0tWmItSUhaOXVBZXZNOTV0eTJqUWxuWHN3WUlFaHhzOEhVbEhEbFhkUVpfbVpBeXVtNDdHNUxmRGdtQWo1RnFTbkkxczh5M1NYeGJIdUYxcFg2bnllRV9JNEpZMHgxUW1TUXZkckJqLUlUU0lSb1JZb0JnMEdUM1g0TFBOdHZZbjhFRUVFNDlCOXNES3NianhfaThDY1I1ZEowU2hYWXNCVnhET2lxMk9weW5Bcnl3MjZPTW4yLVN3REo0TlBiZ0V3YkJORjVOclFiLW8?oc=5",
-        "pub_date": "Wed, 11 Mar 2026 12:02:44 GMT",
-        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -225,6 +185,14 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnpHVXdIbEYyWE9CR2EzSXlUZDlwTlhrZHA5UkdQVGlqWURiUkxNT0VRTnU1RlA1VE5sRWVjWDdETVV4ZUVhSEZpd1pEcDhiclhwNU10OXp5MVAtTDN5ODdOMVVua0ZZUDBwZGJBdk9JcDVuQnlOTFdTazNqWURzSVlpNllqZFhPcTVMQjZNN3J2T0Z0N2tqenA3N1dVMldsRFJrcXNDS0ZKajl3ZmpUcWZmMA?oc=5",
         "pub_date": "Fri, 19 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bybit and Tether Launch Golden Month Giveaway Featuring 1 Ounce of Gold and $30 Referral Rewards - thestreet.com",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcndDeF85SS0tWmItSUhaOXVBZXZNOTV0eTJqUWxuWHN3WUlFaHhzOEhVbEhEbFhkUVpfbVpBeXVtNDdHNUxmRGdtQWo1RnFTbkkxczh5M1NYeGJIdUYxcFg2bnllRV9JNEpZMHgxUW1TUXZkckJqLUlUU0lSb1JZb0JnMEdUM1g0TFBOdHZZbjhFRUVFNDlCOXNES3NianhfaThDY1I1ZEowU2hYWXNCVnhET2lxMk9weW5Bcnl3MjZPTW4yLVN3REo0TlBiZ0V3YkJORjVOclFiLW8?oc=5",
+        "pub_date": "Wed, 11 Mar 2026 12:02:44 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -261,14 +229,6 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Bybit Introduces AED Trading Pairs, Enabling Direct Crypto Trading Using UAE Dirhams - Fintech Finance",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMjJSZHVHOUN2RUNWaGMxcE1wX20wcU9Rd05LQVoyOU9tMElpQmxRZVVLQ1RjalIteXI2ZnA1Wk9vZHpheUR1WUtQQ0tNbU1Lbm5QbFZvNGNxVHVucVI3dXJPQ2MzQTRya0xvZXktME5sNTJQYVZRY2hCUHo2dVRRY3ZIbE9aM3MzcXo1OUV2MnZZbFpVTzBMRWFGamZzZHJ6QlA0NFRwclU5LUhvSGZXWVNvX1VJdw?oc=5",
-        "pub_date": "Wed, 11 Mar 2026 23:56:23 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
         "title": "Coinbase bybit in talks for US expansion and compliance - The Cryptonomist",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IWmlVTnZBZ2s4dVJrUk1JRkx1VVlwYmlSYnI4U0twQUNIUDFtc005S2hVQ0dBU1RhRlJiSzR2YXcxcG5CTl85SUVkVkloZXh6cmx3YnRXbzRnM1JtaUJyU3NpaXpYRmswVTRxbHdvaU96cWZq?oc=5",
         "pub_date": "Sat, 14 Mar 2026 11:19:45 GMT",
@@ -293,14 +253,6 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Strategic partnership between Coinbase and Bybit may boost global trading - Traders Union",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHNoY2d4MGJwZkRBQ1c3ZzUtSEw1LXpzbzR3aHN3cEoxQzBwLUdQRXp6WUlhX3F4QzRjak5WQWlTWmxkSHQ5UWdyQy1LcmpmZTlsRHV5RGNtTW5SOEtWVTIzcmcyZ2wzM0FFOTRZSnk1Qm92NEZTR2l6YWM0b29DbWpwbDlwMTNnYUc0cVdEd1NSVW9IN3Nscg?oc=5",
-        "pub_date": "Sat, 14 Mar 2026 20:59:56 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
         "title": "Ripple’s RLUSD Listed on Top Crypto Exchange Bybit - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVlWSmRlY2R4d3FyRjRwa0RDOVJLQjg4QkpfUHYxLVhqMTg4Sy1taTNXNUpWZWZwSjFoQmNyMEtZNDlwX3F3QWhmcWVtQUJoRWJGbTZGVU9OT0J2dzBSTFdER2ZKS1VtNWtyTUM4ZVVRQm8yRmgzS3BRZTJlN0t4Y2lB?oc=5",
         "pub_date": "Sat, 27 Sep 2025 07:00:00 GMT",
@@ -309,18 +261,18 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Coinbase and Bybit Explore Strategic Investment Talks - Coinpedia Fintech News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWpJTlY4VDRuNk9QLVhDR29TcGVhdUFLR0tnMzlGRmZlVzZfX050Z0VyRXZ1OGJJMXFTNWlmX1h1Nl9wc2k5TmU1akxvSUdFSV9SbndlU2w1N1llendyQ2QtczFUVjFwX1JDczhpaE5GSm4tRlhLNTZKY1BjSTExVmtJbEs2eHlDU1hPVE5UWFEzWWpoQkZ4dTBkSUUyd9IBngFBVV95cUxNVWpJTlY4VDRuNk9QLVhDR29TcGVhdUFLR0tnMzlGRmZlVzZfX050Z0VyRXZ1OGJJMXFTNWlmX1h1Nl9wc2k5TmU1akxvSUdFSV9SbndlU2w1N1llendyQ2QtczFUVjFwX1JDczhpaE5GSm4tRlhLNTZKY1BjSTExVmtJbEs2eHlDU1hPVE5UWFEzWWpoQkZ4dTBkSUUydw?oc=5",
-        "pub_date": "Sat, 14 Mar 2026 07:59:42 GMT",
-        "sentiment": "positive",
+        "title": "Bybit in Talks to Acquire South Korea’s Korbit Exchange: Report - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObEVFSm94d2pDRGNoMU1LOGszeVJteHZReHFHWXhMbk1LZVNuaWs5M0VpWkJQd2E0N0sxbFVZSnIwMlNJNk9YdkhnSW1EcDRwSWg4ZTladlpIVTNFY0JWVnhfVUJHVW90UlJFV0EyUE9KMlM4NnlkR3AyVlZ2cXZPMjdKZw?oc=5",
+        "pub_date": "Mon, 10 Nov 2025 08:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Bybit",
-        "title": "Bybit to Launch Dollar Accounts With Partner Banks – Can Crypto Go Mainstream? - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1daNUR6OVMzR2paZUk4eXlWSzBoRlFhRWtvd0ZrNlFabU5DQk9fMWdnTnBNMUlNdEZvTkZOdkZ4OGtoaEhpVDVhVjRYd0tVUXdycE55bUxFaHA2RXRKbnJkRkNIRXJIM2tNQzRCOWZoRmN6UXZPQVo2SDc4eHkxc0pzUUVsNTkxOUE?oc=5",
-        "pub_date": "Thu, 29 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
+        "title": "Strategic partnership between Coinbase and Bybit may boost global trading - Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHNoY2d4MGJwZkRBQ1c3ZzUtSEw1LXpzbzR3aHN3cEoxQzBwLUdQRXp6WUlhX3F4QzRjak5WQWlTWmxkSHQ5UWdyQy1LcmpmZTlsRHV5RGNtTW5SOEtWVTIzcmcyZ2wzM0FFOTRZSnk1Qm92NEZTR2l6YWM0b29DbWpwbDlwMTNnYUc0cVdEd1NSVW9IN3Nscg?oc=5",
+        "pub_date": "Sat, 14 Mar 2026 20:59:56 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -373,18 +325,10 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Bybit TradFi Stock Festival Brings Wall Street to Crypto Traders, Expanding Stock CFDs in 2026 By Chainwire - Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQmQzbFFkUElNY3RJUTh5dDNnUXVGUmJBZGw3b01EZVh5T2dKSk9oVTA3U2hLVDF5eXhJWkdnSUR6bUNFUXhBTS0tbzR4T3Bvd3BoaGltYV9taEd6cExUQVN1aS1NWXNieFVXam9QZ3dHbDFzLU1nMDVCVmlrUGhiSkVlckJNQVgwdUhJX1Mxd05qOGJ3bE9JaU16Q2I1bE1zcktudnNmeFN3ZWc3YlNLeTExM3liTzNjYTMwS1JIX0lTeHJBcWNzU0JqcVdMNkhMLU9NOWxCNm1Ed0gyazk3NDVab1RkdHM?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
-        "title": "Bybit in Talks to Acquire South Korea’s Korbit Exchange: Report - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObEVFSm94d2pDRGNoMU1LOGszeVJteHZReHFHWXhMbk1LZVNuaWs5M0VpWkJQd2E0N0sxbFVZSnIwMlNJNk9YdkhnSW1EcDRwSWg4ZTladlpIVTNFY0JWVnhfVUJHVW90UlJFV0EyUE9KMlM4NnlkR3AyVlZ2cXZPMjdKZw?oc=5",
-        "pub_date": "Mon, 10 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
+        "title": "Coinbase and Bybit Explore Strategic Investment Talks - Coinpedia Fintech News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNejJBVlNiQ0tSVVljNWhxbjJKZFdIZVNsNTRBejlEUUVEQmdmVHl2a2NsOGlSMlcwems1VlpvMGtFa1NSS3F5Q1pSSV9YSXVqUVNoR21MbUVIcnJZTlg0YkdUTkthWmo5d0RhekJuWU94UzJIbkloV1ZjVzRfSHdnM0VTaFNhMUpjVmtoRjFrSXRQakg4cXVEa9IBngFBVV95cUxNVWpJTlY4VDRuNk9QLVhDR29TcGVhdUFLR0tnMzlGRmZlVzZfX050Z0VyRXZ1OGJJMXFTNWlmX1h1Nl9wc2k5TmU1akxvSUdFSV9SbndlU2w1N1llendyQ2QtczFUVjFwX1JDczhpaE5GSm4tRlhLNTZKY1BjSTExVmtJbEs2eHlDU1hPVE5UWFEzWWpoQkZ4dTBkSUUydw?oc=5",
+        "pub_date": "Sat, 14 Mar 2026 07:39:00 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -397,9 +341,9 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Byreal Perps Now Live: 24/7 Onchain Perpetual Trading with RWA Asset Coverage - Block Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbTdQU1hoYWZWN19TWFRFNjlnTVl1RzFSei1OaXhSNnRJUExLYXlCZzdYeDhYMHVGbWhqVXdTd253SHFHbnlfRGxybldsMmJNX196YXlOajVsYThVUl81LXRVYmNkZjQ2V2hQM2NQM3dJTUN4TWlnQ19jOXlDZ2FNTi1OckZwU1UyWkprd3RHYWxCWlB3Uy1TVjNhTENIbVBmZ1BncDRR?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 07:00:07 GMT",
+        "title": "Singapore leads world in crypto adoption: Bybit report - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU3hjRHNnRFhDWUdzRDNfTld5ZUZ0bGYtS1ZOVmJPelpWNnMweGdRaEw3ZHJOcEpHdm5iS29mdTNwTkJ4UVJGZ3AtV0x6NzFlZEFJS09xUVNFTW9rQzlIVkNKMWpBSk5oR2EzaG1sM2Q4LTN4NmRkMGVscm5FbVBTSXBHcy1hWTZ2RTFn?oc=5",
+        "pub_date": "Wed, 10 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -409,6 +353,14 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX3pDRUVlSVVxWUZRUklwMzE2aUpITC1NU3BiSWxsVUZyeVJndkJ2MEpTbmg3NS1ERU1PanFpT09LemRjVEdpWUJCVWFLaWhULS00MkVTSEhVdnh4anVpSm9uVElFMU5fMjJROG9HdWwtcldfaXdJQ3VuVVNfS195Wnl1aHh4V2tHWHBsQzVyckl4ZmpvTFE3YXpxdGZCUQ?oc=5",
         "pub_date": "Sat, 14 Mar 2026 15:30:00 GMT",
         "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Byreal Perps Now Live: 24/7 Onchain Perpetual Trading with RWA Asset Coverage - Block Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbTdQU1hoYWZWN19TWFRFNjlnTVl1RzFSei1OaXhSNnRJUExLYXlCZzdYeDhYMHVGbWhqVXdTd253SHFHbnlfRGxybldsMmJNX196YXlOajVsYThVUl81LXRVYmNkZjQ2V2hQM2NQM3dJTUN4TWlnQ19jOXlDZ2FNTi1OckZwU1UyWkprd3RHYWxCWlB3Uy1TVjNhTENIbVBmZ1BncDRR?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 07:00:07 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -437,6 +389,14 @@
       },
       {
         "exchange": "Bybit",
+        "title": "Bybit Becomes First Exchange To Receive UAE Trading License - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1NvUHdmeGY5SG5pSFlpOWQ1WWpyN1JVRHBiNnhmTnJIbjJCZ01mM1hTNjNDYlMyTzdGR0JKYzYyLTVvNFhnZHQyMEZuQlJhZUNsRHV2UlRDb19sVlhMMWVaUUpuRmxZZm1NaDZjYmQ3QTN5RngzRTBOZGoxRUpPSmFYZkVXZE85T1E?oc=5",
+        "pub_date": "Thu, 09 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
         "title": "From Bybit to Coinbase: 2025's Biggest Crypto Hacks and Breaches - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2Zud09kVjAzRmpNekdJWTh5bTFOY0E0SWdtM1R5YzFUdVRkM19hNTQxVGV1T3Foang5RVZHQkdfakg1VzZXZ3FKTVMzUHV5TmNBdDd6di1PYWd0NDNrZi1iUnA5SXhUUWd5SFZLS1l1M2F2ci1GeUQ0eURQQ2h4Q0kzMFVUNVFH?oc=5",
         "pub_date": "Wed, 31 Dec 2025 08:00:00 GMT",
@@ -453,17 +413,17 @@
       },
       {
         "exchange": "Bybit",
-        "title": "The Bybit Heist: What Happened & What Now? - Wilson Center",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yc0pWb2pJUXU5cTdtbnBtWWM0bUg3azBzZzUtVzFRMzQ2RzBQRjVqNmViN2NsOC1GVzI4TDI3b0FYMG5rNU1MNkJLTThpVVBNZ1FxQzltdGVfYUVhbzI4Sm04YzRPRm9NWk94Zk9TMF83SEtoU1k3SDBIRQ?oc=5",
-        "pub_date": "Mon, 31 Mar 2025 07:00:00 GMT",
+        "title": "Crypto Exchange Bybit Introduces 10x Spot Margin Trading in Europe - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzVTN3NtaksycGthSkJOaTIzNVU2amJfX1hNNWdoMnlhaDJ1Wi1mb1d5TTFHQUJ1bEd4ZTQ4YzRHd3duQVRiWkItZlhMUDFZR1BydUJwRTVJWWsxc2JMZmplb0l6cGpfRHpUZmkzUlNzcU1CMnNLYWlFeHVZdUQ2ZmRuTE44UXVKamdyRFd2dmNYcmVZR0N5ZGU5ZFV4Z1l0MHp4VVJseW05aHZxWlZmUQ?oc=5",
+        "pub_date": "Mon, 18 Aug 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Bybit",
-        "title": "Crypto Exchange Bybit Introduces 10x Spot Margin Trading in Europe - CoinDesk",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzVTN3NtaksycGthSkJOaTIzNVU2amJfX1hNNWdoMnlhaDJ1Wi1mb1d5TTFHQUJ1bEd4ZTQ4YzRHd3duQVRiWkItZlhMUDFZR1BydUJwRTVJWWsxc2JMZmplb0l6cGpfRHpUZmkzUlNzcU1CMnNLYWlFeHVZdUQ2ZmRuTE44UXVKamdyRFd2dmNYcmVZR0N5ZGU5ZFV4Z1l0MHp4VVJseW05aHZxWlZmUQ?oc=5",
-        "pub_date": "Mon, 18 Aug 2025 07:00:00 GMT",
+        "title": "The Bybit Heist: What Happened & What Now? - Wilson Center",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yc0pWb2pJUXU5cTdtbnBtWWM0bUg3azBzZzUtVzFRMzQ2RzBQRjVqNmViN2NsOC1GVzI4TDI3b0FYMG5rNU1MNkJLTThpVVBNZ1FxQzltdGVfYUVhbzI4Sm04YzRPRm9NWk94Zk9TMF83SEtoU1k3SDBIRQ?oc=5",
+        "pub_date": "Mon, 31 Mar 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -473,6 +433,14 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbHl3MWRMaUFQVnZHV09mbE0weU82eXhHclJ6dE1ON0xLT2lPaklUTVR0dlVrcnlkLWJnWi1TOW9fUnRVRXdiYWpDS2ItdzNVTjRCM3NqdUdfclRIN2I3c21ldnN3d3FuOTNlN3ozZGZUNkxMckNmblFYMkZteUVzTnowSUcwV2ZNMjhFcnVSakwway1abXV3TXdGVlNmb3RYRlhWa3VmMWt1UzlKY1I1QWw5elpFazZwMW1RMnRZLVBHbnJvOGVka2FJaWpUeWJ3M0E?oc=5",
         "pub_date": "Mon, 10 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bybit Pay Launches Crypto Payment Solution in Sri Lanka - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS05acDIzTnRUVlYwSWxzVV9TcUhaOF9nZ215M3dhZDM4a001bFpXdS1NbVFWbHVYdG9mME5PSTdQM1pwMFJ0N1BQYUJSYzZobTVnWXZGcWdsd28tV0FidGkxLWlmVjVYUGJ2Qkp1VUJzS1p3cTVueTJBelFHSzFJZ1h1dzdLTjJmWEZuYVNQdE9rUEtUM01aR3Y5NUloeEJjQWM3ZzA0WGRXanlRMlNuVw?oc=5",
+        "pub_date": "Wed, 05 Nov 2025 08:00:00 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -488,14 +456,6 @@
         "title": "Circle Has USDC Revenue Sharing Deal With Second-Largest Crypto Exchange ByBit: Sources - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdC0xZFktX05KdFVKWlVRbTVJbXVneElPY2hNYUk4M0taTUdXU2VTanlTVmxGa2kxRTFfWFhKSHFkLXRvZVBiTC0wbW1jRHp6ZGNsY050OXV0Z25haFNXSkc0Rlh5V2Rndm8tRWJuUVZPSUtHOEVXLWREZTJGNnpEN0llZ0k?oc=5",
         "pub_date": "Wed, 09 Jul 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
-        "title": "Bybit Becomes First Exchange To Receive UAE Trading License - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1NvUHdmeGY5SG5pSFlpOWQ1WWpyN1JVRHBiNnhmTnJIbjJCZ01mM1hTNjNDYlMyTzdGR0JKYzYyLTVvNFhnZHQyMEZuQlJhZUNsRHV2UlRDb19sVlhMMWVaUUpuRmxZZm1NaDZjYmQ3QTN5RngzRTBOZGoxRUpPSmFYZkVXZE85T1E?oc=5",
-        "pub_date": "Thu, 09 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -533,9 +493,9 @@
       },
       {
         "exchange": "Bybit",
-        "title": "A look at Bybit's key milestones - Bybit",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aSHg4WDM0SURVdjBYSXZTVXFrNnp3aVpiQU56NmpNVm1kVl8zVVAxNVdJMUpGNHl3Vkw1VElYWjRMNWNlWGRKMGdwYWp2b0xVcGltOVBHUlExX29nQ3NjbXNEVHE0cFNHMlVBMllZWDJFWVFrZFFV?oc=5",
-        "pub_date": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "title": "Bybit Launches \"BOB Advantage\": Zero Fees, 5,000 USDT Prize Pool, and a New Era for Crypto in Bolivia - PR Newswire UK",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRnhZcWJwVUdRZElyYTlQVGZPZ0d6RnBnNzlvVS1RWHd5TlNseXhPcnNZc25VcnlBMGdwQmdNNmtxMVRlZDFrYWt2amtHUS1KcUNiZGQ5bVFCOUJfdHkyZlViOExnQXR4TVV2UlFVOGU1bnVFSllzdy1PNzltNlUxQVduOGdoUWd1MDBMMDdTQVZqanV2cE5FYjNDUFhlaTEtQnpvdGVKaTJwcHNfeWM1WHh0UUFpaXpVeDBJaENaN1BMNkNNajhQWllyR21vdjFTQjc3VVVteUVmZGZuWElzcDlZVFdta0pvS3c?oc=5",
+        "pub_date": "Mon, 02 Mar 2026 15:09:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -565,14 +525,6 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Bybit Surges to 8.1% Global Market Share as Crypto Exchange Battle Heats Up Worldwide - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE04WFZNb19BM2R0NkJ2U0RlR2ZUbjZGUndOVllaRG5zbVk2ejlJcDl5ZE9IZDYzZGt5RW1ORU95SzBFdDBScTk4?oc=5",
-        "pub_date": "Thu, 19 Feb 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
         "title": "Bybit launches in the UK to meet rising demand for digital-asset platforms | Corporate - EQS News",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeDlPb2pVTWVvc2dwQUE0Z2VHaUpsaVp1XzZiQ3pVdG1DNFU5aUduajRDYW45aUw3MDhkdElFTmdycTNKRGxHSGhCT0pTNlNDQ1ZsMVRsU2drYTVObXRXc0QxR1hGMjlkeDdFWjZqNzlDUkNMVm5wWnJmUGNnNWZRY0pZRjVnRFVPVGNTYTZPcUQ0U1U3WVh6aUxrVDZ0MENYb3NqQl9LQWo2RmZzaW8xTXhQRUVhR0hGMWZvTkVIMDduQ01DbVBFSjd4Y2lBRW9TN1U2RV9mQjBJalJjQVhFamtMZzI1UDJPWkVvRQ?oc=5",
         "pub_date": "Fri, 19 Dec 2025 08:00:00 GMT",
@@ -589,26 +541,18 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Bybit Crypto Insights Report: postmortem from last Friday’s liquidation – diversify your trading platforms and choose battle-tested ones - Bybit",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qMTR4UHpGMnUxaTRYNFFkYUtlMmdyck9RMWFlTVEyemxjWFBGMHdXbnh3am5reFVYaEpSUFR5YXM1VW1wYVlqNTRheURiN1ByaDRkdi1sdlNrR1AwVG82YkZHQ0NRcXNsMUVxMDFhQ1BOaHRHTmJ5cFN0NTVsaVk?oc=5",
-        "pub_date": "Fri, 17 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
-        "title": "Bybit Expands Precious Metals Trading as Gold and Silver Interest Rises - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTjE0RExNSUY4SjZUUGtQZ2hrR1lpejNFd1RNQXhqT0hxQlhNcjY3anFoUWdJQkNvZ3Q4Q2hJWWJSZnBIZG1YYzd4NE5sNEFzcDV0aWcybHNfSGkwdVJIbWtzbmJORU1KMGlINEhQcXNndkxfd3IzeU1KWnZNazVVMjR0dExpTXpobkR4RmpONFZkYnJpdWlGM1lKSHpQN0hHZXhld0w2RHZaQ1Vhc25lekdHbzhUaWFXby03UDlDekNla3MxMGc?oc=5",
-        "pub_date": "Mon, 02 Feb 2026 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
         "title": "South Korea’s Crypto Exchange Bybit Eyes Korbit Acquisition - TradingView",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVGo5aG02NTdSSE4wV0VJTWYzM2FFalg4Rlh1U3dfck9UQjNIbUtVRXpYTE1uaE5jd0RTN1MyMGU3aVB1MTZWZ0gxMWcySjI1NHVvSmQxNTNyREV5ZEVuZFdNT1pqN1pQZGNoUVJyQlVpY01GOG1DazBNQmozTlFxWjloR0xhYkI5cFJCaFpfb3FzQVFYWG5xMi1zQlFzNjVib2hXbkpqU3YtR281T25iMXZQaHpIdUNWVlZr?oc=5",
         "pub_date": "Mon, 10 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bybit Launches \"The Ultimate Gold Mine\" in Grand Year-End Daily Treasure Hunt Event - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQelQyd0hfdlZXUllXRDB1SlBST2NsY2V0bjRERXBxSkg3bEVva0M3X3Vpakd4X05JRUtjVmRyRnFJWTEyR0RxOXFkMkNhSFlrclhXOGNkTzdvbDgyZW1aUml4dXNoM1JUSVc3WWN4SzJpWTlsN2V3bzhlSlFIZzRaU1JfZGpIR0VEZ0Vrem0wU1JjTWdVNUpwT0ZGRGRESDNWeS1Ic2xUYlhTaWhBZEpweUF3a3ZLZnhvc2E0SzFEQ210RWM3a29DMVRZV3NBa3NlOTFJ?oc=5",
+        "pub_date": "Fri, 31 Oct 2025 07:00:00 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -621,6 +565,14 @@
       },
       {
         "exchange": "Bybit",
+        "title": "eXch’s links to the Bybit hack - TRM Labs",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekxJQ3A5dk4wcGJqbW9GNkZLQVRyeHZQTnI2RDZmZWxvVFhQM2hYRWpYRXhHNm14akpHLU5FUFF2V250SWRNeVFJN05HR1g0d2xqYl93UzF0MXExU0hOaGxFNmFRTUxTVEFiS1B4bFJDSnVETmh3cGllV2FxNUY4RERWNWZZUG1sdlYxbzZoU0EzV0N2eWc1bklwU2JPS1FEX0VxaWZmaDZVQlI1UnVJR2p1bUdOTl9lb3JnOXFuTGFLOWtNdUVPaUtseHhUS3Y4NjBOcEdNWTU3YnhzdkRHTDRCSXVMOWlURFdB?oc=5",
+        "pub_date": "Fri, 02 May 2025 07:00:00 GMT",
+        "sentiment": "negative",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
         "title": "Thredd Helps Bybit Launch Crypto-Linked Debit Cards - PYMNTS.com",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTBIZURuMy0xLVpYd0VtVlNmWEdBcDRWSmlWemVZU2d4NDk5REh4WVJ5QmZHbWtFZm1xbjdGdDFnTWJMekxmR3VKYXA4OXk1WXVMZmxfNEpSUThzYW9mbU5XQl9nTGMtUjJuYWhrT3U1M2FXMmVoV19LOXp4aThzODdrTDZ2NWJxcjZWUmRQbHhhZl83cWlUd1VMQQ?oc=5",
         "pub_date": "Thu, 30 Oct 2025 07:00:00 GMT",
@@ -629,10 +581,18 @@
       },
       {
         "exchange": "Bybit",
-        "title": "eXch’s links to the Bybit hack - TRM Labs",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekxJQ3A5dk4wcGJqbW9GNkZLQVRyeHZQTnI2RDZmZWxvVFhQM2hYRWpYRXhHNm14akpHLU5FUFF2V250SWRNeVFJN05HR1g0d2xqYl93UzF0MXExU0hOaGxFNmFRTUxTVEFiS1B4bFJDSnVETmh3cGllV2FxNUY4RERWNWZZUG1sdlYxbzZoU0EzV0N2eWc1bklwU2JPS1FEX0VxaWZmaDZVQlI1UnVJR2p1bUdOTl9lb3JnOXFuTGFLOWtNdUVPaUtseHhUS3Y4NjBOcEdNWTU3YnhzdkRHTDRCSXVMOWlURFdB?oc=5",
-        "pub_date": "Fri, 02 May 2025 07:00:00 GMT",
-        "sentiment": "negative",
+        "title": "Bybit Card Launches in Europe With Unmatched 20% Cashback - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3VpYUl6S2dOdkZydFh3U1JBNW9sa2xiN1g5VGdFMzJqNllvVDBBUDdHX2NmZDQ5MGFybGZnaE9oX051VVF1QXFiSmhZMHUwU21kd05rR1FuRWlTSXUwdGh1YWFFbVRmNGJWN0ZFTEd3eUQ2dG1TaTMyYVR0R0pPclFUMXAydlo1a25PUUJVOUdQajFwTmMyejk3SHYxMkhWRGc3ajVNTTFIVWZaMnZFMXpaTG5LU1pr?oc=5",
+        "pub_date": "Wed, 03 Sep 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bybit Enables XAUT (Tether Gold) on Mantle, Expanding Access to Tokenized Gold in the Onchain Finance Ecosystem - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVy1TeGVsLVdvb1Z2NmRXRF91TVBlaVJhekM3ZnE5ZFRQZVlEYldITzdQckF1bGNaSERQR0l3UEdiOEVlNVd0dVZRYVlXaUs5X2pVMmljQTRucHFqdFpvTFFBc1JjQkRncVd3bHZZd1VtYndFVjAzMHRkZy0zSGNuRTdvTnFsaGpQNXhxV2NodTY2WjFYU1ZuQnF6aTZGYW9HVldXaU1hRWlicVlnZHFhT29sVFdSVFpHWFgtRDNpcG04OVpzckVxX2V0M2gtYzI3UVdTZTdFaUREclVxRDNYT0pwNjRXQ3ZRR3BmZ1I5NFVHdGI4ZGJn?oc=5",
+        "pub_date": "Mon, 19 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -685,25 +645,9 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Bybit's Mantle Vault Captures Capital Flight to Safety with 50% AUM Jump in January - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMldCSUdFUlgxdEV6eEJfTGEzOHBIVW9yZHJOWEJUc3FoNlZKQmJVcG1HNzdadXRINDFseEVqcXQwZWhTb19vVWFNMEp3QXFma3lxSGtMX3ZJWUFGcVNMdlRBOWRpaXVqT1FmZ2pUVGVYYUY5QkFORzl2aUJFVzVYYlFJZjBWdW9OSm8xbzBPOHdJc0paMVBVSTdWRHVMYkQ0RGk0NjBFVzhCZzg2UlMtU1I5MGZtRUZKRjRaVVlJQUkzczhEMEhTZUkxQk5DWDYxM2VWVWtUNHNBUQ?oc=5",
-        "pub_date": "Wed, 04 Feb 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
         "title": "Coinbase In Talks For $25B Deal To Help Bybit Enter U.S. Market - BlockchainReporter",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX1pnSDRNNWlLSEtabkRwdV93cWJRa3lNQjRUbmFGZUVuNXdMek15R2pYdnhHb01UQkRNd2lFb3dYTlNpWWlvX0VEc2dRY2pVSHRWa3h0NHc2NEdQUVdvam1vYXJwNy1yZXZ4VFlJRy1ENWMwRlhyZFRXVkFHRGYxMVowcldSZWlVWnVybTB3U2RndWN4a0gzNw?oc=5",
         "pub_date": "Sat, 14 Mar 2026 18:03:22 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bybit",
-        "title": "Bybit EU Adopts Nasdaq's Market Surveillance Platform to Reinforce Compliance with MiCAR - Nasdaq",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGY3bXFwbnVURU1LWmlzeUVsRmx2U1IzV2dUMmJjOTdQVWF6dXNVNldUWS1wS0hYY1VWR0hGSHVEZUpRZm1DYVBxYUR3ZXk1RFZYNmlRcUp0bm9CSHJad2xtdXlKWldiRS1raUhPVFp6ejR3cE1fUkxmMzl1NmVHc0dzLVd6Y0xMS3g0SXI5aURUdUtfMndJbl9aTXAxdE9MOGluQ3hBU3FFdHdDRVhSemQ1dGM2bExqQl9OSHhB?oc=5",
-        "pub_date": "Thu, 28 Aug 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -725,9 +669,25 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Why Institutional Crypto Still Traps $60 Billion in Pre-Funded Accounts - thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1BaQ0g5VGQ0cmw4TmJ4a0NybUFNZXlyb3FTV2JrVURlOFFLcmY3dS1GY0MtNktJM1Rjal83WWtIUlBubU1BY05DbmI2NUZDemFjeEdJdVM5RjQxejFjS213VUlKdlBiSFFNZmxwRDA1TlhSX2EyTmhLbHFaYzhUWXdqeVpfdjZtMTBBSUh2ZlgzSWlydWxiQ1haa2xzYm1pQ0lXQ0hUQndGazFZODNZVEFsTUNuQQ?oc=5",
-        "pub_date": "Wed, 14 Jan 2026 08:00:00 GMT",
+        "title": "Philippines SEC Cracks Down on Unregistered Crypto Exchanges, Names Bybit, OKX, Bitget - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVlk0MXprNUZBdEg2S1RkN3QtRkotZ2M1ZkdkS1ljc3huUjdKTmF4TVhVV3hjVGpzX1BXSEhVdjJWSjNKUjg2bjBXSG5icXpuLTV6ZXY4YmtLS3FOR2xRWFlvWHBsRndpNWJzaHNBWjRLOGdQbl85NXdKc05WUTJNaTZMUWhuOGlHQWt2RE5ZOWxNSTdlMGFnN0pKclphdDFTQWZ4TkJURHRyTzRFcmhmaWVVNDZXLVBiakxiTlhiR29rZw?oc=5",
+        "pub_date": "Wed, 06 Aug 2025 07:00:00 GMT",
+        "sentiment": "negative",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bybit Pay Bring Crypto Payments to Peru’s Most Popular Digital Wallets, Yape and Plin - FF News | Fintech Finance",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbkp4MThNbVFqRmdEdzUteU9QSm5ma0o2TXNuZ1NDel9meGlFVllxRi1PU1Nsb2RKclZ5Q2w3cWJpMWRHTURXZzJGQlp5MDJBUXVZMmRWYTVFX2ZmTms0OFV5cVhvWHMzWDI2Q3NuRlZYQUotWGlIRkYzWEFEQTU0N1AxUGloSnJsUzVzV2lrOXpNQ21zMllxcm9mRjVoTkFGaTNyNTJ3dkQwZjVXWF9YcmRoNGtkd2pKV2xManBzVGpvT19aeFpvamRn?oc=5",
+        "pub_date": "Mon, 19 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bybit's Mantle Vault Captures Capital Flight to Safety with 50% AUM Jump in January - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMldCSUdFUlgxdEV6eEJfTGEzOHBIVW9yZHJOWEJUc3FoNlZKQmJVcG1HNzdadXRINDFseEVqcXQwZWhTb19vVWFNMEp3QXFma3lxSGtMX3ZJWUFGcVNMdlRBOWRpaXVqT1FmZ2pUVGVYYUY5QkFORzl2aUJFVzVYYlFJZjBWdW9OSm8xbzBPOHdJc0paMVBVSTdWRHVMYkQ0RGk0NjBFVzhCZzg2UlMtU1I5MGZtRUZKRjRaVVlJQUkzczhEMEhTZUkxQk5DWDYxM2VWVWtUNHNBUQ?oc=5",
+        "pub_date": "Wed, 04 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -741,9 +701,17 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWXQxWFgyWHN1cDFTSW9VcUdhNVJCYkhNYTlJVWpUSVB0WEhqNUxTc3VtUktNUDREcS1MZmVkd2NoUkxZUVF2UHFkMjN6cXQ3Y1cyTlp3aE9NalBnd1ZHZ2Q2Y3gyM2VjZFJKb3hYTUhOMEtWeHJQUE1VVHY0UjZlM2pZUFd2NkpYRC01SmV5M19KNTc5Q0FQWlR6Zi10X1lpSmlyblZPUENpc3ZucVNtZkFKeWVNZ3NlZFVvT0dsZG51TWRpejVJcXR3ck1XQkg5YnJLcHNXWGxWR1NtcjhUU1IzU3ItRzBsVE54UldUMmN0TldhbEpiTzVQMEFqUmU4?oc=5",
-        "pub_date": "Mon, 08 Dec 2025 08:00:00 GMT",
+        "title": "Why Institutional Crypto Still Traps $60 Billion in Pre-Funded Accounts - thestreet.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1BaQ0g5VGQ0cmw4TmJ4a0NybUFNZXlyb3FTV2JrVURlOFFLcmY3dS1GY0MtNktJM1Rjal83WWtIUlBubU1BY05DbmI2NUZDemFjeEdJdVM5RjQxejFjS213VUlKdlBiSFFNZmxwRDA1TlhSX2EyTmhLbHFaYzhUWXdqeVpfdjZtMTBBSUh2ZlgzSWlydWxiQ1haa2xzYm1pQ0lXQ0hUQndGazFZODNZVEFsTUNuQQ?oc=5",
+        "pub_date": "Wed, 14 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Bybit 2025 Recap: Unlocking 80 Million Users, Regulatory Achievements, Ecosystem Play - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSktxcTFIV0lad3Y5UlFPSjBPWS1BbXE4czQ2dTVQQU51OVk3djQtZGF4VjROQUVDWnhNYlJwNXh5NlNaYzhfT2piNHpkOEFIYXFaMF9RU2Y4ekpQbjR2Yi11dnBZUXFaTlpaSDh1MEdMTmkyMXB6eUJNaGFUSmR1RVBLQlhLZkthaDJlTE5DV1FxV0hzdE9zS2hRZDF6Z2swNFJSVlQ2N1JqV29VT191THpQdmRZNnBmNkVpRUt5NUhzSEYzcldhNk5NRURLMUNtMkREaHFWMDJ1dw?oc=5",
+        "pub_date": "Sat, 03 Jan 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -765,9 +733,9 @@
       },
       {
         "exchange": "Bybit",
-        "title": "Bybit 2025 Recap: Unlocking 80 Million Users, Regulatory Achievements, Ecosystem Play - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSktxcTFIV0lad3Y5UlFPSjBPWS1BbXE4czQ2dTVQQU51OVk3djQtZGF4VjROQUVDWnhNYlJwNXh5NlNaYzhfT2piNHpkOEFIYXFaMF9RU2Y4ekpQbjR2Yi11dnBZUXFaTlpaSDh1MEdMTmkyMXB6eUJNaGFUSmR1RVBLQlhLZkthaDJlTE5DV1FxV0hzdE9zS2hRZDF6Z2swNFJSVlQ2N1JqV29VT191THpQdmRZNnBmNkVpRUt5NUhzSEYzcldhNk5NRURLMUNtMkREaHFWMDJ1dw?oc=5",
-        "pub_date": "Sat, 03 Jan 2026 08:00:00 GMT",
+        "title": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWXQxWFgyWHN1cDFTSW9VcUdhNVJCYkhNYTlJVWpUSVB0WEhqNUxTc3VtUktNUDREcS1MZmVkd2NoUkxZUVF2UHFkMjN6cXQ3Y1cyTlp3aE9NalBnd1ZHZ2Q2Y3gyM2VjZFJKb3hYTUhOMEtWeHJQUE1VVHY0UjZlM2pZUFd2NkpYRC01SmV5M19KNTc5Q0FQWlR6Zi10X1lpSmlyblZPUENpc3ZucVNtZkFKeWVNZ3NlZFVvT0dsZG51TWRpejVJcXR3ck1XQkg5YnJLcHNXWGxWR1NtcjhUU1IzU3ItRzBsVE54UldUMmN0TldhbEpiTzVQMEFqUmU4?oc=5",
+        "pub_date": "Mon, 08 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -848,6 +816,30 @@
         "title": "Bybit 首席执行官 Ben Zhou 已与格鲁吉亚总理 Irakli Kobakhidze 会晤，双方重点讨论监管合作、金融科技创新及负责任增长在格鲁吉亚数字经济中的作用。Ben Zhou 称，格鲁吉亚正成为加密企业融入国家金融体系的示",
         "link": "https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=58260",
         "pub_date": "2026-03-17T15:51",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Mastercard kauft BVNK, das Londoner Stablecoin-Infrastruktur-Startup. Der Zahlungsriese gab am 17. März eine definitive ",
+        "link": "https://cvj.ch/aktuell/news/mastercard-uebernimmt-stablecoin-startup-bvnk-fuer-bis-zu-1-8-milliarden-dollar/",
+        "pub_date": "2026-03-17T15:49",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "Der Kryptomarkt zeigt erneut Lebenszeichen nach einer turbulenten Phase, wobei insbesondere Ethereum durch einen starken",
+        "link": "https://www.blockchainstories.de/2026/03/17/ethereum-zeigt-starke-erholung-nach-milliarden-liquidationen/",
+        "pub_date": "2026-03-17T15:40",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bybit",
+        "title": "De cryptomarkt laat opnieuw leven zien na een turbulente periode, waarbij vooral Ethereum opvalt door een sterke toename",
+        "link": "https://www.blockchainstories.com/2026/03/17/ethereum-laat-sterke-comeback-zien-na-miljardenliquidaties/",
+        "pub_date": "2026-03-17T15:40",
         "sentiment": "neutral",
         "source": "meltwater"
       },
