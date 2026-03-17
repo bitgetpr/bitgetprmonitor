@@ -169,7 +169,7 @@ def parse_feed(url, assigned_exchange=None):
         print("  [ERROR] XML parse error: {} -- {}".format(url[:60], e))
     return articles
 
-def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
+def fetch_meltwater(api_key, saved_search_ids, lookback_days=7):
     if not api_key:
         print("  [SKIP] No Meltwater API key set.")
         return []
