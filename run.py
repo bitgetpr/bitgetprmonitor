@@ -699,7 +699,7 @@ def main():
         datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")))
     print("=" * 60)
 
-MELTWATER_API_KEY = os.environ.get("MELTWATER_API_KEY", "")
+    MELTWATER_API_KEY = os.environ.get("MELTWATER_API_KEY", "")
     NEWSAPI_API_KEY   = os.environ.get("NEWSAPI_API_KEY", "")
     MELTWATER_SEARCHES = {k: v for k, v in {
         "26257006": "Binance",
