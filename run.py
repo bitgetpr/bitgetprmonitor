@@ -694,10 +694,10 @@ def generate_html(output):
     return page
 
 def main():
-    print("="  60)
+    print("=" * 60)
     print("Bitget PR Monitor -- {}".format(
         datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")))
-    print("="  60)
+    print("=" * 60)
 
     MELTWATERAPIKEY = os.environ.get("MELTWATERAPIKEY", "")
     NEWSAPIAPIKEY = os.environ.get("NEWSAPIAPIKEY", "")
