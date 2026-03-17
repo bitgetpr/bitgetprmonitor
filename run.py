@@ -93,6 +93,16 @@ DIRECT_FEEDS = {
     "https://thedefiant.io/api/feed":                   "all",
     "https://bitcoinist.com/feed/":                     "all",
     "https://ambcrypto.com/feed/":                      "all",
+    "https://u.today/rss":                              "all",
+    "https://coinjournal.net/feed/":                    "all",
+    "https://coinspeaker.com/feed/":                    "all",
+    "https://cryptonews.com/news/feed/":                "all",
+    "https://newsBTC.com/feed/":                        "all",
+    "https://www.investing.com/rss/news_301.rss":       "all",
+    "https://coincodecap.com/feed/":                    "all",
+    "https://blockchain.news/rss":                      "all",
+    "https://en.cryptonomist.ch/feed/":                 "all",
+    "https://insidebitcoins.com/news/feed":             "all",
 }
 
 def normalize_title(title):
