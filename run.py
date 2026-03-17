@@ -187,87 +187,69 @@ def fetch_meltwater(api_key, saved_search_ids, exchange_map, lookback_days=7):
     for search_id, exchange in saved_search_ids.items():
         print("  [Meltwater] Fetching search {} for {}...".format(search_id, exchange))
         try:
-            url  = base_url + "/v3/search/" + search_id
-            page = 1
-            while True:
-                payload = json.dumps({
-                    "start":      start_iso,
-                    "end":        end_iso,
-                    "page":       page,
-                    "page_size":  50,
-                    "sort_by":    "date",
-                    "sort_order": "desc",
-                    "tz":         "UTC",
-                    "template":   {"name": "api.json"},
-                }).encode("utf-8")
-                req = urllib.request.Request(
-                    url,
-                    data=payload,
-                    headers=auth_headers,
-                    method="POST"
-                )
-                for attempt in range(3):
-                    try:
-                        with urllib.request.urlopen(req, timeout=15) as resp:
-                            data = json.loads(resp.read())
-                        break
-                    except urllib.error.HTTPError as e:
-                        if e.code == 429:
-                            retry_after = e.headers.get("Retry-After")
-                            body = e.read().decode("utf-8", errors="ignore")[:200]
-                            print("  [WARN] 429 Retry-After={} body={}".format(retry_after, body))
-                            wait = int(retry_after) if retry_after else 60 * (attempt + 1)
-                            print("  [WARN] Waiting {}s...".format(wait))
-                            time.sleep(wait)
-                        else:
-                            raise
+            url = base_url + "/v3/search/" + search_id
+            payload = json.dumps({
+                "start":      start_iso,
+                "end":        end_iso,
+                "page":       1,
+                "page_size":  50,
+                "sort_by":    "date",
+                "sort_order": "desc",
+                "tz":         "UTC",
+                "template":   {"name": "api.json"},
+            }).encode("utf-8")
+            req = urllib.request.Request(
+                url,
+                data=payload,
+                headers=auth_headers,
+                method="POST"
+            )
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                data = json.loads(resp.read())
+            mentions = (data.get("result") or {}).get("documents", [])
+            for m in mentions:
+                content = m.get("content") or ""
+                if isinstance(content, str):
+                    title = content[:120]
+                elif isinstance(content, dict):
+                    raw = content.get("text") or content.get("body") or content.get("opening_text") or ""
+                    title = raw[:120]
                 else:
-                    print("  [WARN] Skipping {} after 3 failed attempts.".format(exchange))
-                    break
-                batch = (data.get("result") or {}).get("documents", [])
-                if not batch:
-                    break
-                total = (data.get("result") or {}).get("document_count", 0)
-                print("  [Meltwater] {} page {}/{} ({} so far)".format(
-                    exchange, page, -(-total // 50), len(articles)))
-                for m in batch:
-                    content = m.get("content") or ""
-                    if isinstance(content, str):
-                        title = content[:120]
-                    elif isinstance(content, dict):
-                        raw = content.get("text") or content.get("body") or content.get("opening_text") or ""
-                        title = raw[:120]
-                    else:
-                        title = str(content)[:120]
-                    link     = m.get("url") or ""
-                    pub      = m.get("published_date") or ""
-                    enrich   = m.get("enrichments") or {}
-                    sent_raw = enrich.get("sentiment") or ""
-                    if isinstance(sent_raw, dict):
-                        mw_sent = (sent_raw.get("label") or "").lower()
-                    else:
-                        mw_sent = str(sent_raw).lower()
-                    if mw_sent in ("positive", "negative", "neutral"):
-                        sentiment = mw_sent
-                    else:
-                        sentiment = score_sentiment(title)
-                    if not title:
-                        continue
-                    articles.append({
-                        "exchange":  exchange,
-                        "title":     title,
-                        "link":      link,
-                        "pub_date":  pub[:16] if pub else "",
-                        "sentiment": sentiment,
-                        "source":    "meltwater",
-                    })
-                page += 1
-                time.sleep(2)
+                    title = str(content)[:120]
+                link     = m.get("url") or ""
+                blocked_domains = [
+                    "bitget.com", "binance.com", "mexc.com",
+                    "okx.com", "bybit.com","kucoin.com",
+                ]
+                if any(d in link for d in blocked_domains):
+                    continue
+                pub      = m.get("published_date") or ""
+                enrich   = m.get("enrichments") or {}
+                sent_raw = enrich.get("sentiment") or ""
+                if isinstance(sent_raw, dict):
+                    mw_sent = (sent_raw.get("label") or "").lower()
+                else:
+                    mw_sent = str(sent_raw).lower()
+                if mw_sent in ("positive", "negative", "neutral"):
+                    sentiment = mw_sent
+                else:
+                    sentiment = score_sentiment(title)
+                if not title:
+                    continue
+                articles.append({
+                    "exchange":  exchange,
+                    "title":     title,
+                    "link":      link,
+                    "pub_date":  pub[:16] if pub else "",
+                    "sentiment": sentiment,
+                    "source":    "meltwater",
+                })
         except Exception as e:
             print("  [ERROR] Meltwater fetch failed for {}: {}".format(exchange, e))
-        time.sleep(30)
+        time.sleep(0.3)
     print("  [Meltwater] {} articles fetched.".format(len(articles)))
     return articles
+
     
 LAST_WEEK_PATH = "data/last_week_sov.json"
 
