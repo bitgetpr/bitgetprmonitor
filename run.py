@@ -803,8 +803,8 @@ def main():
         history = [w for w in history if w["week"] != week_entry["week"]]
         history.append(week_entry)
         history = history[-8:]
-        with open(ex_path, "w", encoding="utf-8", ensure_ascii=False) as f:
-            json.dump(history, f, indent=2)
+        with open(ex_path, "w", encoding="utf-8") as f:
+            json.dump(history, f, indent=2, ensure_ascii=False)
     print("Per-exchange news history written.")
 
     print("\n-- Share of Voice --")
