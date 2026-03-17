@@ -732,15 +732,19 @@ def main():
                 all_articles.append(article)
 
     print("\n[3/3] Fetching Meltwater...")
-    if MELTWATER_API_KEY and MELTWATER_SEARCHES:
-        for article in fetch_meltwater(MELTWATER_API_KEY, MELTWATER_SEARCHES, EXCHANGES):
-            if not is_duplicate(article["title"], seen_titles):
-                seen_titles.append(normalize_title(article["title"]))
-                all_articles.append(article)
-    else:
-        print("  [SKIP] Set MELTWATER_API_KEY + search IDs to enable.")
+if MELTWATER_API_KEY and MELTWATER_SEARCHES:
+    meltwater_articles = fetch_meltwater(MELTWATER_API_KEY, MELTWATER_SEARCHES)
+else:
+    print("  [SKIP] Set MELTWATER_API_KEY + search IDs to enable.")
+    meltwater_articles = []
+    meltwater_articles = []
 
-    print("\nTotal unique articles: {}".format(len(all_articles)))
+
+
+for article in meltwater_articles + newsapi_articles:
+    if not is_duplicate(article["title"], seen_titles):
+        seen_titles.append(normalize_title(article["title"]))
+        all_articles.append(article)
 
     mention_counts   = defaultdict(int)
     sentiment_counts = defaultdict(lambda: {"positive": 0, "negative": 0, "neutral": 0})
