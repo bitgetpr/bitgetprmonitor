@@ -1,21 +1,13 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-17T12:32:26.956317+00:00",
+    "generated_at": "2026-03-17T15:56:39.489264+00:00",
     "articles": [
       {
         "exchange": "MEXC",
-        "title": "XRP Spot Trading Volume Skyrockets 115%: Upbit Leads $1.84 Billion Surge - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9DYkQxWjNJcFhuUHZvaTZZT0ZVS3RsWV9fbjBpMEpMN0ZMY3hkM3FoczJSTFlUcFBtUFlON1lvSEltYkhwczI4?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 12:14:20 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Monteriqo Review: Crypto Exchange Platform Launches Spot Trading, Futures, Staking, and Fiat On-Ramp for US and European Users - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE15NThCaWNYZlNhR1VDMk5QelJGLV91Y01YWndtbzA3VklYOFJEUWxlRjhJeFA3MkJDbnNjVjlTcFBrWEJFYXkw?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 15:11:15 GMT",
+        "title": "Vietnamese Crypto Exchange Milestone: Five Pioneering Firms Pass Historic Qualification Review - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80M3VacEdhMFgyblE4VFZrWndscE9HUDBITlVxR0tBM1pNVU9MZ1V0Zkl4SXp6QTVuZnNjbmtrUzV5dGpzN3FN?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 12:22:12 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -29,6 +21,38 @@
       },
       {
         "exchange": "MEXC",
+        "title": "MEXC Brings Zero-Fee Trading to Prediction Markets - Finance Magnates",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2VYN0VwZ25GOGhEaVVCNUcxMjUza04xT0NjNjhvakF2VUVfMW9oUTF5VEEwdlVZY0dzbzhBVVpMU21zSjBaSFdtRTlnSWdXelB5YV9aYmoyLTNIQmJEdDBEQkdnMkhmYkxKU0U5TTE3LXNlRnlQdC1veEMyb3k5cWdqR0tUOXJhUktfYzh6dWg3eV8wd1dLT21XcW5pZU4zaXgwTzAxVmZnQ0HSAbABQVVfeXFMTmM2bHI0ejRxbDM5dzVreGdiUW9FM3VyNlVtY2hoZDdOV2RsZG9DVUFZcERsVkU2cHRtb1V4OXZOR18wMUFVVVlmRGNmQzBiOUotWnlaT0t6MTBLWjh3a3I2c0N0R3ctOFVMVXMzOVduNGRpN0hKQ1Rmd05sSk9kSEx2aGktRUJlRkh1dlNHNUR2REZTTTZWMU9rMm1nbmhiOGJJS3NBRFppOU1Ra3hTWkw?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 11:44:58 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "XRP Spot Trading Volume Skyrockets 115%: Upbit Leads $1.84 Billion Surge - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9DYkQxWjNJcFhuUHZvaTZZT0ZVS3RsWV9fbjBpMEpMN0ZMY3hkM3FoczJSTFlUcFBtUFlON1lvSEltYkhwczI4?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 12:14:20 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC vs Major Crypto Exchanges: Fees, Security & Features Compared 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xQlhZWUhNN3NRcXo4c2ZfRmhfVS03SEIyNzV0WmxxYmtMSHFZMFpfV1YzSFc2S045Nm05eC04b2YxeC1SSkVFclBHekpxN2lqNVpZTTM3ZWlIZ25xeGfSAV5BVV95cUxNMUJYWVlITTdzUXF6OHNmX0ZoX1UtN0hCMjc1dFpscWJrTEhxWTBaX1dWM0hXNktOOTZtOXgtOG9mMXgtUkpFRXJQR3pKcTdpajVaWU0zN2VpSGducXhn?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 05:54:01 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Monteriqo Review: Crypto Exchange Platform Launches Spot Trading, Futures, Staking, and Fiat On-Ramp for US and European Users - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE15NThCaWNYZlNhR1VDMk5QelJGLV91Y01YWndtbzA3VklYOFJEUWxlRjhJeFA3MkJDbnNjVjlTcFBrWEJFYXkw?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 15:11:15 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
         "title": "Is MEXC Safe for Beginners? Security Review & Risk Analysis 2026 - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Mck9SQUc4TmhiUWdNMjdpZGlNcHpDN1RQZ05WV1d1Y3lnNm5XLXFTQXZqWjdkTE85NlZJUk1xMmVGSlBfTHBQVkFOUUNWXzNsTjVzcTBUY2x4U1pKQ1p4bGFhMl_SAWRBVV95cUxOTHJPUkFHOE5oYlFnTTI3aWRpTXB6QzdUUGdOVldXdWN5ZzZuVy1xU0F2alo3ZExPOTZWSVJNcTJlRkpQX0xwUFZBTlFDVl8zbE41c3EwVGNseFNaSkNaeGxhYTJf?oc=5",
         "pub_date": "Tue, 17 Mar 2026 06:18:21 GMT",
@@ -37,9 +61,33 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC vs Major Crypto Exchanges: Fees, Security & Features Compared 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tWDVqbXlOcksxSUJDMDdBNHFmOVBJNWR1a0lQdFc3NndvUUlWNktHcHFlU05XejZMUjdIa1lDU25PQkVIZzkyWENDemZNYTNMZVBSel9ZVVPSAV5BVV95cUxNMUJYWVlITTdzUXF6OHNmX0ZoX1UtN0hCMjc1dFpscWJrTEhxWTBaX1dWM0hXNktOOTZtOXgtOG9mMXgtUkpFRXJQR3pKcTdpajVaWU0zN2VpSGducXhn?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 05:54:01 GMT",
+        "title": "Following institutional backing and price increases, let's re-examine the true value of Bittensor's 128 subnets. - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBOdFVfNTFBNVJqN3B0d0NXdktNdEZOMkctU2VIT0RxZFUtSkhvTzZJNHpBcDRneVc1SnlKQVUxenBOMl9jcHc0?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 15:32:38 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Mexc or Binance, Which Crypto Exchange Is Better for Buying Gold? The 2026 Macro Ecosystem Showdown - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLVRUWU9GVGc4MmVkdEwxcHQ1bkdFRGJHNXFITHF4LUpUMzFNVHBaejNJaWxxdmROVWF0UkhmSFFnTGhsYkNUMVMzT1Y2aFB4UHlldDR0SjBRdkxVcm1sdEpGTUpfM1RRT05sb2VfRHhmY0xPT3BDaHFZU3JtV2ZUZjJ3WlBUUUZxS0g2SjItMEk3M1lIOUlvSW1CRnBIREVCZ1VlbWN1RHJEV0V2NWc1ZFhHNkVmUExmeldGZndRYVo4bWZ1YmYtbmJCMWRaZU1RR0Q0?oc=5",
+        "pub_date": "Fri, 13 Mar 2026 07:00:00 GMT",
+        "sentiment": "negative",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Best Crypto Exchanges to Grow Your Assets With Staking - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FazFtSHNjWGtoTjNzY0Z4WVQ4THMxVGZ1V3NibzQzZDI3ZGhUdGJPa3pxM2U5b2tsUzdZeTVRSjJaTElYTGhF?oc=5",
+        "pub_date": "Sat, 14 Mar 2026 04:18:19 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Zcash and MemeCore Soar by Double Digits, Bitcoin Touched $76K: Market Watch - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsTGxkQlJOQU1MTnBKMU1YdkxHSHNsRnV3VjgyN0pfT0VPcjVtZTgzekgwY2lzYXRGaFdhcXh2R093bDl0X1VJ?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 11:58:11 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -53,41 +101,9 @@
       },
       {
         "exchange": "MEXC",
-        "title": "Zcash and MemeCore Soar by Double Digits, Bitcoin Touched $76K: Market Watch - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsTGxkQlJOQU1MTnBKMU1YdkxHSHNsRnV3VjgyN0pfT0VPcjVtZTgzekgwY2lzYXRGaFdhcXh2R093bDl0X1VJ?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 11:58:11 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Best Crypto Exchanges to Grow Your Assets With Staking - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FazFtSHNjWGtoTjNzY0Z4WVQ4THMxVGZ1V3NibzQzZDI3ZGhUdGJPa3pxM2U5b2tsUzdZeTVRSjJaTElYTGhF?oc=5",
-        "pub_date": "Sat, 14 Mar 2026 04:18:19 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Ethereum Breaks Above $2,200 as Crypto Market Pushes Higher - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54RnZ5am40THdQVGZFa0oyMTVORXNSOTZsT1dwRHlkZV9uYk1RQUlYQ3ZoMHRnczhpUmY1Q1ltS2FYWnRzRTFB?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 18:51:16 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Can US Users Access MEXC? Best Alternative Crypto Exchanges in 2026 - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CY0E4TmNGWFl5UFN5c28waWxyWkpsN1hQTEJOSjB2R1pZZGh2OFlyb2FEVXBsdFBJUFBzdnNBRU9jdjExWEVBcktkYmlfemtDNGNiR0dBMHAxRFdSMl80bTZod3RpUdIBZkFVX3lxTE9CY0E4TmNGWFl5UFN5c28waWxyWkpsN1hQTEJOSjB2R1pZZGh2OFlyb2FEVXBsdFBJUFBzdnNBRU9jdjExWEVBcktkYmlfemtDNGNiR0dBMHAxRFdSMl80bTZod3RpUQ?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 16:19:49 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "RAX Protocol Price Today: Live RAX to GBP Price Chart & Market Data in United Kingdom - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlblBTNnh1WnIySWtFeHpjbzhndm9iWnc0NTVORkpNc1dMNVlyb3BydzV3dnRmaFU4bmRMdWZzQ2ZGdVd5NTJrZmZaZU8?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 23:00:03 GMT",
+        "title": "Solana (SOL) Price: SOL Explodes Higher — Traders Are Now Watching This One Key Level - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE04Ml9oM1JybnVsZUUzM2NTcllUM2RNYy10TEtDRW5TRE9wNEZLY1g4UnRjSlBKSE5IMHkyR0lVVVV2SXJ2WFBZ?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 13:04:15 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -101,25 +117,17 @@
       },
       {
         "exchange": "MEXC",
-        "title": "This Crypto Trader Predicts Where the Zcash (ZEC) Price Is Headed Next - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE44Rm4tNU5ubFBDd0dhZHBHYTBHRDRsSTZYaVJYUDlxMGRXc3kzYlFNMi1wakZ4QmVfa3NWbHduUGUyeURfVVA4?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 07:47:43 GMT",
+        "title": "RAX Protocol Price Today: Live RAX to GBP Price Chart & Market Data in United Kingdom - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlblBTNnh1WnIySWtFeHpjbzhndm9iWnc0NTVORkpNc1dMNVlyb3BydzV3dnRmaFU4bmRMdWZzQ2ZGdVd5NTJrZmZaZU8?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 23:00:03 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Launches Prediction Markets — a Polymarket Rival in the Making? - CCN.com",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2UyRUVhRGNtamhmcG5PZF9WWFhUckdVcnRhLXNkWVlNVHVlN3JKcHBoclNPNjhmNndGWlAxMVhyZUJJdGZCS29WSWxwLXRaS3BzRXVkdnlmM3VEMU9KaWZEM3l0T2JIdzBDWkgzUFBBcFBpTnVnSUUzU2g0QUdyNm9uTGhGYVpmZEV4YnNIanNoMmtDdTRvSTBBRzIyLWM?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 23:54:17 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Universal HighIncome (INCOME) Tokenomics: Market Insights, Token Supply, Distribution & Price Data | MEXC - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5VFFuY2FNSG51eGo3R1VKbVRmcU54Z0QtU1lodlFDQjBqSkRXc1JyTW51OWlOUUNLamhISnFYMTV2UmhmTWJkaDBjOGlSRjlLVW1iYkpJRll2alBRQnZj?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 17:00:01 GMT",
+        "title": "Ethereum Breaks Above $2,200 as Crypto Market Pushes Higher - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54RnZ5am40THdQVGZFa0oyMTVORXNSOTZsT1dwRHlkZV9uYk1RQUlYQ3ZoMHRnczhpUmY1Q1ltS2FYWnRzRTFB?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 18:51:16 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -133,9 +141,33 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Brings Zero-Fee Trading to Prediction Markets - Finance Magnates",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2VYN0VwZ25GOGhEaVVCNUcxMjUza04xT0NjNjhvakF2VUVfMW9oUTF5VEEwdlVZY0dzbzhBVVpMU21zSjBaSFdtRTlnSWdXelB5YV9aYmoyLTNIQmJEdDBEQkdnMkhmYkxKU0U5TTE3LXNlRnlQdC1veEMyb3k5cWdqR0tUOXJhUktfYzh6dWg3eV8wd1dLT21XcW5pZU4zaXgwTzAxVmZnQ0HSAbABQVVfeXFMTmM2bHI0ejRxbDM5dzVreGdiUW9FM3VyNlVtY2hoZDdOV2RsZG9DVUFZcERsVkU2cHRtb1V4OXZOR18wMUFVVVlmRGNmQzBiOUotWnlaT0t6MTBLWjh3a3I2c0N0R3ctOFVMVXMzOVduNGRpN0hKQ1Rmd05sSk9kSEx2aGktRUJlRkh1dlNHNUR2REZTTTZWMU9rMm1nbmhiOGJJS3NBRFppOU1Ra3hTWkw?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 11:44:58 GMT",
+        "title": "MEXC Launches Prediction Markets — a Polymarket Rival in the Making? - CCN.com",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2UyRUVhRGNtamhmcG5PZF9WWFhUckdVcnRhLXNkWVlNVHVlN3JKcHBoclNPNjhmNndGWlAxMVhyZUJJdGZCS29WSWxwLXRaS3BzRXVkdnlmM3VEMU9KaWZEM3l0T2JIdzBDWkgzUFBBcFBpTnVnSUUzU2g0QUdyNm9uTGhGYVpmZEV4YnNIanNoMmtDdTRvSTBBRzIyLWM?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 23:54:17 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "This Crypto Trader Predicts Where the Zcash (ZEC) Price Is Headed Next - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE44Rm4tNU5ubFBDd0dhZHBHYTBHRDRsSTZYaVJYUDlxMGRXc3kzYlFNMi1wakZ4QmVfa3NWbHduUGUyeURfVVA4?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 07:47:43 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Can US Users Access MEXC? Best Alternative Crypto Exchanges in 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CY0E4TmNGWFl5UFN5c28waWxyWkpsN1hQTEJOSjB2R1pZZGh2OFlyb2FEVXBsdFBJUFBzdnNBRU9jdjExWEVBcktkYmlfemtDNGNiR0dBMHAxRFdSMl80bTZod3RpUdIBZkFVX3lxTE9CY0E4TmNGWFl5UFN5c28waWxyWkpsN1hQTEJOSjB2R1pZZGh2OFlyb2FEVXBsdFBJUFBzdnNBRU9jdjExWEVBcktkYmlfemtDNGNiR0dBMHAxRFdSMl80bTZod3RpUQ?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 16:19:49 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Fact Check: Pi Network Support Native Tokens and Memecoins Soon - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVUjVUbW92TXAtUHdnMWVVcGpUZHNNd0JvZDFwVEptNHp6bHlHUWptNWw3SGhBVlVOQjZxZFFYWDFySk5EQWpJ?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 13:00:36 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -149,25 +181,17 @@
       },
       {
         "exchange": "MEXC",
-        "title": "Zcash (ZEC) Jumps 12%: Can the Momentum Fuel a Bigger Weekly Run? - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBPTVpqN0xyV2pJRmpzMHFRb3hFUDlVa1RlcEhqand2U2g5VW41R1hBRTlIRnNHX2FJcDZYSUFLak1DQmx0YVRz?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 11:58:11 GMT",
+        "title": "Universal HighIncome (INCOME) Tokenomics: Market Insights, Token Supply, Distribution & Price Data | MEXC - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5VFFuY2FNSG51eGo3R1VKbVRmcU54Z0QtU1lodlFDQjBqSkRXc1JyTW51OWlOUUNLamhISnFYMTV2UmhmTWJkaDBjOGlSRjlLVW1iYkpJRll2alBRQnZj?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 17:00:01 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "MEXC",
-        "title": "Circle Internet (CRCL) Stock Jumps 7% After Clear Street Upgrade - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qN243cTQxRmNkekdhcmp2NEx6WmtKUFV1Y0dHbFpjcXVvMFlncElRM3ctNllOYmJKSGZ2X05XLUZVdXFWVHNZ?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 16:06:49 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Oil Futures Dominate On Crypto Exchange Hyperliquid, Surpassing ETH & BTC - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5EaUZmOUlPTmVzQk5IOERWMHMteHZaSk11RzVOVjZfcDdpX3RCSmNXdE1vaWE1ZDZoWTlYUEUtVXMwUzVtYmlr?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 19:42:36 GMT",
+        "title": "Zcash (ZEC) Jumps 12%: Can the Momentum Fuel a Bigger Weekly Run? - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBPTVpqN0xyV2pJRmpzMHFRb3hFUDlVa1RlcEhqand2U2g5VW41R1hBRTlIRnNHX2FJcDZYSUFLak1DQmx0YVRz?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 11:58:11 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -181,17 +205,9 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC launches prediction market platform amid surge in event-based trading - Crypto Briefing",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Zk5Td3J5Um02NmdBcXFZdzd2NEl1YUFMY0ZWYUtOb2RQRl91TDFmTXE5WFNzWWVxVU1McmxOYjQyVkVjTS1FVkl0bUpibjdHMmZEZ2wxRF9UVkg1MlM4akV3MDhfbXhoWU04?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 16:54:55 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "WLD Price Prediction: Targets $0.55-$0.62 by Mid-April as Technical Indicators Show Mixed Signals - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9jcDAwX2t1RWtvZGh1Uk1nYzBLeVlfOVAyLWtjalF6UXktbTFVZ0RPZ21yekZZckllTkVtelY5WXg0NUkxMzU4?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 11:00:08 GMT",
+        "title": "Oil Futures Dominate On Crypto Exchange Hyperliquid, Surpassing ETH & BTC - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5EaUZmOUlPTmVzQk5IOERWMHMteHZaSk11RzVOVjZfcDdpX3RCSmNXdE1vaWE1ZDZoWTlYUEUtVXMwUzVtYmlr?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 19:42:36 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -200,22 +216,6 @@
         "title": "The illusion of movement: How Coinbase’s 800,000 BTC migration exposes the flaw in raw Bitcoin age metrics - MEXC",
         "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43OFBOQnkxSWxMRnFpUlhmanJHRHF1OWhmUWZDSk9iNDZnalZkTnRjTUdkTkhIM3Z6TTU5eUpKU2s0dHR4NUh3?oc=5",
         "pub_date": "Sun, 15 Mar 2026 18:57:06 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "BlackRock: Exotic ETF Structures Not Part of Its Crypto Strategy - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51cmxRVW1CeW9tTGhWckNaOG5kckdMa3ZGNTdlWi1xNEk2SmZZeWozMzc5bkJyR2JSRlRRWFcwckhPMTVLRWxz?oc=5",
-        "pub_date": "Sat, 14 Mar 2026 07:02:30 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Stablecoin News: Circle Is Minting Billions in USDC While Crypto Recovers - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pTmRuTlA2UTRGZlhYTnRiQUc5TjlEMldsb0w0ZHFla0N0cm9ISUtMTWtWa3p4MWtQcU1hSVRRaFNxcDJYVVNz?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 13:00:39 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -245,17 +245,17 @@
       },
       {
         "exchange": "MEXC",
-        "title": "US Auto Insurance Industry Statistics 2026: What You Must Know Now - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB3STNrbE03ZHBOMHhoY1pIcUtmd1FEamJqRUg2bU1jbDlYdTFuWEZnczlKZi1kOUFCVWZzYlJLcUJPUjR5Ti1n?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 06:49:04 GMT",
+        "title": "Next Crypto to Explode: Pepeto Crosses $7.99M as Strategy Buys BTC for the 100th Time and Presale Wallets Stack - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oOUNlNDdmQmozcGl3VW5IY0hqUmQzYXZTVENNNkp6WHJzRDlUdlB3My1JcWZSd3NHS2VaLTd3eWVLV01tWWNB?oc=5",
+        "pub_date": "Sun, 15 Mar 2026 22:02:24 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "MEXC",
-        "title": "Next Crypto to Explode: Pepeto Crosses $7.99M as Strategy Buys BTC for the 100th Time and Presale Wallets Stack - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oOUNlNDdmQmozcGl3VW5IY0hqUmQzYXZTVENNNkp6WHJzRDlUdlB3My1JcWZSd3NHS2VaLTd3eWVLV01tWWNB?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 22:02:24 GMT",
+        "title": "Stablecoin News: Circle Is Minting Billions in USDC While Crypto Recovers - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pTmRuTlA2UTRGZlhYTnRiQUc5TjlEMldsb0w0ZHFla0N0cm9ISUtMTWtWa3p4MWtQcU1hSVRRaFNxcDJYVVNz?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 13:00:39 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -269,9 +269,9 @@
       },
       {
         "exchange": "MEXC",
-        "title": "Metaplanet comes out of two-month hibernation with plans to raise $234 million for BTC - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9iYVhCZEZYcENQRW9Sc3FZeDFwV2RZZ19rb2dEWi11TVZxdmU2N3J5b2xKQ2prVi1MYnU4OEdBS2hoRS1maWpv?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 22:02:06 GMT",
+        "title": "WLD Price Prediction: Targets $0.55-$0.62 by Mid-April as Technical Indicators Show Mixed Signals - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9jcDAwX2t1RWtvZGh1Uk1nYzBLeVlfOVAyLWtjalF6UXktbTFVZ0RPZ21yekZZckllTkVtelY5WXg0NUkxMzU4?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 11:00:08 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -285,25 +285,9 @@
       },
       {
         "exchange": "MEXC",
-        "title": "OpenSea postpones SEA token launch amid challenging conditions - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1RTWpvOUZGUkZ6Q2dGNEp5ZDYwZlJWUTNrdmxuQ1pfVVVxWDlMS05EUzNkMDBnUEpFdnlneklEMV91UklzT1dj?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 03:59:03 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
         "title": "Crypto Fear & Greed Index Plummets to 15: Decoding the Market’s Deepening Anxiety - MEXC",
         "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpZzRQaDVCbHdQT1pGM3h6N05tclZjckZuZW9rQ3hQNGE3bXI0R29CaXh6c2lCY0hfeDFVN056ZExEd1NPRHQw?oc=5",
         "pub_date": "Mon, 16 Mar 2026 02:00:32 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Kraken Exchange to List Pi Network Token on March 13 - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Ca2VvVk5xRjEtYUctV1phZjJ4eHBXRUJkNGJpOEtpUTdJcGJ4WVVTVUlveU5qdDhpMnFjUXdHSWlDYXI5R19v?oc=5",
-        "pub_date": "Thu, 12 Mar 2026 09:30:29 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -317,9 +301,97 @@
       },
       {
         "exchange": "MEXC",
+        "title": "Kraken Exchange to List Pi Network Token on March 13 - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Ca2VvVk5xRjEtYUctV1phZjJ4eHBXRUJkNGJpOEtpUTdJcGJ4WVVTVUlveU5qdDhpMnFjUXdHSWlDYXI5R19v?oc=5",
+        "pub_date": "Thu, 12 Mar 2026 09:30:29 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
         "title": "Former UK Prime Minister Boris Johnson Calls Bitcoin a Ponzi Scheme - MEXC",
         "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5tdWRaQ3BDd0lCWXFFYVkxMFVYOGFnNkFDelFJeVFUTUpTVzRZenh1elE3YTFZdjdFam5sbFpsV2tjblFvTDE4?oc=5",
         "pub_date": "Sat, 14 Mar 2026 20:59:39 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Best Crypto Exchanges in 2026: Where to Trade Digital Assets Safely - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5nMENyNkRyOEdqZDBiMVA3R0NlQ0sxdGpxRGxJZmFWZWJodEl4Y1EzVnlHMjdfYmN3Q2ZtazFtX2Y4UXNkdnFR?oc=5",
+        "pub_date": "Tue, 24 Feb 2026 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC launches prediction market platform amid surge in event-based trading - Crypto Briefing",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Zk5Td3J5Um02NmdBcXFZdzd2NEl1YUFMY0ZWYUtOb2RQRl91TDFmTXE5WFNzWWVxVU1McmxOYjQyVkVjTS1FVkl0bUpibjdHMmZEZ2wxRF9UVkg1MlM4akV3MDhfbXhoWU04?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 16:54:55 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Uniswap Price Prediction 2026-2030: Can the DeFi Giant Realistically Reach $50? - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PQks0RDVnRVJfMEo2NklxekgtM3ktdnlpUGF5SktNZjNJVFVENW4tb01IcTRCcHJ5TkRES1pYcDRaSF9NZEFV?oc=5",
+        "pub_date": "Sun, 15 Mar 2026 08:48:59 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Circle Internet (CRCL) Stock Jumps 7% After Clear Street Upgrade - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qN243cTQxRmNkekdhcmp2NEx6WmtKUFV1Y0dHbFpjcXVvMFlncElRM3ctNllOYmJKSGZ2X05XLUZVdXFWVHNZ?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 16:06:49 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "OpenSea postpones SEA token launch amid challenging conditions - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1RTWpvOUZGUkZ6Q2dGNEp5ZDYwZlJWUTNrdmxuQ1pfVVVxWDlMS05EUzNkMDBnUEpFdnlneklEMV91UklzT1dj?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 03:59:03 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "US Auto Insurance Industry Statistics 2026: What You Must Know Now - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB3STNrbE03ZHBOMHhoY1pIcUtmd1FEamJqRUg2bU1jbDlYdTFuWEZnczlKZi1kOUFCVWZzYlJLcUJPUjR5Ti1n?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 06:49:04 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Metaplanet comes out of two-month hibernation with plans to raise $234 million for BTC - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9iYVhCZEZYcENQRW9Sc3FZeDFwV2RZZ19rb2dEWi11TVZxdmU2N3J5b2xKQ2prVi1MYnU4OEdBS2hoRS1maWpv?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 22:02:06 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Punitive tax rates tarnish the crypto haven image of Belarus - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5TlBtSm8zZDVuTWY3eWhJaGV5Wkx1elRrclVnWXplVWh0X3FhNHIwckNESVE0b1VyekxBd2ltcjcxYUx6b0FmNTE3Sng0d0U?oc=5",
+        "pub_date": "Thu, 12 Mar 2026 07:46:35 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Cardano Price Prediction Turns Bullish, While Pepeto’s Whale Wallets Load Ground Floor Positions Before the Listing Reprices Everything - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE95dWVBYlJoa0JwOWJhYkxXdUExOEczOUdvOHFHejhWSzhMdDF2Zl9CQ2JOZGZPZm5TVkl2YkxTZ1ExeVk1Y19F?oc=5",
+        "pub_date": "Sun, 15 Mar 2026 21:31:09 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Top Popular Crypto Exchanges in 2026 - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sN0V5Zno5QlkwNnQ3TnpPSmxWcTVLWE83dG5MSU1BSXVMUk1xaEQwR1ZHem5OdDBZT2RkRmxzVE1YZU85U1Nz?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 16:00:55 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -341,58 +413,10 @@
       },
       {
         "exchange": "MEXC",
-        "title": "Best Crypto Exchanges in 2026: Where to Trade Digital Assets Safely - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5nMENyNkRyOEdqZDBiMVA3R0NlQ0sxdGpxRGxJZmFWZWJodEl4Y1EzVnlHMjdfYmN3Q2ZtazFtX2Y4UXNkdnFR?oc=5",
-        "pub_date": "Tue, 24 Feb 2026 08:00:00 GMT",
+        "title": "DOJ investigates Binance transactions suspected of funding Iran proxies - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ibUhValVkOXNydm83TGxMd0pDMUFkM0ZodWhzRF9nRVRPYU5mbHVCT0d6cmdwN3VQMnFuRFpvZUlSaUFZZlhN?oc=5",
+        "pub_date": "Wed, 11 Mar 2026 12:57:50 GMT",
         "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Uniswap Price Prediction 2026-2030: Can the DeFi Giant Realistically Reach $50? - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PQks0RDVnRVJfMEo2NklxekgtM3ktdnlpUGF5SktNZjNJVFVENW4tb01IcTRCcHJ5TkRES1pYcDRaSF9NZEFV?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 08:48:59 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Top Popular Crypto Exchanges in 2026 - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sN0V5Zno5QlkwNnQ3TnpPSmxWcTVLWE83dG5MSU1BSXVMUk1xaEQwR1ZHem5OdDBZT2RkRmxzVE1YZU85U1Nz?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 16:00:55 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Bitcoin Exchange Balances Hit All Time Low as Investors Move BTC to Long Term Storage - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBYVl9aTE9sTFFLa3EwM1l6VFdmQkpMZWlDRW1HZVhCbF9PLURBWEIyd19oUjBEYno2UlRDZ3hidUNaLTFGWXdN?oc=5",
-        "pub_date": "Tue, 10 Mar 2026 21:32:03 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Cardano Price Prediction Turns Bullish, While Pepeto’s Whale Wallets Load Ground Floor Positions Before the Listing Reprices Everything - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE95dWVBYlJoa0JwOWJhYkxXdUExOEczOUdvOHFHejhWSzhMdDF2Zl9CQ2JOZGZPZm5TVkl2YkxTZ1ExeVk1Y19F?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 21:31:09 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Pi Network $Pi Price Speculation: What Would Happen if the Token Hits $100? - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83YmtSWkt1Qlktb3B0ZU52NEtzTGZieEJkMUthYUQ5eVhPdzZnQXVILXJnaTJjVGFybFRIUHB0NzVIQVV6eGcw?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 15:58:53 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Takenos Hits $500M Volume on Solana (SOL)-Based Payroll Stablecoin - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBYdUZnWHEtQjVXZWY5WEowTXEtZG1oS2Q1OWpWdW1tRWtISmJBcnRNTkZuUkt1dkVOQVdYYm9sTjV0V2FEN0d3?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 02:00:36 GMT",
-        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -400,14 +424,6 @@
         "title": "Unveil Your ETH Price Prediction Insights for 2023 - MEXC",
         "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9qNmJLaDNTMzhUZVhmVW12UXg0dkd6dm5vZVlQdU51cUFqTk10azBkS21XTnBCSU52YjZtQUZibjdfY1AwcVI4?oc=5",
         "pub_date": "Sun, 15 Mar 2026 16:58:52 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "PENDLE at $1: Can Bulls Clear the Next Key Barrier? - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzSE1Qdk9hRTRJUkZKY2hPVjAzd21Sam1Da2JNY1Q2X0c1bWxpZmRHMjRJbTBYaVd0MVlObEdoWWVZQ3NaMldv?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 20:05:15 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -421,25 +437,9 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Referral Code March 2026: mexc-ventureburn ($10,000 Sign-Up Bonus + Trading Discounts) - Ventureburn",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSFIzejJMZHVES0NjQ3VhZXhncmEtZXVZNmI4cFluNUdZdDAtNzUzNDlBX2RGWUloUjR1QjhlTjl6VDZZZkx5ZVhPTUlDRFNxemhnY1NB0gFWQVVfeXFMTWRIUjN6MkxkdURLQ2NDdWFleGdyYS1ldVk2YjhwWW41R1l0MC03NTM0OUFfZEZZSWhSNHVCOGVOOXpUNllmTHllWE9NSUNEU3F6aGdjU0E?oc=5",
-        "pub_date": "Thu, 12 Mar 2026 07:29:54 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
         "title": "Top Crypto Exchanges to Trade Tokenized Real World Assets - MEXC",
         "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LY05oTmczbjR4ZjJzVlVQcXI0TEVzd3Y4aDE2bFBHMndjRnRlRWxodmlnaVRGbXlfUHRFTXNtT0RoZ0RHRERV?oc=5",
         "pub_date": "Fri, 06 Mar 2026 10:32:01 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "BTC Options Insights: Why is March 20th a key turning point for volatility? - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJODU5MklmU3FZZkNvVjIxNTQxeWdWOWdxcXVwdlJsTDZGSndER2tWdFZuZ2NwSUg2ek5OQi1MNDZ0RzNEUHk4?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 06:45:10 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -453,10 +453,18 @@
       },
       {
         "exchange": "MEXC",
-        "title": "Venus Protocol hack triggers $3.7 million loss after THE token manipulation on BNB Chain - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1fMzFTdVNIOFFqVC1RWFlHTC1BeEV1LUs4ejFaUFdaakNqVWpkMnFrcXJXQW5qMmpUcmhoMi10QmVMbUQzalpz?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 13:06:28 GMT",
-        "sentiment": "negative",
+        "title": "MEXC Referral Code March 2026: mexc-ventureburn ($10,000 Sign-Up Bonus + Trading Discounts) - Ventureburn",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSFIzejJMZHVES0NjQ3VhZXhncmEtZXVZNmI4cFluNUdZdDAtNzUzNDlBX2RGWUloUjR1QjhlTjl6VDZZZkx5ZVhPTUlDRFNxemhnY1NB0gFWQVVfeXFMTWRIUjN6MkxkdURLQ2NDdWFleGdyYS1ldVk2YjhwWW41R1l0MC03NTM0OUFfZEZZSWhSNHVCOGVOOXpUNllmTHllWE9NSUNEU3F6aGdjU0E?oc=5",
+        "pub_date": "Thu, 12 Mar 2026 07:29:54 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Takenos Hits $500M Volume on Solana (SOL)-Based Payroll Stablecoin - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBYdUZnWHEtQjVXZWY5WEowTXEtZG1oS2Q1OWpWdW1tRWtISmJBcnRNTkZuUkt1dkVOQVdYYm9sTjV0V2FEN0d3?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 02:00:36 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -493,6 +501,14 @@
       },
       {
         "exchange": "MEXC",
+        "title": "Venus Protocol hack triggers $3.7 million loss after THE token manipulation on BNB Chain - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1fMzFTdVNIOFFqVC1RWFlHTC1BeEV1LUs4ejFaUFdaakNqVWpkMnFrcXJXQW5qMmpUcmhoMi10QmVMbUQzalpz?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 13:06:28 GMT",
+        "sentiment": "negative",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
         "title": "Crypto Exchanges Emerge as TradFi Venues amid Tokenized Commodities Boom - MEXC",
         "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5GcVVBN1VzUHVFZWhsc3d1NEFfZ1Npb2RWS21tbktLQ1pKZFBRc1dtSzR6blVmc2t4UVVTVnRkTHRLUzZRSi1V?oc=5",
         "pub_date": "Sat, 07 Mar 2026 08:25:54 GMT",
@@ -509,17 +525,17 @@
       },
       {
         "exchange": "MEXC",
-        "title": "Solana Price Prediction: $115 Breakout in Play, but AlphaPepe 1000% Upside Is Turning More Heads - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBldUktckRONnZjVms4RmZUU1RFc1VtNzd5bDBGbk94V3d3YWZDZFVOMGVqaGdLbGk0SWdkWjlnTnB1OTF0VEYw?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 12:56:09 GMT",
+        "title": "Ethereum Price Prediction: Remittix Presale Nears Immediate Sell Out – Don’t Miss This Chance - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE02aWtzRmRXNWZXdndsVEJBSHBRS3o4RzRlUEVtYUpxcjdVNmFsOXY1UDJCTVJjSmFvQmdPcWxWaUw0emxCeUFn?oc=5",
+        "pub_date": "Sun, 15 Mar 2026 17:31:24 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "MEXC",
-        "title": "Ethereum Price Prediction: Remittix Presale Nears Immediate Sell Out – Don’t Miss This Chance - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE02aWtzRmRXNWZXdndsVEJBSHBRS3o4RzRlUEVtYUpxcjdVNmFsOXY1UDJCTVJjSmFvQmdPcWxWaUw0emxCeUFn?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 17:31:24 GMT",
+        "title": "PENDLE at $1: Can Bulls Clear the Next Key Barrier? - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzSE1Qdk9hRTRJUkZKY2hPVjAzd21Sam1Da2JNY1Q2X0c1bWxpZmRHMjRJbTBYaVd0MVlObEdoWWVZQ3NaMldv?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 20:05:15 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -549,25 +565,9 @@
       },
       {
         "exchange": "MEXC",
-        "title": "Mining Bitcoin: Keep Your Neighbors Happy - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9yMkNtaWZNcXgyX0hDc3doZTZZOXJ4ME83M2tRWVg4VTUxZ1RON21JQ3A4eWZPcmJ2eEI2bFVHMEJDNGZzWHpF?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 08:56:27 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Token Unlocks Unleash $135M: Critical ZRO, ARB, and BARD Releases This Week - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ibndyUzJ4WTkwNWE0Nk5INWNVOC15d3lTcTFUYkVHTEFrdjRYUUlxd0VUenZDR2J6VXNRTWJueDlFS3RjS2Z3?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 01:47:08 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "The Cheapest Crypto Opportunity with 600% Potential Ahead of Q2 2026 - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uX2hSQ0pSN2VBSy1NaElSVGNKM0VDdHVqMjBxX2xjYkkzbkFYVE1PRFpLd1pPWm9mc1dUeUlfcnlhM2xTbnA0?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 04:57:04 GMT",
+        "title": "Solana Price Prediction: $115 Breakout in Play, but AlphaPepe 1000% Upside Is Turning More Heads - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBldUktckRONnZjVms4RmZUU1RFc1VtNzd5bDBGbk94V3d3YWZDZFVOMGVqaGdLbGk0SWdkWjlnTnB1OTF0VEYw?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 12:56:09 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -589,17 +589,9 @@
       },
       {
         "exchange": "MEXC",
-        "title": "Historic Agreement Forges Unified Path For Cryptocurrency Regulation - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05VWdma0ZYRENhcmNnZXludnhMSGNNRmdraE5IdEk4eXc0NDdOWWRjMlRGZVQ2bV92N2lDTUFaY1FqQ2dNa28w?oc=5",
-        "pub_date": "Thu, 12 Mar 2026 01:29:15 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Crypto Biz: Circle Stock Defies Wall Street in Digital Asset Selloff - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13ZHk3akNDZUZHekJBdW81MzJlQ2JFSC1JQUFSRzF2ZG9yYVRVaEJrY243UjRVMkJvTDAtY1BPZzNrdnZJN0Nn?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 03:02:12 GMT",
+        "title": "The Cheapest Crypto Opportunity with 600% Potential Ahead of Q2 2026 - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uX2hSQ0pSN2VBSy1NaElSVGNKM0VDdHVqMjBxX2xjYkkzbkFYVE1PRFpLd1pPWm9mc1dUeUlfcnlhM2xTbnA0?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 04:57:04 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -608,22 +600,6 @@
         "title": "CryptoQuant Names the Most Transparent Exchange for Reserves - MEXC",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVVM3Y2xBS3h4cU9kTUNQZ0htbTZMN2NwY1JrRm9ILUl1dExrZHpTWGhNODBmUUNzQzBSTmhIQlVoc0ZvT3pvaFB2VEo5eHc?oc=5",
         "pub_date": "Sun, 08 Mar 2026 22:19:04 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "DeepSnitch AI Presale Launch Date: March 31 Uniswap Listing Leads to Massive Influx Of New Investments, SOL and HYPE Flash Promising Setups - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51TldEY2w5MFdqalNZa3FuY29ub2dBS2QxZ2kyWjZiWlJhZmJyUGo5aW5PQTNPdGxTb3VHQ2ZOSmtFVzZDSnZJ?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 16:06:49 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "XRP Whale Outflows Continue On Binance — What’s Happening? - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5aZnBTb3FSa1NGU3RLWGdEcUlFSWhnR3YtVk5fcEh4V3N3MnJaTVc1SV9iZmxTbEgtMTBuMDIydm9QbmliRWYw?oc=5",
-        "pub_date": "Sat, 07 Mar 2026 22:28:38 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -653,25 +629,17 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Gold Futures Up 123%; Geopolitical Uncertainty Fuels Crypto-Metal Derivatives Surge - markets.businessinsider.com",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1RKMkdVSndYRGlOZXkzbUNCdFRLUlluYWs1RXZxVWxVNi15ZEVqT2ZrOHZYSEhVX0lYOHJnR3RkR2pZLWIxUjdMR1VJeGE2cDZwaWdXR2VMbHRBNXh0U1c3TVlxSTU5bTkyZDA5UXNsZUVSRHNRbE05ZmdHekI3UV84MldGU0tnYUJ2YWZvaWcwVUVZTTgyRFQ3TW9rVVVZRm9yeFVpR2FEU0ZYRGdhYkozeDcxeGtmQ3RuOUV5a2lfMnVlc1N1VmFMS1BoX3duRHR1RzZGb1FTQVZxNEE?oc=5",
-        "pub_date": "Wed, 11 Mar 2026 11:17:30 GMT",
+        "title": "Crypto Exchange Access Could Expand in Russia With New Rules - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zSEllR2FfRFoxNHBkZXdoT1NFZTZhblZMeHJydElCZlpfYzVOOGdvTXBZam9RNTlVNmdnRkc0TVF5Z3RNWWI0TlE2YXdCYjg?oc=5",
+        "pub_date": "Fri, 06 Mar 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Women in Workforce Data: Leading with 43% Female Representation and 49% YoY Growth - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR3RIOWhjZkJMNlhhTnFma1JXcDFGejMxQU1GaUppcVU2ZXdtTjJwVWNOTUFFRFByNlpxVnI2MXNIQW5qVmRTaFd0OEVlc3dzTjg4NnYycjlHTk5tR2ZFS3hKNVlsaGNPT29neTFNaTljampoOGUwNXNBZFJYWFhVWGVTZHFlMF84TUZKUk15MkRIcnNFM3BwZXJSTzFrZGxtdkVZVVRVOHBwdjRza1RfZ2I0dUVSME5CdGlfeFVyQ192UDFpa0FpQVRveS1xckpjYmJ5ZS10YmxSZ3Y0?oc=5",
-        "pub_date": "Thu, 12 Mar 2026 12:07:24 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Crypto Exchange Access Could Expand in Russia With New Rules - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zSEllR2FfRFoxNHBkZXdoT1NFZTZhblZMeHJydElCZlpfYzVOOGdvTXBZam9RNTlVNmdnRkc0TVF5Z3RNWWI0TlE2YXdCYjg?oc=5",
-        "pub_date": "Fri, 06 Mar 2026 08:00:00 GMT",
+        "title": "MEXC Gold Futures Up 123%; Geopolitical Uncertainty Fuels Crypto-Metal Derivatives Surge - markets.businessinsider.com",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1RKMkdVSndYRGlOZXkzbUNCdFRLUlluYWs1RXZxVWxVNi15ZEVqT2ZrOHZYSEhVX0lYOHJnR3RkR2pZLWIxUjdMR1VJeGE2cDZwaWdXR2VMbHRBNXh0U1c3TVlxSTU5bTkyZDA5UXNsZUVSRHNRbE05ZmdHekI3UV84MldGU0tnYUJ2YWZvaWcwVUVZTTgyRFQ3TW9rVVVZRm9yeFVpR2FEU0ZYRGdhYkozeDcxeGtmQ3RuOUV5a2lfMnVlc1N1VmFMS1BoX3duRHR1RzZGb1FTQVZxNEE?oc=5",
+        "pub_date": "Wed, 11 Mar 2026 11:17:30 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -693,6 +661,22 @@
       },
       {
         "exchange": "MEXC",
+        "title": "Currency Pair Hits Staggering Three-Year High Above 0.7150 - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9DRnRHdnlFN3hvT1ptUE5nT2VVbUNjR1VNZnF1dUhIVGc1c2U2Y0tOdUJySURld1BrdUd5M2NVbDdianIzX0VZ?oc=5",
+        "pub_date": "Wed, 11 Mar 2026 13:02:18 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "12 Best Crypto Exchanges 2026: Which Platforms Reign Supreme? - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ob1NpM0lwNlVNdllPN1FOd2lGU3NMOTJCcEJSS2FOemp0RkVIRHlaLXRNQ0hyem9TM3FnQ0hfQkZkVEt0N3Uw?oc=5",
+        "pub_date": "Fri, 23 Jan 2026 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
         "title": "CRV Price Prediction: Curve Targets $0.27 Recovery by Month-End - MEXC",
         "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtNkhiWEYwaFE1cUpZcktaNTFBMndrTV85RUZIM3otVFNxMEwxcDRJanlXdTlNVEVkeFJGZ0xHaUVFWkJKUWU4?oc=5",
         "pub_date": "Sun, 15 Mar 2026 17:28:31 GMT",
@@ -709,17 +693,9 @@
       },
       {
         "exchange": "MEXC",
-        "title": "\"The Classic Separation Between CFD and Crypto Starts to Feel Like an Unnecessary Distance,\" Says MEXC COO - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSkNVTDNWemQzMEhsVDdjZkxhZ3dqNG5XQWN2RDZZaGpOLW85UTZ2UDJSQmRVdXBnbUVXeGVjUlhFd2xXYzYzMkdidnkweXcyYmU3VHMydklEZHBRQnM0VHd6YmpyVWdzUG1UeXFtYV9TZFU2UEJieWpiR2VuampPM01YU0tpMWRrNGlGM3hvUjFwcmFmM3FCLUwxTXNkQTgwcnJIZTBHNDRIb2wwMWYxWVJXZVF6elNfUnFkbTNuaThwQWlhUnZQc0tLSWlSdEhMbjJQUHl6cGtiSlhrTVlObU1xbHd4YlhyTXI5N1lxX3lqQlNEMDBPQWRwN0ZyUQ?oc=5",
-        "pub_date": "Wed, 11 Mar 2026 07:11:03 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "BREAKING: Coinbase Decides to List the Altcoin That Has Been Trending in Recent Days - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jQWlheURXS2lzODFSTUI2bGZNdW9CZUpZaXFrRWFRR0Z0R1JxSVBMMDRfZmJYUW5ZOE9VRFROUVY4bjU4aXlr?oc=5",
-        "pub_date": "Thu, 05 Mar 2026 00:53:19 GMT",
+        "title": "MEXC Earn | Earn up to 600.00% Rewards via Crypto Staking - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBjckk3MHBjbEw5Y1ZWVGR5bHNndXVyenBOU0hhNkx1Wm1lakd2cDFCWEZJa1hqVUF5T0tKeEN3?oc=5",
+        "pub_date": "Wed, 31 Dec 2025 18:05:27 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -749,14 +725,6 @@
       },
       {
         "exchange": "MEXC",
-        "title": "Coinbase Bitcoin Premium Index Shows Rare Gains With Recent Uptick - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FVFVDRmt3ckNPRktTY3pyMHdWbk9UOF9rNERwbkx6U1BXX1hUWVJ0Y3k2Tjh1YkxMUGNlUmh4QnNGU05rSXpN?oc=5",
-        "pub_date": "Mon, 09 Mar 2026 02:00:20 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
         "title": "Top Crypto Exchange Aggregators for 2026: Terms and User Experience Compared - MEXC",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91SlhNN3JCZGlfVUQ0RmJvdHU1RDVQdDdFTWhhei11OVoydzhLdmtRMGJGSlEyS1B6UUZNbGNJVXFNVVFPWFByb3BuQ0FIZW8?oc=5",
         "pub_date": "Mon, 23 Feb 2026 08:00:00 GMT",
@@ -765,17 +733,41 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Fees vs Binance, Coinbase & Bitget: Complete 2024 Fee Comparison - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpOThFMzBiSzlvUmU2TGdQUlFKUVV6RGk4YXlScmJrNFhhSUpIR0lpZDI0d1FLVlhFRDhicW9xNVktZWxBMi02Q2lGUUZpVGJVU0RSS0ZXX2pHNVZPUWI4S0E4Mmdjd9IBZkFVX3lxTFBpOThFMzBiSzlvUmU2TGdQUlFKUVV6RGk4YXlScmJrNFhhSUpIR0lpZDI0d1FLVlhFRDhicW9xNVktZWxBMi02Q2lGUUZpVGJVU0RSS0ZXX2pHNVZPUWI4S0E4Mmdjdw?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 05:19:16 GMT",
+        "title": "Top 10 Crypto Exchanges in Vietnam (2026) - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQUm5jamNWWU9CRU5PdlBKYjJ5WUFOY1RHREtIWFRqbmNnZ2xHN1g4QzhhMERhaVd1YXh6ak51emdFM3l0eEJN?oc=5",
+        "pub_date": "Wed, 04 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Fees Explained: Complete Trading, Futures & Withdrawal Fees Guide - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVNwWFJ1U2VHY21UX01fRjdlZmFSUm9FNmFENjQ5Vm1GZlFkRWVUSnpZZGtYcjZkMWdHdUtsZXRaTWs0ellfSlZDTzczSUVjVkZVMi1BamVGT0U3RXJoeUlUMkl1bDhyZVBCY3ZsV3lvMkprQkZSM0dWRHRBdU5kcDJaNGkxLW1CVjJwd3hzajUzSVRDeUY2TTdzRVJVOU1WREFXT3dn?oc=5",
-        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "title": "MEXC vs Bitget vs Coinbase vs Kraken: 2026 US Guide - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3pDU3plbzl0a0x0YURUWWpVNVpfRnAwckNtNUtobDgyZ2lvTndmUjV4RzI3WFhITnRjeFlDWHpVSS00S2RYMjRsazRLTDNvYlJMdEdqUnl1ZUkwbE1yVU5uQml1eUhNZkZIZDBqWkxsVkgtV2pURGkzMWJYWXpXdkdvTU5qU182UWQ1UEdZNnBHekpUcU5nWE9hN05Td1kz0gGgAUFVX3lxTFBTekNTemVvOXRrTHRhRFRZalU1Wl9GcDByQ201S2hsODJnaW9Od2ZSNXhHMjdYWEhOdGN4WUNYelVJLTRLZFgyNGxrNEtMM29iUkx0R2pSeXVlSTBsTXJVTm5CaXV5SE1mRkhkMGpaTGxWSC1XalREaTMxYlhZeld2R29NTmpTXzZRZDVQR1k2cEd6SlRxTmdYT2E3TlN3WTM?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 10:33:55 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Turkish User’s Assets on Cryptocurrency Exchange Seized: Here’s the Legal Background - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FWGJjdWU0RXhGTnNpYzUtMkhDbW5xTWphQkJuVDVlZTN6SF9mQTFESjhDTC1FSm5weEthaENWMFJxN0NVWkxzRHJpSDg5ZHM?oc=5",
+        "pub_date": "Sat, 21 Feb 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC Launches Prediction Market Featuring Zero-Fee And Low-Latency Trading - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9hX0pybmJKX0hrTEd4M25tQ2RFQ2xmVGRUdGZCZDd4d0Zvd1N1TU1fbzN2S1RMN3ZYaVRqVEQ0Um9ZNnptQnE4?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 19:02:47 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC Fees vs Binance, Coinbase & Bitget: Complete 2024 Fee Comparison - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpOThFMzBiSzlvUmU2TGdQUlFKUVV6RGk4YXlScmJrNFhhSUpIR0lpZDI0d1FLVlhFRDhicW9xNVktZWxBMi02Q2lGUUZpVGJVU0RSS0ZXX2pHNVZPUWI4S0E4Mmdjd9IBZkFVX3lxTFBpOThFMzBiSzlvUmU2TGdQUlFKUVV6RGk4YXlScmJrNFhhSUpIR0lpZDI0d1FLVlhFRDhicW9xNVktZWxBMi02Q2lGUUZpVGJVU0RSS0ZXX2pHNVZPUWI4S0E4Mmdjdw?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 05:19:16 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -789,18 +781,18 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Launches Gold vs. Crypto Campaign: Zero-Fee Trading and $1M Prize Pool - WFMZ.com",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdGRQd0hQS29QNTAzOXlJcTlFbk55eFhjeGEyMkJzWnFoekNZYVIzb1ZOQzV4WHhZYlptVDNONGtPcUJ4MWRZSzBUc2hLdjJ0ZEc4azRVajZuZFAtUVUtOFM2OG1adUNhc0liUGhXOU9xMm96QllFaTFqOTVEcmh5eV9Pb1l0czRFeFFRZzVGclFsdThmVndldnBPak1TNGlVVVBzVFF4VEhmZ1A2QkxVaTZGVjd4R3RpTUNWT1liMWVQSncxZDBkUnN2YUttVHpEMk91aWw4UFZibG9sekY1aF9FZl9IbzUwUHVqbVBsSnNiczh2VXk5bmlaVlhNbGsyMVNjeQ?oc=5",
-        "pub_date": "Fri, 06 Mar 2026 10:00:00 GMT",
+        "title": "MEXC Launches \"Zero-Fee Gala\" with $2 Million Prize Pool Including Cybertruck, Gold Bar, and iPhone 17 - GlobeNewswire",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcVBHRC1Xb1l0X3d6U2JUWTEwTmo1SlEwcExXeks2dk9rQUVienkzRzVTbHljUG91c2x3czdPT0pPYnBDOE1uYloxeE1MNFpsdUlEWklIY0h1a2ZkcFpmeU5peU11dy1KWlB0SlJ3bENRUkJueEZkVnNBUkxjd3FfR3pUaVpWMU04TTBYR2R1OFk1ak1iNDRXdUpDQkxmYXJjOGg4TVJhWnIyT0drc2ZqSW1ITDVzak4tV3NaelpIMDc3OHgtWHowOHl4bTJKckVhN1dGYUJ3bUF5WTFLbmdQbmRSUTlhTXAwMnhMN2t0UGxfc2ZIdld1UFhaR25Jdw?oc=5",
+        "pub_date": "Tue, 23 Dec 2025 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Spot Trading Fees: Maker & Taker Rates Calculator - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMHR2MGdxeGVORkk3ME9UajlaOWNLRXFmc3czMnQ3bUtLTXhlQ1JyS0g3WTRKMm1vNWtiM3hfd2xXbnFiSGJEOENWMjFacGtyY2g5LWJRTnZZc0NUVDdkZm5SWDVDODZxb2Zzdlk3NEFhLTRyMUVMdTE4WjVWaXhpYXBNOHNjZDdIY0pLalRRNTNIdw?oc=5",
-        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
+        "title": "MEXC Launches Gold vs. Crypto Campaign: Zero-Fee Trading and $1M Prize Pool - WFMZ.com",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdGRQd0hQS29QNTAzOXlJcTlFbk55eFhjeGEyMkJzWnFoekNZYVIzb1ZOQzV4WHhZYlptVDNONGtPcUJ4MWRZSzBUc2hLdjJ0ZEc4azRVajZuZFAtUVUtOFM2OG1adUNhc0liUGhXOU9xMm96QllFaTFqOTVEcmh5eV9Pb1l0czRFeFFRZzVGclFsdThmVndldnBPak1TNGlVVVBzVFF4VEhmZ1A2QkxVaTZGVjd4R3RpTUNWT1liMWVQSncxZDBkUnN2YUttVHpEMk91aWw4UFZibG9sekY1aF9FZl9IbzUwUHVqbVBsSnNiczh2VXk5bmlaVlhNbGsyMVNjeQ?oc=5",
+        "pub_date": "Fri, 06 Mar 2026 10:00:00 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -813,17 +805,25 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC 2025 Growth Exceeds 130%, Anchored by $1B+ in User Savings from Zero-Fee Trading - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTnJGU2RUM0lKaXpHWHcwZ3ptdlljcGs5VmZWQlFhcnNhZURsM0dlZmN6T2VNa1BFSUpGcG50ZjF6RjRxX1QyaU1meG8tV1Y5NU9TTGd3OVNGU3dyX3BidlhLQktyS3AzNDMzN1JJamNYSXg1SHBTT20yc1VtU1hvT1hQbkdoMWhvUmU3VmhoMDJsLW5vclFaYkgyTVZIN3hyb0QyS1U4X0tPMld4dS02XzR2U0JzVm1Db0VjREE0dWNab1NWa3hxblZDeVNlMjlXb2Nv?oc=5",
-        "pub_date": "Thu, 15 Jan 2026 08:00:00 GMT",
-        "sentiment": "positive",
+        "title": "MEXC Fees Explained: Complete Trading, Futures & Withdrawal Fees Guide - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVNwWFJ1U2VHY21UX01fRjdlZmFSUm9FNmFENjQ5Vm1GZlFkRWVUSnpZZGtYcjZkMWdHdUtsZXRaTWs0ellfSlZDTzczSUVjVkZVMi1BamVGT0U3RXJoeUlUMkl1bDhyZVBCY3ZsV3lvMkprQkZSM0dWRHRBdU5kcDJaNGkxLW1CVjJwd3hzajUzSVRDeUY2TTdzRVJVOU1WREFXT3dn?oc=5",
+        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC Spot Trading Fees: Maker & Taker Rates Calculator - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMHR2MGdxeGVORkk3ME9UajlaOWNLRXFmc3czMnQ3bUtLTXhlQ1JyS0g3WTRKMm1vNWtiM3hfd2xXbnFiSGJEOENWMjFacGtyY2g5LWJRTnZZc0NUVDdkZm5SWDVDODZxb2Zzdlk3NEFhLTRyMUVMdTE4WjVWaXhpYXBNOHNjZDdIY0pLalRRNTNIdw?oc=5",
+        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "MEXC",
         "title": "Zcash (ZEC) surges 22.5% in 24 hours: NEAR ecosystem integration and MEXC zero-fee promotion drive momentum - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XdDNEMUI0ekpINW0ydEFIRm53Y1ZiM1UzR212cDlsSGZsMXptY0kxdXdMaTYtYl9pcGY4YV9VeWxtbVI0c1FzZmpmRzhWOXpKUWE4R3RsdEFqejZJS1HSAWNBVV95cUxQNlBNOWphVVZERlFhTWJwREtiRnpaR2Y3NUhmNmtTSzFNVzcwWkszOXJyWG1UT3kwRnhXUU8za0xnZGV1Q2N3VmNiX3Y2TTFad2VPelFBNU1nQTBIVUdldm9FbW8?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 04:12:05 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2UE05amFVVkRGUWFNYnBES2JGelpHZjc1SGY2a1NLMU1XNzBaSzM5cnJYbVRPeTBGeFdRTzNrTGdkZXVDY3dWY2JfdjZNMVp3ZU96UUE1TWdBMEhVR2V2b0Vtb9IBY0FVX3lxTFA2UE05amFVVkRGUWFNYnBES2JGelpHZjc1SGY2a1NLMU1XNzBaSzM5cnJYbVRPeTBGeFdRTzNrTGdkZXVDY3dWY2JfdjZNMVp3ZU96UUE1TWdBMEhVR2V2b0Vtbw?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 19:13:36 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -840,6 +840,22 @@
         "title": "Bybit Launches ‘BOB Advantage’ Campaign With Zero-Fee Bolivian Deposits And 5,000 USDT Prize Pool - MEXC",
         "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82VnZZNmVDUGY1UVJTRkhMUmY3SjhHQlpiR01sYVpXWkJYY2NiXzBFa3gxQkxqblQ2SlNyaWlJbDBwRWxtWW5V?oc=5",
         "pub_date": "Mon, 02 Mar 2026 23:03:28 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC 2025 Growth Exceeds 130%, Anchored by $1B+ in User Savings from Zero-Fee Trading - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTnJGU2RUM0lKaXpHWHcwZ3ptdlljcGs5VmZWQlFhcnNhZURsM0dlZmN6T2VNa1BFSUpGcG50ZjF6RjRxX1QyaU1meG8tV1Y5NU9TTGd3OVNGU3dyX3BidlhLQktyS3AzNDMzN1JJamNYSXg1SHBTT20yc1VtU1hvT1hQbkdoMWhvUmU3VmhoMDJsLW5vclFaYkgyTVZIN3hyb0QyS1U4X0tPMld4dS02XzR2U0JzVm1Db0VjREE0dWNab1NWa3hxblZDeVNlMjlXb2Nv?oc=5",
+        "pub_date": "Thu, 15 Jan 2026 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Grayscale Launches Zero-Fee Sui Staking ETF - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CS1ppQzhWeEFIRmdSTm5jbzBKWl9Ta0pNVnpUcTJsNXZSOTRWcHlaNUd2Q09QVzBjbnZPWWVqWWhUeTloc3hkUldHcE1wZGM?oc=5",
+        "pub_date": "Sun, 22 Feb 2026 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -893,6 +909,14 @@
       },
       {
         "exchange": "MEXC",
+        "title": "MEXC and Ondo Finance Expand Tokenized Stock Partnership with 17 New Spot Pairs and Zero-Fee Trading - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWHFvQV81Ymw3cVo0di1RZHZSd0xOLTBJQUxfX2Y2cnlDajFESzNLT1lxVUdnOUhtbnNFVzB6RjVxbUVLMGtWbDZWSUdaVndIbDR2b3pvakFDZnVNTGxLNnBaNzZuT1pxTVpPYmdNYVpKcUJ3NkVOU1p5U1d0ZVFNbGlEWnVlUmZBMGd5ZTBVRlpnODJzWU8tdXFGUFZrcG5ZSW5lS3ZWVjhOQnlhZ1dROG1QRlEtLVdPeDhHNkUtUFB6V1lRWGpfOWl1TXAyOUpMd0Q0TlVkcmFrNTNOdlFGdThDcVNvVEJxZFdabA?oc=5",
+        "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
         "title": "MEXC Supports VND and PHP QR Code Purchases with Zero Fees - GlobeNewswire",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa0RMSEVKdXVPNXMzNktLNV9Ic3dBS0txOUx0YVZ6MFRfVzVSV0NZYVJOWHhpbXNPLWhHNjd6b1R0NjJ0VFVDN2Y0TTMyX1BqUVp5ZGpTZ2FnM3loWGlSenJGYkprSEdiSElISDM5RGEyb19iQkRrNWQ5V2p1aTU1aXNEN2xkX1VxTUF6R3BFRnhvMDA1Q2NNanExSlVMdjFNM2hHZHhUZ2VMSVpYXzYtWWtWUVBFMjlDTGZMdTN6aEtwa1dPclROR1FR?oc=5",
         "pub_date": "Wed, 25 Feb 2026 08:00:00 GMT",
@@ -901,26 +925,10 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC and Ondo Finance Expand Tokenized Stock Partnership with 17 New Spot Pairs and Zero-Fee Trading - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWDhrcy12eXhkTkx1OHAxem5SWFpWSHNqWGsyTWdENTJvZEhXbGZqMjJoOVpJcHVzT3EzZDE2SllieWJHY0xGR3RvQ000RUUzUzhEM3l6dkx5ZG5JcWhzak5BTFFFVXBJc3h3WE5Jb3BXR1JzUnQ0NDVfVUxGVi1pdE9XcnR5OG9raHNyekRkVTJ5ay1ZXzRGQTZJdmxFQ3VJN2pvZk5XVXFENVVoYTR6UEkwTHdfZHV0ZWFRbi1UNVhLWUdCcXF0dkQzSUpKSzB1dlVZM1pLMUNqckJldXBqWk9JbEtrSTBVSXl3YkJwV0ZDUQ?oc=5",
-        "pub_date": "Tue, 03 Mar 2026 10:34:54 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
         "title": "MEXC ICP Zero-Fee Gala Draws Over 80,000 Registrants and $1.5B in New User Trading Volume - Chainwire",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY1BsWXRWd2ZLaE1sQTZYbGZaa2JublRhazhmakVuTkNEZGhaT05ObVZNNjJ3NnN1OFRIVmYweXhqS2JhS08wWU81ZU9MTnB3ODRndEtTWHVmUk82eE8zcDRTSkFpRFZ4VldxUFA5TGIyekhBSUJvemc5Rng3clc4YUJ6enFOX0V0azFRM1BSSWpNTkU2NV83WHRSTnU5c3hIZktleDR6Z2dVNmNjdGtFenFqaTdTVldzRmpuUzNB?oc=5",
         "pub_date": "Thu, 19 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "dYdX Launches Zero Fees for Bitcoin and Solana Perpetual Trading with $1 Million Rewards - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5URmlDeDRITC1SNG92YkxTcF9WLXFiS1czNF9DaFdMNlRCb3BrcDh3MDVRWmlHZ1RIYS1ueXg1RHJxMFJILUtj?oc=5",
-        "pub_date": "Tue, 11 Nov 2025 08:00:00 GMT",
-        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -941,9 +949,9 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Launches \"Zero-Fee Gala\" with $2 Million Prize Pool Including Cybertruck, Gold Bar, and iPhone 17 - GlobeNewswire",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcVBHRC1Xb1l0X3d6U2JUWTEwTmo1SlEwcExXeks2dk9rQUVienkzRzVTbHljUG91c2x3czdPT0pPYnBDOE1uYloxeE1MNFpsdUlEWklIY0h1a2ZkcFpmeU5peU11dy1KWlB0SlJ3bENRUkJueEZkVnNBUkxjd3FfR3pUaVpWMU04TTBYR2R1OFk1ak1iNDRXdUpDQkxmYXJjOGg4TVJhWnIyT0drc2ZqSW1ITDVzak4tV3NaelpIMDc3OHgtWHowOHl4bTJKckVhN1dGYUJ3bUF5WTFLbmdQbmRSUTlhTXAwMnhMN2t0UGxfc2ZIdld1UFhaR25Jdw?oc=5",
-        "pub_date": "Tue, 23 Dec 2025 08:00:00 GMT",
+        "title": "dYdX Launches Zero Fees for Bitcoin and Solana Perpetual Trading with $1 Million Rewards - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5URmlDeDRITC1SNG92YkxTcF9WLXFiS1czNF9DaFdMNlRCb3BrcDh3MDVRWmlHZ1RIYS1ueXg1RHJxMFJILUtj?oc=5",
+        "pub_date": "Tue, 11 Nov 2025 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -977,22 +985,6 @@
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxemVTY2lYUHh0SldfbzUtR3lOQTc2NGNVWmVocjFqVm5YV0VXQXB4Qk1PTUdzcGYxN0lVY2wzSmViWTNMcG5TYmU5Ni1DNDQ?oc=5",
         "pub_date": "Mon, 09 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Best Crypto Sign-Up Bonuses 2026: Ultimate Guide to Earning Up to 40,000 USDT in Welcome Rewards - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2hzaWEzWlppVGFTbDBEdjNMY3Z5TUY4STZ0MTVQc19TMlotd3ZEU05HQXJTcUQyR05ESTMyQThDbHkxVF9uTEptS0MwaDBXMzVDQ0dUVmdST2JoT2FnZzlDdXI4aGZVNFRNNm0yenB4cjQ5LWFDMUZmSjBKbkpVS3RCMC1GUjliQmJMZ3paaw?oc=5",
-        "pub_date": "Mon, 05 Jan 2026 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Gate.com has launched a trading channel for Brazilian PIX cryptocurrency, supporting zero-fee and efficient deposits. - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zakNwVjZQUWhUNTlIbEJmNHdvSmJva1RYb2lEV09na0ZKVFpHcGh6dXZNYjFTR09fSnNIOGlDcDFGc2g2VEhKaVVTdm9lQTA?oc=5",
-        "pub_date": "Thu, 26 Feb 2026 08:00:00 GMT",
-        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -1037,6 +1029,14 @@
       },
       {
         "exchange": "MEXC",
+        "title": "BNB Chain extends zero-fee transfers between USDC and USD1 stablecoins until the end of the year. - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSYjJrQVdhTUN6S185YlA1WFZqbzUyUllJWWg5THlSZXg1SmM0NFNCakNNTDRNQzVTZ0tYRWdOQUZLalV2ak9BZUpzOWdUeVk?oc=5",
+        "pub_date": "Fri, 28 Nov 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
         "title": "Singapore Gulf Bank Launches Zero-Fee Stablecoin Minting on Solana Network - MEXC",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wZ1M4c1ZrX0xidXhYLTJ6NDczSmFNOWJiSy1lVGV2TFNocms3ZmJwaDI4QlFCZlRGOExSQURJdkNpajlmcVE0WTBaU3VEYm8?oc=5",
         "pub_date": "Sat, 13 Dec 2025 08:00:00 GMT",
@@ -1045,25 +1045,9 @@
       },
       {
         "exchange": "MEXC",
-        "title": "Seven Years of Excellence! MEXC's 7th Anniversary: Unveiling 5 Key Advantages of Futures Trading - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2w5ZWhOUHNhbG91QXByYmRvU0stRkRlNkd3STgyR3pRQk9uZ1YtNzVoVHhSZEx5ekU0LXdfRmRPeVhFb3UxemdIcjdLQkFteHlMOHo1RU9kbmRaa0FsUWF3MmplS0pFR0Z1cWI4YVdTc19sdkFyRHNQUVVIVUxPTEJjekxQUWhPOWpRZWx3Mk9FUUpUVmdmQVJOaHdFR3B3ZXcwcEhzMzlKWG01bU1NWXNPTnVEMEU2eWpQSEZPWXpSVjdhWHRJa1JYcw?oc=5",
-        "pub_date": "Mon, 15 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
         "title": "MEXC Launches Blue Chip Blitz Campaign with Zero Fees and $2 Million in Rewards - thedefiant.io",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVjZWTnFLd0R1cG0xTTdBR3dYcFhUcDV4ZEIxNXZqSG84U3NtLWFGT2V3M1RXOUR4RzhBVlhRbl9Zb2t5Ni1PNmxuOGJRYXBlYzdtckFwQmZlTDlOWVhyNHRQZXMwaDlqVXR0MGZNWWR6MGVlc3BQWWE5UVJZblA0MjQ5S0ZMV1UydlRJRFJBY0t2dzZtbllzd0xBSTQ4cU9LSmJZYThFYVZLaHpUc2trV1dLT1dxUklFTzl2Xw?oc=5",
         "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Bitfinex Slashes Trading Fees to Zero in Bold Move Against DEX Competition - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ob2p1QnNROWEwdWJTaFUwSVhLaDduQTloMnRJSkZBUHg0X25xQXFLWDZuSk8xR095S2o5RzI5WEJaYzB2clI2MFZLdngyelU?oc=5",
-        "pub_date": "Thu, 18 Dec 2025 08:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -1109,33 +1093,9 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Embraces Stock Trading Frenzy With Zero-Fee Futures - thedefiant.io",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcTZvZ19iamVVSE1IMDBmUThoQnpFNWlEOExTeUdKNXFwenh0SzYzd3NaRVlNSGllRVhWXzdodnExZDNlRERVb3h4dzZfXzdQZ0x1ZVBQWFhheTUwb0ppaDJjY1RiMkU4TjlSMzV0MnQwWklfQjAteGo5djVyNGp0azRLQ3Yxcm5PNWZqYkN6d3FqZw?oc=5",
-        "pub_date": "Tue, 22 Jul 2025 11:54:29 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
         "title": "MEXC, Ondo expand zero-fee tokenized stock lineup - crypto.news",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81Z3U3WjVRdE83OVlmRHBmaG85d2hMRElBRjAtZWU3QVVmTFJJLWhFWGJBUXltb2ZPTTRfdjlxd3ZHeXpJeDVQOU5nT2M4RF9ZR1VsVkVqYm9QbkVmQ2FjZWgyeVZpY1dMQWlGZUw5RlA2c1F6UUV3Sw?oc=5",
         "pub_date": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "The former CEO of Binance.US launched a zero-fee stablecoin platform under his new company, 1Money. - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90ZzFLbVRianpTT3lmbjRKMVpldktpWXdsVGF0RFg3TjhESXhpdkR2WlB5V1FMVnlOamhuSFRYQjlqLVptU2ZMb3kxRmU2T1E?oc=5",
-        "pub_date": "Fri, 05 Dec 2025 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "Introduction to MEXC Futures Events - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tZ1dTMXR1V3BzQVUwNHJla3VjUU43WThpQlZxSExoaVF0R2I2SkRjc21rZGNBVEQycDVKcTI4UUZadm1URy1sanplYmgySlhQZlhCd1hvVlVsQkJTVGJCeXFCQlNiVDFpaXlscDFJOUx5bXZUM1EzVlV4OWg?oc=5",
-        "pub_date": "Fri, 03 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1152,6 +1112,22 @@
         "title": "Top Low-Fee Crypto Exchanges for 2026 | Compare Trading Costs - BeInCrypto",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wQ1JFTWJYVHljSzVSTE16WnFQTnBSLVNJd2hna1pzc0tnVE16eGFmOXNKbmx6dVd3RlhuZ1RISm5xV1J5Vk5ybXhYX1RUOXJCMWpQOGlsY3paOHR1NUE4NjdZVi1IVmd5VVlrNzhXQQ?oc=5",
         "pub_date": "Mon, 15 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC vs Bybit: Trading Fees, Tools, Apps Comparison Feb 2026 - Ventureburn",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0bnBFeXQxYkk3VkJqUk5QU2RMTHpaOUYwNHRhM0pTU2wwWW5sUkhNNlFyejVUcjZsSGhKbUNLQ1VjV2ZHX1FUdDFSVmxoaGPSAU9BVV95cUxQdG5wRXl0MWJJN1ZCalJOUFNkTEx6WjlGMDR0YTNKU1NsMFlubFJITTZRcno1VHI2bEhoSm1DS0NVY1dmR19RVHQxUlZsaGhj?oc=5",
+        "pub_date": "Fri, 13 Feb 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC Embraces Stock Trading Frenzy With Zero-Fee Futures - thedefiant.io",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcTZvZ19iamVVSE1IMDBmUThoQnpFNWlEOExTeUdKNXFwenh0SzYzd3NaRVlNSGllRVhWXzdodnExZDNlRERVb3h4dzZfXzdQZ0x1ZVBQWFhheTUwb0ppaDJjY1RiMkU4TjlSMzV0MnQwWklfQjAteGo5djVyNGp0azRLQ3Yxcm5PNWZqYkN6d3FqZw?oc=5",
+        "pub_date": "Tue, 22 Jul 2025 11:54:29 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1181,17 +1157,17 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC review: Zero-fee futures expand to gold and silver pairs - Traders Union",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ05sOF9QcVhMMjNEVmlPVjlqMjJfeUxoRWJVbndNTFh3LS1famlUd1FsTVQxbWVibE5Zd2xVNGF2YnlPMm11V2RwalJDSVlGYVNhcWx5S0pjdUthdWxxTUQ4N2UtVThtM1ViemFzUXVhejRfMW1RUFVERWZOYjBWUUJDRzNKdU0?oc=5",
-        "pub_date": "Tue, 06 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
+        "title": "8 Best Zero Fee Crypto Exchanges to Buy Bitcoin in 2026 - NFT Evening",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DaXJ0Q0tyTFp5ZUpTbXFOY2NLcmRLLW50MjhSUERndjFFeFJ4OXh6aDR4NHdiTmRIZzVHZWtZSW9kdmc1UnBoSzJSMXc3clA1bG1CYm5JaFFOeWRPbTN0cmZCdTY?oc=5",
+        "pub_date": "Sun, 01 Mar 2026 08:00:00 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
         "exchange": "MEXC",
-        "title": "65 Million Revolut Users Can Now Swap Stablecoins at Zero Cost - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jV0Z5d1hfTEpielJYR0FWNmtRd1ZYZFpQOGhCNklpVVhTeHFHWk93RmFSM1I1bWRid1lEY2FLZUVUSVM4dVR5LXltNjRnTnc?oc=5",
-        "pub_date": "Fri, 31 Oct 2025 07:00:00 GMT",
+        "title": "MEXC review: Zero-fee futures expand to gold and silver pairs - Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ05sOF9QcVhMMjNEVmlPVjlqMjJfeUxoRWJVbndNTFh3LS1famlUd1FsTVQxbWVibE5Zd2xVNGF2YnlPMm11V2RwalJDSVlGYVNhcWx5S0pjdUthdWxxTUQ4N2UtVThtM1ViemFzUXVhejRfMW1RUFVERWZOYjBWUUJDRzNKdU0?oc=5",
+        "pub_date": "Tue, 06 Jan 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1213,14 +1189,6 @@
       },
       {
         "exchange": "MEXC",
-        "title": "Lighter price drops 20% as breakdown below $2.30 confirms trend reversal - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MbzFab2tSbGxhNlRwb1ZRWGlsX3d6dWhHbU1wcXlHQnVnbDZFZFdaRTlOZ2NVRFBaX1NnREZzaUlncTFFenNj?oc=5",
-        "pub_date": "Mon, 12 Jan 2026 08:00:00 GMT",
-        "sentiment": "negative",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
         "title": "What is a MEXC Affiliate? High Commissions, Zero Barriers - MEXC",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNUJrdTZzMzVCN0V0cUdqbWNBU3VpTlRnaTZDX0NxTFZ5TGlXdmdtdXBmTEI3eUZ4U0dKUV9oZzlLcGwxTGtvdUhVbWRLVTBYakxxRHN4VU9uZGd1Z0dMYU9LdkNyQmd3RlJjZHRZRjE4QldtVVpEbmlnYk83Z1Z6UXdDVGVDUDVZWGw0MjFpaGMxS3I4U3JN?oc=5",
         "pub_date": "Wed, 16 Jul 2025 07:00:00 GMT",
@@ -1237,14 +1205,6 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Debuts Stock Futures With Zero Fees - Bitcoin.com News",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YX2xlWGp0SF9jeWpEVEE5b181UFUzOHV3RlhwRDJBY1BKeWRZZk9fSGR6Sk5SZ01XdGpscjllSlVSR0Ywbm5WOEZVMWhkcXVIWWhxZG1MLXRTZ3dKZXZkb1RnQ2tGZHdnNnQ3d0JXNlJlY2ZD?oc=5",
-        "pub_date": "Wed, 23 Jul 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
         "title": "MEXC Launches ENA Extravaganza with $1 Million Prize Pool, Zero-Fee Trading and Up to 600% APR Staking - GlobeNewswire",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZURUQ1M0N1kzZWFMdWlBVjVMcFJBVlpkeGRKY1VmeEtqTDczcDJrWHl5SGttb29nSTRNMEM1N3JwMFMySkdBMnVxWFFCUTdJTm1QNHQ1Q0Z1X3pXZXFGdkRYcW5YV3RlSlpoMEQ5SVB5cVZkZVZsMnAxNno1TGt6dm5KUHMyZjd3cDZnWjNVOVFWWEJsTkJfY1dWSVJRNUUwNXQwRDVfZzB6UE9qWGtJWHNZeF9VMUFaTjJBdmhDaXJod1MyV2g5U09hMGtWT0NtSlZUNGlzNW5VdUgwRFZvcjVVVE4ybkpLXzg4WlhkSktkR2F5ejhJUjFwLURFYnJv?oc=5",
         "pub_date": "Tue, 21 Oct 2025 07:00:00 GMT",
@@ -1253,17 +1213,17 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Lists Allora (ALLO) with Zero Trading Fees and $60,000 in ALLO & 25,000 USDT Airdrop+ Rewards - GlobeNewswire",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYW5GbEdMWFJkSFJ1YXZsS3ZabGlwdXhrczE0QVliRHlHWkpVVF9nRm9Mbk0tWEdVT1NYSURsN0JOQW1qOEFxU29yMjZwSXlDcDBLVm05LUpza2ExUlNQT0lyUGFaOWk5U0taaklJYURZMGVBMWFKdFA1TTRGal8xSmEtLUVROEdRMmxFVEtVeXFtQVpNREhPQk8tU1lYMnlYdGV4WUhlOEdBM0FObHZ1YXNkd3l1UWVhY2JfNm9hQnNHcm45V3hUSDcyMHgwVGxjeDZYRHUtN0ZiR2Z4SXdBcXBSZ2lGaGRpbFNHT3VaUy1qYXNieG9B?oc=5",
-        "pub_date": "Tue, 11 Nov 2025 08:00:00 GMT",
+        "title": "MEXC Debuts Stock Futures With Zero Fees - Bitcoin.com News",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YX2xlWGp0SF9jeWpEVEE5b181UFUzOHV3RlhwRDJBY1BKeWRZZk9fSGR6Sk5SZ01XdGpscjllSlVSR0Ywbm5WOEZVMWhkcXVIWWhxZG1MLXRTZ3dKZXZkb1RnQ2tGZHdnNnQ3d0JXNlJlY2ZD?oc=5",
+        "pub_date": "Wed, 23 Jul 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "MEXC",
-        "title": "ICB Network Partners with Tectum to Pioneer Zero-Fee PayFi Transfers in Web3 - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3QTBaejhGYWtlNnNEejV1YkkzSXJVU09zWDN3eXBVeDJkTS1uc3ZSd2JZcVZ0b2plZG41cFp5bWVuRnk0RTUyX1BpQ1Zadw?oc=5",
-        "pub_date": "Sun, 14 Sep 2025 07:00:00 GMT",
+        "title": "MEXC Lists Allora (ALLO) with Zero Trading Fees and $60,000 in ALLO & 25,000 USDT Airdrop+ Rewards - GlobeNewswire",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYW5GbEdMWFJkSFJ1YXZsS3ZabGlwdXhrczE0QVliRHlHWkpVVF9nRm9Mbk0tWEdVT1NYSURsN0JOQW1qOEFxU29yMjZwSXlDcDBLVm05LUpza2ExUlNQT0lyUGFaOWk5U0taaklJYURZMGVBMWFKdFA1TTRGal8xSmEtLUVROEdRMmxFVEtVeXFtQVpNREhPQk8tU1lYMnlYdGV4WUhlOEdBM0FObHZ1YXNkd3l1UWVhY2JfNm9hQnNHcm45V3hUSDcyMHgwVGxjeDZYRHUtN0ZiR2Z4SXdBcXBSZ2lGaGRpbFNHT3VaUy1qYXNieG9B?oc=5",
+        "pub_date": "Tue, 11 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1277,6 +1237,14 @@
       },
       {
         "exchange": "MEXC",
+        "title": "ICB Network Partners with Tectum to Pioneer Zero-Fee PayFi Transfers in Web3 - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3QTBaejhGYWtlNnNEejV1YkkzSXJVU09zWDN3eXBVeDJkTS1uc3ZSd2JZcVZ0b2plZG41cFp5bWVuRnk0RTUyX1BpQ1Zadw?oc=5",
+        "pub_date": "Sun, 14 Sep 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
         "title": "MEXC Launches ELIZAOS Euphoria Campaign with $1 Million Prize Pool, Zero-Fee Trading and 400% APR Staking - GlobeNewswire",
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTDNnbmdDVThGQ1JjdElHeXV0TEM3cEUyY3lnbDNxSmI5UGcyLWhYd0xxQTk1OTFlVWM5OGNpaWo1TGx5eEJTSU9KYlI3NzdEZWJnYk44UEdpdDh6c3hramxpeVpWNzFTTXhrUy1uYkdTamlySTFVX2otcDJqWEFVTWFiYXh2UWhHdVgxbDBYbHZmVWNGSFRMdWNXZkFsX1JuSmpZdWxwOXRzQU1TcHFpVF9sU2RJNzBYSFNnVW1maDVBMDRNMENlMHlFRHVPcGNsamhGNHZYUlljZndBQjhFbWNrSHZqeE51bEptYll0Tk1KdWVRVjktQjJEd2pVWV9RWW5yTg?oc=5",
         "pub_date": "Mon, 10 Nov 2025 08:00:00 GMT",
@@ -1285,10 +1253,10 @@
       },
       {
         "exchange": "MEXC",
-        "title": "8 Best Zero Fee Crypto Exchanges to Buy Bitcoin in 2026 - NFT Evening",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DaXJ0Q0tyTFp5ZUpTbXFOY2NLcmRLLW50MjhSUERndjFFeFJ4OXh6aDR4NHdiTmRIZzVHZWtZSW9kdmc1UnBoSzJSMXc3clA1bG1CYm5JaFFOeWRPbTN0cmZCdTY?oc=5",
-        "pub_date": "Sun, 01 Mar 2026 08:00:00 GMT",
-        "sentiment": "positive",
+        "title": "Is MEXC Right For You in 2026? A Closer Look at Market Coverage, Fees, and Security - BeInCrypto",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FN21GN3JjY192WVlicmY4ZUZvTGNjZmhLVFdkVkhUeXRWUWwyR1ZhbFhCYTB6S2V1SEdFNlBOYVBNdDE3LUcxMVVSbkZGRFpYaWpOZUVyZjN0LTVPVWlVbTU0a2QydHFm?oc=5",
+        "pub_date": "Thu, 08 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -1325,6 +1293,22 @@
       },
       {
         "exchange": "MEXC",
+        "title": "Best Crypto Exchanges Australia 2026: MEXC vs Bitget Fees & KYC - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZLWMwdkwtbWtvQVJUSEJPVVdCd0E5WXRoblA3VkhJdmNqYmFaSkdxbjhfSGpEbTY3bl95V1lCQU1SMkRiQmtLdFY0RzlSaTZ2Qi1TUjZMSkpUaXo00gFiQVVfeXFMTnl5VjlfeXpjT3hLNFcyaG5vYllkODk1YWNTdlJRdkxWTW9ZOVI5XzZiaEpQQlhHb2hkUWplb09JM1pieDhRZW5vZW1KRHVaV1B4LVhOQXA1ZFRWN3N2SGRZelE?oc=5",
+        "pub_date": "Wed, 11 Feb 2026 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC Adds 32 Tokenized Stocks from Ondo Finance, Expanding Blue-Chip Access for 40 Million Users - GlobeNewswire",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSXEzdi10OWhjc1d2RnBoVmlZQTZuTGV4cTdqS3FRa2NTbHFEeWhlVDN6azl3a2o1ZHZFaGNkektKZnM2c2J5NEV5LVRTVDY4WE1iRUVLS0FldW9Ua2ZDZ28zTV94SjFuLVFKSkpSZFEwVjFTcFh2cGpPT2pGSHR3RXl6YThiTmJabS1rMGJfM1FPb281NlkwTWIzRmJCRlp2QnRPckJZMk04M29QWG1qU1U2R2w2WnBadkctOEVGUlBReW5rUDBadjN4Z20xbDFmeFpXWUUxQmJXSzlMZ0dHZGlqYThuNEctQk1lU0JoamozN01Bb2RBV0pXQQ?oc=5",
+        "pub_date": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
         "title": "MEXC Strengthens Its Nigerian Offering With TradFi Products and Zero-Fee Trading - Techpoint Africa",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHl4ZWlGclZOYUlpa2pBd2RSY0pQZ1BxQk1rSFNhMWZ0R29mQlFwakNaVkNINV9Qc2ozUnZhYXFsRVFDTjktWU9Fb1dUOUNnd0xkUmF1bHhaWWxXYlkyOVZ4M3RtS2RKbzZYSl9zQzd5ZHRyMlQwLTRycFQ0LWRXTjVoZk53UEpsQzZ0WFlXMGt0XzdwcWdBeDFwQm5aR3l0OEkzTFBjc3RnTm52ZVEtenlKa0xhTzhj?oc=5",
         "pub_date": "Wed, 28 Jan 2026 08:00:00 GMT",
@@ -1349,10 +1333,10 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Sees 170% Surge in Trading Volume Amid Zero-Fee Campaign - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMldVUzFPMUNLalFGR256Y295djdncUY5R296U1djR185LXNIQWQ3cUVVdUkwZWg1UGpoYlIwNXdjM2M4a0FDRW9PM0I3dVlXWlZYSzZDSWpGZXNDOHM0UDJPY01SSGdpWjVCZXNEMVQ5Q2NVbHN3U0hlZUpTaTFYT1RQWk04OWdvZnRUeGxwZnYwTHZkNmw3SWJhY1JMVmRMaUl1X3RBOHI0dUJsZm0yaWxvOWNhdU0?oc=5",
-        "pub_date": "Tue, 15 Apr 2025 07:00:00 GMT",
-        "sentiment": "neutral",
+        "title": "MEXC Earn Upgrades Products for Limited Time, Raising USDT Flexible APR Up to 20% - Digital Journal",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjRmdl9MalUza25rc2tKeWh1VTdEVTVIVlJXOUZPUlR5c1Y3V2c1ZEtiUm5QX2dzY0p0X09iOVhpV1BraEhhRHNnNi1rTnlYR3VDb1JfMDU5aGtqSWgzOFJZWW5VTU1vcFpjNzlueFNwdFlYRHNMVExVUVExTFR1Mm14R3A5aXFSUkdTOFZyV3NJWkZYM2VDTTRoNVZKektEQUJZVA?oc=5",
+        "pub_date": "Thu, 19 Feb 2026 13:50:18 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -1365,25 +1349,17 @@
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Deposit & Withdrawal Guide: Fees, Limits & KYC Requirements FAQ - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVZzUmRLVHBqeHVpd2w5YWh0ZmdfSkZRYm5Oc19xdFhNZERmS1doTGc2bkFSYzFVQnBPbWI5X29yNFVfRWpPN3FHS1FmXy13R0NXTmtVM29wb0VHYkNfX0FMUzB0NkMxZ1dYT294amVDN3VSZzhheGpaT2YwNWstYnlhU0U0bUFzdFhTQ2txVzJCWExQb2dqSnowd3Y3NHdr?oc=5",
-        "pub_date": "Tue, 02 Sep 2025 08:46:33 GMT",
+        "title": "MEXC Sees 170% Surge in Trading Volume Amid Zero-Fee Campaign - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMldVUzFPMUNLalFGR256Y295djdncUY5R296U1djR185LXNIQWQ3cUVVdUkwZWg1UGpoYlIwNXdjM2M4a0FDRW9PM0I3dVlXWlZYSzZDSWpGZXNDOHM0UDJPY01SSGdpWjVCZXNEMVQ5Q2NVbHN3U0hlZUpTaTFYT1RQWk04OWdvZnRUeGxwZnYwTHZkNmw3SWJhY1JMVmRMaUl1X3RBOHI0dUJsZm0yaWxvOWNhdU0?oc=5",
+        "pub_date": "Tue, 15 Apr 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "MEXC",
-        "title": "MEXC Unveils Industry-First Gold Launchpad: Zero-Fee Tokenized Gold Investments Arrive as Gold Prices Hit Record Highs - The Nation Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0V1RzhkWk9SZkhpTk9UNmp1M1FIb0lsZzN5UXNVMVQ4XzVidWgydlY5czNyYWw1YlF1MHFuTFRNeFY4OElzVWhZZnI4U3ZTZWM1bDNWTjRRODhyUWJpVEtXQnhHQzJ4bWZlb2czRGxoUjB6YVlIYVI5SUZqTFlEVHhmWVBJVlZSNDlaaUU0SEtndUhrZGxBck1hLTRVOTZyeXJxcGZyMjVtZXotZmpJa196RnlBT2pscUpQU1VRaGcxdjRaV0s0cWU3SkJrQUZvNnZaRko1T2ZaRmktV2JQd0FB0gHnAUFVX3lxTE1zb2hZVkt3dUpYTkpVLVFWWEluMmhsNE5BXzZQNVEzemxVbVZWNlZhNHhDOFF2M1BqaW5wdzJMSjFibUlpNUtRd3FaLU5lY2g2N2MyS3JUTFAtNEpCdHIxdTNLUlhid0ozMjN3NmFzbUxVWVkxMVRqZ2haSGJPWVl6UHJGaDlaM044TEY4VWdIenI0Q3IwQnNpVllQWElxWTl0SFNwSFR5cXczdTVzc0h5V09vaUVVYmk5T2M3VlB3YUkxZTJ3WTBHTUhFQ1FodHRlMEwwbXh6N0JidmNOWm5MM2FSdWZzTQ?oc=5",
-        "pub_date": "Sat, 31 Jan 2026 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "MEXC",
-        "title": "MEXC P2P Now Supports Philippine Peso (PHP)! - MEXC",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbGd4NGxuSE1aVE1kMktMRExVa0w2NmZ6UzNCei1EbHdmUklVRF9kQU9pUkRHeXNZTXJJbFFZZkVxRHl2elVqLXJMYVJLSjgtVVczRXlmY3p6R01JUnRqMWxwZFRVbkVaR3Q1VzdxTDAyTEZnUUpoN2lIWUJvRVZidlAyTzBSVkQ3ekRzYWw5MXpqeHl4S2hoNw?oc=5",
-        "pub_date": "Tue, 04 Nov 2025 08:00:00 GMT",
+        "title": "MEXC Deposit & Withdrawal Guide: Fees, Limits & KYC Requirements FAQ - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVZzUmRLVHBqeHVpd2w5YWh0ZmdfSkZRYm5Oc19xdFhNZERmS1doTGc2bkFSYzFVQnBPbWI5X29yNFVfRWpPN3FHS1FmXy13R0NXTmtVM29wb0VHYkNfX0FMUzB0NkMxZ1dYT294amVDN3VSZzhheGpaT2YwNWstYnlhU0U0bUFzdFhTQ2txVzJCWExQb2dqSnowd3Y3NHdr?oc=5",
+        "pub_date": "Tue, 02 Sep 2025 08:46:33 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1402,6 +1378,54 @@
         "pub_date": "Tue, 22 Jul 2025 07:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC Launches Prediction Market with 0-Fee, Low-Latency Trading Experience",
+        "link": "https://www.globenewswire.com/news-release/2026/03/16/3256063/0/en/MEXC-Launches-Prediction-Market-with-0-Fee-Low-Latency-Trading-Experience.html",
+        "pub_date": "2026-03-16T10:00",
+        "sentiment": "positive",
+        "source": "newsapi"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC AI Partner Wins iF DESIGN AWARD 2026",
+        "link": "https://www.globenewswire.com/news-release/2026/03/13/3255324/0/en/MEXC-AI-Partner-Wins-iF-DESIGN-AWARD-2026.html",
+        "pub_date": "2026-03-13T10:00",
+        "sentiment": "positive",
+        "source": "newsapi"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Polychain backs VeryAI’s $10M raise to build palm-scan identity system on Solana",
+        "link": "https://cointelegraph.com/news/polychain-backs-veryai-s-10m-raise-to-build-palm-scan-identity-system-on-solana",
+        "pub_date": "2026-03-12T19:13",
+        "sentiment": "neutral",
+        "source": "newsapi"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "Crypto News: Pepeto Update Amount Raised Above $7.96 Million as Ethereum Price Prediction Points to New All Time High",
+        "link": "https://www.globenewswire.com/news-release/2026/03/12/3255033/0/en/Crypto-News-Pepeto-Update-Amount-Raised-Above-7-96-Million-as-Ethereum-Price-Prediction-Points-to-New-All-Time-High.html",
+        "pub_date": "2026-03-12T18:21",
+        "sentiment": "neutral",
+        "source": "newsapi"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC Women in Workforce Data: Leading with 43% Female Representation and 49% YoY Growth",
+        "link": "https://www.globenewswire.com/news-release/2026/03/12/3254392/0/en/MEXC-Women-in-Workforce-Data-Leading-with-43-Female-Representation-and-49-YoY-Growth.html",
+        "pub_date": "2026-03-12T10:00",
+        "sentiment": "positive",
+        "source": "newsapi"
+      },
+      {
+        "exchange": "MEXC",
+        "title": "MEXC AI Upgrades to Trading Copilot, Moving AI from Q&A to Trade Collaboration",
+        "link": "https://www.globenewswire.com/news-release/2026/03/12/3254391/0/en/MEXC-AI-Upgrades-to-Trading-Copilot-Moving-AI-from-Q-A-to-Trade-Collaboration.html",
+        "pub_date": "2026-03-12T10:00",
+        "sentiment": "positive",
+        "source": "newsapi"
       }
     ]
   }
