@@ -166,6 +166,22 @@ def parse_feed(url, assigned_exchange=None):
             ]
             if any(d in link for d in blocked_domains):
                 continue
+            source_el = item.find("source")
+            source_url = (source_el.get("url") or "" if source_el is not None else "")or
+            if any(d in source_url for d in BLOCKED_DOMAINS):
+                continue
+            check_str = " ".join([link, source_url, desc]).lower()
+            if any(d in check_str for d in BLOCKED_DOMAINS):
+                continue
+            full_text = "{} {}".format(title, desc).lower()
+            self_promo_patterns = [
+                "bitget blog", "binance blog", "okx blog", "bybit blog",
+                "mexc blog", "kucoin blog",
+                "bitget news", "binance news", "okx news",
+                "official announcement", 
+            ]
+            if any(p in full_check for p in self_promo_patterns):
+                continue
             full_text = "{} {}".format(title, desc).lower()
             if assigned_exchange == "all":
                 matched = [
