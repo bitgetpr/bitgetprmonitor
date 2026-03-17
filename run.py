@@ -160,17 +160,9 @@ def parse_feed(url, assigned_exchange=None):
             desc  = (desc_el.text  or "").strip() if desc_el  is not None else ""
             if not title:
                 continue
-            blocked_domains = [
-                "bitget.com", "binance.com", "mexc.com",
-                "okx.com", "bybit.com", "kucoin.com",
-            ]
-            if any(d in link for d in blocked_domains):
-                continue
-            source_el = item.find("source")
-            source_url = (source_el.get("url") or "" if source_el is not None else "")or
-            if any(d in source_url for d in BLOCKED_DOMAINS):
-                continue
-            check_str = " ".join([link, source_url, desc]).lower()
+            source_el  = item.find("source")
+            source_url = (source_el.get("url") if source_el is not None else "") or ""
+            check_str  = " ".join([link, source_url, desc]).lower()
             if any(d in check_str for d in BLOCKED_DOMAINS):
                 continue
             full_text = "{} {}".format(title, desc).lower()
@@ -178,33 +170,14 @@ def parse_feed(url, assigned_exchange=None):
                 "bitget blog", "binance blog", "okx blog", "bybit blog",
                 "mexc blog", "kucoin blog",
                 "bitget news", "binance news", "okx news",
-                "official announcement", 
+                "official announcement",
             ]
-            if any(p in full_check for p in self_promo_patterns):
+            if any(p in full_text for p in self_promo_patterns):
                 continue
-            full_text = "{} {}".format(title, desc).lower()
             if assigned_exchange == "all":
                 matched = [
                     ex for ex, kws in EXCHANGES.items()
                     if any(kw in full_text for kw in kws)
-                ]
-            else:
-                matched = [assigned_exchange]
-            if not matched:
-                continue
-            sentiment = score_sentiment(full_text)
-            for ex in matched:
-                articles.append({
-                    "exchange":  ex,
-                    "title":     title,
-                    "link":      link,
-                    "pub_date":  pub,
-                    "sentiment": sentiment,
-                    "source":    "rss",
-                })
-    except ET.ParseError as e:
-        print("  [ERROR] XML parse error: {} -- {}".format(url[:60], e))
-    return articles
 
 def fetch_meltwater(api_key, saved_search_ids, lookback_days=7):
     if not api_key:
