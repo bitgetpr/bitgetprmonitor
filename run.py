@@ -699,9 +699,9 @@ def main():
         datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")))
     print("=" * 60)
 
-    MELTWATERAPIKEY = os.environ.get("MELTWATERAPIKEY", "")
-    NEWSAPIAPIKEY = os.environ.get("NEWSAPIAPIKEY", "")
-    MELTWATERSEARCHES = {k: v for k, v in {
+    MELTWATER_API_KEY = os.environ.get("MELTWATER_API_KEY", "")
+    NEWSAPI_API_KEY = os.environ.get("NEWSAPI_API_KEY", "")
+    MELTWATER_SEARCHES = {k: v for k, v in {
         "26257006": "Binance",
         "26256926": "Bitget",
         "26256928": "Bybit",
@@ -709,116 +709,111 @@ def main():
     }.items() if k}
     exchanges = ["Bitget", "Binance", "Bybit", "OKX", "KuCoin", "MEXC"]
 
-    allarticles = []
-    seentitles = []
+    all_articles = []
+    seen_titles = []
 
-    print("\n[1/3] Fetching {} Google News feeds...".format(len(GOOGLEFEEDS)))
-    for url, exchange in GOOGLEFEEDS.items():
-        for article in parsefeed(url, assignedexchange=exchange):
-            if not isduplicate(article["title"], seentitles):
-                seentitles.append(normalizetitle(article["title"]))
-                allarticles.append(article)
+    print("\n[1/3] Fetching {} Google News feeds...".format(len(GOOGLE_FEEDS)))
+    for url, exchange in GOOGLE_FEEDS.items():
+        for article in parse_feed(url, assigned_exchange=exchange):
+            if not is_duplicate(article["title"], seen_titles):
+                seen_titles.append(normalize_title(article["title"]))
+                all_articles.append(article)
 
-    print("\n[2/3] Fetching {} direct media feeds...".format(len(DIRECTFEEDS)))
-    for url, exchange in DIRECTFEEDS.items():
-        for article in parsefeed(url, assignedexchange=exchange):
-            if not isduplicate(article["title"], seentitles):
-                seentitles.append(normalizetitle(article["title"]))
-                allarticles.append(article)
+    print("\n[2/3] Fetching {} direct media feeds...".format(len(DIRECT_FEEDS)))
+    for url, exchange in DIRECT_FEEDS.items():
+        for article in parse_feed(url, assigned_exchange=exchange):
+            if not is_duplicate(article["title"], seen_titles):
+                seen_titles.append(normalize_title(article["title"]))
+                all_articles.append(article)
 
     print("\n[3/3] Fetching Meltwater + NewsAPI...")
-    if MELTWATERAPIKEY and MELTWATERSEARCHES:
-        meltwaterarticles = fetchmeltwater(MELTWATERAPIKEY, MELTWATERSEARCHES)
+    if MELTWATER_API_KEY and MELTWATER_SEARCHES:
+        meltwater_articles = fetch_meltwater(MELTWATER_API_KEY, MELTWATER_SEARCHES)
     else:
-        print("  [SKIP] Set MELTWATERAPIKEY + search IDs to enable.")
-        meltwaterarticles = []
+        print("  [SKIP] Set MELTWATER_API_KEY + search IDs to enable.")
+        meltwater_articles = []
 
-    newsapiarticles = fetchnewsapi(NEWSAPIAPIKEY, exchanges)
+    newsapi_articles = fetch_newsapi(NEWSAPI_API_KEY, exchanges)
 
-    for article in meltwaterarticles + newsapiarticles:
-        if not isduplicate(article["title"], seentitles):
-            seentitles.append(normalizetitle(article["title"]))
-            allarticles.append(article)
+    for article in meltwater_articles + newsapi_articles:
+        if not is_duplicate(article["title"], seen_titles):
+            seen_titles.append(normalize_title(article["title"]))
+            all_articles.append(article)
 
-    mentioncounts = defaultdict(int)
-    sentimentcounts = defaultdict(lambda: {"positive": 0, "negative": 0, "neutral": 0})
-    for a in allarticles:
+    mention_counts = defaultdict(int)
+    sentiment_counts = defaultdict(lambda: {"positive": 0, "negative": 0, "neutral": 0})
+    for a in all_articles:
         ex = a["exchange"]
-        mentioncounts[ex] += 1
-        sentimentcounts[ex][a["sentiment"]] += 1
+        mention_counts[ex] += 1
+        sentiment_counts[ex][a["sentiment"]] += 1
 
-    totalmentions = sum(mentioncounts.values())
+    total_mentions = sum(mention_counts.values())
 
-    sovmap = {
-        ex: round(mentioncounts.get(ex, 0) / totalmentions * 100, 1) if totalmentions > 0 else 0.0
+    sov_map = {
+        ex: round(mention_counts.get(ex, 0) / total_mentions * 100, 1) if total_mentions > 0 else 0.0
         for ex in EXCHANGES
     }
 
-    lastweek = loadlastweeksov()
-    sovdelta = {
-        ex: round(sovmap[ex] - lastweek[ex], 1) if ex in lastweek else None
+    last_week = load_last_week_sov()
+    sov_delta = {
+        ex: round(sov_map[ex] - last_week[ex], 1) if ex in last_week else None
         for ex in EXCHANGES
     }
-    savesov(sovmap)
+    save_sov(sov_map)
 
-    exchangedata = {
+    exchange_data = {
         ex: {
-            "mentions": mentioncounts.get(ex, 0),
-            "sov": sovmap[ex],
-            "sovdeltawow": sovdelta.get(ex),
-            "sentiment": dict(sentimentcounts[ex]),
+            "mentions": mention_counts.get(ex, 0),
+            "sov": sov_map[ex],
+            "sov_delta_wow": sov_delta.get(ex),
+            "sentiment": dict(sentiment_counts[ex]),
         }
         for ex in EXCHANGES
     }
 
     output = {
-        "generatedat": datetime.now(timezone.utc).isoformat(),
-        "totalarticles": len(allarticles),
-        "totalmentions": totalmentions,
-        "exchanges": exchangedata,
-        "articles": allarticles,
-        "sovpct": {ex: sovmap[ex] for ex in EXCHANGES},
-        "toparticles": {ex: gettoparticles(allarticles, ex) for ex in EXCHANGES},
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "total_articles": len(all_articles),
+        "total_mentions": total_mentions,
+        "exchanges": exchange_data,
+        "articles": all_articles,
+        "sov_pct": {ex: sov_map[ex] for ex in EXCHANGES},
+        "top_articles": {ex: get_top_articles(all_articles, ex) for ex in EXCHANGES},
     }
 
-    with open("data/dashboarddata.json", "w", encoding="utf-8") as f:
-        json.dump(output, f, ensureascii=False, indent=2)
-    print("data/dashboarddata.json written.")
+    with open("data/dashboard_data.json", "w", encoding="utf-8", ensure_ascii=False) as f:
+        json.dump(output, f, indent=2)
+    print("data/dashboard_data.json written.")
 
     for ex in EXCHANGES:
-        exarticles = [a for a in allarticles if a["exchange"] == ex]
-        expath = "data/" + ex.lower() + "news.json"
+        ex_articles = [a for a in all_articles if a["exchange"] == ex]
+        ex_path = "data/" + ex.lower() + "_news.json"
         history = []
-        if os.path.exists(expath):
+        if os.path.exists(ex_path):
             try:
-                with open(expath) as f:
+                with open(ex_path) as f:
                     history = json.load(f)
             except Exception:
                 history = []
-        weekentry = {
+        week_entry = {
             "week": datetime.now(timezone.utc).strftime("%Y-W%V"),
-            "generatedat": datetime.now(timezone.utc).isoformat(),
-            "articles": exarticles,
+            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "articles": ex_articles,
         }
-        history = [w for w in history if w["week"] != weekentry["week"]]
-        history.append(weekentry)
+        history = [w for w in history if w["week"] != week_entry["week"]]
+        history.append(week_entry)
         history = history[-8:]
-        with open(expath, "w", encoding="utf-8") as f:
-            json.dump(history, f, ensureascii=False, indent=2)
+        with open(ex_path, "w", encoding="utf-8", ensure_ascii=False) as f:
+            json.dump(history, f, indent=2)
     print("Per-exchange news history written.")
 
-    html = generatehtml(output)
-    with open("index.html", "w", encoding="utf-8") as f:
-        f.write(html)
-    print("index.html generated.")
-
     print("\n-- Share of Voice --")
-    for ex, d in sorted(exchangedata.items(), key=lambda x: -x[1]["sov"]):
-        delta = d["sovdeltawow"]
-        dstr = "(first run)" if delta is None else "({}{}% WoW)".format("+" if delta >= 0 else "", delta)
+    for ex, d in sorted(exchange_data.items(), key=lambda x: -x[1]["sov"]):
+        delta = d["sov_delta_wow"]
+        d_str = "(first run)" if delta is None else "({}{}% WoW)".format("+" if delta >= 0 else "", delta)
         s = d["sentiment"]
         print("  {:8s}: {:4d} mentions | SOV {:5.1f}% {} | +{} ~{} -{}".format(
-            ex, d["mentions"], d["sov"], dstr,
+            ex, d["mentions"], d["sov"], d_str,
             s["positive"], s["neutral"], s["negative"]
         ))
 
