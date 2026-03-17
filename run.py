@@ -781,8 +781,8 @@ def main():
         "top_articles": {ex: get_top_articles(all_articles, ex) for ex in EXCHANGES},
     }
 
-    with open("data/dashboard_data.json", "w", encoding="utf-8", ensure_ascii=False) as f:
-        json.dump(output, f, indent=2)
+    with open("data/dashboard_data.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
     print("data/dashboard_data.json written.")
 
     for ex in EXCHANGES:

@@ -28,7 +28,7 @@ jobs:
           MELTWATER_API_KEY: ${{ secrets.MELTWATER_API_KEY }}
           NEWSAPI_API_KEY: ${{ secrets.NEWSAPI_API_KEY }}
         run: |
-          python -c "content = open('run.py').read(); content = content.expandtabs(4); open('run.py', 'w').write(content)"
+          python -c "content = open('run.py').read(); content = content.expandtabs(4); open('run.py', 'w').write(content)"        
           python run.py
 
       - name: Commit results
