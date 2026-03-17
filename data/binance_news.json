@@ -1,16 +1,8 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-17T12:21:12.894812+00:00",
+    "generated_at": "2026-03-17T12:32:26.949131+00:00",
     "articles": [
-      {
-        "exchange": "Binance",
-        "title": "Binance Will List Centrifuge (CFG) with Seed Tag Applied - Binance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOODdyYWU0TEYtSVBHWUtqX2VMTHVHWjhSaWo2ZzZ0T2w2YUxVVG1tTjQwZ2txVWZZVlIxMmM0TlY4Yzc3MzVOTDdtOGVFOUh3bDNLM2JlUXR4NnQ0RC1HRWZPd1ZSVDQ5N2FYWlozUC1oMEROTF8yYTNxTHB1MlFKY01PNzM4bVRNbVVvUVBRbjA?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 10:26:25 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
       {
         "exchange": "Binance",
         "title": "Crypto News: Pepeto Announces Binance Level Exchange Update And Ethereum Price Prediction Eyes $7,000 - markets.businessinsider.com",
@@ -54,7 +46,7 @@
       {
         "exchange": "Binance",
         "title": "Binance Fired Staff Who Flagged $1 Billion Moving to Sanctioned Iran Entities - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOZXNZazRZbGdrVkw3Y3czOXhkSWJrQloxR0lqckJUc0Q0d3pKaU1hNzZsd2FsZEJpRVFlMFZyeXFnRDBYbkxGQmhudTlfeTlxMlZqSy1OcENkVVlycTNPZm04TzRWWHpwQmx2cWdHbllHYWIySTdXZndGTzVxNWh1WlRZamVMZVIyZnp0c3h2a1FvNlF0d2pSY21UOHY3alpiSDFEZDN0WVVNLVp5RXFJRzNMdGw2T0YxUE5JZHc5dXB3bnd3S3RQbU1MZl9uRERhT3RudzFZb2JIc3lxWUlmQzhHS1JFVHBRdElRSXFjNjBsbVVtdWNaR3FZTUVVZ244VWNsRTlyYjNiYUVRYlhvTEhzdVdWSloyTi1kUmZIMDV0NnZPX1lLdkV5TElwV2ItVmx0Sk55aTlCMy1tazhZVWJKQlFGcXRGdktmSFh6X296ajdQcDVQSDJxMjU2QnpaRjdyZ0QycG4tcHp1dEhZX2FRT1FSZzFud2hfdWQ0NzdKUmt1eWlGdmtWVVpGdjhuaElfag?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOREpnaHJoMWZZVGJ6MDZCcDRKLU9EaEFvUWlqeDJKNXlKazVhU21jVTRQYlJfLXpUX2h4WGFoYkhSQTNYQld5cmdyeGNuLUN4ZlBocnJHNVZZUzZRWmMySjJNTVNaeGxHSldrdFRkbXlyMGw0NWg1b29KUlZhUGE2c2RyNWR4aDVtQWc0Rk1MM1h0b3V3bGkwa1V5OFZXTDZZYWZmMUhLOElMRFM0MF9ObjlpOXpjTlVsdG11TGV4R2tKZjdyWXRTUjVSdUREV1hHMWUzZFNEQkQ4ZF9OWkxXYVVIRF91cV8tc0VUS2laN1JtMEEzXy13M0dOcHFudHE0dkd5aUhFaTR6bHJnWVllSk1fRTVtSjRYMjlSS3RJSC1qWDBHalNaTFhNSDVlV0JpT1hvWF9BcEMtWXhZT0l3ZTZVZFNJZU92Y0taOFZkWFB0Z3ViUFVzRUZ0Q3R4RmdidEpDTVk0LXNjU0l1dGloUldldkNhVFZNVGhMZVJQUk9falVzN2JvXzh0VFc1eTFhTzMzMA?oc=5",
         "pub_date": "Mon, 23 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
@@ -70,7 +62,7 @@
       {
         "exchange": "Binance",
         "title": "Exclusive | Justice Department Probes Iran’s Use of Binance to Evade Sanctions - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNUTBxdWdkUnB4MmpPaDdZY0tEekl5VEo4RGtGQzJ3QXpJT3VNdGR3UHJMeFY0aUVmRURmZGEwVkRyRmpxeWNubWFWNU9CS1ktNS1iLXRGYUlBa2pDajlxSml3QTA0dzJENzJvcE5QNWVIMTBIT2pxMlJSMzZCdUJXRHdYUHVEbjZnZVI1eE1ldXhWUHNXOEJ4Mi1tM0dNdk1wdHJDT1I4Uk5JR0x3ck5EcHRPNVVXUm5SUGlWQ1RCbWVnQkE4amVjWkJPMm1seUhqSW9RZmxGUXRiMU9QREtSVVpGckZ1NFRqYmNvR1NGMEpuTWZWSlpUeDRpcFJEeUVHRFlPaWd2TnZpRW5DaUVXZUJiMlJZRXBUWF84dHUzMS1YN3BlUl9HUm1VTHZPdEYzQWR1VXFjWkVMTzJINTdhdjRzZTJPeUJnekY3S2hJb0J2a1o3T3g2cC16bjF1RkttMjF5Tjd2SnNkYXpDajVZN1l6VlhaUWRQUWlqZGJoS2ROeWhMODRiV01wZUtLdlNiNWR6bDhIVmFfN3RJRmduSnlPd2Z6N2hTYksyS1Q3VGhSanh4WEszag?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNeTlRZEtxV0JGQml1ajF3YlFMVlZFNXN0NjZERG9qQXhsbVhvTjhtNDdPNFpDNFlVZFNYYWJiQWhJd2NRU0E2MFUxQllnWkJuTU9LUFRCdEl4S3N1Y0hBYkdYSkt5OUxLRUQ5eEtQSm5aSjVZNC1fNkJKS0RCSTlNYXRRdzRuSU93dGw2RGJVd09jckwwR2lqc0ZoWDhIbnAySU1GTG8wSC1xcmJhTVBxSUhDVjRCNEQ2OWdtWHdMT3pQMGU0azZoSnhfblk0VXMwVEdUWThQTWpPbzRsY1ZCMjdGb3pRZzBrcFd1am1wY040UjJob3VWVU15WEVzRjV4NzJlejFlcnVPQ0hiUm8wWXdieFROM3hGaVJPQmdGUVFlaklSZWpzNmFnRlF4dllwRTRuODlSMTF0U2xRWW5ndWtyUDgtcklFSnpNZjRDOVIzdWZxU2VGLVI0cnYwUWpnVGRfTUZvbGxpcXpsVlZ4Smt3clIxcXN5ZnlidmdYampzbUs2bGdHbF9XTGoyLWduVGFpZkhMNFNMcXc4Z1Y3RTBsc1dzNkh4UTduN0dmVHlsdkw1YWlaMw?oc=5",
         "pub_date": "Wed, 11 Mar 2026 11:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
@@ -93,17 +85,17 @@
       },
       {
         "exchange": "Binance",
-        "title": "Regulatory Clarity and U.S. Market Re-Entry: How Binance’s Leadership Frames the Conditions for Return - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObjJKOTVDLUVFSURMWTBhREY1SmFDSVBDTnJkWXEtdE91S2NBZTlleERBYVNwWXdZbXhFVklnM2VURzNOMm85R3dYZWIzRk5obDJfMlN6TW9jclo3Q2trRC1fclUtRWNyeW5CSzBlSm1oT2VEekl5M29JQ21OT2k2RlJ0Zk1HdDhTdzVuYkZ6ZFhqOXVPRDlfX0NfX1FzNGthTDNzcjU1dm5PVTR6MGtMbmlscng4TWsxWU9HSmRhX013QlVuTWlMbmg0LWdBSktnWDd3WU8xVFRMUUJvUVJmUkpmcUxRT1JKQVRJd0duN2lJQ1lOdFp2ZHNTRjJHWEs2YWhMU1RWYnA1MUE?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 20:19:00 GMT",
-        "sentiment": "neutral",
+        "title": "Vietnam to Ban Overseas Crypto Exchange Binance and OKX, Promotes Local - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTlBJcl9Dd3Y0NW9LaFhZZVM2QldUaUd2ZkdOdFdDNU02bEs1Nm5BZExueWtPaG5HNGZqRTVBZzltUFhzbWNUMUlnZi1uNWJfUVJLdVV1X0haRTlNT3hRWUNhcHlKYkNXLW1hTS11MDIwS20yUUZUek54VUp4cFhWakF5bnRCRDFOTHNtb0lmNndwQU1idFF4c1o5MVVzM2VZdHI5dnJra0VvLWpGel95WTNSakhkSl9oRlRuVHBSVXQ0S2lRLVU5NUpB?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 11:01:39 GMT",
+        "sentiment": "negative",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "XRP Supply Tightens On Binance As Scarcity Index Signals Limited Liquidity - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXpTenFCS3NaZ0kxY0VhSHRzS3RPYWJKdnJ4WXM3blI1UjViZ3lwcmpoekRvV3JsOGpzV055ZVFqdHFDR3p5eEhEWUt0V1FTdDJBUnlodTl2QWxZUkZZQlM4RERpc0V0TXlQOGFSYlU5S1o5aDlQQW1GaW5wcFNmRWs3cFJjNG54MVZ4dDFFSDNkc3dacG41Wkk4WFlheW40VXQxc0huMGxxb3Y4N0RWc280Vk0za2lDbDFheFZSVExrRG9KOWZLSHNDU0o?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 01:00:00 GMT",
+        "title": "Regulatory Clarity and U.S. Market Re-Entry: How Binance’s Leadership Frames the Conditions for Return - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObjJKOTVDLUVFSURMWTBhREY1SmFDSVBDTnJkWXEtdE91S2NBZTlleERBYVNwWXdZbXhFVklnM2VURzNOMm85R3dYZWIzRk5obDJfMlN6TW9jclo3Q2trRC1fclUtRWNyeW5CSzBlSm1oT2VEekl5M29JQ21OT2k2RlJ0Zk1HdDhTdzVuYkZ6ZFhqOXVPRDlfX0NfX1FzNGthTDNzcjU1dm5PVTR6MGtMbmlscng4TWsxWU9HSmRhX013QlVuTWlMbmg0LWdBSktnWDd3WU8xVFRMUUJvUVJmUkpmcUxRT1JKQVRJd0duN2lJQ1lOdFp2ZHNTRjJHWEs2YWhMU1RWYnA1MUE?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 20:19:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -160,6 +152,14 @@
         "title": "\"SEA is only issued once\", so OpenSea chooses to wait again - Binance",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93TEZDWDhVMmN0ck92UVBwV3NBd3AwRExCWTl4bUcxVF83RDM1eXVHclJ0SGVxdDVxRUtNSDdFV255RVgtNzUzRzgtWkhpQXJjdWRWcXJkRUFRMjVIajlQakFLWE0?oc=5",
         "pub_date": "Tue, 17 Mar 2026 06:33:05 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "XRP Supply Tightens On Binance As Scarcity Index Signals Limited Liquidity - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXpTenFCS3NaZ0kxY0VhSHRzS3RPYWJKdnJ4WXM3blI1UjViZ3lwcmpoekRvV3JsOGpzV055ZVFqdHFDR3p5eEhEWUt0V1FTdDJBUnlodTl2QWxZUkZZQlM4RERpc0V0TXlQOGFSYlU5S1o5aDlQQW1GaW5wcFNmRWs3cFJjNG54MVZ4dDFFSDNkc3dacG41Wkk4WFlheW40VXQxc0huMGxxb3Y4N0RWc280Vk0za2lDbDFheFZSVExrRG9KOWZLSHNDU0o?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 01:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -301,18 +301,18 @@
       },
       {
         "exchange": "Binance",
-        "title": "24H Popular Cryptocurrencies and News | Venus Protocol Faces Flash Loan Attack; Only Bitcoin ETF Among Top 20 Global ETFs Experiences Losses (March 16) - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fQXF6UlhTLXAta0JjV1I2clhQR3VHME9rWlJmLUxJVUlwLXNGU2tZUEMzXzVnLXlZSkQ2bklPa3o2ak1VMnFxbnJkV25fSzdiT3IzVUhCQXhqT0Y5WXdicDl1ZXM?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 01:30:00 GMT",
-        "sentiment": "negative",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
         "title": "Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities - The New York Times",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSnlzQ1lkdW5nTmhtc3JkT3BNWERLQ1p3VW0zc19WTGhESWZxVzY0V01jLWM4UFk2cUpES1lVZkFiVjg1VklJYnRHS3pkWkNFOS1hbXd4YmkybnA2SXhmTFJpdW1QWVRENGdaZHZkcW85Sk1iaWtJN0hfMWFDUmFQTUlUWmE2QU9D?oc=5",
         "pub_date": "Mon, 23 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "24H Popular Cryptocurrencies and News | Venus Protocol Faces Flash Loan Attack; Only Bitcoin ETF Among Top 20 Global ETFs Experiences Losses (March 16) - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fQXF6UlhTLXAta0JjV1I2clhQR3VHME9rWlJmLUxJVUlwLXNGU2tZUEMzXzVnLXlZSkQ2bklPa3o2ak1VMnFxbnJkV25fSzdiT3IzVUhCQXhqT0Y5WXdicDl1ZXM?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 01:30:00 GMT",
+        "sentiment": "negative",
         "source": "rss"
       },
       {
@@ -325,17 +325,17 @@
       },
       {
         "exchange": "Binance",
-        "title": "Issue 102 – The public will pay - Citation Needed by Molly White",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KT3JRVi16YzREZ191QVp4VWdFbUFLSkYtVXN2cGloRHE2QlY0czMzdnBIY3RQdWxZbUttdDk5bkpxTTl5MElzaG9MYy0zZ2lzbGpsWQ?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 20:27:20 GMT",
+        "title": "Senate Democrat Opens Inquiry Into Iran Transactions on Binance - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVZuaFB1YVB1QmxGcGg4NkdkQW9mNjlPTTA1Mkg4Tzh1OC1lS2RKd2pmbHR0Y3drUzhWVllyMzg3aVo3YzZGY1hYVEFpWmVLNkZ4QWpYRVE1TEJDSGY3MTJSV2VqaWdqWDNPTlR5ODAwdkd2eFpaYWdaYmd0YzhFdmlVcU94RG5fQWtHR2VXN24yV3d5?oc=5",
+        "pub_date": "Tue, 24 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "Senate Democrat Opens Inquiry Into Iran Transactions on Binance - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVZuaFB1YVB1QmxGcGg4NkdkQW9mNjlPTTA1Mkg4Tzh1OC1lS2RKd2pmbHR0Y3drUzhWVllyMzg3aVo3YzZGY1hYVEFpWmVLNkZ4QWpYRVE1TEJDSGY3MTJSV2VqaWdqWDNPTlR5ODAwdkd2eFpaYWdaYmd0YzhFdmlVcU94RG5fQWtHR2VXN24yV3d5?oc=5",
-        "pub_date": "Tue, 24 Feb 2026 08:00:00 GMT",
+        "title": "Issue 102 – The public will pay - Citation Needed by Molly White",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KT3JRVi16YzREZ191QVp4VWdFbUFLSkYtVXN2cGloRHE2QlY0czMzdnBIY3RQdWxZbUttdDk5bkpxTTl5MElzaG9MYy0zZ2lzbGpsWQ?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 20:27:20 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -381,6 +381,14 @@
       },
       {
         "exchange": "Binance",
+        "title": "Binance Review Feb 2026: Trading, Fees, App & More Explained - Ventureburn",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MMW9pcmwzNmF2THE3TDNaX19yckNhcG1hdURJS3ptVkhwc0gwN2Rpb09pbEpXbnRZWWkxSmZma3ItZTlyNGRkaEhieTE3MFUy0gFQQVVfeXFMTkwxb2lybDM2YXZMcTdMM1pfX3JyQ2FwbWF1RElLem1WSHBzSDA3ZGlvT2lsSldudFlZaTFKZmZrci1lOXI0ZGRoSGJ5MTcwVTI?oc=5",
+        "pub_date": "Thu, 12 Mar 2026 07:21:34 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
         "title": "Binance Denies Iran-Linked Crypto Flow Claims as Sanctions Scrutiny Intensifies - FinanceFeeds",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRFdyQ2ZwVTBjMk9UaENlVC15ZUJPUllWMHJQamMzUnU4YV9SOXBQQ0YwSXprcmNyendaUng5bEpDcHJScVVZWTVwTDhadUtsREZneWZkZFh5LUtBYVg3Y3pzejVSX05tSWlDZUxFM3hBQmNPYlZsWDdOUnNEYUNBcW0tSlVSanRHNDdqNUhVQjVWU2dubFNiRGo4ckpyQTN2Nk1laUVGNDc?oc=5",
         "pub_date": "Tue, 17 Mar 2026 08:09:10 GMT",
@@ -421,17 +429,17 @@
       },
       {
         "exchange": "Binance",
-        "title": "Binance Secures Second Major Legal Victory in U.S. Court Under Anti-Terrorism Act in Two Weeks - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeXB6VUZDRXRfM0VtNE40R1FrS2wxclNTT3RyblZmdFdpSnY4ZWxmX0NCNXBsTHV4RTlqUUczV25NbDlLcDZVSnB4VERkVE1KZ0NLNDhuZTdrRHVoMkFSZVlHM29RRFhHSHZTWTJCOUtfZWxoaTByR2p4b1BtU3F6bWpBRnVPVVlFU3dWX1JIb2tGcHgwcTBhMVdRUVJkMjNLRXZYZVlqbWtPMm9mbWd4cndqSVBIZmMwbExDaWdhSk5qb1VQS2IzaGcwc28wZWpXRi1EVHg5MkpiSFlfNjMxN0Fn?oc=5",
-        "pub_date": "Thu, 12 Mar 2026 13:47:00 GMT",
+        "title": "Democratic Lawmakers Vow Oversight as DOJ Probe Into Binance Emerges - CryptoPotato",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0pCZ3lvNnNpazRqdEt5bDZFc0cxVmxKTG90cnRabTAyY2tiUlp6STMwYlRPRldEWHJkNWlGYkZ2bTVHQUpLdjJDVkw4QkpUckh5VFNiRWh6TmduYjBvZ3lLWVNZYjd1LUluQjZtc3hCSkI5VFhTbDBkMkpBRHZHeWVDNTdsa3RMUzM1bnFyazREdkdkajNjZDZR?oc=5",
+        "pub_date": "Sat, 14 Mar 2026 04:36:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "Democratic Lawmakers Vow Oversight as DOJ Probe Into Binance Emerges - CryptoPotato",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0pCZ3lvNnNpazRqdEt5bDZFc0cxVmxKTG90cnRabTAyY2tiUlp6STMwYlRPRldEWHJkNWlGYkZ2bTVHQUpLdjJDVkw4QkpUckh5VFNiRWh6TmduYjBvZ3lLWVNZYjd1LUluQjZtc3hCSkI5VFhTbDBkMkpBRHZHeWVDNTdsa3RMUzM1bnFyazREdkdkajNjZDZR?oc=5",
-        "pub_date": "Sat, 14 Mar 2026 04:36:00 GMT",
+        "title": "Binance Secures Second Major Legal Victory in U.S. Court Under Anti-Terrorism Act in Two Weeks - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeXB6VUZDRXRfM0VtNE40R1FrS2wxclNTT3RyblZmdFdpSnY4ZWxmX0NCNXBsTHV4RTlqUUczV25NbDlLcDZVSnB4VERkVE1KZ0NLNDhuZTdrRHVoMkFSZVlHM29RRFhHSHZTWTJCOUtfZWxoaTByR2p4b1BtU3F6bWpBRnVPVVlFU3dWX1JIb2tGcHgwcTBhMVdRUVJkMjNLRXZYZVlqbWtPMm9mbWd4cndqSVBIZmMwbExDaWdhSk5qb1VQS2IzaGcwc28wZWpXRi1EVHg5MkpiSFlfNjMxN0Fn?oc=5",
+        "pub_date": "Thu, 12 Mar 2026 13:47:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -501,9 +509,9 @@
       },
       {
         "exchange": "Binance",
-        "title": "Binance says 'wait and see' on reentering the U.S. Ripple's CEO thinks it's happening - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTI2dlZ4Snl5N0M1ZUtpYy10QU1JT2NWaXJva0VzQmJNMTJ4WHR6TVBnZ0tobjdnMGtPRjlyNGgwLVAzZERFb2pDdEdfSDJpYl9WcFdhNWJPWEtoRDd1MVBUX0Ffck51MXdwNnZINmpIVm8zSGNQdE1SbThVa0JVd09xbUt0QjdReVJabm1nOW3SAZYBQVVfeXFMTmZPQTg1VVlyeGc5cXJEV0VIQzJKdTB0SkxDR0pQUDR2VzRfZlhtVldOQXNzR2Nkc3VFNEVlWnJISlVwYUdVbEV0dzM5SUNudkx5bVRGdUIxRmU4RGFaSzdxaWx5Y2djOHdKV3JnU1FHVmNweVh0Q2pBZWpHcXp6ZVVUcWw5RGVzUWR4X0FKd3p1N080OC1n?oc=5",
-        "pub_date": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "title": "Binance’s MAGA-Branding Strategy - The Nation",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FUG5OVTh3N0h6X0pLOWtFRTdqYWVpeWxNRXByb0I1VVFnaVZxWHoyOUw3YXZFV285VGJJbHBnVmh3X2h4dnhmaVhSM0hPekVVdlljSXhOeFJKWm5oY0xjU21KN0xXUTRNTkQxMzVnS07SAXhBVV95cUxNV2pjdW9TVmJyTThlQWhGZDlkVE9ZOXRPRXR4eDJJbVpfWWNVOXBlck1QQVV5ZmEybEpKaE11d1dwMzVvQ1Q1SUZENVk5Rk1TTUplMUxBekJBQnNBNmdGd0dHU1dqQWo4ekFidzNGa3lXWFNqaDBRaks?oc=5",
+        "pub_date": "Fri, 27 Feb 2026 16:26:30 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -512,6 +520,14 @@
         "title": "Bitcoin Price Breaks $74,000 as Pepeto Wallets Load Before Binance Listing While BlockDAG Lists and TRX Flatlines - FinanceFeeds",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV296WF9WVkZjM01LVjdWbUpFaTBmRmd4X3luZ2RKNHVpNXh3V0lNeTlXVzcyR3B0TTlTdGhjc0w2SHdxd3V4RGFDMnI4enV6LVBqTW42a0Z6R2Jwbmw4Q1B1MkFXc1NKZXE4Q0xzb0JNZXZ3ekthQ1NoUDBoZVU3T0NWNWxDbEVfU24yNmFtT2lJTlVscVM5MmxSc01sRGpwOUthd3dWQkxlNmhIRzR3STlWR1V6YnUwdE5TSlVxOFdmN0IyVzhwekNVcENfcnJHeGpN?oc=5",
         "pub_date": "Mon, 16 Mar 2026 22:45:41 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Binance says 'wait and see' on reentering the U.S. Ripple's CEO thinks it's happening - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTI2dlZ4Snl5N0M1ZUtpYy10QU1JT2NWaXJva0VzQmJNMTJ4WHR6TVBnZ0tobjdnMGtPRjlyNGgwLVAzZERFb2pDdEdfSDJpYl9WcFdhNWJPWEtoRDd1MVBUX0Ffck51MXdwNnZINmpIVm8zSGNQdE1SbThVa0JVd09xbUt0QjdReVJabm1nOW3SAZYBQVVfeXFMTmZPQTg1VVlyeGc5cXJEV0VIQzJKdTB0SkxDR0pQUDR2VzRfZlhtVldOQXNzR2Nkc3VFNEVlWnJISlVwYUdVbEV0dzM5SUNudkx5bVRGdUIxRmU4RGFaSzdxaWx5Y2djOHdKV3JnU1FHVmNweVh0Q2pBZWpHcXp6ZVVUcWw5RGVzUWR4X0FKd3p1N080OC1n?oc=5",
+        "pub_date": "Tue, 20 Jan 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -549,9 +565,25 @@
       },
       {
         "exchange": "Binance",
+        "title": "Binance Names Co-Founder Yi He as Co-CEO of Crypto Exchange - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxOa3FZQTFFaHhwWmIybV8tYVlRMHJMZGp4dzR3ZmVzWjNkSFFsYkdSRlBPb1owSFRwVE5sSDNYTm1aNEY2b3FUT2ZfN1RFTFNuVkx0Tm4xT3QwcThzQzBWZXFMQlFOeE5JdGQtTHhLRy0zUWF0ZzczdG1mRFNmYi0wNnFIbUZtZFlvOHVhQWcyOHdydnZ0WTBIT2ljdkFTNlNnaDdZbllBU0FScG9zdWVITEFEU0hsRUpuQzdWc1dlYXB5R2szR2JMaHR2SldPcXlOTkozVkpEcjhaMFBCLVNCTVFyOXpudFJnNkdFYlF0V3FDTDZKZDNRYy1tZUpCVGRNeDNHVm42bGxOUjh2Z1hzRk95X21KM05MVFNnemJZZ2xNMzV0UFN4eW9lU0s0eDV0aU1RYlg4cVJCVDl6Z3JiZjdxd2RLRXZVOHFyalJySDBKSHc5U0hvMXZPZGo4Z1Q0RW9EX1dNWGhKTGRqN3FuaFFRNURpVG1lLUkyNDJCNkdHc1p3N0JGLW1XV2lpUXhoSUF5QmxBaDh6a2xUM2FxdE5ZbHRZOTh1MHdxUUdzWlI?oc=5",
+        "pub_date": "Wed, 03 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
         "title": "Pakistan to allow Binance to explore 'tokenisation' of up to $2 billion of assets - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVU14ZWRGeDVQT1dkcTdSMlFGSmtZcGoxN2M0MFZEekVPVHAtOVhpRnlWaGotMkk3RGY3TjlHcF9tV0RVMjJTbXhUcFVicVZLc3pvM3V1MUNIbTdVMGVfVHZFcndMZ1pCYk5WaUMwb2liOFFvY3JmVExnZS1ocGotOXBGSVZqUXlwOHdCUWFkSXRVbVNqWlVwdVR5MlYxejA3Z0cyNFA1NHluN0ZuQ0R0NU0wUTR6b0RmRW9VQ0NTWks4Z1VySlJmMGd3?oc=5",
         "pub_date": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Celebrating Recognition: Binance Named Digital Assets Exchange of the Year by Regulation Asia - Binance",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0S0F0b2dRdk04RS0xcmM1c0dfODB4dGRkUjhpcjRIeWdEbjkyTVVzYVB5aEx3Wi1rcV9IQmd6ellnd0piR1ZwSnFVbklUaVZFaldWa1BpbE45MmJvNVd6NE5tY2xkV0J6RlIxUTdn?oc=5",
+        "pub_date": "Mon, 10 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -581,9 +613,9 @@
       },
       {
         "exchange": "Binance",
-        "title": "Binance Names Co-Founder Yi He as Co-CEO of Crypto Exchange - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQUjhrTHR4Vk9MbjdvOXlIZmFLNmtLM1JKRWs3bXloUTUySXlDQnNxM0hpTGpzWkJjTzcwN0ZJOEgtRTZ0U0ljTmpXODNxdFR6U3hmMlV5bEVGNkRObkJYQ0x0aXNQX3pvQnBoX2xLVTRNQW9jX2pnQmFnckpVTVdEQUEyWFVMRVJQbExLY2pWSG1wUkpiU1g2QjRPU0IzOWVYRDczQWJEOEJjY3BELWVHRVgyVkVKNG9rXzdORUl6aFBuRUJuRkh4VHRCU2RONW8tZEhRaFVVbkRzUWNkd1RDdTJBcXRvZHJrdV9pekl1RUt5a3hZSGU2YzY3bXlmVzIwdnBUejNvd0Jsdy13aXRxZFJIb184S3ZYT0JJN00zb1RUS2haSWMyd21TMVNBc0R3YWtkX0ZqaGV6eFRjTW5kakpQZ3FRZVJhd2pMeXJ4eXpjUmMyWm5kOHk2eE5wa1VjZFR2TnJIMGR3b2JBWi14Q1dTYWxqNnhqcTRWVUFTUzZOSXpsLVVoaDBFN2pPakswZlNEOGNxUWtoVnZUZUNpdFJKOHNPX09CV2VMSlpIRlI?oc=5",
-        "pub_date": "Wed, 03 Dec 2025 08:00:00 GMT",
+        "title": "The 2025 CoinDesk Benchmark: The Exchange Industry’s Health Check And Binance’s Leadership - Binance",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44bi1tUlA2NWdIODM5Y2RXUDlMUDIxZkNhU0RkV1JMbVdrNF9Gbnd6XzNnaWM5Sk1HdHJYdy1hYVd2bGJITkEzVzl4NTc5YmxCOGtKOWJxT1VzRTd6c01VeVdINUoyeTFabWR5TFFTUQ?oc=5",
+        "pub_date": "Tue, 11 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -621,10 +653,10 @@
       },
       {
         "exchange": "Binance",
-        "title": "Celebrating Recognition: Binance Named Digital Assets Exchange of the Year by Regulation Asia - Binance",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0S0F0b2dRdk04RS0xcmM1c0dfODB4dGRkUjhpcjRIeWdEbjkyTVVzYVB5aEx3Wi1rcV9IQmd6ellnd0piR1ZwSnFVbklUaVZFaldWa1BpbE45MmJvNVd6NE5tY2xkV0J6RlIxUTdn?oc=5",
-        "pub_date": "Mon, 10 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
+        "title": "Mexc or Binance, Which Crypto Exchange Is Better for Buying Gold? The 2026 Macro Ecosystem Showdown - MEXC",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYzB6OUI0WEtwTlJkQjVSUkZleXV1TlUzSVF6MkV5ZGd0UVNFbEhCQVlHeVN2ZWFVeXVNSEJlLTBvbVRhQkNSVTVqQlROWWVWcDZ1SHU4NHdwd2tIOTI0NjRGTUxMNzhSWEYwYVRYOVRabGV6T2x2MUZEdFBaWlNHTHJScE9EcG5yNGV0ZUJGWVZBSVh6Q3AwYjBVSHdKRG93R0I1QUotMTZVVjJwR3JXMUhyQjVpSVliTjVCVklBT3E0YWpacy1ZTzdQT0JFTG9HamktZTVKcw?oc=5",
+        "pub_date": "Thu, 12 Mar 2026 09:18:02 GMT",
+        "sentiment": "negative",
         "source": "rss"
       },
       {
@@ -645,6 +677,14 @@
       },
       {
         "exchange": "Binance",
+        "title": "Hamas Victims’ Families Sue Binance, Accusing It of Aiding Terrorism - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MNkNNV2ZGRTlac2RvRXpIT0ZrMGpVTlVOUlRvcFc4TnZ5VXFLQmJkUDVZYkpOek1qaG1yT3hXYnZzZDlHN2xhODkwOHBhU2g4ZThqTnJOUDFzdTZKQVF3VWEyWS1HTjZpUGxsa25LeS1tc2RwQzBCbzFTSnk?oc=5",
+        "pub_date": "Thu, 27 Nov 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
         "title": "Trump pardons founder of Binance, world’s largest crypto exchange - The Guardian",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTUdoaHluZE9IUU5YZDl3c3pReWVIazBIeDE0a0k4NVhPQkR3QzJkRFBhMl9ldFJ2TU5SenBrWFZnQXVkcXdvWjh3aEhoVThfSmQyTEFpelliVmZEamE4TFd2Y19ZMVd6VnlqcmQtTjdhZVJGOTFpWE9GZERTZkxtVFhLM0VYaV95alhXV09ROA?oc=5",
         "pub_date": "Thu, 23 Oct 2025 07:00:00 GMT",
@@ -653,8 +693,8 @@
       },
       {
         "exchange": "Binance",
-        "title": "Binance has been proudly nomadic for years. A new announcement suggests it’s finally chosen a headquarters - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDkxeldtOEtsVjlTSmtaUzNjcEdfRGN6V05MWFpYWTJsZmdRU3hMdXZ2SjZRMFVELUNvY2JybXpPeWlETXBaTE04TXNXVzVuSm5uOFZWU0hydnB6Q2RpMTZIc2hkNWpVbWRueE0wY1RmVUhpN2dKNXlCVXktQVFBNjluWmVxc1hZcTVYZ09PTEtGSGtSWVE?oc=5",
+        "title": "Binance Becomes The First Crypto Exchange to Secure a Global License Under ADGM Framework - Binance",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uUU90WkNrWTdrQS1lcjNLenh3ZEtBNTJfb0Njd1hrRTFZU2FVMl93LXljVDl4TzdzbXZQdFljbWZLdWwxQVpNaE12SXgwQk9tOWtWdWFkenR1dVJKcjBqQmJicmZkUUlsNVpCMVln?oc=5",
         "pub_date": "Sun, 07 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
@@ -672,14 +712,6 @@
         "title": "Franklin Templeton, Binance Partner on Off-Exchange Collateral - Markets Media",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWDJkczBDTGdEOW1RdG1zUW1ydHN5OXBVRFdvOXl1MUVqTjhLYUpjWGFTTWdwb21UbDU0OXhtZEU2RjFGLTB4SzhodDBVcGtQR3hLN0ZEdkdxYmFWSzQyUUR2QVBhRDJwT2FPVjZUWXhVdDVqbWRrQzJhUVF5V2NVdTlGemNCS3JkVUVHYl9fc1dWSm5L?oc=5",
         "pub_date": "Wed, 11 Feb 2026 09:37:29 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance news: Exchange plans to bring back tokenized stock trading after 2021 retreat - CoinDesk",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGh4enl6N1dULXhDdGRBd1lrWVQzQWpwT1FUbnNJSUJJcXk0SS13Umg0YkpzbmdjbFlZYllvTFdxTUFGLWdLb1B5Yk55OW9qMUNMOGVJZ2gwQkNNQzhCODY0cFZLNVNyMmluYXF3RzQ5V1ZBcldNZzRRWVpxWFR6clRnZ2pyTm5vTjNYMEFodnVPMTdtOU1GWUUtZjlSYnNQc211a1B3dklhUFNyclNKeHRsdk0wQQ?oc=5",
-        "pub_date": "Fri, 23 Jan 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -709,14 +741,6 @@
       },
       {
         "exchange": "Binance",
-        "title": "Binance expands into precious metals with gold, silver futures settled in USDT - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tSGxNV3hEYTNmaUNyVm5pWjhBLUlfcFNCZzRoODJfcXdDQmNlNUs1emFjUlh1Y09RM2Q3bHJVMWpPSnNvNUpVUGNWQmxGc29DLVE2cXpjVVlFZmU3UTVod3lkdw?oc=5",
-        "pub_date": "Thu, 08 Jan 2026 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
         "title": "Candid Binance CEO speaks out on several current crypto industry issues - LeapRate",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBnMElmUWFzYk5XYkVfR0pUZ3ZSZU1XNGpMV1ZoZzlsMTdzbndGQWRmS3ZYVWVsSmNtcWR4WjhudHBTMTlUVl9WMEkySXZKQm0zSk45OEpxOGtBb3gzcUl5cGZnNHkzcVg3V184SUprN2lMWDNPbnVjWTZnYkdLSjdaMnNWRmRLWXRPQjdPbGdKdnV4eDh2SXZfcWhKSm16UHJLMQ?oc=5",
         "pub_date": "Sat, 14 Mar 2026 21:03:15 GMT",
@@ -725,8 +749,8 @@
       },
       {
         "exchange": "Binance",
-        "title": "Binance Becomes The First Crypto Exchange to Secure a Global License Under ADGM Framework - Binance",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uUU90WkNrWTdrQS1lcjNLenh3ZEtBNTJfb0Njd1hrRTFZU2FVMl93LXljVDl4TzdzbXZQdFljbWZLdWwxQVpNaE12SXgwQk9tOWtWdWFkenR1dVJKcjBqQmJicmZkUUlsNVpCMVln?oc=5",
+        "title": "Binance has been proudly nomadic for years. A new announcement suggests it’s finally chosen a headquarters - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDkxeldtOEtsVjlTSmtaUzNjcEdfRGN6V05MWFpYWTJsZmdRU3hMdXZ2SjZRMFVELUNvY2JybXpPeWlETXBaTE04TXNXVzVuSm5uOFZWU0hydnB6Q2RpMTZIc2hkNWpVbWRueE0wY1RmVUhpN2dKNXlCVXktQVFBNjluWmVxc1hZcTVYZ09PTEtGSGtSWVE?oc=5",
         "pub_date": "Sun, 07 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
@@ -741,41 +765,17 @@
       },
       {
         "exchange": "Binance",
-        "title": "US President Trump pardons Binance founder Changpeng Zhao - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5McDRBaTdEUXNKVmhRbmRxU2szYzN5MDk0MHpPOGZhdGFmWnpxRGR5TDFGNjFWa252WE55anBmclpnbWx0SjNfbWVVVUUtME42SV9nN05nY0RoUQ?oc=5",
-        "pub_date": "Thu, 23 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Trump pardons convicted Binance founder Changpeng Zhao - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11akdhbVpzMDl5ci1Da3B2NjRvSkZRaGZiY0U0ZVhqMUYtM3JMVzZkY2FIVEJVWjRFT3UxbERVeHVEbFhCalNRbDYtWVNoc3NYbzBvSHcwZ0NiNURVeTBHdGo5U1ZOU2pTNDRQQ3AxWHJYQ0pPTk5BZkpMVFdMd2vSAYQBQVVfeXFMTW1oRmxmUkR3NFJ5Q3B5MmM5VjBtMTk1aXhIMDVNcE9FZWs5STAtTUNIZEg1dzVVMlVjQTFycEhQSGJkX0JTOUNRVzNCdF9sRjNPdDBBUGdVTDdkYVlSLU9HOENDajNjTjBFUm5QdC1Ea3FMTzRlejhIWV9rTS1QTlp2TFZv?oc=5",
-        "pub_date": "Thu, 23 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance expands Korea derivatives as Upbit, Bithumb volumes lag - 디지털투데이",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3E5NVhRZEtMREp5d29JZjNTcnNBVkRsZmdQal9iV1hidGl6T0xRbGNzdFdpcUdYbjRjT0pPdWI2V2xUNUVMUnRwcjJtTzBRcVM4Zjk0dE1zaGl2b0JXcVJpVVdpMjZMaE1YbmlVUFJYeGNUZ1F5Z1ZNeEo5ZUtneW40LVdMMHZNWW42UmRFZGUwLUxaby15SUZiVmdWMnU1VnBNNk1YTGdJRTA?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 22:07:41 GMT",
+        "title": "Binance integrates Tokenized Real-World Assets USYC and cUSDO into Off-Exchange Settlement Solutions - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaVExMjktX0FPOGxDTFNTekxNN2Z3MHEyQVRCbEdYNW40dmpzLUxRWmVCTVlDWXNWbWg2RFZDTUxvM3RQa3ZoQUpEVDhaX3JLeFBnS1dZMF9yeS1jMFlHcVlyOEx1U3lrT1QwQWp2RmZjZ2lRTVNkOVRJakFBdXpLcFR4UkQ4NE9KMU5KaVhfOXJVaG80cUtTekk1eWYzT0llVTJveFJRZVgybmtBVFcyaEZpVmF2M0lscmxJOS1CTjRDcHlrNV8xNVRoTFNpejFscW1wcmFsbjZ5NFM1ZjM0QTRLM1U5d29mNk1ZZw?oc=5",
+        "pub_date": "Thu, 24 Jul 2025 07:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "Ethereum Based Crypto Pepeto Update Bridge on Binance Level Exchange While Dogecoin and Elon Musk Drive Crypto - The Manila Times",
-        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTTJibm41T1BVX0w3c19sdDJudUZwaUViaXY4VU9FSldjQUpURjJDTEg0SXY3dGdla2lHRjNLRWY4NkhkZzkzVXo0cDVLcDJaVEx6VjhtYWE0aXR6UnhnVWdlRmp6bE1Vb1E3dWVLLVoyQ18xZjgteEdlWmlvYTZKY0RqRUlLUGtLVnZvS3NJdFdpZ1ptU3V0eWo4elBaeGVwYnB5bFhwMlhfNzBERGVnZnBxaEQ3czlsUlhVRjJZMERPNU4ydE5JbUFUMDB0Uzg2dk9Jc2dfWHZXMm0zalI0UlBCZ0N5aTAxSU1DZnVzLWJMWF9vLUE2aXZiaWZZYTBPWGVINHZYZ3NjQ0d4ZWhEeHdB0gGXAkFVX3lxTE80VHpRSFVUajlqTkgtY19GZHZpUFFCekZ0aElCVUZyMjBhc254X184YTZubWFVeUtCRWt5V1pqSlBZLVRRSU5taEhyS2RuNGxjUE10YnhnNkVnYS14d2RtSHp3WGc3aWNVd20xRklabGhHclhBaWIzX2tUa2ljLTh2ZHI0dG1IMGJRcThwbTlXTVp4cTViZllzQlNMek5aUUhtM1lkNkNuelJxSVBJLWIzV0lKWnZ1REozUVhEbGgyM2ZvcG5rUXBCa1ZlWVFha0JTaTlScG9HMFVXWDhaay1aajdOSzJjRGVZS2l3SlcyVjgyUmVOc3lfaFpfa3lncG5zdWRLRWlfa3pSLVdOV1lDWV9QeE8ySQ?oc=5",
-        "pub_date": "Thu, 12 Mar 2026 23:03:43 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "The Crypto Industry’s $28 Billion in ‘Dirty Money’ - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN0VEd2Z5RUtqa2RQMmticjhjZ3h5WUpGQUZ4NUVjck5lYWZ0N0dJdDVVWm9RZThCc2ppM2pZdG1BcVdSNnhNWkNlTkRNTHZCd1JRM0F6NlVwWmdYX1NoUnFTUHBXcHNzYnJuMG5NZC1MT3pVbWd3S1JTZDFTdHFvLWdMZ0k0QQ?oc=5",
-        "pub_date": "Mon, 17 Nov 2025 08:00:00 GMT",
+        "title": "CoinGlass: 2025 Crypto Derivatives Volume Hits $85.7T, Binance Nears 30% Share - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEYXBmZi04SG8waklER3o5Zy1sMTRSRWpNYlNVNnNXQmhQalJxNFZoWGF2RlZfRVJJSGNsYjYtUlBJcmtkLTZnSkdlVWxIWTNFRkk3ZUVycXZWMlJVeVRXbmw5dw?oc=5",
+        "pub_date": "Thu, 25 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -797,65 +797,17 @@
       },
       {
         "exchange": "Binance",
-        "title": "Binance Coin Price Prediction: Can BNB Hit a New ATH by 2027? - openPR.com",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BucHJqQ19iQUd5Um9xSk5vT2RwWUx6STRXM2dyVjhENWtkUVdwa01DLUFxeUU3VkRFQjJjUGgwZ002NEg2WE8wSnhhTi1LN0hLcXB4WkE5cjJYMTFYVjdpNmJOYWU1aHBtNEFmcGQyV05xSVppQml1S0RObmZGY1pSdWtiVXV5MHVJQlQ1VF9FVmxRazYwUVlnVQ?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 11:30:24 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance (BNB) Coin Could Tumble Further If Holders Turn Against - openPR.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSEhKc0NETGwwa0RSX0g2ZlBrNktUWGkzMTV2ejhVM2FkNUpSb3J1RlR3UEkxWnVrYWoyWXhlNEJrZzlEM1I5UXZPdUREeDFEVDAwWVlTdTE2SkJmR181MC1ra19uY0w1SjhVRHJpSGRYRHRhekt2UHFHUWQ4TGtJdkhHRjJ5eS1fQnAwNnUwb2lGblIwS1VaaXFqMWwxQQ?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 19:19:09 GMT",
+        "title": "Best Binance Coin Wallets (BNB) in 2026 | Secure BNB Wallets - CryptoSlate",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qX2VMc19sZUtPZWNVMjFkQ19kREw2bjQ2Q1Z4eHJyRnZ2dTV2ZnZtd09GTENfWFFHMVVfckRyNDBlbkxtUXlHbXgtbmdwWWJsUkM3a2hzeW1RbmN3aGN0LXlKbFZWZ3IwUGNzTw?oc=5",
+        "pub_date": "Sun, 15 Mar 2026 20:58:50 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "Binance Trading Bot Will Support New Contracts For Position Snowball (2026-03-17) - Binance",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUV3SFh4RE1zQnlSbUhwNmFmWUlMVzFBRTliS2o5YmtyNm9oazZMTjFhNXZNVDI3aDFsbWY4ZHJiSk1GYnBnVVROaWJvVXFtS0FFc0pVd0lmbndTOU9CRnFWNU81OUQybVZXb01ubHdfcmdlRUtGYmQxdHBvMUZibGE5LWJ3aXM?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 07:13:37 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Introducing Midnight (NIGHT): Grab a Share of the 90,000,000 NIGHT Token Voucher Prize Pool! - Binance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkV0OWJBLWlfcmIwT3pZb1U4TkRUSjRGLW0tVFhfaUVCc1plX1drQXBDcGc4YldYNzI0YzE1aVRpS2V4bGhaRkhyTWNXTExIUmNvWTlFdUV1NFN0clYxcEhxLVRTTlJJRFBsTDV6R0dyZ2pnUjBsWkJ1YXN6ZHNJcW1fenJjS1Ribm9mWXhaaXY?oc=5",
-        "pub_date": "Fri, 13 Mar 2026 07:06:24 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "BNB Price Alert: Why Whales Are Tracking Binance Coin and Utility Protocol in Q1 2026 - openPR.com",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzJfX1dLMlBmSHkzZV9JSW9EVzY2RzNpNWp0aWdzbjNJSmdSZ3ozMWNYSHBJaGs1Wm8xWTlFMnVkVFg4YkphWHc0bW9rc2xwTGtUNE5LQklBSEN6TWM5SEwyb2RfNG5zYVNQcHphdnBmUkdEeTdQQlM5NTFCc3d3YjAzM0hVS1R3eWV5YzVFUFZHRFN2UzJCX2I1S0EyVmYyM3c?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 15:36:01 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Introducing Midnight (NIGHT) on Binance Super Earn: Share Up to 120M NIGHT Quarterly, Under a Total Rewards Grant of 480M NIGHT | Binance Announcements ,Binance News - Binance",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTNYUGlvVWRzY29xS1FMOUtqc2dualhWOEllMWVHUEZ5emNSc2tTSnYzTDBaQnRNa1lSZ2Z6aHNmQ1ZfcmZFam1FaWJGZkhWZFE5eE9YOXBBN3NXbDk4bGxVYVk2VWk1eUtqcTB0SV9LM3NQamRrcmlpdXFtZGxobnZSUjlQRGs?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 08:12:08 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance Coin Price Prediction: Can BNB Recover From $650? - openPR.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU50bzRSOXZreVUyR3Y4a1BjclFRV0Q3a2M0YUxzRHRHN2ZEMDdHUXZEdVpFSEZ3THdiRFZWYU1pVTkyT0t0VWdnVVJmd2xHRVgyaG5uSG1oa0gxbWIwRGh3RGFlcWt6aVRUOGx4Rml2ckloMnpsMkhPR2FlWWl2R1l5ZURnd1BlbGY3SDVMaldmbU44?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 14:15:45 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Academy - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHZndFdGkwQ3huLTVyRmh0WjU3NjVpQVpSbEt3TU9xbXZhbW84ZmFTbGNBNGEyLVBydjBrWlFrVjh6RjhTSnFhbWotM0Y1dzVYSlJNX21JamdwTnphQU1GRFRPNExpUQ?oc=5",
-        "pub_date": "Thu, 15 Jan 2026 08:00:00 GMT",
+        "title": "Binance Coin Price Prediction: Can BNB Hit a New ATH by 2027? - openPR.com",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BucHJqQ19iQUd5Um9xSk5vT2RwWUx6STRXM2dyVjhENWtkUVdwa01DLUFxeUU3VkRFQjJjUGgwZ002NEg2WE8wSnhhTi1LN0hLcXB4WkE5cjJYMTFYVjdpNmJOYWU1aHBtNEFmcGQyV05xSVppQml1S0RObmZGY1pSdWtiVXV5MHVJQlQ1VF9FVmxRazYwUVlnVQ?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 11:30:24 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -877,6 +829,46 @@
       },
       {
         "exchange": "Binance",
+        "title": "Binance (BNB) Coin Could Tumble Further If Holders Turn Against - openPR.com",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSEhKc0NETGwwa0RSX0g2ZlBrNktUWGkzMTV2ejhVM2FkNUpSb3J1RlR3UEkxWnVrYWoyWXhlNEJrZzlEM1I5UXZPdUREeDFEVDAwWVlTdTE2SkJmR181MC1ra19uY0w1SjhVRHJpSGRYRHRhekt2UHFHUWQ4TGtJdkhHRjJ5eS1fQnAwNnUwb2lGblIwS1VaaXFqMWwxQQ?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 19:19:09 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Binance Trading Bot Will Support New Contracts For Position Snowball (2026-03-17) - Binance",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUV3SFh4RE1zQnlSbUhwNmFmWUlMVzFBRTliS2o5YmtyNm9oazZMTjFhNXZNVDI3aDFsbWY4ZHJiSk1GYnBnVVROaWJvVXFtS0FFc0pVd0lmbndTOU9CRnFWNU81OUQybVZXb01ubHdfcmdlRUtGYmQxdHBvMUZibGE5LWJ3aXM?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 07:13:37 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "BNB Price Alert: Why Whales Are Tracking Binance Coin and Utility Protocol in Q1 2026 - openPR.com",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzJfX1dLMlBmSHkzZV9JSW9EVzY2RzNpNWp0aWdzbjNJSmdSZ3ozMWNYSHBJaGs1Wm8xWTlFMnVkVFg4YkphWHc0bW9rc2xwTGtUNE5LQklBSEN6TWM5SEwyb2RfNG5zYVNQcHphdnBmUkdEeTdQQlM5NTFCc3d3YjAzM0hVS1R3eWV5YzVFUFZHRFN2UzJCX2I1S0EyVmYyM3c?oc=5",
+        "pub_date": "Sun, 15 Mar 2026 15:36:01 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Introducing Midnight (NIGHT): Grab a Share of the 90,000,000 NIGHT Token Voucher Prize Pool! - Binance",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkV0OWJBLWlfcmIwT3pZb1U4TkRUSjRGLW0tVFhfaUVCc1plX1drQXBDcGc4YldYNzI0YzE1aVRpS2V4bGhaRkhyTWNXTExIUmNvWTlFdUV1NFN0clYxcEhxLVRTTlJJRFBsTDV6R0dyZ2pnUjBsWkJ1YXN6ZHNJcW1fenJjS1Ribm9mWXhaaXY?oc=5",
+        "pub_date": "Fri, 13 Mar 2026 07:06:24 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Binance Coin Price Prediction: Can BNB Recover From $650? - openPR.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU50bzRSOXZreVUyR3Y4a1BjclFRV0Q3a2M0YUxzRHRHN2ZEMDdHUXZEdVpFSEZ3THdiRFZWYU1pVTkyT0t0VWdnVVJmd2xHRVgyaG5uSG1oa0gxbWIwRGh3RGFlcWt6aVRUOGx4Rml2ckloMnpsMkhPR2FlWWl2R1l5ZURnd1BlbGY3SDVMaldmbU44?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 14:15:45 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
         "title": "Word of the Day: Test Your Knowledge on “OpenClaw” to Unlock HOME Rewards! - Binance",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaWVQVE82SmxCOEItek1RdzB4cVZDS3FPNHg1NjdvUjFxaW9DNkFWQ0NHUmIxdWxHcV9HMTZ6WjBOb0lVYS13dHNTTjhiTU9oQ18tcDNyQWoyTkRqTERMWW82OERZaGZ4eUhwc3hIdXlrQVE1MmVLOFZFQXc1dVY3Q0FjN1FzRHFpaVZseUNYZXk?oc=5",
         "pub_date": "Mon, 16 Mar 2026 02:12:29 GMT",
@@ -885,9 +877,9 @@
       },
       {
         "exchange": "Binance",
-        "title": "BNB Price Support Recognised At $650 As We Give Our BNB Price Prediction For 2026 - openPR.com",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjNwMU5BeGJhTzRueXVZSm1YQVdKcjFXN0YzbnA1ZnFsYWhJMmo5UWM2Q0hEeHB2b29JRzR1X0drYlZoODk3dU1WMmlSN1JhY0FZaFM3cDVtZ21jSHpWRnlSZ1AxclRoNnNPc0k4c0tsNnBCWUd0Q0lIc0lwQ2hrakROa0tERFlEWGxFeFd4VERWV0VqR1pGWEVRaTM?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 19:17:24 GMT",
+        "title": "Academy - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHZndFdGkwQ3huLTVyRmh0WjU3NjVpQVpSbEt3TU9xbXZhbW84ZmFTbGNBNGEyLVBydjBrWlFrVjh6RjhTSnFhbWotM0Y1dzVYSlJNX21JamdwTnphQU1GRFRPNExpUQ?oc=5",
+        "pub_date": "Thu, 15 Jan 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -901,17 +893,17 @@
       },
       {
         "exchange": "Binance",
-        "title": "Binance Coin (BNB) Price Prediction 2026, 2027 – 2030: Will BNB Price Hit $2000? - Coinpedia Fintech News",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10X2w3eEhWVGpvUWdKMzdzcGZ5dTdHVkxhWlZ0RmtJWjlVdDFyRDMtdHB1cWtuRi1RT1N2Vl9GOUlYNllsZXhSY0JoVXIySHd0ZnRZWkZhOG9idW5GeU1mdVFJOHdOUXU2Q25LMEtOSnZRdXhCd29vazlLTi1lUdIBgwFBVV95cUxNZlRYelpwOVJtUWI1eWp3RWtQZG5CQXhCN1JmUkZSZXVHVkF3QlpLUE9BMHdCWjR5NkdDek1heEVDa2FWN094ZmE0U2ctbzBIWERfV3BKTEE2Z1ZsVFpQZUYwX19VZ05tSXRXVDBGMWFRbWtVZFFMdnRWX05MOHFrUXh6MA?oc=5",
-        "pub_date": "Wed, 11 Mar 2026 12:41:00 GMT",
+        "title": "Experts Compare This New Crypto Under $1 to Early Binance Coin (BNB), Here's Why - openPR.com",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUy1KY1FGSW9ZeGVQMmhscTREME5MdTJubW9SejBmTmFHamMzQkRoUk5jRXJPeDNxQWJUakxaa09pLU1fT2U5UVdxRW5Kb3kxVTUxeEQxZE5JbUo2Nk5QZnkxQ0w1THBqZEVQb1l2Mmk5dnRnREVlVi1WNTNfdzQyeDJ1S1R0TU5ISnRzSTZVdzVaTnVIbzNxZWpvZUxZQQ?oc=5",
+        "pub_date": "Sun, 15 Mar 2026 19:22:22 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "Experts Compare This New Crypto Under $1 to Early Binance Coin (BNB), Here's Why - openPR.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUy1KY1FGSW9ZeGVQMmhscTREME5MdTJubW9SejBmTmFHamMzQkRoUk5jRXJPeDNxQWJUakxaa09pLU1fT2U5UVdxRW5Kb3kxVTUxeEQxZE5JbUo2Nk5QZnkxQ0w1THBqZEVQb1l2Mmk5dnRnREVlVi1WNTNfdzQyeDJ1S1R0TU5ISnRzSTZVdzVaTnVIbzNxZWpvZUxZQQ?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 19:22:22 GMT",
+        "title": "BNB Price Support Recognised At $650 As We Give Our BNB Price Prediction For 2026 - openPR.com",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjNwMU5BeGJhTzRueXVZSm1YQVdKcjFXN0YzbnA1ZnFsYWhJMmo5UWM2Q0hEeHB2b29JRzR1X0drYlZoODk3dU1WMmlSN1JhY0FZaFM3cDVtZ21jSHpWRnlSZ1AxclRoNnNPc0k4c0tsNnBCWUd0Q0lIc0lwQ2hrakROa0tERFlEWGxFeFd4VERWV0VqR1pGWEVRaTM?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 19:17:24 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -925,9 +917,17 @@
       },
       {
         "exchange": "Binance",
-        "title": "BNB Meme Coin 币安人生 (Binance Life) Rockets Over 3,000%, Creating New Crypto Millionaires - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mTDF2a3AzWEJzRTZ0c1BIbk5rQ0pfVk9fNkoxS0htckhsSVRJbDRnNG9hc3RveUxpZW5xbGVDZHotbDBvLXZNV1ZSQTRjcWY3dGotYXNYRVBNU0w4M3RZb3FLRXFmR19tOVJiZnhERUpPUnF0WXBSS1B4aHc?oc=5",
-        "pub_date": "Wed, 08 Oct 2025 07:00:00 GMT",
+        "title": "Watch BNB Network Bets Big on Binance Coin - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFBsQ1BjWGVoM2pDc0RIUWd2TGJYOE5Na2hGME5STVIyakE5YjRpZjhZVkNlUmI0UTdlLURLWVh6OU5CZk1qQ0dhQnBSZWNYSURiblJ6QXNKdnF4a3k0V0trZTktRWhpRDVmQzRSYmZYUXFMcWNzb3NXYVQtME1tSmhPSTJQczQ0Vk9SOHpHV1ZfUGQwNkE?oc=5",
+        "pub_date": "Tue, 04 Nov 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "BNB The Engine of a Blockchain Empire Beyond the Exchange Token - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oUkREd0VXdk9RLVluN25JZ3RNZ3JwSFFmWlpETmhyYlpraWFJdHFhQV9UTGs5bFI3Zy1pRHl6ZGgtUlZQVElXZWctLTBlelh5NnZqT2JSR0dxQ2J0N3BqRWxaVlg?oc=5",
+        "pub_date": "Tue, 10 Feb 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -941,9 +941,9 @@
       },
       {
         "exchange": "Binance",
-        "title": "My BNB Rollercoaster Ride: From Pocket Change to a Powerhouse - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NbW9oY1FvTS1kUmJQVW9sUUFvX29yLVFWNG9sUUNvTU9fX2FtVGt2S1kzNTV4RW1LNm5mZlNnaHc1THlBTDlEV0NIRzh5aXpEZDVDdHdubTQyZlV6R2l5dlhzOA?oc=5",
-        "pub_date": "Fri, 29 Aug 2025 07:00:00 GMT",
+        "title": "Binance Coin (BNB) Price Prediction 2026, 2027 – 2030: Will BNB Price Hit $2000? - Coinpedia Fintech News",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10X2w3eEhWVGpvUWdKMzdzcGZ5dTdHVkxhWlZ0RmtJWjlVdDFyRDMtdHB1cWtuRi1RT1N2Vl9GOUlYNllsZXhSY0JoVXIySHd0ZnRZWkZhOG9idW5GeU1mdVFJOHdOUXU2Q25LMEtOSnZRdXhCd29vazlLTi1lUdIBgwFBVV95cUxNZlRYelpwOVJtUWI1eWp3RWtQZG5CQXhCN1JmUkZSZXVHVkF3QlpLUE9BMHdCWjR5NkdDek1heEVDa2FWN094ZmE0U2ctbzBIWERfV3BKTEE2Z1ZsVFpQZUYwX19VZ05tSXRXVDBGMWFRbWtVZFFMdnRWX05MOHFrUXh6MA?oc=5",
+        "pub_date": "Wed, 11 Mar 2026 12:41:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -957,73 +957,9 @@
       },
       {
         "exchange": "Binance",
-        "title": "Watch BNB Network Bets Big on Binance Coin - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFBsQ1BjWGVoM2pDc0RIUWd2TGJYOE5Na2hGME5STVIyakE5YjRpZjhZVkNlUmI0UTdlLURLWVh6OU5CZk1qQ0dhQnBSZWNYSURiblJ6QXNKdnF4a3k0V0trZTktRWhpRDVmQzRSYmZYUXFMcWNzb3NXYVQtME1tSmhPSTJQczQ0Vk9SOHpHV1ZfUGQwNkE?oc=5",
-        "pub_date": "Tue, 04 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "BNB price analysis: Binance coin slides toward key support below $641 - ig.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUlrQU10Vk5DLXRjNmlxS0NYcVh0bTFZUlRZblRVM0JVbVByU1pTVzV4QjFJSHQ4Mk53bC1KZHdMUFlab1ctQURjU3FHajlMTFhsV0tIVEctdXpycDZFV2xUTnFzdDNjWjhEZ2lTLUlEMW9ZVGZQV3U0QWRGdDFNTWF0N20zRnRHMzJ5eEVuX1NaNC1BdjNrUmVPcnVPNjNFdENNLUFsdjdwcFdtdmZJajRFeDA?oc=5",
-        "pub_date": "Thu, 19 Feb 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Revealing Binance Coin Price Prediction 2025-2030: Will BNB Finally Reach $1000? - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QNlE4ek5BWUIwN1Q3ajJhVk55RDZFS2c4Rnp0N3J2SW5HdkI3U0RNZXdsd1ozTDFVdGlLcHR3OURnX0ZadV9DT1BpZmRNOFlrb2diU2piaTZXMkJNbV9zdy1RSQ?oc=5",
-        "pub_date": "Thu, 04 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "BNB token strikes record high as treasury companies pour into Binance-linked cryptocurrency - dlnews.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFJ1bTUtRTlnRGE5cmlZY1drZUFCcEhJaUJLNUV3UEplMzZZR3hkN1lTcW55V182VEowSVdYOTc2TW1aRDFoMGlBWlBvbzdrUVpjQUFxNWhfeEI2QlNGWEQ3a1ZkaERlSjlTX0dpMzZTM1FadW50NHNvdi1pOXROOU5JYzJHdTVGcWk5ZGhoemo1dmF0M1ZReXZwNVpTUQ?oc=5",
-        "pub_date": "Thu, 21 Aug 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Robinhood adds BNB trading as Binance's token runs up a $150 billion market cap - The Block",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYmZuMTk1d1lBLUpvYkdQTzhmUjdVakNVbktCZGhtV19XLTBCNjFTMTh3QjVjN1BuLUlRZFZOWk1KeVBJRnM4ZzloOExRZXJmRHJIamdUX3FCRGhCTXM1aTRtUTVyUVlCTVQtQ3VFdURtOENJU0d3Sk51RnVvZHZGM3dVYjZHcFduUzljRF9TMDBPWmlSRzQwRktPQ3FGamdYM3J6RE9obw?oc=5",
-        "pub_date": "Wed, 22 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Is Binance (BNB) the Best Crypto to Buy Now? - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkN0FpVWliYnhvQnRXaUtYN250eDBPRi1oRVBGRlFBRWdvZDF3OXVXOUpXeExCa3ExLUVqUmlIZWNpS1pqSUhKQ2lFc3ZzYzVGUjB3Z212YVlPblJEd0wtNXhVcklwM3FEd2R6YkRxOUxLX3doejdteWxfQm1qQQ?oc=5",
-        "pub_date": "Wed, 24 Sep 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance Coin (BNB) Listed on Hong Kong’s First Exchange to Support the Coin - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qRVNVbUVzTnQ4Q1hVZ0tlUzBJekJXT2dnaklUQlpEalBPeWRkb3YyN0JaWlVyalU0Unp6T3paZDMtTFU5Rk1fX1pZMVJWMVItTS1saHFKek4yXzNub1AwTmt5aTBfQXJRSjJvN3RoSEtQa0xiQlpoc3JjNFYxYTA?oc=5",
-        "pub_date": "Wed, 03 Sep 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance Coin Is Quietly Following Bitcoin’s Playbook – Here’s What That Means for the BNB Price - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yeVdEUmE5RWdtLVVEX3ZPelVULWVlbjhCMkhSVFlGOFZDdk9hWnl6Y3FiQXhYbXNvanRBUkpvZXZHUWhTRkZaSzAwUkVSVThmMmtrd2ktc05BTnFpVWlVTW9TRQ?oc=5",
-        "pub_date": "Tue, 07 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Coinbase to List Binance’s BNB, Signaling Shift in Crypto Exchange Dynamics - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnduVXdsZVlQdFctQlFFXzZxQUZUQWpZUDEtNlFFMFg3eXo4NThJYVhLTlVSNnJYbnpQVzZMck43LTFXbTBfeWQwUld2QW8xSWF3NmNCZHVDM29zRWNyNUFlbEJ2dG1leU9MNXNrN1pnZG51c2lHWHhYdE9NQWY3QzR3Rmc5QW5y?oc=5",
-        "pub_date": "Wed, 22 Oct 2025 07:00:00 GMT",
+        "title": "My BNB Rollercoaster Ride: From Pocket Change to a Powerhouse - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NbW9oY1FvTS1kUmJQVW9sUUFvX29yLVFWNG9sUUNvTU9fX2FtVGt2S1kzNTV4RW1LNm5mZlNnaHc1THlBTDlEV0NIRzh5aXpEZDVDdHdubTQyZlV6R2l5dlhzOA?oc=5",
+        "pub_date": "Fri, 29 Aug 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1037,6 +973,46 @@
       },
       {
         "exchange": "Binance",
+        "title": "Robinhood adds BNB trading as Binance's token runs up a $150 billion market cap - The Block",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYmZuMTk1d1lBLUpvYkdQTzhmUjdVakNVbktCZGhtV19XLTBCNjFTMTh3QjVjN1BuLUlRZFZOWk1KeVBJRnM4ZzloOExRZXJmRHJIamdUX3FCRGhCTXM1aTRtUTVyUVlCTVQtQ3VFdURtOENJU0d3Sk51RnVvZHZGM3dVYjZHcFduUzljRF9TMDBPWmlSRzQwRktPQ3FGamdYM3J6RE9obw?oc=5",
+        "pub_date": "Wed, 22 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "BNB token strikes record high as treasury companies pour into Binance-linked cryptocurrency - dlnews.com",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFJ1bTUtRTlnRGE5cmlZY1drZUFCcEhJaUJLNUV3UEplMzZZR3hkN1lTcW55V182VEowSVdYOTc2TW1aRDFoMGlBWlBvbzdrUVpjQUFxNWhfeEI2QlNGWEQ3a1ZkaERlSjlTX0dpMzZTM1FadW50NHNvdi1pOXROOU5JYzJHdTVGcWk5ZGhoemo1dmF0M1ZReXZwNVpTUQ?oc=5",
+        "pub_date": "Thu, 21 Aug 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Why the price of $BNB is outpacing bitcoin, ethereum, other major cryptos - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPekpkbGQ2N09TcGVTWGQ1eGlCZXF1MXFUMjJnckNhTXlEUkdQc2Q1dy1acmdDLTJNNFJqOGdLMThSNFRJalFaTEQyWXlvWVJHeHJvdFZMRVNNdkxhV1Jrbzg5WE94OGlKbjNRN056S1lFMDFoeGFmdTNOUXNzTGZDcF9lVmxOM25VQWJkOXBqSWZvdXdUcW9oS1ZR?oc=5",
+        "pub_date": "Wed, 08 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Revealing Binance Coin Price Prediction 2025-2030: Will BNB Finally Reach $1000? - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QNlE4ek5BWUIwN1Q3ajJhVk55RDZFS2c4Rnp0N3J2SW5HdkI3U0RNZXdsd1ozTDFVdGlLcHR3OURnX0ZadV9DT1BpZmRNOFlrb2diU2piaTZXMkJNbV9zdy1RSQ?oc=5",
+        "pub_date": "Thu, 04 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "BNB price analysis: Binance coin slides toward key support below $641 - ig.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUlrQU10Vk5DLXRjNmlxS0NYcVh0bTFZUlRZblRVM0JVbVByU1pTVzV4QjFJSHQ4Mk53bC1KZHdMUFlab1ctQURjU3FHajlMTFhsV0tIVEctdXpycDZFV2xUTnFzdDNjWjhEZ2lTLUlEMW9ZVGZQV3U0QWRGdDFNTWF0N20zRnRHMzJ5eEVuX1NaNC1BdjNrUmVPcnVPNjNFdENNLUFsdjdwcFdtdmZJajRFeDA?oc=5",
+        "pub_date": "Thu, 19 Feb 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
         "title": "Grayscale files for ETF tracking Binance's BNB token, following VanEck’s bid - CoinDesk",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3NCMFJGdjE4MHhreGNhckZWR2p5QXBnSGJ0MDQ2VDc2SkJvM29BY0xPUkIxOW00dEJwcjl5Ml8zRkVreE9kQnlSTXNaSmY2QVpRUmllWkg0clNXdVJwYTY1bTVRQUVScDJoQVFGMFdkLUs1U3oteFhzQ1VpLVIwUlJ5eHNOU2R6bkxzX3lJYU56VEpBcE92Y0lodk5kRVB2SFFWbkVOem4tWTJxV3BESWo4M1NpZTlYQ3Ew?oc=5",
         "pub_date": "Fri, 23 Jan 2026 08:00:00 GMT",
@@ -1045,9 +1021,17 @@
       },
       {
         "exchange": "Binance",
-        "title": "BNB at ATH: The Result of Long-Term Structural Drivers - Binance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPek9tamdFekxXc0g1X09LVFVqSldGQ3ZKRGRUTWwxTVkzRG1ZQTdQZ3VaUEZNY054d01hRlNySnIwM211QXdmY2xvamVPR0oyOVlGaWhiZjVUSW1nSC1tdXpoUlRlaGtXYkQzc3lGQXlza2J1dFpScklDeHpsS0ZTck5fVG90eVVsVVU2S0EwbUpwb0lwOXJxNHdFWQ?oc=5",
-        "pub_date": "Wed, 23 Jul 2025 07:00:00 GMT",
+        "title": "BNB Meme Coin 币安人生 (Binance Life) Rockets Over 3,000%, Creating New Crypto Millionaires - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mTDF2a3AzWEJzRTZ0c1BIbk5rQ0pfVk9fNkoxS0htckhsSVRJbDRnNG9hc3RveUxpZW5xbGVDZHotbDBvLXZNV1ZSQTRjcWY3dGotYXNYRVBNU0w4M3RZb3FLRXFmR19tOVJiZnhERUpPUnF0WXBSS1B4aHc?oc=5",
+        "pub_date": "Wed, 08 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Binance Coin Is Quietly Following Bitcoin’s Playbook – Here’s What That Means for the BNB Price - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yeVdEUmE5RWdtLVVEX3ZPelVULWVlbjhCMkhSVFlGOFZDdk9hWnl6Y3FiQXhYbXNvanRBUkpvZXZHUWhTRkZaSzAwUkVSVThmMmtrd2ktc05BTnFpVWlVTW9TRQ?oc=5",
+        "pub_date": "Tue, 07 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1061,9 +1045,113 @@
       },
       {
         "exchange": "Binance",
-        "title": "Why the price of $BNB is outpacing bitcoin, ethereum, other major cryptos - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPekpkbGQ2N09TcGVTWGQ1eGlCZXF1MXFUMjJnckNhTXlEUkdQc2Q1dy1acmdDLTJNNFJqOGdLMThSNFRJalFaTEQyWXlvWVJHeHJvdFZMRVNNdkxhV1Jrbzg5WE94OGlKbjNRN056S1lFMDFoeGFmdTNOUXNzTGZDcF9lVmxOM25VQWJkOXBqSWZvdXdUcW9oS1ZR?oc=5",
-        "pub_date": "Wed, 08 Oct 2025 07:00:00 GMT",
+        "title": "BNB at ATH: The Result of Long-Term Structural Drivers - Binance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPek9tamdFekxXc0g1X09LVFVqSldGQ3ZKRGRUTWwxTVkzRG1ZQTdQZ3VaUEZNY054d01hRlNySnIwM211QXdmY2xvamVPR0oyOVlGaWhiZjVUSW1nSC1tdXpoUlRlaGtXYkQzc3lGQXlza2J1dFpScklDeHpsS0ZTck5fVG90eVVsVVU2S0EwbUpwb0lwOXJxNHdFWQ?oc=5",
+        "pub_date": "Wed, 23 Jul 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "BNB lags market despite its break above $860 as scrutiny of Binance grows - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGt2bHVjTGNFckJPQUhaS3VpSGlDWGZ5cjJQZzA3V3ppSEVtU2llNDBCUmRPU2NqU0stbGlSRnp6WDZXT1lVV3NZclhGWXJ0cUdCSFZpWTBIc0QzdXVaUk80NXc2WDNTYzZVR3lSOGQ5Tkdxd29UaGhEbUN3SWVpYWN6aDZ2cVpIR0JsUklUbTJRckU4TFlRTjFraTF6U19rSlBvbzRwbmpkYTFDRVFicGx3QXFSQQ?oc=5",
+        "pub_date": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "BNB: More Than Just a Utility Token - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HUVhEb1VFdWpiVkM2bzZCRl82OXRUUVNMWFhnZl90OE8xdW9ZcVk1LUZwRFFDUHlabmpBYm9YREZsaWEtR1IzZ0lzbzFxdDBYRUpsOU1LZ2JKazdCOFNwZUg0Yw?oc=5",
+        "pub_date": "Mon, 18 Aug 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Coinbase to List Binance’s BNB, Signaling Shift in Crypto Exchange Dynamics - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnduVXdsZVlQdFctQlFFXzZxQUZUQWpZUDEtNlFFMFg3eXo4NThJYVhLTlVSNnJYbnpQVzZMck43LTFXbTBfeWQwUld2QW8xSWF3NmNCZHVDM29zRWNyNUFlbEJ2dG1leU9MNXNrN1pnZG51c2lHWHhYdE9NQWY3QzR3Rmc5QW5y?oc=5",
+        "pub_date": "Wed, 22 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Binance has Expressed Commitment to Collaborate to Enforce Sanctions Laws - CryptoRank",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzczSnpxc3pGMVBYVEUycFZpSEhqTjRhWmVSVUJlNUE0ekZycDMwSHdjUFlCM2ZPeEd3OWVQN2pOVlJyRTVpUkJrcVh0MURqcjFfMkViYnpHX2c0OHFpMnluaXVrT00yUlN3bF9iVURyMnhySGc5MjhxM1Q5cWNfTmJHQ1A4aHpoQ0hhSVlvaG9NV0FmRE1YdnRicXM4N3NiNWQ0S3I4a20teFVTQTFGbQ?oc=5",
+        "pub_date": "Thu, 12 Mar 2026 17:20:24 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Binance Coin (BNB) Hits New All-Time High but the Party Is Just Getting Started - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pZFF0cHlJTEpqNmhSSXVVdlBRWE9vWjVMRlV5UVUwYVhhRnIySjI0aWxXc21FMUw3ZUNMczFlTE1ZZUJMcFlwLWlXT1ZNczdhMVljSTdlbWpCQzBDNm9Cb1ktZw?oc=5",
+        "pub_date": "Wed, 23 Jul 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "BNB Breaks ATH: Binance Coin Hits a New All-Time High Globally 🌍🔥 - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FWjJOMXhLR2tzS3dPSTZ0Mm1DOGJtczhwU1BlQUxxaXdPeTJhcE5ETFdLSFh4ejRkQTBld0NpUTFGeTlBTUJhS2lOQWtnandMbWpVbTRKWDd6eUJPVjVoTzN4dw?oc=5",
+        "pub_date": "Sat, 13 Sep 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Coinbase Adds BNB to Listing Roadmap and Launches 'Blue Carpet' for Issuers - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUNicDNuYnFwZ3NCZFVNckF4RFpLMFhVVlZGUjdrb2FkZTlqNWNxYUdCelhMNS01dThrSVJPYVB3NE5rSVJubnREcndiMVhOOW93cnF0Ykl2Z0FEemhtMmZYa1RjN01KMkJPY185NFNTUFJHU1I5S1BvM1ZteEhqaTI0amR0amV0RGRaOVFfRWtQaW9PMVdoR2lRVkw4NXRuMzlaSw?oc=5",
+        "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Pardon of Binance's Zhao is 'rocket fuel' for BNB token ecosystem, says treasury CEO - The Block",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM01tcHpxbFRDa1hJeXhoS2QwdDhUY2JVdGJqWkpZNzBxaEZyMk8tbmtUMk5aOWQ0cTEyaTEzWW8wblUwakFwc01COWQ2STVoSkRKMkdVY0NTTEI5LWU0S2ZwMnhDekdTRC1HWUdtaFFXNDdoYWNaeWlYU1BGdzFGZFNaekc3eGxvLWdBZFoxeHhqVVlNdTZoRF9odnlQakM2c1B6V1lMTXIwT2lwRmRHdDE5eUF6LUk?oc=5",
+        "pub_date": "Tue, 28 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Join the On-Chain Trade & Win Binance Wallet Campaign to Win a Share of 200 BNB in Rewards! - Binance",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWl5aHBqRUZmZXpyYmpkQzVnUFQxT0pZa2NvS2ZabXJBRy1wVnpVM01VTGRLLTg1UkZkTHF5WWZYbmZJTjBaZ3U1ZmtEUzJmc0hpdmV2Q0o2WmlTc21nYm9ueldLcG8wbVVQdVRNS3M5TW5SMzhDeDFJZXFQbElsd0pnMmxFUHdoOWxJRFdfQmk?oc=5",
+        "pub_date": "Sun, 18 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "New all-time high for BNB (Binance Coin): ATH above $1,000 - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SUnJZdzBRNkxHWUJZNlBGVnlUNGNoOFN3RXYtQU02VjNpUUh3U0J1Ui1JdVR0YURxbk9mMEs4NmR5SGNNeGFVb1F4YkpMakhIV3BXR1poeDRWb29PdDlBQjQ2UQ?oc=5",
+        "pub_date": "Thu, 18 Sep 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Binance Will Support the BNB Smart Chain (BEP20) Network Upgrade & Hard Fork - 2025-12-16 & 2026-01-14 - Binance",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa0NYR2ZmYUMtdjZDSkpFb2R0TjN0SEdudGhPX0hoUU5rVkhJRFB1bzREQ1ZWSzFNR245T09OVjRUTFByWTBsZWtiQ0J2bkZDeTFCRjBiU0Z4T1JCMXhpNEkxWS1IU1FFaEt1VEFwdkk1amRjYTV2Vlg5YmtidjVWT19Zb1ZhMFJ4emFrXzNWalM?oc=5",
+        "pub_date": "Wed, 10 Dec 2025 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Binance Coin (BNB) Listed on Hong Kong’s First Exchange to Support the Coin - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qRVNVbUVzTnQ4Q1hVZ0tlUzBJekJXT2dnaklUQlpEalBPeWRkb3YyN0JaWlVyalU0Unp6T3paZDMtTFU5Rk1fX1pZMVJWMVItTS1saHFKek4yXzNub1AwTmt5aTBfQXJRSjJvN3RoSEtQa0xiQlpoc3JjNFYxYTA?oc=5",
+        "pub_date": "Wed, 03 Sep 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Crypto Millionaires Are Adding This Cheap Crypto Alongside Binance Coin (BNB), Experts Explain - openPR.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWndFX01IaXVfY3M4aTNDcWEwYXAxeldPRHBqV0dZSWVZM1QzaGdqWkxWRHJiclZISHpGMW5xTnN3cmktOXFwbVFOTHV1MDNlYWNhcXgyN2RHdlc0TnFhS2RFV1Rya3R2Z3lfN3FpbGtmNzJKLTRheDhEejQ4VklIRDdxdVFUZzNmcnZTTXNBa2UzdEFrU3NiQVV3?oc=5",
+        "pub_date": "Mon, 16 Mar 2026 13:21:23 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1077,10 +1165,18 @@
       },
       {
         "exchange": "Binance",
-        "title": "Binance Will Support the BNB Smart Chain (BEP20) Network Upgrade & Hard Fork - 2025-12-16 & 2026-01-14 - Binance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa0NYR2ZmYUMtdjZDSkpFb2R0TjN0SEdudGhPX0hoUU5rVkhJRFB1bzREQ1ZWSzFNR245T09OVjRUTFByWTBsZWtiQ0J2bkZDeTFCRjBiU0Z4T1JCMXhpNEkxWS1IU1FFaEt1VEFwdkk1amRjYTV2Vlg5YmtidjVWT19Zb1ZhMFJ4emFrXzNWalM?oc=5",
-        "pub_date": "Wed, 10 Dec 2025 08:00:00 GMT",
-        "sentiment": "positive",
+        "title": "Binance Square: Create a Post with #BNBATH to Unlock a Share of 5 BNB - Binance",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUUh2N2pPNk9leEJXa0ZFbElMUDhCTzRwb1lwaERVbGFnRFhMVENYQ0pEekFkbTZ0MmtLMWtsV0FIcU1fVkRxY1h2ZVoydlBUQ2t0ZXREOFRjdUJqT0dqemFMRDlxM3pmZ0psb0tBY1VMYTBhX0FFeXdrTU5fOHhFSFFtdXlPS3ZQMXkwLU84ang?oc=5",
+        "pub_date": "Fri, 19 Sep 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "What’s Behind BNB's Recent Price Surge? - OneSafe",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPdy02Q1c0RjZhTkFiVW01aTZMb1V2c2pFU1VUN05ndGNidkItS05xYzF1dS0zS2dWYjNadXY1WERCNjN0Q0hJOXRhT1E0V2dyQWNnNUViVVJpS0xSUDc4VG5IX1pFb2JxUGJZ?oc=5",
+        "pub_date": "Tue, 07 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -1101,73 +1197,9 @@
       },
       {
         "exchange": "Binance",
-        "title": "BNB Breaks ATH: Binance Coin Hits a New All-Time High Globally 🌍🔥 - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FWjJOMXhLR2tzS3dPSTZ0Mm1DOGJtczhwU1BlQUxxaXdPeTJhcE5ETFdLSFh4ejRkQTBld0NpUTFGeTlBTUJhS2lOQWtnandMbWpVbTRKWDd6eUJPVjVoTzN4dw?oc=5",
-        "pub_date": "Sat, 13 Sep 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "New all-time high for BNB (Binance Coin): ATH above $1,000 - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SUnJZdzBRNkxHWUJZNlBGVnlUNGNoOFN3RXYtQU02VjNpUUh3U0J1Ui1JdVR0YURxbk9mMEs4NmR5SGNNeGFVb1F4YkpMakhIV3BXR1poeDRWb29PdDlBQjQ2UQ?oc=5",
-        "pub_date": "Thu, 18 Sep 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance Coin (BNB) Hits New All-Time High but the Party Is Just Getting Started - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pZFF0cHlJTEpqNmhSSXVVdlBRWE9vWjVMRlV5UVUwYVhhRnIySjI0aWxXc21FMUw3ZUNMczFlTE1ZZUJMcFlwLWlXT1ZNczdhMVljSTdlbWpCQzBDNm9Cb1ktZw?oc=5",
-        "pub_date": "Wed, 23 Jul 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Join the On-Chain Trade & Win Binance Wallet Campaign to Win a Share of 200 BNB in Rewards! - Binance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWl5aHBqRUZmZXpyYmpkQzVnUFQxT0pZa2NvS2ZabXJBRy1wVnpVM01VTGRLLTg1UkZkTHF5WWZYbmZJTjBaZ3U1ZmtEUzJmc0hpdmV2Q0o2WmlTc21nYm9ueldLcG8wbVVQdVRNS3M5TW5SMzhDeDFJZXFQbElsd0pnMmxFUHdoOWxJRFdfQmk?oc=5",
-        "pub_date": "Sun, 18 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Crypto Millionaires Are Adding This Cheap Crypto Alongside Binance Coin (BNB), Experts Explain - openPR.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWndFX01IaXVfY3M4aTNDcWEwYXAxeldPRHBqV0dZSWVZM1QzaGdqWkxWRHJiclZISHpGMW5xTnN3cmktOXFwbVFOTHV1MDNlYWNhcXgyN2RHdlc0TnFhS2RFV1Rya3R2Z3lfN3FpbGtmNzJKLTRheDhEejQ4VklIRDdxdVFUZzNmcnZTTXNBa2UzdEFrU3NiQVV3?oc=5",
-        "pub_date": "Mon, 16 Mar 2026 13:21:23 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Hong Kong crypto exchange OSL starts institutional trading of Binance-backed BNB tokens - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNemo1c1ZCX3YtbTZmQTNsZmVabVliRWFRUmR3MTZHenNEcUcybExuRlUtYWRkd2EweTFHWWJPOWVReUxkWWpSMVczbk1ueGpuRGJnTnlybmR3RGNXODdRMHJ6OEVDZXR5ZmZoSW8xa0xwLUY5ZUNSdHpkUUF2a3g5YQ?oc=5",
-        "pub_date": "Wed, 03 Sep 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "BNB at ATH – Long-Term Structural Drivers at Work - Binance",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkam9veE5IX0YyNVZvLVAxajkxcUVhaUtYVjJmMGNjMkdEd1hOamwycVc3aUNoT1dlS1hpYVVmSG5LcXBFa054RWR3b3JBREUtQUdIVFBzN3VKeGNjamxrSWJJMERtSnlyU3Rj?oc=5",
-        "pub_date": "Wed, 30 Jul 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance Square: Create a Post with #BNBATH to Unlock a Share of 5 BNB - Binance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUUh2N2pPNk9leEJXa0ZFbElMUDhCTzRwb1lwaERVbGFnRFhMVENYQ0pEekFkbTZ0MmtLMWtsV0FIcU1fVkRxY1h2ZVoydlBUQ2t0ZXREOFRjdUJqT0dqemFMRDlxM3pmZ0psb0tBY1VMYTBhX0FFeXdrTU5fOHhFSFFtdXlPS3ZQMXkwLU84ang?oc=5",
-        "pub_date": "Fri, 19 Sep 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Deep Dive: How BNB Outperformed the Market - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oQ0pDdXVYdUllY3ctR0xZRWVJdDg4cXpBZXV3V0Fqc1lmWmZ0MEp5Z0cycWRZeFNUdElkN29qMk5QdGs1X00xbkEteU5CSnZ2VTNyb0pFT1dVYm9lUFI4bkZmZw?oc=5",
-        "pub_date": "Thu, 24 Jul 2025 07:00:00 GMT",
+        "title": "BNB vs Crypto Exchange Tokens in 2025: Why Binance's BNB Outperforms CRO, OKB, and KCS? - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlUjA5OFhJZ0UzWFRYaWs2azRaRFVVdjNpblpBV21veFJnbUtYTzQ1MjJheS1OY2lhbWNGOGJseTViM2UtdFB4Qjh1b0Q1VlkwUWZLdXBTVFpSaXF4cVRqZU1vNA?oc=5",
+        "pub_date": "Wed, 06 Aug 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1181,6 +1213,22 @@
       },
       {
         "exchange": "Binance",
+        "title": "China Renaissance Seeks $600 Million for BNB Crypto Treasury - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHdTYkhETFFRMWxHTHlYTXlTWW5xOF94VmVNMHVjM0lXQVhod213NFNJemZoX1VPTEowUzhib0Fod3YwZDhvQ2NBS2RVNmhTaldzQmhEVGQ0NEc1S1REZ2g4MTItMWU0Skhjb1dBX0txWVl4NDJRVjJvUzZaRmk3VVZlamdsbUh2LWRrSzNZQUxaX3VabUpWNzE1a1V4SFg2Z2VzQVZWWG5fYzBLd2Nz?oc=5",
+        "pub_date": "Mon, 13 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "​​Binance Coin falls as geopolitical volatility and deleveraging intensify​ - ig.com",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2NXOXRac3JJRlVmcmRsaV9zUGdXX3JhZVI5RXdPOE1vU3JITHFxeXN1Vk9GS015YzJGUXpicHRMUGhENm5JZHQ5azVmbmViOUw3YWNuN0RRRkdFcVFhaW5IbXhZWDZQY3RyLUIzaGxlYUNvanlJUFo0anJ0TjhYOHltY2FyNVZuUUhsTTFrdFFqMGdIdS1NZDFUcmpLRFU5?oc=5",
+        "pub_date": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
         "title": "What Is BNB Auto-Burn? - Binance",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1namFpM2xwNVFBSXJVd3FGOEQ4Z0lnUUx4N0lSVi1ndGVXcFNUMm9TRmdHR2pOMTNkVG02c3gtMnRxZ2M1VnZDYVJBa2tCVVBsRWx1eG9WY2VhbHV4ZTZkMzNRbnRyZ0NwNWZqQk9nN1ZGak0?oc=5",
         "pub_date": "Tue, 23 Sep 2025 07:00:00 GMT",
@@ -1189,33 +1237,57 @@
       },
       {
         "exchange": "Binance",
-        "title": "BNB vs Crypto Exchange Tokens in 2025: Why Binance's BNB Outperforms CRO, OKB, and KCS? - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlUjA5OFhJZ0UzWFRYaWs2azRaRFVVdjNpblpBV21veFJnbUtYTzQ1MjJheS1OY2lhbWNGOGJseTViM2UtdFB4Qjh1b0Q1VlkwUWZLdXBTVFpSaXF4cVRqZU1vNA?oc=5",
-        "pub_date": "Wed, 06 Aug 2025 07:00:00 GMT",
+        "title": "Deep Dive: How BNB Outperformed the Market - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oQ0pDdXVYdUllY3ctR0xZRWVJdDg4cXpBZXV3V0Fqc1lmWmZ0MEp5Z0cycWRZeFNUdElkN29qMk5QdGs1X00xbkEteU5CSnZ2VTNyb0pFT1dVYm9lUFI4bkZmZw?oc=5",
+        "pub_date": "Thu, 24 Jul 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "Introducing OpenLedger (OPEN) on Binance HODLer Airdrops! Earn OPEN With Retroactive BNB Simple Earn Subscriptions | Binance Announcements ,Binance News - Binance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQXU1N29MZk1JSWltNkpYS2pER21HbEZ2TVEtNE82MThITkh3M2N6WTVhOXJoN3hjdEh6Ukp5NGNrX2JDcXFIWnRhWXFFdDZLbmpZMC1YbjdhSnduWDh5MWthTl85alBpNVh0Z01DZXFrclVxTXBxREU5dTJSSnlCWTFyS3Y5d0dZWFVfVkMtMUg?oc=5",
-        "pub_date": "Fri, 05 Sep 2025 07:00:00 GMT",
+        "title": "BNB at ATH – Long-Term Structural Drivers at Work - Binance",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkam9veE5IX0YyNVZvLVAxajkxcUVhaUtYVjJmMGNjMkdEd1hOamwycVc3aUNoT1dlS1hpYVVmSG5LcXBFa054RWR3b3JBREUtQUdIVFBzN3VKeGNjamxrSWJJMERtSnlyU3Rj?oc=5",
+        "pub_date": "Wed, 30 Jul 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "Binance Coin (BNB) Eyes Ethereum’s Lead After Surging Past $1,100 With 6% Rally - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSklQRnhDbFZMTlJla2tmSHd0Zk93VVpTTkxidkduOUgxVUd4ejdyZTZrRy0ydWRac3VYdHBBMDFYYWFmcFphSmF4SDZpWmw0UFYzLTRBUmpsLXdrM0xob0prY2pQVEdvTG1kMFIxWmw1ZG82cWJBU3hRakVORzJPUVIwY0Noc0tPLUpEbW8wb0V3eFF5MFBhQzlxcVVWR0hxaUJ6enBZci12SW5HZUFIbXd1Y2tYcnlOZ1JOZmdpX01Lb0NlSGVDTDk2czU3Zw?oc=5",
-        "pub_date": "Sat, 04 Oct 2025 07:00:00 GMT",
-        "sentiment": "positive",
+        "title": "Binance Coin (BNB): Where To Buy In The UK - Good Money Guide",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16SnJRNzh3UW9MT0hOeUJxV3ZCMmhwc0dHYUxEdkUzdXQzcGRLamNnVDZjN0EzRHJtcE1oM1lNT0hMakdaSHlkNnpxbGJwZi00SUZSdVJmcmhJQjV3WVU1a1ppbmJKZ25mbkNR?oc=5",
+        "pub_date": "Tue, 07 Oct 2025 13:50:19 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "BNB Enters Offline Payments: Your Binance Card is Not Just a Card, But a Key Step in Breaking Through the Ecosystem! - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xeHZrNkpBamF1WTF3XzQ2eF92a2lsMHQ2R1QtTUF1WTN2Q3ZxQjN0RFVzMFhIaERFTG4xNU9ZLWNzYUY0REVrSlZER0w3ZHNFcDhVRWx6N2hEMTB6RjhOYk5kZw?oc=5",
-        "pub_date": "Thu, 25 Dec 2025 08:00:00 GMT",
+        "title": "CZ BNB Holdings: Announcing a Colossal $75.8 Billion Asset Base - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51c2phTTFMWVk2b0ZiVHhzbTU2NWlHYlExeURLOE90alpxbWRhakw5ZTRZLU1rNXpRdk1VYzEySzNPUFU1dWhwTWFTRHNXdUcwWWlzWlJic3A3Z25YanVKaTZWTQ?oc=5",
+        "pub_date": "Mon, 28 Jul 2025 07:00:00 GMT",
+        "sentiment": "negative",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "BNB surges after White House's new announcement - thestreet.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObE9DSFotQm82S294T3F4Z2wwaDFDN2REOVRqLVVQNWNiYWJ4cG9jdXNiZkx6eThyaE1PVXltcUZLU2ZRbS1wUVhZNVo1WlNoMjkxY2Q0Y25LZGtFbW04UllXUVNXRHdxM1NsY1ZXbUhPZmpWcDB4S1BDOXZNUk80LXpXbExqSUx0QVl1RG5OcFViTy1kTHVZ?oc=5",
+        "pub_date": "Thu, 23 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "CEA Industries discloses 480,000 BNB corporate treasury as the Binance-linked token surges - The Block",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUHpPMFU0V05waExsYThWVnV0TWMtWWw4X0s2a0psSDRwbUVxRjRGZ29ycVdEbW9TdWtacTNUNU95QlN1Q1hYckRMbXNRVFdDbXJFR3BBblc2VlFocUpPa2JLbExKVDgxVW9FX1BNOGdiWXF0Q2VHbnpIbXJWUnp3SlBFcDVKVEE?oc=5",
+        "pub_date": "Tue, 07 Oct 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Hong Kong crypto exchange OSL starts institutional trading of Binance-backed BNB tokens - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNemo1c1ZCX3YtbTZmQTNsZmVabVliRWFRUmR3MTZHenNEcUcybExuRlUtYWRkd2EweTFHWWJPOWVReUxkWWpSMVczbk1ueGpuRGJnTnlybmR3RGNXODdRMHJ6OEVDZXR5ZmZoSW8xa0xwLUY5ZUNSdHpkUUF2a3g5YQ?oc=5",
+        "pub_date": "Wed, 03 Sep 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1229,25 +1301,25 @@
       },
       {
         "exchange": "Binance",
-        "title": "Coinbase Rolls Out the 'Blue Carpet' for Binance’s BNB Token - Yahoo Finance Singapore",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObTRZcUVzN0hUbURXX1dRTGxvcDFpX2JlYTlSck5qa1JuUVhkaFVBTWl6V0xwYUIzNTZFQzJXa05NYzVBTHkzY0Rkdzd6d1gxSmJPNFRiVXR4T3ZhckdMR3FnN3llb01yb0NOQTluUkw4QU01WDhmSVpncG1QYmZGcWJlSlVIQTAxUmF3?oc=5",
-        "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT",
+        "title": "Trader Nets 2,260x Return in Three Days Trading Binance Life Tokens, Turns $3.5K into $7.9M - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiSU1HZ1d2RC1yY1ZkWWp5RkNXYkFwYnE1c0NQRE9wUlBRQzUtX1lmMmtNeWJOYjNnQ3dHT183SmlSa09nRUZFUFQ4cmFLcVAydWVQT0JmZXJZcEt0NlUxdWczOEQ4aU5qak8wSVdCekhHeUR3ZDg5YXpRcw?oc=5",
+        "pub_date": "Tue, 07 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "Binance Wallet Earn Launches BNB DeFi Festival: Enjoy Up To $1M Rewards With Limited-Time Offers! - Binance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQktrclVibFJTeHZfR3p5OER5Vjl1dXhaYjNMcmlCS1VPRmd5OGJVbmlRakpSRWN3UDNmeUZjb0p3TS1ua2VhdUhSVUw0ajNtWEdsWjV2b2ZQdFVfSEI1UkUzQ2JCejBGNVhmb0tFZ0ZKdEJ5MmZmamUtQ0dOdUdub0d4Q2tLMWNNeGxsLTlJVlM?oc=5",
-        "pub_date": "Wed, 26 Nov 2025 08:00:00 GMT",
+        "title": "BNB News: YZi Labs Launches $1B Fund for BNB Chain Projects as BNB Hits New All-Time Highs - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WRzlONHNGVDB1NlhqRjA2YkNBTFVNVFZ1emJua0NKNUMyaXR5a2hkWWZjR2U5bG96ZHQ5WTluWURrV3ExWGFxVkpYVDI4MVZZdmxRemh2T21Lb2NHbkRiR2ZUbw?oc=5",
+        "pub_date": "Wed, 08 Oct 2025 07:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "Binance Coin (BNB): Where To Buy In The UK - Good Money Guide",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16SnJRNzh3UW9MT0hOeUJxV3ZCMmhwc0dHYUxEdkUzdXQzcGRLamNnVDZjN0EzRHJtcE1oM1lNT0hMakdaSHlkNnpxbGJwZi00SUZSdVJmcmhJQjV3WVU1a1ppbmJKZ25mbkNR?oc=5",
-        "pub_date": "Tue, 07 Oct 2025 13:50:19 GMT",
+        "title": "Can the world's number one exchange Binance's token BNB still be bought? - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOU0hHd3RfNlRidFRna2xhYVJjVE15NktEWnVndWhqSXVPOU10ZDhSaU1iZ1k0UUpJMkRxMVZPSkg0TXFkT3E3XzA3dnFCa1JrRmpIR0xaRWhtS2p0S1VJal9hUQ?oc=5",
+        "pub_date": "Fri, 20 Jun 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1261,25 +1333,73 @@
       },
       {
         "exchange": "Binance",
-        "title": "BNB (BNB) Price Prediction 2025, 2026, 2027, 2028, 2029, 2030 - Ventureburn",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mQjBDWHRnOXR5SUJIVHNZMVU4bDRlSk1sRExUcTZqZmRDNDBNdlA5VVF5R3I4QzFtRXdETUhXUWloNFoxdGZabHpHM0V4YWZHS2d4RFZCWHbSAVhBVV95cUxNZkIwQ1h0Zzl0eUlCSFRzWTFVOGw0ZUpNbERMVHE2amZkQzQwTXZQOVVReUdyOEMxbUV3RE1IV1FpaDRaMXRmWmx6RzNFeGFmR0tneERWQlh2?oc=5",
-        "pub_date": "Mon, 15 Dec 2025 08:00:00 GMT",
+        "title": "Growth And A Catalyst Make Binance Coin More Interesting (Cryptocurrency:BNB-USD) - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSjZkT1dRSlAtQmhyOG11a2w3NlZoUlVTS2lWbk5Ma1JYbXFqMGhaaE4tZEpOQldvOHZETFRtbzJGUmhfdGhzOEROa2FORUtaajlJYWVGaDAzc1NDYnRqZkp4eF8yTF9ia1lxc1paV3RsUEZmSkVObW1vZEVkbjQ1VDlHU0hQNzVMcTdRckhoNHh6aEtReUk4amYwUXRkZw?oc=5",
+        "pub_date": "Sat, 25 Oct 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Binance Suspends Employee That Used Official X Account to Promote BNB Chain Token - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSW00eVpGMlNacnRxY1ZZcFNKWnBHell3WnlUMkVYZmhTaC1uZktSZHA4c0RWVGh2QzdaT3dERDc0S2NUVUw3RmN0bGd0eHI3dHVWTXh4NmRnV0UzR29aWU1HS05fdXVoVDVWOW42MUlKc19nQWF6SDByVUlfMkFLNmZadksya0JRTFdtTjhn?oc=5",
+        "pub_date": "Mon, 08 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "BNB surges after White House's new announcement - thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObE9DSFotQm82S294T3F4Z2wwaDFDN2REOVRqLVVQNWNiYWJ4cG9jdXNiZkx6eThyaE1PVXltcUZLU2ZRbS1wUVhZNVo1WlNoMjkxY2Q0Y25LZGtFbW04UllXUVNXRHdxM1NsY1ZXbUhPZmpWcDB4S1BDOXZNUk80LXpXbExqSUx0QVl1RG5OcFViTy1kTHVZ?oc=5",
-        "pub_date": "Thu, 23 Oct 2025 07:00:00 GMT",
+        "title": "BNB coin price prediction as Yi He is named Binance co-CEO - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTm1XWmlLNFJWTHVxY3dnS1Nyb2xrNHJCNEh1dUNTR2EwUEJQZ3B6N2dtUkFEQXpvLXlLTUNIZTZNVWFDRlVhY2VtYUk5QjR3XzFFMUJ6VEJXeE5rcHhuRVJZMmZjYjZHMFlkZTU3bUJ5OEVSM0J1Vm5pWnpiU3JHWVh6LW12SWVqanpqWFo3OTVIaWdpeEZ5NUtSOTMybkc4UFNHR2FfbW8wR2RBRlZZcDJiRDB5UQ?oc=5",
+        "pub_date": "Wed, 03 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "Can the world's number one exchange Binance's token BNB still be bought? - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOU0hHd3RfNlRidFRna2xhYVJjVE15NktEWnVndWhqSXVPOU10ZDhSaU1iZ1k0UUpJMkRxMVZPSkg0TXFkT3E3XzA3dnFCa1JrRmpIR0xaRWhtS2p0S1VJal9hUQ?oc=5",
-        "pub_date": "Fri, 20 Jun 2025 07:00:00 GMT",
+        "title": "Binance-linked token hits record with spotlight on Zhao pardon - The Detroit News",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWnRPUU1aaXpFekJwalRtSEdlR1VDSFpLZ0s0c1FJVGFyVGFJd3JMQldyRFBKTmsxcjViZ0VnNmx6YnlSUFZrZUhLUS1IWXB4UXFKTGk3LUg2bW13ZUZnQnIxYVBZa0ZyeHpVSldWU3lNVUxEUXRtRWlmV01YVUxhS096N2tRZG93MFBLdVhSWnBNVEY5WjZfU3dhUnB2ZGUxdFMwazRhRk52LTNfeUg3R1B3ZjROVWhQXzVFLXhTbHJjX2tuV2VfWQ?oc=5",
+        "pub_date": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "BNB vs BGB: Best Crypto Exchange Tokens UK 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc1BydWlQYWJTTUhoTDBaR0FLVlFRZU9sYWtBUDA2Z1RRQ1RocldwTExlLTZNaVVLTmlfRmtjYWhqUTkybEhqeHFid1c2cFhJcTRkTHB1OUFQRXBKSmh2Q0Y0SWFlX2I5ZWhwZlZjQnBEaTZFTDhPWVdNV3o4RXJZWGRfMzNxZ3J3NnZjOEJCdE1xNlVxcmplVnNmTkhHTjl2QW5iWXJyMkpSMXdZYXkwRHN1dW5PUExRQXQyMnZrSXdsWkFIZFFaTVd2b0rSAcwBQVVfeXFMTXNQcnVpUGFiU01IaEwwWkdBS1ZRUWVPbGFrQVAwNmdUUUNUaHJXcExMZS02TWlVS05pX0ZrY2FoalE5MmxIanhxYndXNnBYSXE0ZExwdTlBUEVwSkpodkNGNElhZV9iOWVocGZWY0JwRGk2RUw4T1lXTVd6OEVyWVhkXzMzcWdydzZ2YzhCQnRNcTZVcXJqZVZzZk5IR045dkFuYllycjJKUjF3WWF5MERzdXVuT1BMUUF0MjJ2a0l3bFpBSGRRWk1Xdm9K?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 04:01:48 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Missing BNB Under $50 Shapes Investor Conviction Around Aster Today - Live Bitcoin News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1dBR2ZwYUZvVEpreGpESHJ6d3h0OXhMdi14bDVCMnF0TE1tTDVpRjl0aEx4dUJMUGgwdlluMXd1R1MxY2Jnck9OT0lHLVBTUXo4STU5X012SXlzc2xILW0xTzBMQ2RVV1U0cVkwV3FIaWxqSjZFdEx1czBTY3dMc1V2eWtQNGdMajVFbl81UUx0ay1RX3FsZ0N6RjFkdHBr?oc=5",
+        "pub_date": "Sun, 15 Mar 2026 16:45:51 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Chinese firm commits $1bn to stockpiling Binance’s BNB token in latest treasury twist - dlnews.com",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWVqN25uMkp1X19BZWlyYXBQYmNtbU1EQ2MxU1MySnVxc24xTGRiYVpTSFJlVnZhcWpDdGd4WXRxQk53eFdGTGxXVE82V3k3MVBJWmpDM3M0amtCWHMxNVh4cmN4emlwRXhUT0t2ZGd2R3haWVprSEh2MXo3dUtPS3M2ZTZSS0JPVXBtZUNRQk1lTTg?oc=5",
+        "pub_date": "Tue, 24 Jun 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "BNB hits $955 all-time high as DOJ weighs ending Binance monitorship - thestreet.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFpXX094RWM3WXJxSzZzTV83ZGVDMTEyWF91SjdyNDVMMC1XU1BiZDkxc29fZmpwbW5kY0RVRml4N3RDVW9jWlctUkRtVVdsdEQwUVRLcGJXZWo3QkNvRWFiT1RZOHh1c2JhODJYRUptN2xjY2JfdHk2ckl2NlpYZWxZS2VQOUs4NGZCdjZEUm9qeTFKaUdKWmVVZkJmaWw2UjJnVXF5QQ?oc=5",
+        "pub_date": "Tue, 16 Sep 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Binance Coin (BNB) About to Repeat History: Another 3X Setup Emerges - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sODZJcnh0UTNYbVFxNTdQSnIwMFpxREl5bTk2MlJYTHA3cHRzSWY1eUVYLW5OdVhxNFZyaUd0Qy1uSkVEUmFyMnctM19VdldYOU56dDdvQW8yYlI1NWJWd1lSOEFBM3M?oc=5",
+        "pub_date": "Tue, 11 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1293,9 +1413,17 @@
       },
       {
         "exchange": "Binance",
-        "title": "Missing BNB Under $50 Shapes Investor Conviction Around Aster Today - Live Bitcoin News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1dBR2ZwYUZvVEpreGpESHJ6d3h0OXhMdi14bDVCMnF0TE1tTDVpRjl0aEx4dUJMUGgwdlluMXd1R1MxY2Jnck9OT0lHLVBTUXo4STU5X012SXlzc2xILW0xTzBMQ2RVV1U0cVkwV3FIaWxqSjZFdEx1czBTY3dMc1V2eWtQNGdMajVFbl81UUx0ay1RX3FsZ0N6RjFkdHBr?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 16:45:51 GMT",
+        "title": "BNB (BNB) Price Prediction 2025, 2026, 2027, 2028, 2029, 2030 - Ventureburn",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mQjBDWHRnOXR5SUJIVHNZMVU4bDRlSk1sRExUcTZqZmRDNDBNdlA5VVF5R3I4QzFtRXdETUhXUWloNFoxdGZabHpHM0V4YWZHS2d4RFZCWHbSAVhBVV95cUxNZkIwQ1h0Zzl0eUlCSFRzWTFVOGw0ZUpNbERMVHE2amZkQzQwTXZQOVVReUdyOEMxbUV3RE1IV1FpaDRaMXRmWmx6RzNFeGFmR0tneERWQlh2?oc=5",
+        "pub_date": "Mon, 15 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "What Is Binance Smart Chain? - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VdFBHTTU4WjZZYjJlTWc5Vml3aUx1TVRwZU1QNlRiZVRjVkxMcUg1X196UDdjclh6WFJ0Q3RqekNnMFdLT0ZrWg?oc=5",
+        "pub_date": "Sun, 14 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1317,65 +1445,9 @@
       },
       {
         "exchange": "Binance",
-        "title": "Chinese firm commits $1bn to stockpiling Binance’s BNB token in latest treasury twist - dlnews.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWVqN25uMkp1X19BZWlyYXBQYmNtbU1EQ2MxU1MySnVxc24xTGRiYVpTSFJlVnZhcWpDdGd4WXRxQk53eFdGTGxXVE82V3k3MVBJWmpDM3M0amtCWHMxNVh4cmN4emlwRXhUT0t2ZGd2R3haWVprSEh2MXo3dUtPS3M2ZTZSS0JPVXBtZUNRQk1lTTg?oc=5",
-        "pub_date": "Tue, 24 Jun 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Hedge Fund Executives Eye $100 Million to Accumulate BNB Token - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVNNaVhlOWljZzNILVpVQmVMSDBhWTlQRzNyUjdPU3V2R19LN3EtblpVN3ZjSlpReWNmajFnUUs5N2NDNTJRbGJ0YlhJSW0yTmFwbnIwLVVDZFl4MndYWW5zUURubVhRUGszVmljZThNOUVEUVVndjR0N0p3cGlFcnhpVDU3ZndHV0JJSnRfT01CNzAtc01LY1YyekVxSFF1S3JCX3lEVHBHc2ZwX0c4?oc=5",
-        "pub_date": "Mon, 23 Jun 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance Coin (BNB) About to Repeat History: Another 3X Setup Emerges - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sODZJcnh0UTNYbVFxNTdQSnIwMFpxREl5bTk2MlJYTHA3cHRzSWY1eUVYLW5OdVhxNFZyaUd0Qy1uSkVEUmFyMnctM19VdldYOU56dDdvQW8yYlI1NWJWd1lSOEFBM3M?oc=5",
-        "pub_date": "Tue, 11 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Can Binance Coin flip Ethereum or XRP? Inside BNB's $1,000 breakthrough potential - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wbWhqUnpkN0FxRVl1Y0dTeUYzLWkwUXJLVW90TUIwYk1QWXg2WS1WeFE1QkNfYnl5Y2YzZFpSZVR5Y0JkQzRXTUhxT2Q1aG05UlhlNU0xZFU3U09pbGFXazZqWQ?oc=5",
-        "pub_date": "Wed, 04 Jun 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
         "title": "Top Altcoin Under $1 for 2026? Why BNB Whales Prefer This New Crypto Protocol - openPR.com",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYjMwcHdZeS16V0dZbGdCamNRUkwxTTF2WkxZSlZVV3RDS1ozNVBDSnBtS2txYWFxeG00WWdCZ3RVMDlsZzNNaUtrSmFUTGF5cmpkay16Z3ZObjF1LUhrS2VvaVB0U2pQNFVycy1nam1DczhHOEpkdWJkNzBkSFRfZmROZWJvUTVFWVVRRGNPYzliMnJzcVEtWWxiWQ?oc=5",
         "pub_date": "Mon, 16 Mar 2026 16:22:54 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance’s BNB token poised to quintuple thanks to its ‘old fashioned nature,’ analyst says - dlnews.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa012cnVSRWxETENfMFZteEJ3bEdXX3hCVy1BSzZxemJRN3BlY3llUjV6LTk4UVVBb0hIUC1HVW9LN2RjLVFrbWRDc1lTaUMzOU1TS3FfWUpYZjh5ajR0allhZWphbE5lczUyN2ZORFcza1RZUE1fZWtFVkVxVDNqWWdLZzNtQWVrSzNnbkNiaVZBNGFo?oc=5",
-        "pub_date": "Wed, 07 May 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "​​BNB Price Under Pressure: Bearish Momentum, Key Support Levels and Binance Outlook​ - ig.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdzFDVjhDTGdyVDZ5RHhIeVBnNXNERnVyQVR3ZVU5SVM4YkQwaUtKN2RraDdIRG85cC1WRmVyaDJkWk9jdWZYNi0wUU9HNnBtRlJhZ2JCQUIxRkpmTnJMZ3RiSlJJZEVEaVdrclgwUTBRQmZVcndzdVVma2JNZjZyLTN0bUhYTVhCa1AyUkFuSHdRdEx0dG1LemFSZ1MzV0IxVUR5QWdaZFEyMHI4dFVGQVQzOXo?oc=5",
-        "pub_date": "Thu, 18 Dec 2025 08:00:00 GMT",
-        "sentiment": "negative",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "BNB price prediction: here’s why Binance Coin is soaring - CryptoRank",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON0ljWG0ySlk1QnJpcG9Nb21RZFYxUmxzVHZPNm5MTU40enN4OVlWdUY4QmJJNUFNNUNRQVBwaU5kVUYzQlFQb3Y4ajFtTUdiVjdFa1NqQ2pKUlF3UkxjUkc1ZjRjdVBvUUI5Tk1iZElxUzR1bUFreFpvU0pOTXlwWERpX0dieE9icUpoY29EN196TzFhXzJN?oc=5",
-        "pub_date": "Thu, 02 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1389,82 +1461,18 @@
       },
       {
         "exchange": "Binance",
-        "title": "BNB Price Update: Token Pulls Back Despite Binance Unveiling New Co-CEO Structure and Gaining Global Licence - ig.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmlLQnpKcElfeTZ6cjBsTTZtOEo1ZDk2Nnk5QzlPLV9Wc3Q0UWpvNF9qYnpZVzUtdmZuMTdvb0RqWUQ2b0pidG9JQ0hVN3kxcWZENmFCbWxVYUZwV211WjhHVXJLRXA2N2tNYmV2eHBUQnk3TWhiSUZVb2Y0dDZjU2dtLWNTQzNFSWZoY3RObU1GbUF5QVFaMng4MTdYeWgwMWVJd2RBVWoxdjVKNjhXalhqeGs?oc=5",
-        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "title": "Why BNB Is Outperforming Altcoins Like XRP, ETH, SOL Today? - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWWxpMmFDMGlsVzcySTVQcGpDYVBoVTJaTUN5ZlFKZ1RfQl8xTlppa1FBRGl5czVRN016M2o3VzNlbDhtWE9pbnhkRUhZQkc5VnU3dmxXblgyd1EtRnhpMmRZdHZwSUVBZWV6dFRaTlY0R3hSZ29LeEhkdkpOZXY5aGx1Q0ViaXlTTUQyU1dxb0duZzA1M2ViWkVRdFVveUhpa1JmV254eUN4RVB2THNjdTdYeTFYbllRN05ZN2xROEU0SC12SnpFLWdXOA?oc=5",
+        "pub_date": "Mon, 28 Jul 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Binance",
-        "title": "#BNB: The Rise and Role of Binance’s Native Token - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPVEs0WlhFVnVaRGRiX0M2RDVqeVgwYjBmR0xwUWhUVVY3Qmx0d2RSclJQMzJtRERxelZUOUFvSWhnY0hjTWhhNGVDZU9seXNZNEJ1Q1JyUmptQ25YaDhlS3JhTQ?oc=5",
-        "pub_date": "Sun, 27 Apr 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "History and Development of Binance Coin (BNB) to Date - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yQWprY1pTY2kweTgwMXFYZmlXNWlldk1XQkVsWFdnLW0yTnJhZVl0VXBLY0R6SzJNbGl3OFVXS2h5WXF2MFU5MWM3ZEw3Z19QZlVKUllhWkVySVJvMlBEOHBJQQ?oc=5",
-        "pub_date": "Sun, 25 May 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "BNB: The Utility Token That Pays to Hold - Binance",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBubmQzdmpVXzdQdWp1amo3QWhUX21MMTY1dGRScGtPNmN4NWRfSXAxRklpWFNNbnNmaWgwZ0N6UnltdDh2YmhmaHJqeHlLN19qa2FLdzRyZUpYc1VVejd5clBMclNXR0JSVFFKQzNR?oc=5",
-        "pub_date": "Fri, 04 Apr 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "BNB Price Outlook: Binance Coin Faces Mixed Signals Amid Institutional Interest and Market Uncertainty - ig.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeE1FLUVWWHlnakJCWHpaUWZESWZQOGVDR2R2NmVXMTEyZlNWOV95VmR6ZUJ4WVd6bVRZSkpGeUFnVTlENWE5c2NYa2tmNERiOFdMTWZVZ1dYeWdyWGdFTWJHVW9EaDltZW93UUxZSnlDSVZtOF9EOFZqODZyeDdqVFptQ0RiekFrV3lnWTJ2ZzhzVEVDMURxZUo2YllOLXdOTDEtT2xxUzBBN1J1RGhMMklOQUM?oc=5",
-        "pub_date": "Fri, 14 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "BNB Coin: A Comprehensive Analysis of Its Potential, Risks, and Future Outlook - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RdzNhZHduSUkyamhlb3IybXU4S2RHQjlEWHlSclNtZDdwOElWbkF2aG1GNWlhZXRZRlZ4WnlQNmw1WVRQcHJwVnZUXzdRNXEwTTRRXzh4QnJvOWNpUTI0NWZOMA?oc=5",
-        "pub_date": "Fri, 02 May 2025 07:00:00 GMT",
-        "sentiment": "negative",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance Coin Price Prediction As 34th Quarterly BNB Token Burn Takes Place - CoinGape",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3JPVTFrbG9NcnBRdmtETWtIeEU5X09hWkcwN0ROYWFUbWJhYkJrU0VMYXdXR3pUeEl4VW1rbHRaOTBUdldYTDFlQ19EZmVYQ25IRjNQQnNlYnVSVm9DOGFpZUxFaUFIZXJIaFNuMFA1Umh4ZjhvMVR2YXBGcGsxYzh4RFFOY2cyVGE2aW1fMTF5TVl2a1YzTUxzVUphVl8yZnUzQzFLVQ?oc=5",
-        "pub_date": "Fri, 16 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance Alpha brought record traffic and trades to BNB Smart Chain - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kekd1UGxfN25aek9QcTZlZEpCTzV3QXJxUUVBbTljbDFVN09DQkk1WXpxUUJGVzdjT01mQUFVbUd5YmhFZnZUdVI2ZXVYTTdJZklrdWNTN0l3MDJaR2ozbG04RQ?oc=5",
-        "pub_date": "Wed, 21 May 2025 07:00:00 GMT",
+        "title": "Binance Coin (BNB) Eyes Ethereum’s Lead After Surging Past $1,100 With 6% Rally - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSklQRnhDbFZMTlJla2tmSHd0Zk93VVpTTkxidkduOUgxVUd4ejdyZTZrRy0ydWRac3VYdHBBMDFYYWFmcFphSmF4SDZpWmw0UFYzLTRBUmpsLXdrM0xob0prY2pQVEdvTG1kMFIxWmw1ZG82cWJBU3hRakVORzJPUVIwY0Noc0tPLUpEbW8wb0V3eFF5MFBhQzlxcVVWR0hxaUJ6enBZci12SW5HZUFIbXd1Y2tYcnlOZ1JOZmdpX01Lb0NlSGVDTDk2czU3Zw?oc=5",
+        "pub_date": "Sat, 04 Oct 2025 07:00:00 GMT",
         "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "BNB Price Prediction: Is Binance Coin a Good Investment? - StealthEX",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5Z0s0U1VkTW5lYzFTWDREa1VwNzdGaFBseEVDeldoZ1o5Ry04Nk5QMUZMZlRUaDdWMllDdzVnSGtXeHQwSFI1azZmVTNIY3dJck1YZmNPYklIMGhIM2RTUmRsaFlETGtDdkx6aQ?oc=5",
-        "pub_date": "Wed, 08 Oct 2025 07:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Is BNB a Millionaire-Maker Cryptocurrency? - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZG5Ibi1DRDllcXJJeGoxTFpMVDNSOHdYemoyY0MyTGhrTnd3ZXdOVmVLdUduMXdTYUlCRXA0Wk1JYWoyQ2xheWhjaXZaaWJJQm9wUm85aWkwSnZ0WERGYWNtUEVsQUNOQjFUTndlMTlhWUVrU3VmNFd2dkJmN3E0VmhPSjRqSVI1alB5Sg?oc=5",
-        "pub_date": "Thu, 02 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -1576,14 +1584,6 @@
         "title": "Крипто Тренды и Технологии(@22community)'s insights - Binance",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oM1puNlUyS2s3SDkzLXp1bGk5WGhvTEpyaTJyYXBoYmE2TWZ6U2tEU0ZlME5hRlR0RFdJeWtpZlN4VVF1UGs0anU0UGpIaEZyeEprZzJKYTI3MTNVd1NHTEhCSy0?oc=5",
         "pub_date": "Mon, 23 Feb 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance Review Feb 2026: Trading, Fees, App & More Explained - Ventureburn",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MMW9pcmwzNmF2THE3TDNaX19yckNhcG1hdURJS3ptVkhwc0gwN2Rpb09pbEpXbnRZWWkxSmZma3ItZTlyNGRkaEhieTE3MFUy0gFQQVVfeXFMTkwxb2lybDM2YXZMcTdMM1pfX3JyQ2FwbWF1RElLem1WSHBzSDA3ZGlvT2lsSldudFlZaTFKZmZrci1lOXI0ZGRoSGJ5MTcwVTI?oc=5",
-        "pub_date": "Thu, 12 Mar 2026 07:21:34 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -1742,8 +1742,16 @@
       {
         "exchange": "Binance",
         "title": "Exclusive | Binance Seeks to Curb U.S. Oversight While in Deal Talks With Trump’s Crypto Company - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNZ2M4Q0lyRlI5bFAwRDRLa2I5N2RobEJUNUw1Q3RMZFI1YWY0Sm9ydVVTRlN2NDU2dmx6NnItOWZRYjRzUDJMWmVlZzV6d09Pc3VXZFd5Y25faFdYZnpPVklPcEwzdHlVR0NsOHAyZFlTWjJVWVJRWFBBSFd1RXdLSktqaEo4TTdMT3BGS2c4NmpybGlBTUFVckhEYnh6eUJlTWNBaGgtRklnVnBqQzQteklMbnhoempMWllVWFFDT3JrdkNwX1VhUzVlcHVtSFJsQkxXSC1DaTBCWTVGWmdpanFtT3ZfQnpLekVHbFJlWGllM2RCNE4wOENwd3V6QmVNQVZnTEpjVzBkTmg4b1UxaU9Ua2lvMklQb3VCbXE1WHVfTURpOGhybk83dDBINFA5ejFjYXlIWlNYTDdxOHctdjIwU1pRS0xnQ0VveFY5bHh6bHRQbmFiV2dXeC1rVFM0RzZzZGg3ZjFPb0ZVWEJKWV9URS1aaGdzMGgtc2w4V2NCSldYNEhSQmFxWmFiVmxoQTN2VV95aGFDdThH?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOa2ZITjkxUTJjT1hhSVZwZkJkRlFaTEFJeFQ1V3pLbEZ0VkxMWkxyR0ZYZjRyUHYxakV5LV9WNzFaS3ZQdGxfZEFWMURnZmdWRHFJSzUxUWRUaGN6TF9PWTZxaU5TQkMtc181cTdLdVByUHFqSW5TTVNEWExLSmgwd2RDQWxGSGJhY3pMdmNhU1BQQVBSalZPQ3ZzRzQ1T0VtZEFmNFJXV1hUQ29UV2VUSENSRkxGOU9mb0RVYmQyNGM5Z3U0Wk1DNEstTDk2UlJRRFZhVmxaTWlKamxkRm1TWnc4QUZVamJLUmVEUWtMaE5pdXNZMURGWGZxYzBuR3VTUHFfNENlWWlUVGROTnZzcWYtb0JGTUxRWk5EVEQ1dlFmeG5qXy1ad3ZiXzA3TGNBZWpiMTBiRm9EQTZMaGpCbWFJVGhROHMzR2ZIeHhXbUlUUHc3alByUFNUMW1RTDhOYnd3VC1JN0pIX2JacU5DVnpKM3JzdlZjNU1QZDFWcmZIQlp2YUtCdldWMjJCNGllM0V0ckR3ZmJYTjdK?oc=5",
         "pub_date": "Fri, 11 Apr 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Binance",
+        "title": "US President Trump pardons Binance founder Changpeng Zhao - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5McDRBaTdEUXNKVmhRbmRxU2szYzN5MDk0MHpPOGZhdGFmWnpxRGR5TDFGNjFWa252WE55anBmclpnbWx0SjNfbWVVVUUtME42SV9nN05nY0RoUQ?oc=5",
+        "pub_date": "Thu, 23 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -2054,7 +2062,7 @@
       {
         "exchange": "Binance",
         "title": "SEC Says Binance Misused Customer Funds, Ran Illegal Crypto Exchange in U.S. - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPa3BLcVRHRVFoQ1BHbW1mLVhReHJncUJpYkJxM3VlSnRJSl9WWWprVURGdEZhWGFYM0EtdFMtSUN1aEpDeVV5QVp4ZE9iNEU1cWh5eWE0NndaN1BTZlVBbHpXWVRZVkFCX2FGQVFSZEUyY2VHZ0NoRXBxZnZTM3ZWOUZlRGVleEVNdC1pYVRPcUNvOEM3dUloRXJfRkRzNDNfbXBVeWhqX0pBSncyTVU0ejVZclpCdzZWcHRiU3FYZGtpR0lMZURRRDIta0wwbGxld3pmVnRDck1hRlhEdWZDYWFPWkJTeVdvY2diSFFLUmJ6VDAwV3Q3SjRjSTZZSmt3S0VlTDN1bDBEanlCTGoyWnlkOTZzNDl3Smk0aWttbUFPUzdQcVlXai1qRTEyS2c0eEhZLVRHcWRQbUZIbVV5ZU1SdXY3ZVdoNUFkcXpSSmkxQlRfNmJmOWRQMUVlWnZNSm9MUmwyc1oxeFB3aFhrWjdRWkNkSV9ZWEF1Q2h6YzYxNnVtbTVxSjQwRERhSjQ1ekFYTExQNTQwU2xTdU9WMDdBNnJ5YWN4amthT29R?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxOcUVJbHY0YVJnZk1YdlAwTXVpMG10MnJ3RHF5eUdvaFlPNjRBSk9HcERxcXVwMDVwRW16dHl0UFhRZVcyWFZMOVozUlB2cUJBRExpNjVFV05jdk5JRjcwRUlIcXQyd2VTdWlhcEYwSUxUcXRHTjJMSEJwWmVKek1KVEppMWROVmZ5YjJiczhoTjk5NFBQbW5BZ1E2cXdpQ3hrbC02bzEwNE5hYTRqRkNDZDhxelZJd3QyZV9Ca2hRNWJzd0NpSjhDQjJMWF96Tm9xc0lSVV80WldrMzBEdTBtTG5GQTVROVBVTXdUYjdJMWl6UE9jTEVCQkN1YllvYm9pemNqU2FmYUlaVHB2eUllaDNlS0FSX2V2N0JaOWFGT196Nm5wdGpNY3ZHRWRDUm96TzUzOEVmb0ZnNjI1djVqTE14LTQ3cmJ4NzZvT25hNmRfRkNfYlotY3VCVkI2bTVOcmNRYS1wOTFHOWxBVmd6a0F1R1NuemhoOFZIdFBiQzhIUXF1OGFHTTJ4RWdpRWxqYUJfM0MyWlJMX0xjWXBZSHVHVUZ4NzM3dXBKdGlR?oc=5",
         "pub_date": "Mon, 05 Jun 2023 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
@@ -2086,7 +2094,7 @@
       {
         "exchange": "Binance",
         "title": "Binance Sued by CFTC Over Evading U.S. Rules - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQZEw4em9TSkRYbjd0SlNiUnphdERrQ1BYS243TW9jQjZMX0R6Slk4LUx6dHpkdkdQcXdhUkV0UkZrVFI4VUJwNVFfdDNtSkZxbUlSSGRzeElnemE2VXhaWFJEU21UbnFFajFieEk0RW1NWGdzV3NFUGJDb2xRQ241WFlKOEt4UTF3V1h1LVdtdUhlTnpEZDV3dkVIT3VXRzBwcWpyc21kYkx3cmJ5ZUZyVGQydlhOeVRDaUc4UzJPRG1pYzk1SHBvd21VTTVsLXA3czNLem9aX05KT2tfa1V3U1VaeVpQQmFoSEluaUx5aXJxczhRQUxDY0I5QXBOS2NLVjBzX29xZ3NKUFhRMXlMUXFfNDVLdkpSM0ZvTzJjLW5sTTN3MnVscFExVlpiUGtLelluc3RYdVVjZ245VFV1THhLYmVfX2pvaEsyM0otQWtJaVRQWU1ZV1dacDNLM1JBQWU2cGZLTzlzT3lfaDc3NFlGd0VUbEdHTDVWOTRvU2Z3c1RHS0ttUXI0Q3dJN1VzRDI1RjA2VQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxON25JTmx1WmQyRlF1OFRIMW5YZFZkZWRJcC04LU1oR0ItenBwSUVQYVhvWG81VzAyZGxscml0RDIybHg2a3BGREFRZ2NLR3VLcWYycF9vbjRkYTJjSGFXdTNMU0RtdVlvVGVraVluRlVncTBRMk56dmxyZ1RYTkxVMUItd3lQTjBsTG96cUI0ZFpDZmdqZjFTYm9PVXkxWGtWanNEWGU5RkNKdnJ4eUR5anhlek1zbU42RVBjMFNVMkw5OEJQb2g0azRoZ0FkdkVtWUY0NnNRc2hWZDJTTXhGWEhyc1dJYnllREV6MXZkUXMtNUFuNngydVBoVUpkUnlYelpXV3d0LTFUY2s1eGdPbmJFZE5IWGZRdVphR2g4bnlzVWVVR2ROYnY2T3E3dVcwME1lYm9kX09oUy1SM0NzOFpHdnB0OHB4N21nVUE5ai0xODNscFk5T2FHQmdYcTVua0JYdHB3TF9PWjB4Z3J3dGE2a2VGU0tTWm5NdEpQaXptS2Jqek9FVGdFQ0YzQVNaamF6aVBpdw?oc=5",
         "pub_date": "Mon, 27 Mar 2023 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
@@ -2118,7 +2126,7 @@
       {
         "exchange": "Binance",
         "title": "Binance Copped a $4 Billion Plea but Is Still Fighting the SEC - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPVzNrRzZCdjNpdkxIeFhsd2ZURUJ5WE5wNDkxMERuUEFaSkx4WFNIWkhSa29GNWQ1b05GS1B2dHJ3aU8zMGxoWkZJUF9hN1AwQ2NzRVk2TU53NWROdU1UM3g4RTBFWkZhT2lCdmNIVnJlMmpaZVBBR3NJTFdSQU9fcDd3SVF1NlRKa0U2S3EzWHFYTVZWSTU1bUFWOWFuazNUV0hseUkyOG43Uk80MG1kRGRqRTVKVmJ4eENFMFFPSENrcTRNTmtwOTR4aGcwUE1ONzBHRHRtR0RtUWYzeURCaGdtVTVnbm5fTS11Mk5rWm45OTR2NEhuZTZuNlNGV2JTNWZfRnNLSGJVaG4yLVJrVEpxdld6alA0QWNEay1XS21FREU3UDVPMkJwT3RQNlBQTXNNRHRLbEY5WGhXbHJMemFOUDhtQTJzVWVmNm5JTHhRWW9OM05TdWI0eG5GbDEtUG1oaVJpdEpUNzFjeHJlc0laY0lrX0c3cW82cC1MQzdKaDNDWTJwUkRST1BZRV84eW5pVEwtUFNZWXVOalktVklidXZ0RDRKakRxNnBaVlpVbVk?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOQlREWTBfcmd0NGo0c0VWTEVsdkVaOWxCQ05qSEh3LU94TnZSN3JIUXMtRGlvRjNoY3pvWDJfUk1KcmQ2UUhGY3ZSdEt1MURIeGZ1eFZnMmlMWlFSdDIxTWJVXzBkUXNhVmlyYVR1U25qU1VNcUw3VVp2ZVVON1REWURtSGwxaU5QZWRrUHMzVzlzNVdaU0drZWpJUURoa0JqLTdTb3c2MmpQM25EZThKa1lRTi1McVN2Z2drNVo2OGJ5UjJUWFpodHBoZDFKQzJFaDUzbTFOamJuUkEteE1mZVdfTmRLSFdWY0RQbXZyUFN6bnZnUDZreXJBSFVkVmg3X2d5N3pUTFVHMTBDOUNoWmhndnVuRTJqTXRsSDMzc3RQSThER05ES1RfN29aVmFhZUNUSXNpVk9ORERhblVlNmZqSXdOa0JVc1A3UVVOYUw5RFFvZFJiLWFjR1BmTTU0X2Qxb1Vja3VnQVJCVGFqZGJKS2dZRUxHZlNoaWJva0puRjhMbXRXSngwVmtmaThsWFhVMlFyQkRhOGZLY21vRzNuRk1DMFU0ek0wYXJ4d091ZTg?oc=5",
         "pub_date": "Mon, 04 Dec 2023 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
@@ -2213,6 +2221,78 @@
       },
       {
         "exchange": "Binance",
+        "title": "Компания основателя \"Яндекса\" и миллиардера Аркадия Воложа, который ранее отказался от гражданства РФ, заключила контрак",
+        "link": "https://nmgazeta.ru/nmnews/2782939/osnovatel-yandeksa-arkadij-volog-zaklyuchil-kontrakt-s-meta-marka-tsukerberga-na-27-mlrd-dollarov.html",
+        "pub_date": "2026-03-17T12:29",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Las criptomonedas son activos de alto riesgo. Este artículo tienes fines informativos y no es asesoramiento de inversión",
+        "link": "https://99bitcoins.com/es/noticias/altcoins/token2049-pospuesto-dc-blockchain-summit-2026-es-ahora-el-centro-de-gravedad/",
+        "pub_date": "2026-03-17T12:28",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Binance",
+        "title": "New infrastructure connects professional hedge fund strategies with unified portfolio and risk management DUBAI, AE / AC",
+        "link": "https://lifestyle.chroniccities.us/story/554446/paradox-broker-launches-platform-providing-access-to-institutional-quantitative-trading-strategies/",
+        "pub_date": "2026-03-17T12:28",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Salı günü sabah saatlerinde Bitcoin'in kurunda artış gözlemlendi. Değeri yaklaşık altı haftalık aradan sonra yeniden 76 ",
+        "link": "https://oxu.az/tr/ekonomi/bitcoin-yeniden-deger-kazandi-son-fiyat",
+        "pub_date": "2026-03-17T12:28",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Binance",
+        "title": "Binance has secured its second major legal victory in the United States under the Anti-Terrorism Act (ATA) in just two w",
+        "link": "https://bizinsights.lk/binance-secures-second-u-s-anti-terrorism-act-court-victory-in-two-weeks/",
+        "pub_date": "2026-03-17T12:25",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Binance",
+        "title": "La conductora Yanina Latorre se refirió al escándalo que la salpica luego de que su nombre circulara en las redes por un",
+        "link": "https://www.eldia.com/nota/2026-3-17-8-48-0-yanina-latorre-tras-ser-vinculada-al-caso-libra-no-me-van-a-callar-ni-me-van-a-amedrentar-espectaculos",
+        "pub_date": "2026-03-17T12:22",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Binance",
+        "title": "in 加密貨幣市場",
+        "link": "https://www.blocktempo.com/contract-whale-jason-leo-retreats-with-14m-profit/",
+        "pub_date": "2026-03-17T12:20",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Binance",
+        "title": "If you are searching for the top best crypto presale right now, especially as a beginner looking to get started in 2026,",
+        "link": "https://www.openpr.com/news/4427943/top-best-crypto-presale-alert-2026-ionix-chain-ionx-delivers",
+        "pub_date": "2026-03-17T12:18",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Binance",
+        "title": "BNB is no longer an early discovery trade. It now sits among the biggest names in crypto, trading around $659–$677 with ",
+        "link": "https://techbullion.com/while-bnb-trades-near-679-investors-are-tracking-this-new-crypto-for-2026-upside/",
+        "pub_date": "2026-03-17T12:14",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Binance",
         "title": "Ethereum (ETH) tăng mạnh khiến thanh lý vị thế futures bùng nổ, với hơn 136 triệu USD lệnh short bị quét khi giá chạm 2.",
         "link": "https://tintucbitcoin.com/ca-voi-chot-14-trieu-eth-ra-sao/",
         "pub_date": "2026-03-17T12:13",
@@ -2245,26 +2325,10 @@
       },
       {
         "exchange": "Binance",
-        "title": "New infrastructure connects professional hedge fund strategies with unified portfolio and risk management DUBAI, AE / AC",
-        "link": "https://lifestyle.nextmentors.com/story/555786/paradox-broker-launches-platform-providing-access-to-institutional-quantitative-trading-strategies/",
-        "pub_date": "2026-03-17T12:08",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
         "title": "Von Omkar Godbole (Alle Zeiten ET, sofern nicht anders angegeben) Während der Anstieg des Bitcoin-Preises $BTC $74.091,6",
         "link": "https://cryptonews.net/de/news/analytics/32567107/",
         "pub_date": "2026-03-17T12:08",
         "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Binance has secured its second major legal victory in the United States under the Anti-Terrorism Act (ATA) in just two w",
-        "link": "https://corpcom.lk/2026/03/17/binance-secures-second-u-s-anti-terrorism-act-court-victory-in-two-weeks/",
-        "pub_date": "2026-03-17T12:07",
-        "sentiment": "positive",
         "source": "meltwater"
       },
       {
@@ -2365,6 +2429,14 @@
       },
       {
         "exchange": "Binance",
+        "title": "A capital paulista já tem data marcada para receber novamente o maior festival de comida criativa do país. Depois de qua",
+        "link": "https://foodbizbrasil.com/eventos-e-feiras/yummers-festival-2026-sao-paulo-inscricoes-chefs/",
+        "pub_date": "2026-03-17T11:53",
+        "sentiment": "positive",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Binance",
         "title": "Покупатели первой криптовалюты возвращаются на Binance и Coinbase впервые после двух месяцев активных продаж. На это ука",
         "link": "https://procryptotu.ru/2026/03/17/v-cryptoquant-zafiksirovali-vozvrashenie-bitkoin-pokypatelei-na-vedyshie-birji/",
         "pub_date": "2026-03-17T11:50",
@@ -2432,102 +2504,6 @@
         "title": "Vietnam is advancing its plan to launch its first licensed cryptocurrency exchanges to reduce dependence on foreign plat",
         "link": "https://todayonchain.com/news/article/01KKXSY81FTN8200SFHT1465AM/",
         "pub_date": "2026-03-17T11:45",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Bitcoin trades at $74,141, down 1%, after briefly hitting a six-week high of $75,912 before sellers stepped in at $74,40",
-        "link": "https://coinedition.com/bitcoin-price-prediction-btc-fails-to-hold-75000-as-derivatives-led-spike-unravels/",
-        "pub_date": "2026-03-17T11:45",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "L'échange de crypto Bitget a élargi son marché au comptant avec des actifs tokenisés d'Ondo Global Markets. Des actions ",
-        "link": "https://www.lacryptomonnaie.net/russe/bitget-ajoute-des-actions-tokenisees-des-etf-et-des-metaux-precieux-ondo-au-marche-au-comptant/",
-        "pub_date": "2026-03-17T11:45",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "in 區塊鏈活動",
-        "link": "https://www.blocktempo.com/teamz-2026-summit-announces-international-agenda/",
-        "pub_date": "2026-03-17T11:43",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "... （河内路透电）随着越南政府正着手限制境外平台交易，越南企业正竞相推出首批持牌加密货币交易所。 根据越南政府2月份发布的一项决议，河内计划最早于本月推出一项本地运营的数码资产交易所试点计划，这是加强加密货币交易与资金流动监管整体举措的",
-        "link": "https://www.zaobao.com/news/sea/story20260317-8748699",
-        "pub_date": "2026-03-17T11:38",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Morse Asset Management Inc grew its holdings in Coinbase Global, Inc. ( NASDAQ:COIN ) by 190.6% in the 3rd quarter, acco",
-        "link": "https://transcriptdaily.com/2026/03/17/morse-asset-management-inc-raises-holdings-in-coinbase-global-inc-coin.html",
-        "pub_date": "2026-03-17T11:34",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "US President Donald Trump will host his top TRUMP memecoin holders at Mar a Lago on April 25. Whether you find it fascin",
-        "link": "https://techbullion.com/best-crypto-presale-march-2026-eth-link-watch-pepeto/",
-        "pub_date": "2026-03-17T11:33",
-        "sentiment": "positive",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "... 360 Security incluyó por error una clave RSA en el instalador de Safety Lobster, permitiendo la suplantación de serv",
-        "link": "https://www.criptonoticias.com/seguridad-bitcoin/lider-ciberseguridad-china-filtra-clave-ssl-ia/",
-        "pub_date": "2026-03-17T11:33",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "Хотите получить 100 USDT? Зарегистрируйтесь и внесите на свой счет не менее 50$. Мы оба получим ваучер на кешбэк на 100 ",
-        "link": "https://financeport.me/threads/trejdery-delajut-botov-dlja-polymarket-cherez-claude-ai-nekotorye-zajavljajut-o-millionax-pribyli.37807/",
-        "pub_date": "2026-03-17T11:32",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "... 비트코인 / 사진 = 민심뉴스 DB 종목명 현재가 전일대비 등락률 차트 보기 (서울=민심뉴스) 코인데스크에 따르면 이란 분쟁이 시작된 지 2주가 넘는 기간 동안 비트코인 가격 상승이 있었으며, 하이퍼리퀴드의 ",
-        "link": "https://www.mimint.co.kr/bbs/view/news/S1N11/5301666",
-        "pub_date": "2026-03-17T11:30",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "The first quarter of 2026 has introduced a major shift in how the market values established technology. While many proje",
-        "link": "https://www.openpr.com/news/4427826/binance-coin-price-prediction-can-bnb-hit-a-new-ath-by-2027",
-        "pub_date": "2026-03-17T11:30",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "The Naira opened the week stronger against the United States Dollar in the Nigerian Autonomous Foreign Exchange Market (",
-        "link": "https://naijaonpoint.com.ng/naira-gains-n8-46-to-trade-n1357-at-official-market/",
-        "pub_date": "2026-03-17T11:30",
-        "sentiment": "positive",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Binance",
-        "title": "By Omkar Godbole (All times ET unless indicated otherwise) While bitcoin’s $BTC $73,907.94 price rise since the Iran con",
-        "link": "https://cryptonews.net/news/analytics/32566834/",
-        "pub_date": "2026-03-17T11:30",
         "sentiment": "neutral",
         "source": "meltwater"
       }
