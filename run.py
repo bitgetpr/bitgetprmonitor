@@ -29,6 +29,11 @@ EXCHANGE_COLORS = {
     "KuCoin":  "#00e676",
 }
 
+BLOCKED_DOMAINS = [
+    "bitget.com", "binance.com", "mexc.com",
+    "okx.com", "bybit.com", "kucoin.com",
+]
+
 POSITIVE_KEYWORDS = [
     "partnership", "launch", "record", "growth", "wins", "expands", "raises",
     "integrates", "bullish", "milestone", "surpasses", "achieves", "leading",
@@ -144,6 +149,12 @@ def parse_feed(url, assigned_exchange=None):
             pub   = (pub_el.text   or "").strip() if pub_el   is not None else ""
             desc  = (desc_el.text  or "").strip() if desc_el  is not None else ""
             if not title:
+                continue
+            blocked_domains = [
+                "bitget.com", "binance.com", "mexc.com",
+                "okx.com", "bybit.com", "kucoin.com",
+            ]
+            if any(d in link for d in blocked_domains):
                 continue
             full_text = "{} {}".format(title, desc).lower()
             if assigned_exchange == "all":
