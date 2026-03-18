@@ -1,13 +1,21 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-17T16:39:36.665967+00:00",
+    "generated_at": "2026-03-18T05:46:44.309678+00:00",
     "articles": [
       {
         "exchange": "Bitget",
-        "title": "Bitget expands spot market with Ondo tokenized stocks, ETFs, and precious metals - CryptoRank",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEd3elZFM1JHWWF6amdzdl9ZaG9lZFpNRXR0SWw0cUVDTWx2d0cwWDFvcFVPbmpQbVBRNWYwNjN4TE9JenIwN1RYLVpTNUFGbkZRS1gwWDZHSTROU0pZcHRYTk90SWlQWHhHRjVfNU5XZ2lUUzhYRmRqMlVRZGs3THlmNGdTaVFDdFZDV2tOZzJYdDdVNHBpQjZXMk14aDZ5bVlyMWxBdk5oUzhGaVhLN0VsTFJDT1E?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 14:28:19 GMT",
+        "title": "Ondo Finance Introduces Tokenized U.S. Equities, ETFs, And Commodities on Bitget Crypto Exchange - Cryptonews.net",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2NUlzNDk4Z0ltUGtaa09xNTNFeTZYbUVwZ3ZYOGZCeXlRWjhxR0k4UmFxb0plN1lxSTZ5Ym5zN3U2M0lQU3pEdHB5VE8wMnJhbXM1b0duUQ?oc=5",
+        "pub_date": "Wed, 18 Mar 2026 01:21:28 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Expands Spot Market With Ondo Tokenized Stocks, ETFs and Precious Metals - Bitcoin.com News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTnYyWWVVT2pxWkM2NzlqUDc1dmd2aXpDdmk4c1pGREhfZDRid2p0QlRkSWJxUVpEQ2dka1dVVXE4UWc5aS0tRDlvbXU2bmtibTRVNTJXY2U0V1dnUkdnS2t5ZnpUTnJ2MmM3NXJzNk5tT2xEWFltQWZ0WHBCcF9sM3pPX3p4Y1NsT0NEaFVxYkNramVMQXh1YkhzcV95R2dZTXVxQjFhZw?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 22:00:37 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -21,14 +29,6 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Partners With Ondo to Expand Tokenized Markets With US Stocks, ETFs and Commodities - Cryptonews.net",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzOThKYU44LWRwTG5fblhocnRreEFJbUsxWEhnYXd0S2tKOXZiaTh1dzJyNnI3SjMwZ2VHZmczQXdaNnQ2WVRmcW1yTG54dGRtNnZJZnlORQ?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 12:11:13 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "Bitget Token Holds $2.16-$2.21 Range Amid Quiet News Cycle - CoinMarketCap",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uOWJTaVA0dk5KdExVQkF0TEd3SFJaRlotVnZ2MGdOakVmVm9sR3ZvZHNJTWhGaDNub1o1bVR3X0UxV0l3QjBHakZ5cFNvRmRKTE9MYXZaZFpxM20zdEdOUjA3LU5EdHhNMUI2QWFhdWw?oc=5",
         "pub_date": "Mon, 16 Mar 2026 19:49:00 GMT",
@@ -37,10 +37,26 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Signals Next Phase of Exchanges With TradFi Integration - THISDAYLIVE",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnJxRV81WHQzbkxveUxDN2xxTHR3X193NHY1QWl3cWlSelhJdl9pMUpabi1SNnVBUG5tNGNQQzBUZFJIZ2RkdzBuT3pxMkJLU3F5Z3o0U1VpWFo2Z3hybHdxSWtoUHV3MzdwUjlBdUJUelJYYjhqR2FjODRENkdxbW1yZjE4bUxTdnZ0NkxObURDcnpvVmJ4R0stTUdvOUVBZjBCc3VLWQ?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 03:48:09 GMT",
+        "title": "Bitget Partners With Ondo to Expand Tokenized Markets With US Stocks, ETFs and Commodities - Cryptonews.net",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzOThKYU44LWRwTG5fblhocnRreEFJbUsxWEhnYXd0S2tKOXZiaTh1dzJyNnI3SjMwZ2VHZmczQXdaNnQ2WVRmcW1yTG54dGRtNnZJZnlORQ?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 12:11:13 GMT",
         "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Signals Next Phase of Exchanges With TradFi Integration - GlobeNewswire",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbEw2RjlVODQ3dC0tUkhGdE84alQ5T3NRMzk3YzV2V0F2dHIwMkt5Q2d5Q1UyZjdaYmVCUTNpMlJBZktEdUc0Z041ci04RUNBX25ZQ3lIVWREOEFhTnZsdlpQS0xxOE5jZnAwS2QzX3ZGVWpnLUJUdnR1aTF6emtrQ1RBSWV1Qm91WjU5Zm9FQWdnSzFpcW5QMHROYV9Vbk9faUR0aG9pcW5jdWlmb0hvUjlkUUNLcVgtSGFxelhIZXhKRWtMaEZad1MxUkdONDg?oc=5",
+        "pub_date": "Fri, 06 Mar 2026 04:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Upgrades Agent Hub with Skills and CLI, Allowing OpenClaw to Start Trading in Three Minutes - GlobeNewswire",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYzVNX3RoWTY2a041aDZuVUNGU0hfb0hHZEdOYmxKYjlnRktjYzdMa0ZkZ0dCRDJocWV3c2s0MmlVMkNYZHhuSXE4dzVzcW83Z3J3bzhNcmpUWDFRUy1yQy0wcmxycTZFOFBPbUhyY3RIOVdCSkxZeUpIeFQ0UkpuT2ZsR2tVVFpNeDUwWUFheXpscEhBY0dIVEpZSmM2WjUzWEJmZTNHblQzc2JOY3ZyTHF2R3JrMl9NdGRIUGgxanBkd2Z6LVpZcFJvOUNKaV94cHAtVDJaNTlIQkZ5a1oxTGlMN0h5d0lkRXh1NURsd3RDc1FzcFVQMTdNQ1pCUQ?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 06:09:40 GMT",
+        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -61,9 +77,17 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Review 2026: Pros, Cons, Fees and Key Features - NFTPlazas.com",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IYk94eE1DbzhlWm5yTHRVNVZ3d3B5c3o0bzNGVkNaeENBRDVkbi1tOEpBWGhEMUJIakxrbTFOUS1hdU9PVTFGcnNyV2VNbjBNbUdiV21qelE?oc=5",
-        "pub_date": "Wed, 04 Mar 2026 08:00:00 GMT",
+        "title": "Bitget Unveils Unified On-Chain Trading Across Four Major Blockchains - FinTech Weekly",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUUJ6WVAwTHBxN19YTFBET01Fejl3azZmN2x4VTNvQ0VwTGMyTzZmSE0xdUpTdG1fcW1KMWNTTm5ZOUMtWGpFdmsyMWlIZGlhUlNZbXJpNUNWTF9xX3R6d05nalFPdVIyYm9yTjFDc01Ia081QVpwamdLem02QmMzbjNXcTY4U3FTSmdyUU53?oc=5",
+        "pub_date": "Wed, 24 Sep 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "PUMP Token Faces Scrutiny as Team Wallet Deposits $3.5M to Bitget Exchange - CryptoRank",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5N3JfVllnaVFSVk9IaXpHamR0dkw0eERiWkpBS0lNTUtwSVFwZjFQVktnd01pOWNGZ1dyeElOVXZPcXphZU1UZWVJdC1VUDdQWkFoYmVLOE1ZY1Z4VC1VcEdURGk5anlxNnZlcko2UFV6UUlrMGZ3ai1NbUtFZw?oc=5",
+        "pub_date": "Thu, 05 Mar 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -77,46 +101,6 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Vs Coinbase: Which Crypto Exchange Is Better in 2025? - NFTPlazas.com",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04VUR4cjlVSmdtRnRzM1FJWUdDSEZiR1JlT2RMZUUteGNJN3BYci1iYkVyT2NVbFJETjhCemd0Z1M2UzRvRGhqSFpNUVc0MUlOM21HV0t0MS1kRzdaMXln?oc=5",
-        "pub_date": "Sat, 28 Feb 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Unveils Unified On-Chain Trading Across Four Major Blockchains - FinTech Weekly",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUUJ6WVAwTHBxN19YTFBET01Fejl3azZmN2x4VTNvQ0VwTGMyTzZmSE0xdUpTdG1fcW1KMWNTTm5ZOUMtWGpFdmsyMWlIZGlhUlNZbXJpNUNWTF9xX3R6d05nalFPdVIyYm9yTjFDc01Ia081QVpwamdLem02QmMzbjNXcTY4U3FTSmdyUU53?oc=5",
-        "pub_date": "Wed, 24 Sep 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Limited - Via Ritzau",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVpVVl92bTMzZ2JVUTFkR09zWkFWcXJ5YU9ETnkwSG04NHZjZThXODNIRXQ4VkhlbkI3QnVxYTlaYWY1RHZTNDZRWjhCVlc4VkkxQ1RtRVdkRC13eWVVbDhRdmEzWExqb290TV83cThwZ0pYZHF2c0xqZ1ZpT0dDd1FZTW9sSnp1em5uWmpTV0Y0QQ?oc=5",
-        "pub_date": "Thu, 12 Mar 2026 14:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget debuts GetClaw, a zero-install AI agent built for instant market insights - CryptoRank",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVFdyTGN4dzN5aGIxUWZIRG56OHFMVFFkS29yRzdNVmhISEs1cjlkaEpfcW1uVjBjT0VPSURhMnAxY2lvWFFYeUdBX0JFaEUtWU1XYlpuWEhrSDNuZGRBWi1NcGQ5YXBmLVZlZjNxYnMzTjhIVy1FaEJJcDZRX0Z4RURDeHlBblBlTjRJOVk4Q0Z4cXpHMmg1UXZLM1N6RVZoUUJ0TThUdC1xV25aZXhRa245NnFVckx6?oc=5",
-        "pub_date": "Wed, 11 Mar 2026 21:23:58 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Becomes First Exchange to Fully Integrate Ethereum Layer-2 Morph Chain - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSFRpOHMweFVwY3VRNUNqUmg2djBYdHU3bHNDME5oTkxfSUpJc1ZzbjlJcV93VEpVdjRYWnVwTGFZMHZnd291VlJfY3l4ZS04eWJfcU5yaVJlNTNuSEhTb1lQTzFrQ04zdFMwZVdHWWtpR3l6ZzFXU04zN0VyY3RTaXc1MzBkQlJD?oc=5",
-        "pub_date": "Wed, 05 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
         "title": "Bitget: Market Data Deep-Dive - CoinDesk",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MZkFWc2dkVUNXRkt5ZktMQXNQSTlpNFJHcjJHd2c1aGxOTGp5QlV2aVFYaDRUZWRHWHN4ZHFoTUF5bHJ6WlUzTHVxdGRlcmFZZjh4Z3BvUkpOaU1hRGxfZGNXWFhxdkVE?oc=5",
         "pub_date": "Thu, 28 Aug 2025 07:00:00 GMT",
@@ -125,9 +109,9 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget and Obside Partner to Launch Live AI Trading Arena for Copy Trading - GlobeNewswire",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOHBQTFFzNWhCSHFiZWJPZ0xxY251X0JQLURFWWFfN0liLXpGalhuS1VMdzBTQ29pZVYwSVRKdElFQ1h1TUJreUhBN0xORV81WXdYWGU3b1VFdUNDbERTREFNZlIta1NMOG83Qzc2S0I4bXk4YU0tNWV3cnV6dVZsbW1KTzR3QUVoNjBVVlA0VUF0TFM1Y3Q1WWtQNy1KQ2dtMGNYYXdjTjQ5OEhXa1I0NlAtc1NSVWNPR0M0eUFPWWpBS3RUWXhtSFFCOThkVDVCd2FmMnB5clY0VmRRZVFZ?oc=5",
-        "pub_date": "Sun, 01 Mar 2026 08:00:00 GMT",
+        "title": "Bitget and Bitget Wallet launch tokenised US stocks and ETFs - Asset Servicing Times",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWE3YUFXek1FaUZxRXFRcXFjLWxKbmVkX3M1RTMzZEg4REk0WHZNTzBtNEZ6NFd2eERqcUt3alJ4YkdUeVpESzVqRGlGSVQ2aklxNGFCTjUwYTM4THZpdkpwYXNQNkI5TzZtOGR6S1JqOFFubFNuM3JTNVhhT09hUG9na0lVV2pjLUR5WXNGdXNfV280?oc=5",
+        "pub_date": "Thu, 04 Sep 2025 07:00:00 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -141,25 +125,25 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Launches Gold, Forex and Commodities Markets for Crypto Users - GlobeNewswire",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbHhjTXRUNEZ2SUJWYW1rUk1tcWh3bURSN2czUi1UYWhnV2UzekNCY2dqaUJDZzBjclRIREg2TzBBcG1wYXhQeDM3TUlERTZRc0pXLU9BS3llTlhpdWI1dTFnSXFfNEQ5MnE2VEt4Z19NTXVHemI4RkJhbDN4TEpiby1DNkljNU1wMUUwMUlpbmtLU0ZFenh3cTRadi1aOVZGMmhlaGRUQXVGZndoc3JJWWJxZ3FBTjBXTEt6bXp2aS1Kd3JlS3BaRjhzMjJ5VnZzSWlXdnZB?oc=5",
-        "pub_date": "Tue, 16 Dec 2025 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget and Institutional Crypto Adoption - Nansen Research Portal",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWUw1ZlIxZHdTVTJJUm1hNVY5NFVsYTdoWkhQMmhyY2FVSkc0REJEdVlkc3RqRXZPN2JibkRYeU5WOXlnWk8zaG5YRDQxeEVsM0hiZGZhOUtmdXJaTWxXYW1jaThHQU9Ud2ZHaXBrYXgwNjZNVWpEdWR0d0owaW5SNXBB?oc=5",
-        "pub_date": "Wed, 29 Oct 2025 09:59:09 GMT",
+        "title": "Bitget debuts GetClaw, a zero-install AI agent built for instant market insights - CryptoRank",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVFdyTGN4dzN5aGIxUWZIRG56OHFMVFFkS29yRzdNVmhISEs1cjlkaEpfcW1uVjBjT0VPSURhMnAxY2lvWFFYeUdBX0JFaEUtWU1XYlpuWEhrSDNuZGRBWi1NcGQ5YXBmLVZlZjNxYnMzTjhIVy1FaEJJcDZRX0Z4RURDeHlBblBlTjRJOVk4Q0Z4cXpHMmg1UXZLM1N6RVZoUUJ0TThUdC1xV25aZXhRa245NnFVckx6?oc=5",
+        "pub_date": "Wed, 11 Mar 2026 21:23:58 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget and Bitget Wallet launch tokenised US stocks and ETFs - Asset Servicing Times",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWE3YUFXek1FaUZxRXFRcXFjLWxKbmVkX3M1RTMzZEg4REk0WHZNTzBtNEZ6NFd2eERqcUt3alJ4YkdUeVpESzVqRGlGSVQ2aklxNGFCTjUwYTM4THZpdkpwYXNQNkI5TzZtOGR6S1JqOFFubFNuM3JTNVhhT09hUG9na0lVV2pjLUR5WXNGdXNfV280?oc=5",
-        "pub_date": "Thu, 04 Sep 2025 07:00:00 GMT",
+        "title": "Bitget Lists Fabric Protocol (ROBO) for Spot Trading - GlobeNewswire",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWi1SbEhFcGJabHlKY290MGpaamZCVGdIU0JQNl9NZXBhVjNvR21PUzdNTTg0VXV2azV2Rk56ZmdYbVpqTHVyUzNKbXJFZ1U1VFlIYVlnUlNacGVLQ0pjYXFxNkg4TS1GZndNR1Z1UFZRUGJNYkFHeXpqZ2dSRjNWV1dMX2JlSHMxRlVWS0J2aG5sc0dFR2Z4cWQzdGd0NkZNbFZtdEhxV3BGOURpcWRuejFvY1Y3Smg4dHVoRXM2OA?oc=5",
+        "pub_date": "Sun, 01 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget has Launched Spot Trading for Tokenized Stocks, ETFs, and Precious Metals on Ondo - incrypted",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQajNWRGZ4RjU3WlVQLUZSMGVibjVjZVZWbnl3QzJIZWpmeHZHeTBGem5kVVJveGY2aWFfUEJ2ekNiS21xNnRuSk9jcVRNMHZuaGpVRlRVUkJ0R1diT19NR2NBSUJMekhrU0EwOWt2cDNINHpnaEp5TW82aVFGcWMzRUdEaFdKTGc5czR4NnZucnM1bHVZeEpPMTJMbFNoSnJlZ1JadHZSNVlEeW5LdENWTmVn?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 15:00:03 GMT",
         "sentiment": "positive",
         "source": "rss"
       },
@@ -175,7 +159,7 @@
         "exchange": "Bitget",
         "title": "Bitget Broadens Spot Market Access With Ondo Tokenized Stocks, ETFs and Precious Metals - CoinGape",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRW95VmtFTzM4bFA2cDhHZm1rb05wbS1Wb01aVk02OTVwZFpZTHZnYk10dHFPMTMxYXZjOEJ5X0dkMmVFclVPTjVKUWQ0UUxiTlhaVDBBSXBXb0dWTE9nNFljZE1DNDZCdGY3UWpsZlRSQjF6RWtpZnFIUElBWXVLWXNqU2ZmRlptUldQTUlXaElodWQybkVGME1sak03dXUta0FHOEh6Y2R3OWMz?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 14:20:49 GMT",
+        "pub_date": "Tue, 17 Mar 2026 14:24:30 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -205,6 +189,14 @@
       },
       {
         "exchange": "Bitget",
+        "title": "Tokenized xStocks surpass $25 billion in total transaction volume: Kraken - The Block",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHZpWG9NTXFqTXZZMW92eFdyX1dOUVI0ZUFNNURCbUllYXZuNFpFUjV4MGJfT0tsamJMYXJ2WHg2TFFkRmlJZTVXU2Ywd3NUdmFTcFFBWVFVTEJwZ3J4N0o0MlRnRHdsMUxwdFhZUURiVmN3LTF4OV9PcU1GR1hlMkVWbllNTHhlRHNncDJwQWo3WnZueGJDZjlzTmk5VmxwTHl0OGtMTQ?oc=5",
+        "pub_date": "Thu, 19 Feb 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
         "title": "Bitget Signals Next Phase of Exchanges With TradFi Integration - markets.businessinsider.com",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2QxdHFmY3FYNk1JbFNFMzdMNG5PQjVZampvTHZ2YUFyRnFYQ0piSnlHZzRkdk9TWG1PX0Jnc3NjQ0tkNk5UekxVUWFsZVgwRVVaa1MwVm9fZl9MVUZVOHJKeG9Zek02d0ZZSVlBYXk4TjE1QXpDeXdtYkhpVWd3OXdGSzhaVGFnTFVIeUxUVU9fd2lwbVRzdVpqbjZUWG56cVhtRVp2dWNHTGJvb2IyeFBCWUlFREh1bkJTNDNn?oc=5",
         "pub_date": "Fri, 06 Mar 2026 05:56:46 GMT",
@@ -221,26 +213,10 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget sees record 4,468% surge in tokenized U.S. stock futures volume - thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMklya0FkYTY0bzJvZDVYSUFPcHhaY1hLTEZyTXFRNFJKQi13cmVvaFkxaVd6cG95WUVuNHpWZklxNWw0N3diMHBKcXRwMWdSZFpBRWJoXzV5N1l4RWo2Z0dQVWViQ21QTTF0Qi1yZmJCQWswWVBoMWZqbk1GaThubWV2enhwRFlldFNzMlpiYmQ5N3dJZGVEdENRbG9DNHV4NDA1QjFMVW82c3A5?oc=5",
-        "pub_date": "Mon, 08 Dec 2025 08:00:00 GMT",
+        "title": "Bitget Wallet Expands Self-Custodial Tokenized Stock Trading Suite - GlobeNewswire",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMmQ3ak9uYnotSW9YaVRsMFlTRlVFR3kzT0JKeXZGNFhUdVRsa1l0b2IySUxsN3MwM19xRk9pMHBic3N1aE5FNUltM1FjeGJZZklCZXprUFZUUV84NUFoNk9EYWtPdnNaWGdVM3JOQzYycUNjTFhRcGtMQWUxZVdtRTNOQnp1a1I4NHU1MGRQMDRBMkxqRVVaMEJEQkFwd292N0t3T3dFdDNZYk9SVERQWWdqRHJsMVZRYWhBZU5jRGpjUXJoVkNWdEpyUUQxOHFXazQzVQ?oc=5",
+        "pub_date": "Wed, 19 Nov 2025 08:00:00 GMT",
         "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Block Scholes Report Highlights Growth of Tokenized Stocks, Citing Bitget as a Key Market Driver - GlobeNewswire",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZzJvUm1ESDJ2TkJ3ejBLNXgwMFlZWldIZ0lTdjlwNGVjM2Vib29nWjNTaHI3RnhNQm12Q3B0bV9mUnFtSU5QbmZEdVhaX3FkWnB5WDNhSHJBTVpRNGtzZGNES3hNdS1JMFR3Qzl1bDQ1NVcxUXp4cUN1NEpKOS03SjNRRkJkb0hMaHB6dWdUYjVER0ZlN2NvMWtyLUtwb05yRTRPSnpZdFFQY2xvSFZLUGZwa0NZdGNZeGd3VTF2d1NXWHV3dmpzQTlDM0dfbTlxMDVnYXR4RWlvcC1pZ29qUHlBYUVWbEt6WnJ5eWVTdU16SGlaRzE5bklrTQ?oc=5",
-        "pub_date": "Tue, 06 Jan 2026 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Crosses $1B Tokenized Stock Spot Volume Amid 4,900% Spike in Tokenized Gold Trading - FF News | Fintech Finance",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclcwVG13RllJRW9mYUlYQ2w2emFTZXIzeEtVRVVEQ2NxVjZHdFJjbVpzcmNxdWJJNVZGU3p5NUtnYl94VmVOb1JZZTJNWG5Md3ppNUF0cE5HWWI0NHF3bC1yNVE1VUxGSUV3Yk9xcmlsUWtJOGdScVdjc09jOGp3UEtuOEpZRmEwTWpkVHc5QU5DZG1TNkJPWTlSbFc2andGMEpsR3gxcnpXeDloUExOR01RNzUxazJFWEQ1dUxjcHVjQ2c1MmpQeFFRN2ZOMDg?oc=5",
-        "pub_date": "Tue, 06 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -248,6 +224,14 @@
         "title": "Bitget UEX & Tokenized Stocks: Block Scholes Report - BeInCrypto",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ENGRLdUxVVkpiNkJWU1hRTHpfWUg0Tjg3T3hMeXRLeWlCMWpvYXNDdUlacVBxQ0JYWkJuYmdXVkJOQ19oV2xzOEl6NzRkcXJZUC1kbmI2SzNQMHViakhnZXpOUjZvMUoyOFhZSUtEM2E5LS1HVDNiY0ktSkc?oc=5",
         "pub_date": "Mon, 05 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Crosses $1B Tokenized Stock Spot Volume Amid 4,900% Spike in Tokenized Gold Trading - FF News | Fintech Finance",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclcwVG13RllJRW9mYUlYQ2w2emFTZXIzeEtVRVVEQ2NxVjZHdFJjbVpzcmNxdWJJNVZGU3p5NUtnYl94VmVOb1JZZTJNWG5Md3ppNUF0cE5HWWI0NHF3bC1yNVE1VUxGSUV3Yk9xcmlsUWtJOGdScVdjc09jOGp3UEtuOEpZRmEwTWpkVHc5QU5DZG1TNkJPWTlSbFc2andGMEpsR3gxcnpXeDloUExOR01RNzUxazJFWEQ1dUxjcHVjQ2c1MmpQeFFRN2ZOMDg?oc=5",
+        "pub_date": "Tue, 06 Jan 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -261,18 +245,10 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Wallet Expands Self-Custodial Tokenized Stock Trading Suite - GlobeNewswire",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMmQ3ak9uYnotSW9YaVRsMFlTRlVFR3kzT0JKeXZGNFhUdVRsa1l0b2IySUxsN3MwM19xRk9pMHBic3N1aE5FNUltM1FjeGJZZklCZXprUFZUUV84NUFoNk9EYWtPdnNaWGdVM3JOQzYycUNjTFhRcGtMQWUxZVdtRTNOQnp1a1I4NHU1MGRQMDRBMkxqRVVaMEJEQkFwd292N0t3T3dFdDNZYk9SVERQWWdqRHJsMVZRYWhBZU5jRGpjUXJoVkNWdEpyUUQxOHFXazQzVQ?oc=5",
-        "pub_date": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "title": "Block Scholes Report Highlights Growth of Tokenized Stocks, Citing Bitget as a Key Market Driver - GlobeNewswire",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZzJvUm1ESDJ2TkJ3ejBLNXgwMFlZWldIZ0lTdjlwNGVjM2Vib29nWjNTaHI3RnhNQm12Q3B0bV9mUnFtSU5QbmZEdVhaX3FkWnB5WDNhSHJBTVpRNGtzZGNES3hNdS1JMFR3Qzl1bDQ1NVcxUXp4cUN1NEpKOS03SjNRRkJkb0hMaHB6dWdUYjVER0ZlN2NvMWtyLUtwb05yRTRPSnpZdFFQY2xvSFZLUGZwa0NZdGNZeGd3VTF2d1NXWHV3dmpzQTlDM0dfbTlxMDVnYXR4RWlvcC1pZ29qUHlBYUVWbEt6WnJ5eWVTdU16SGlaRzE5bklrTQ?oc=5",
+        "pub_date": "Tue, 06 Jan 2026 08:00:00 GMT",
         "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Inside Bitget’s UEX Strategy: Can Tokenized Stocks Define the 2026 Crypto Market? - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOekJsd0RBaldjektGa1lIdmxUal8yZnBhSzE0YWpid0Z6cVJRQUlXY1JDdzlJZTdIOHRsRGh2bXVqN1NyUmNWM1dHbGQxbHVDcW15b3dIM1BCR1RWdUEtQTlfclVJWmV0UkMxcjVDS1c0WEpzNVpBTUJFcDRvdktBNFpiX0gzNHdkYVRSTTZlakI2SnpRbnF4R3BGeEZkbENSX1NtcGc3c1ZoVzk0MDJfZG5LSFlMRDdROEtVclFWeDBjczVtbkpRVXNvMVFQRU93eXg4eHRvSQ?oc=5",
-        "pub_date": "Tue, 17 Feb 2026 12:11:02 GMT",
-        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -280,62 +256,6 @@
         "title": "Ondo Finance partners with Bitget to offer tokenized U.S. stocks and ETFs - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaldJZFd4bUM0SmZCYXZOazN5UGpBZnRaTnBTNGotdjN6MkxteDdNakdCajRSTGN2aFVwRk9peXdxd0FsSHlZSERFaWk3Y3QxaHZrcWtwazlpVHZHVFkwWlpmSkVRblBNdU5pOTRtNmsxMjdVdG9MbW9IRXByUXpJeVZlQjl0TEk?oc=5",
         "pub_date": "Wed, 16 Jul 2025 07:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Lists BTGO Tokenized Stock, Bringing BitGo to the UEX Marketplace - GlobeNewswire",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOXzhVTEs2aTR4R2E1RmpsSGZTWFpRSlRiNHk2eEVfRExCMUV1NVh5ZnVRYko0WDRtcE5ocEdkRnpVQ1dBS2ZJZXY1M0tJdlNmOTAtZDVmVkp4MnprRm1LdkVtb1UzZEJxb3NIMVpkeW9jQTN5SVdhUng1Y1JEc1RjRFVwLXkxYXp3RGczTjZiUFo5cUJ5MGFicDZvRkZMcURsbVF0aUdRVXVuTUlybFVscUlON2Q2bWJMUG9mSE5fSXFHeGp1ZlZxU1I3YktWcFIxb29UOGFGdkZMbnM?oc=5",
-        "pub_date": "Fri, 23 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Kraken and Bitget Dominate Early Tokenized Stock Trading Volumes - CoinCentral",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSVJ0NVY5elh2SGU0WjFOeGxfc3JGeEFCWTFsR3VudnhGVVJJTVhGWTctWEtVUThRMWpUYmNnZU45U1YyemlnRlgtUTFwd05CcU5uYWs5UWVuYUlpalhxaFpmU2VNNEJER2Z5NnJEQm5hNVFoR2ZFUmUwbTJpQ1BObFlKekQyYnh5M0p5dm1ZcnR0dTQ?oc=5",
-        "pub_date": "Wed, 14 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Launches CandyBomb x ROBO Campaign With over 3M in Token Rewards - markets.businessinsider.com",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkd5SElFR3lhMjV2emVXSlZZdnRPMEU1YWpkTFZYeTRjZDNjcGU4YlYxc2p0TWdxeVVmbG5LU3BiSk11NUx3bTVpTG9IUl9lWUZfb2JIWG1NUFF1N0FqbGFYUEFBZzg5ZDVqbGxEckVld0JzRzFmbHk2NEFHanpLbGtfMElTNEREWklWLXFJYzR6ZnpmOGttZmZKQnVYTlp4UktZcnR5SlVWUERCdkJqVW1ISG1XRm43V2ZxQ2MwcC04eFVBbHE3VlhpSDRZaGM?oc=5",
-        "pub_date": "Mon, 02 Mar 2026 10:10:57 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Sees Institutional Spot Trading Share More Than Double To 82% in 2025 - Financial IT",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeThnQ0U4YmpEZWphMkJ4SXA0a3FFbHJPNmUtMjZRY3FGd2J6clpQMm9WMHdvLTg0WEI5T2R4NHA3aWlfMTMzVzRlSEFGQVRjSFBEdjJmOFpmTzVBUVRPZkZLWGlMbWJabWt6OHlrd0dlUGU0T2JmVjBYUlRBQ1Z1ZFdtd1Q2ZGtzV0FmVE9QR3lWeGRBTng3akJpUGlMM1pmeDJIaVlvUko4Y0taSmt3?oc=5",
-        "pub_date": "Tue, 13 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Ondo’s SEC Clearance Comes as European Tokenized Stocks Advance via Bitget - Finance Magnates",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE5fX056a2hKT1B5dnIwMHZkSVFaN01IQjFrS1NUSTh4dGN4UGJUcXUyMHF1MF83cWhRTWh4UHB0ZXVKYzJYYlFPTUNzMGlNMk9yWGZXZXljMlZidlhMa1FoUTc5dF9yZUJkMm9VV1BDYlFndlhsb1NVdXJ3LUNKb1QyN0Z1TTQ4X3EtcGN6NzZWNGdCX1dPclZBUXR1bEtWMlQwamd5VEtxSXBPc0FpMjVQaDJ2ejRBZXkxc3pR0gHDAUFVX3lxTFBtaVB0TldLRnFIX2ZncURjWUFjZlVZc19WUTJBT0pUdkRsc29SQjQza1RqWUI4bWlialFFczVSdlVrQk1uaV8zM0luS0NDQXdUanZfUlNBZ1ROMk1uLWQ1YzB0WkZGQ01hWXc2Ny1zUnp0NDh6VzBkNFo3YTdZMlprYkVzOF9hWGtHSk5HNWY4UjMxYTNHc0hVWENxMFZDMFFsd3Z6NTVhSTVDQXdGTG90YmNGVk8wTVVLajhUWGl1MS1TZw?oc=5",
-        "pub_date": "Mon, 08 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Stock Futures Hit $1 Billion as Crypto Exchanges Push Into Tokenized Equities - Finance Magnates",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVW52QWUxcXBDeld0WVJFejJKaE10aWRkYVBzWVl6Rk9WS3ExdkxjaWJQWl9JUXBEVDliRlF3TnFEVXE0YjU2cWRVV0VHTlZaSFd3T0JhTkp6YzlkOUxzYnlNbEMxN191VThQUTBCTUltRkNURTBnZEVGSWVnZ0pPcWZKaURGOE5URGUzXy1femFnLWJLZVpwYkRmb212eVpNUzdrSTdENWhKcnpXMi1OTmt1V0h1RXFrTzgxMEFsZGdpeFMzRVo1UEk0YW02OFpqRmtjX0lXWdIB3AFBVV95cUxQWjFOa2phc0JWOWpOa2t1MUNhaTRoSUdHc0hFUE9sY2E1ZjRBMFh3cHV1dTFVVUJRX3IyUkdEZFdHMjBGaDVnSkg1ZHdfc2dHRURYRDJPMUlCaGtFM2l4UW50X2JldzZLdGowTS1BZlRYU1paNVpXSnE4dkVDTHdTZlhvM2NTWFhzMXlWNGlfWFpKWTh0LTZDVDNjdGdYSWNYRUpfdmVoWTlscC1sQVFGSFYwR0p2enlLY3NFYnQzc0dOTXJFNkdLdlE4X2NjWTlrNmI5dXBXcGJ6Smsw?oc=5",
-        "pub_date": "Thu, 06 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Brings CFDs and Crypto Together Following Tokenized US Stocks and ETFs - Finance Magnates",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNemNOemN1eXVsVFdpS1RYRDk3UHJ1X0ZwUmdpNGVYLUJiM2VJN0pqaDl3dC1BSXFwVzExd1JHdm1aOWI3UThxdUpGUHdZaDI5N0RJUWEwVkV6VldjS1QxbkZHY1VybWVOb3Azcl9mci1RQkZhUkNuZG81YUswbk1YUmRybF85VUhpQ2V4YmFwSHRyX1lZdS1lc1NPNXhuZHlkeGxCeWwxdlVZTkZiLXp3QjNybVAtM2_SAbwBQVVfeXFMT2RlcG5wcUR0Rkh2NG1kMWZlMGtYRGRoUk5zUzI4c2JWdGN2a3kwRzdITUk1S1ZpYmJqV202SUowY0JLQXJSWkhvdmdFdXZkbTVkQlQzSWotbmtZX3NGMlBUcTlmcVI4WUhLNVRkbllPY01nMVliSkNoT0dkOHFJOTIwYWVxcjliOE9BVm9ZVkZHT05WWFh4TEtNRVFaSkU1Z2RoeDBvRWxFVGpIdzdHMXJfYzRJcnNkY09HaUM?oc=5",
-        "pub_date": "Mon, 15 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -357,313 +277,241 @@
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget: Sự sụp đổ lớn của cổ phiếu Circle (CRCL) – Bước ngoặt cho gã khổng lồ stablecoin? Thị trường tài chính vừa chứng",
-        "link": "https://fitcare.vn/2026/03/17/co-phieu-circle-crcl-giam-manh/",
-        "pub_date": "2026-03-17T16:29",
+        "title": "Bitget: Giá Zcash tăng vọt, thách thức sự yếu kém của thị trường — Phe bò dự đoán mức $1,000 sẽ là “mục tiêu tiếp theo T",
+        "link": "https://fitcare.vn/2026/03/18/gia-zcash-tang-vot-muc-tieu-1000-usd/",
+        "pub_date": "2026-03-18T05:22",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Tóm tắt nội dung Toggle Bitget: Sự sụp đổ lớn của cổ phiếu Circle (CRCL) – Bước ngoặt cho gã khổng lồ stablecoin? Kết qu",
-        "link": "https://tapchitienso.net/co-phieu-circle-crcl-giam-manh/",
-        "pub_date": "2026-03-17T16:18",
+        "title": "Tóm tắt nội dung Toggle Bitget: Giá Zcash tăng vọt, thách thức sự yếu kém của thị trường — Phe bò dự đoán mức $1,000 sẽ ",
+        "link": "https://tapchitienso.net/gia-zcash-tang-vot-muc-tieu-1000-usd/",
+        "pub_date": "2026-03-18T05:19",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Oppo показала новые умные часы Oppo Watch X3. Это круглая модель, которая развивает идеи Watch X2: корпус стал тоньше и ",
-        "link": "https://ukr.live/newses/oppo-watch-x3-za-305-poluchil-titanoviy-korpus-datchik-glyukozi-i-izmereniya-davleniya",
-        "pub_date": "2026-03-17T16:12",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Piata activelor digitale traverseaza un proces de maturizare, pe fondul cresterii participarii institutionale si al schi",
-        "link": "https://banisiafaceri.ro/analiza-bitget-capitalul-institutional-se-orienteaza-tot-mai-mult-catre-active-digitale/",
-        "pub_date": "2026-03-17T16:07",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Компания Creative впервые за пять лет обновила свою линейку дискретных звуковых карт для настольных ПК. Новая модель Sou",
-        "link": "https://itoboz.com/news/creative-zapuskaet-zvukovuyu-kartu-za-80-prostranstvennoe-7-1-i-usilenie-naushnikov/",
-        "pub_date": "2026-03-17T16:02",
+        "title": "Tóm tắt nội dung Toggle Bitget Thụt lùi hay bàn đạp: Cơ hội chỉ thị trường “gấu” mới mang lại So sánh thị trường gấu thự",
+        "link": "https://tapchitienso.net/thi-truong-gau-hay-ban-dap-dau-tu-bitcoin/",
+        "pub_date": "2026-03-18T05:19",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Универсальная биржа Bitget расширила спотовый рынок за счет новой линейки токенизированных активов от Ondo Global Market",
-        "link": "https://www.golfstriminform.ru/kriptonomika/bitget-zapystila-spotovyu-torgovlu-tokenizirovannymi-akciiami-etf-i-dragmetallami-ondo/",
-        "pub_date": "2026-03-17T16:00",
+        "title": "Bitget Thụt lùi hay bàn đạp: Cơ hội chỉ thị trường “gấu” mới mang lại Thị trường tiền điện tử vừa trải qua một cơn địa c",
+        "link": "https://tintucbtc24h.com/thi-truong-gau-hay-ban-dap-dau-tu-bitcoin/",
+        "pub_date": "2026-03-18T05:00",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Các nhà đầu tư vào cổ phiếu Cisco đã có nhiều điều để vui mừng trong báo cáo lợi nhuận gần đây nhất của công ty. Sự tăng",
-        "link": "https://tintucbtc24h.com/co-phieu-cisco-tiem-nang-ai/",
-        "pub_date": "2026-03-17T16:00",
+        "title": "Серия Samsung Galaxy S26 официально стала доступной для заказа после ее анонса 25 февраля. Хотя никаких обновлений аппар",
+        "link": "https://ukr.live/newses/smartfoni-samsung-galaxy-s26-poluchili-neogidannuyu-funktsiyu-kotoraya-ostalas-bez-vnimaniya",
+        "pub_date": "2026-03-18T05:00",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "米国で開催中の「DC Blockchain Summit」にて、分散型金融（ ...",
+        "link": "https://crypto-times.jp/news-defi-is-becoming-an-alternative-to-traditional-finance/",
+        "pub_date": "2026-03-18T04:51",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Cổ phiếu AMD hướng tới 275 USD: Tương lai rạng rỡ sau cái bắt tay với Oracle và OpenAI Bạn có tò mò về diễn biến tiếp th",
+        "link": "https://fitcare.vn/2026/03/18/co-phieu-amd-huong-toi-275-usd/",
+        "pub_date": "2026-03-18T04:49",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget Cisco Cổ Phiếu: Lợi Nhuận Vượt Kỳ Vọng Nhờ AI, Nhưng Tương Lai Còn Nhiều Ẩn Số Các nhà đầu tư vào cổ phiếu Cisco ",
-        "link": "https://fitcare.vn/2026/03/17/co-phieu-cisco-tiem-nang-ai/",
-        "pub_date": "2026-03-17T15:58",
+        "title": "Обновление v22.0.0.0 для Nintendo Switch 2 предложило новые функции, которые способны улучшить графику в популярных игра",
+        "link": "https://ladyglam.net/hi-tech/obnovlenie-dlya-nintendo-switch-2-uluchshenie-grafiki-i-analog-tv-rezhima/",
+        "pub_date": "2026-03-18T04:47",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Following the collapse of algorithmic stablecoins and the bursting of liquidity mining bubbles, the DeFi market is urgen",
-        "link": "https://www.cointime.ai/news/deep-dive-69470",
-        "pub_date": "2026-03-17T15:52",
+        "title": "Odaily星球日报讯 SlowMist 与 Bitget 联合发布 AI Agent 安全报告。报告指出，随着 AI Agent 在 Web3 生态中承担行情分析、策略生成及自动化交易等任务，其攻击面正在扩大，主要安全威胁涵盖七个层面：提",
+        "link": "https://www.odaily.news/zh-CN/newsflash/472660",
+        "pub_date": "2026-03-18T04:21",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Odaily News SlowMist and Bitget have jointly released an AI Agent security report. The report indicates that as AI Agent",
+        "link": "https://www.odaily.news/en/newsflash/472660",
+        "pub_date": "2026-03-18T04:21",
+        "sentiment": "negative",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Odailyの報道によると、SlowMistとBitgetはAI Agentセキュリティレポートを共同発表した。同レポートは、AI",
+        "link": "https://www.odaily.news/ja/newsflash/472660",
+        "pub_date": "2026-03-18T04:21",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Tóm tắt nội dung Toggle Cổ phiếu AMD hướng tới 275 USD: Tương lai rạng rỡ sau cái bắt tay với Oracle và OpenAI Hiệu suất",
+        "link": "https://tapchitienso.net/co-phieu-amd-huong-toi-275-usd/",
+        "pub_date": "2026-03-18T04:14",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Alte stiri de la Bursa:",
-        "link": "https://www.astazi.ro/stiri/stire-analiza-bitget-and-8222-capitalul-institutional-se-orienteaza-tot-mai-mult-catre-active-digitale-and-8221--260414432.html",
-        "pub_date": "2026-03-17T15:45",
+        "title": "ビットコイン（BTC）価格が今週7万4000ドルを超えて推移する中、短期保有 ...",
+        "link": "https://crypto-times.jp/news-bitcoin-surpasses-74000-with-short-term-holders-taking-profits-at-18-4-million-per-hour/",
+        "pub_date": "2026-03-18T04:07",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Bitcoin is holding near the mid-$70,000s as traders head into one of the most compressed stretches of global monetary po",
-        "link": "https://www.theblock.co/post/393945/bitcoin-holds-74000-ahead-dense-global-central-bank-week",
-        "pub_date": "2026-03-17T15:39",
+        "title": "Sony и Marvel запустили необычную маркетинговую кампанию для фильма «Человек-паук: Совершенно новый день», которая предл",
+        "link": "https://it-novinki.online/it-news/trejler-filma-chelovek-pauk-4-vypustyat-fragmentami-na-akkauntax-samyx-bolshix-fanov/",
+        "pub_date": "2026-03-18T04:07",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "引用元: Tada Images / Shutterstock.com",
+        "link": "https://crypto-times.jp/news-the-u-s-sec-recommends-using-no-action-letters/",
+        "pub_date": "2026-03-18T04:04",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "引用元: PJ McDonnell / Shutterstock.com",
+        "link": "https://crypto-times.jp/news-usdc-issuer-circle-inc-shares-surge-120-in-one-month/",
+        "pub_date": "2026-03-18T04:01",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Surf等項目通過提供加密貨幣專用的AI研究工具來解決這個問題，這些工具可以整合分散的數據源。在所有加密貨幣AI應用場景中，研究對普通用戶的入門門檻最低，無需任何編程或交易方面的專業知識。",
+        "link": "https://m.cnyes.com/news/id/6388846",
+        "pub_date": "2026-03-18T04:00",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Tensor (TNSR) là gì? Thị trường NFT Solana mang công cụ chuyên nghiệp đến cho số đông Khi thị trường NFT tiếp tục",
+        "link": "https://tintucbtc24h.com/bitget-tensor-tnsr-la-gi/",
+        "pub_date": "2026-03-18T04:00",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "В начале 2026 года мониторинг BestChange получил сразу три отраслевые премии за 2025 год.",
-        "link": "https://www.retail.ru/rbc/pressreleases/bestchange-priznan-luchshim-monitoringom-po-versii-crypto-ru-crypto-awards-crypto-impact-awards/",
-        "pub_date": "2026-03-17T15:32",
+        "title": "Quick Read Luxury brands are increasingly adopting NFT-backed certificates to verify product authenticity and prevent co",
+        "link": "https://azat.tv/en/luxury-retailers-blockchain-payment-integration/",
+        "pub_date": "2026-03-18T04:00",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Tiền điện tử Decred đã trở thành tâm điểm chú ý sau khi giá tăng vọt, thu hút sự chú ý của cả các nhà đầu tư và những ng",
-        "link": "https://tintucbtc24h.com/bitget-decred-dcr-la-gi-blockchain-tu-dong-cho-quan-tri-phi-tap-trung-2/",
-        "pub_date": "2026-03-17T15:30",
+        "title": "... 2026 թվականին շքեղ ապրանքների մանրածախ առևտրի ոլորտը զգալի փոփոխությունների է ենթարկվում. ապրանքանիշերը բլոկչեյն տեխ",
+        "link": "https://azat.tv/luxury-retailers-blockchain-payment-integration/",
+        "pub_date": "2026-03-18T04:00",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Three of the world’s major central banks are expected to hold interest rates this week, with the Federal Reserve conclud",
+        "link": "https://www.europesays.com/2853612/",
+        "pub_date": "2026-03-18T03:52",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "作者：Ekko an，Ryan Yoon；来源：Tiger Research；编译：Shaw 金色财经",
+        "link": "https://www.jinse2.com/blockchain/3730458.html",
+        "pub_date": "2026-03-18T03:50",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Tóm tắt nội dung Toggle Bitget Tensor (TNSR) là gì? Thị trường NFT Solana mang công cụ chuyên nghiệp đến cho số đông Ten",
+        "link": "https://tapchitienso.net/bitget-tensor-tnsr-la-gi/",
+        "pub_date": "2026-03-18T03:42",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Ignacio Aguirre Franco Piaţa activelor digitale traversează un proces de maturizare, pe fondul creşterii participării in",
-        "link": "https://www.bursa.ro/analiza-bitget-8222capitalul-institutional-se-orienteaza-tot-mai-mult-catre-active-digitale8221-42386852",
-        "pub_date": "2026-03-17T15:30",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Tiền điện tử Decred (DCR) là gì? Blockchain tự động và dự đoán giá 2025-2030 Tiền điện tử Decred đã trở thành tâm điểm c",
-        "link": "https://fitcare.vn/2026/03/17/bitget-decred-dcr-la-gi-blockchain-tu-dong-cho-quan-tri-phi-tap-trung/",
-        "pub_date": "2026-03-17T15:26",
+        "title": "Tóm tắt nội dung Toggle Bitget Dự báo giá vàng: XAU/USD tăng mạnh vượt mốc 4.100 USD nhờ kỳ vọng Fed cắt giảm lãi suất T",
+        "link": "https://tapchitienso.net/du-bao-gia-vang-xau-usd-vuot-4100-usd/",
+        "pub_date": "2026-03-18T03:42",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget расширила спотовый рынок за счет токенизированных активов Ondo.",
-        "link": "https://vsenovosti.life/news/bitget-zapustila-spotovuyu-torgovlyu/14367594",
-        "pub_date": "2026-03-17T15:26",
+        "title": "引用元: CryptoFX / Shutterstock.com",
+        "link": "https://crypto-times.jp/news-ripple-xrp-suffers-130-million-outflow/",
+        "pub_date": "2026-03-18T03:37",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "Bitget",
+        "title": "Bitget Dự báo giá vàng: XAU/USD tăng mạnh vượt mốc 4.100 USD nhờ kỳ vọng Fed cắt giảm lãi suất Thị trường tài chính toàn",
+        "link": "https://tintucbtc24h.com/du-bao-gia-vang-xau-usd-vuot-4100-usd/",
+        "pub_date": "2026-03-18T03:30",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget has expanded its spot market by adding Ondo Global Markets tokenized securities, bringing stocks, ETFs, and preci",
-        "link": "https://article.wn.com/view/2026/03/17/Bitget_Broadens_Spot_Market_Access_With_Ondo_Tokenized_Stock/",
-        "pub_date": "2026-03-17T15:18",
-        "sentiment": "positive",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget розширила спотовий ринок завдяки токенізованим активам Ondo.",
-        "link": "https://incrypted.com/ua/bitget-zapustyla-spotovu-torgivlju-tokenizovanymy-aktsijamy-etf-i-dorogotsinnymy-metalamy-ondo/",
-        "pub_date": "2026-03-17T15:16",
+        "title": "... 华人加密交易所如Bybit、OKX正面临全球监管收紧压力，为获取合规身份、接入机构资金，转向与美国传统金融巨头（如ICE、Coinbase）合作。OKX已获ICE战略投资并推进纽交所代币化股票交易，Bybit则洽谈与Coinbase",
+        "link": "https://news.marsbit.co/20260318110512200704.html",
+        "pub_date": "2026-03-18T03:17",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget expanded its spot market with Ondo tokenized assets.",
-        "link": "https://incrypted.com/en/bitget-has-launched-spot-trading-for-tokenized-stocks-etfs-and-precious-metals-on-ondo/",
-        "pub_date": "2026-03-17T15:16",
+        "title": "Warner Bros. выпустила первый трейлер «Дюна: Часть третья», события которой разворачиваются спустя 17 лет после второго ",
+        "link": "https://dneprcity.net/tech/bolshoe-vozvrashhenie-na-arrakis-vyshel-pervyj-trejler-dyuna-3/",
+        "pub_date": "2026-03-18T03:09",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Bitget rozszerzyła rynek spot o tokenizowane aktywa Ondo.",
-        "link": "https://incrypted.com/pl/bitget-uruchomila-handel-spot-tokenizowanymi-akcjami-etf-ami-i-metalami-szlachetnymi-ondo/",
-        "pub_date": "2026-03-17T15:16",
+        "title": "3月18日11:00現在、最もホットなテーマは本日のFOMCです。原油高によ ...",
+        "link": "https://crypto-times.jp/news-expectations-for-an-fomc-meeting-and-interest-rate-cuts-have-plummeted/",
+        "pub_date": "2026-03-18T03:06",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "Bitget",
-        "title": "Why It Matters The mandate clarifies Ethereum’s strategic north star, influencing developer priorities and investor conf",
-        "link": "https://www.pulse.bot/crypto/video/ethereum-foundations-new-mandate-has-the-community-divided-e5f44bbf-5ed2-4097-b5ae-ca89925123a3/",
-        "pub_date": "2026-03-17T15:12",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Original article: Criptoestafa: “los 4000 que hay que darle a Karina”, el audio que compromete a Milei y su hermana",
-        "link": "https://www.elciudadano.com/en/crypto-scandal-the-4000-to-pay-karina-audio-linking-milei-and-his-sister-exposed/03/17/",
-        "pub_date": "2026-03-17T15:01",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "JPMorgan vừa ra mắt JPM Coin (JPMD), một token tiền nạp tiền trên blockchain dành cho khách hàng tổ chức. Dù nghe có vẻ ",
-        "link": "https://tintucbtc24h.com/bitget-jpm-coin-jpmd-da-ra-mat-y-nghia-doi-voi-bitcoin-stablecoin-va-giao-dich-cua-2/",
-        "pub_date": "2026-03-17T15:00",
-        "sentiment": "positive",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "La demanda institucional mostró un crecimiento sostenido durante los últimos días. El plato fuerte de la semana será la ",
-        "link": "https://www.ambito.com/finanzas/bitcoin-muestra-signos-recuperacion-y-posa-sus-ojos-la-fed-n6256881",
-        "pub_date": "2026-03-17T14:59",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "... «Podemos pedir los 4000 que hay que darle a Karina «. La frase, dicha con naturalidad, como quien menciona un trámit",
-        "link": "https://www.elciudadano.com/latinoamerica/criptoestafa-los-4000-que-hay-que-darle-a-karina-el-audio-que-compromete-a-milei-y-su-hermana/03/17/",
-        "pub_date": "2026-03-17T14:58",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "JPM Coin JPMD đã ra mắt: 4 điều ý nghĩa với stablecoin, Bitcoin và giao dịch JPMorgan vừa ra mắt JPM Coin (JPMD), một to",
-        "link": "https://fitcare.vn/2026/03/17/bitget-jpm-coin-jpmd-da-ra-mat-y-nghia-doi-voi-bitcoin-stablecoin-va-giao-dich-cua/",
-        "pub_date": "2026-03-17T14:55",
-        "sentiment": "positive",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Недавняя эскалация напряженности в мире вновь напомнила нам, что геополитика остается одним из ключевых факторов, влияющ",
-        "link": "https://cryptoobzor.ru/kak-konflikt-mejdy-ssha-i-iranom-vliiaet-na-kriptovalutnye-rynki/",
-        "pub_date": "2026-03-17T14:44",
-        "sentiment": "positive",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "PayPal, uno de los principales sistemas de pagos en línea del mundo, ampliará el acceso a su stablecoin PayPal USD ( $PY",
-        "link": "https://cryptonews.net/es/news/market/32567579/",
-        "pub_date": "2026-03-17T14:44",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Las versiones tokenizadas de acciones estadounidenses y fondos cotizados en bolsa ya están disponibles en Bitget, ya que",
-        "link": "https://cryptonews.net/es/news/market/32568005/",
-        "pub_date": "2026-03-17T14:42",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget ha ampliato il suo mercato spot aggiungendo i titoli tokenizzati di Ondo Global Markets, consentendo agli utenti ",
-        "link": "https://mpost.io/it/bitget-expands-spot-market-with-ondo-tokenized-securities-integrating-us-equities-etfs-and-commodities/",
-        "pub_date": "2026-03-17T14:40",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget a étendu son marché au comptant en ajoutant les titres tokenisés d'Ondo Global Markets, permettant aux utilisateu",
-        "link": "https://mpost.io/fr/bitget-expands-spot-market-with-ondo-tokenized-securities-integrating-us-equities-etfs-and-commodities/",
-        "pub_date": "2026-03-17T14:40",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget hat seinen Spotmarkt durch die Aufnahme tokenisierter Wertpapiere von Ondo Global Markets erweitert und ermöglich",
-        "link": "https://mpost.io/de/bitget-expands-spot-market-with-ondo-tokenized-securities-integrating-us-equities-etfs-and-commodities/",
-        "pub_date": "2026-03-17T14:40",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Η Bitget έχει επεκτείνει την αγορά spot προσθέτοντας τίτλους με διακριτικά Ondo Global Markets, επιτρέποντας στους χρήστ",
-        "link": "https://mpost.io/el/bitget-expands-spot-market-with-ondo-tokenized-securities-integrating-us-equities-etfs-and-commodities/",
-        "pub_date": "2026-03-17T14:40",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget расширила свой спотовый рынок, добавив токенизированные ценные бумаги Ondo Global Markets, что позволяет пользова",
-        "link": "https://mpost.io/ru/bitget-expands-spot-market-with-ondo-tokenized-securities-integrating-us-equities-etfs-and-commodities/",
-        "pub_date": "2026-03-17T14:40",
-        "sentiment": "positive",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "A Bitget kibővítette spot piacát az Ondo Global Markets tokenizált értékpapírjainak hozzáadásával, lehetővé téve a felha",
-        "link": "https://mpost.io/hu/bitget-expands-spot-market-with-ondo-tokenized-securities-integrating-us-equities-etfs-and-commodities/",
-        "pub_date": "2026-03-17T14:40",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget has expanded its spot market by adding Ondo Global Markets tokenized securities, allowing users to trade major U.",
-        "link": "https://mpost.io/bitget-expands-spot-market-with-ondo-tokenized-securities-integrating-us-equities-etfs-and-commodities/",
-        "pub_date": "2026-03-17T14:40",
-        "sentiment": "positive",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget rozszerzył swój rynek spot, dodając tokenizowane papiery wartościowe Ondo Global Markets, umożliwiając użytkownik",
-        "link": "https://mpost.io/pl/bitget-expands-spot-market-with-ondo-tokenized-securities-integrating-us-equities-etfs-and-commodities/",
-        "pub_date": "2026-03-17T14:40",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Криптобиржа Bitget расширила спотовый рынок за счет токенизированных активов от Ondo Global Markets. На платформе появил",
-        "link": "https://cryptoobzor.ru/bitget-dobavila-tokenizirovannye-akcii-etf-i-dragmetally-ondo-na-spotovyi-rynok/",
-        "pub_date": "2026-03-17T14:35",
-        "sentiment": "positive",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "VICTORIA, Seychelles, March 03, 2026 (GLOBE NEWSWIRE) — Bitget , a maior Universal Exchange (UEX) do mundo, publicou sua",
-        "link": "http://www.qatareconomictimes.com/2026/03/03/1001167804-pt/",
-        "pub_date": "2026-03-17T14:30",
+        "title": "Shiba Inu broke out of a falling wedge pattern on March 10 with an 88% volume surge, the same technical structure that t",
+        "link": "https://www.openpr.com/news/4428758/retail-investors-crushed-after-370b-shiba-inu-shib-dump-but",
+        "pub_date": "2026-03-18T03:05",
         "sentiment": "neutral",
         "source": "meltwater"
       },
@@ -720,46 +568,6 @@
         "title": "Bitget and B2C2 Partner to Strengthen Institutional Market Access",
         "link": "https://financialpost.com/globe-newswire/bitget-and-b2c2-partner-to-strengthen-institutional-market-access",
         "pub_date": "2026-03-11T07:04",
-        "sentiment": "neutral",
-        "source": "newsapi"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Best Forex Trading Platforms in Nigeria (2026)",
-        "link": "https://punchng.com/best-forex-trading-platforms-in-nigeria-2026/",
-        "pub_date": "2026-03-10T17:38",
-        "sentiment": "positive",
-        "source": "newsapi"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "MEXC Records $175M Net Inflows in February, Ranking 4th Among Global CEXs",
-        "link": "https://www.globenewswire.com/news-release/2026/03/10/3252567/0/en/MEXC-Records-175M-Net-Inflows-in-February-Ranking-4th-Among-Global-CEXs.html",
-        "pub_date": "2026-03-10T10:05",
-        "sentiment": "positive",
-        "source": "newsapi"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget Upgrades Agent Hub with Skills and CLI, Allowing OpenClaw to Start Trading in Three Minutes",
-        "link": "https://financialpost.com/globe-newswire/bitget-upgrades-agent-hub-with-skills-and-cli-allowing-openclaw-to-start-trading-in-three-minutes",
-        "pub_date": "2026-03-10T06:13",
-        "sentiment": "positive",
-        "source": "newsapi"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "NVIDIAがオープンソースAIエージェントプラットフォーム「NemoClaw」の提供を予定しているとの報道、OpenClaw風のツールか",
-        "link": "https://news.livedoor.com/article/detail/30733443/",
-        "pub_date": "2026-03-10T02:42",
-        "sentiment": "neutral",
-        "source": "newsapi"
-      },
-      {
-        "exchange": "Bitget",
-        "title": "Bitget stock futures volume crosses $1bn mark",
-        "link": "https://punchng.com/bitget-stock-futures-volume-crosses-1bn-mark/",
-        "pub_date": "2026-03-10T00:09",
         "sentiment": "neutral",
         "source": "newsapi"
       }

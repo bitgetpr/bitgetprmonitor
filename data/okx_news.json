@@ -1,16 +1,8 @@
 [
   {
     "week": "2026-W12",
-    "generated_at": "2026-03-17T16:39:36.672600+00:00",
+    "generated_at": "2026-03-18T05:46:44.314784+00:00",
     "articles": [
-      {
-        "exchange": "OKX",
-        "title": "Crypto exchange OKX valuation hits $25 billion after NYSE parent invests - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOG1QdzdmRGFaQVFYY2J3T1BnWUMzcU9vLU83bWM3c0tNaWJCdmduYV9PcnhqZlp6Ny1xZ2tJVV96ZG9RUjJKMVJFZzdodldKREo3TGlaSEFkelo2MzBpblpZMVBlNENBRFJITjE5YlFoYmlZdzhYdHo0UzR3azJHZEZPQndVMGJFalZpTkVuUzN5NnhEUlJGT1Bzd2tjaXJ5dVJkd19xUEpqM3BRVUh1UnRwOUx2YUE?oc=5",
-        "pub_date": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
       {
         "exchange": "OKX",
         "title": "NYSE parent company invests in crypto exchange OKX at $25 billion valuation - Fortune",
@@ -23,6 +15,14 @@
         "exchange": "OKX",
         "title": "NYSE owner invests in crypto exchange OKX at $25bn valuation - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xRnZCSmlSVnFSM3VWZWF0dkVmVktQbUVQMFNlZnZTdndoRnlTNkxFQWFrR1JaUENGUEtOUGZxQ0tYaThKR2htaC1URFBiYkpRLWxBRUlhRVlrN1NrZzZ0VHNoRDAwSlN3TmktSXFPQko?oc=5",
+        "pub_date": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Crypto exchange OKX valuation hits $25 billion after NYSE parent invests - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOG1QdzdmRGFaQVFYY2J3T1BnWUMzcU9vLU83bWM3c0tNaWJCdmduYV9PcnhqZlp6Ny1xZ2tJVV96ZG9RUjJKMVJFZzdodldKREo3TGlaSEFkelo2MzBpblpZMVBlNENBRFJITjE5YlFoYmlZdzhYdHo0UzR3azJHZEZPQndVMGJFalZpTkVuUzN5NnhEUlJGT1Bzd2tjaXJ5dVJkd19xUEpqM3BRVUh1UnRwOUx2YUE?oc=5",
         "pub_date": "Thu, 05 Mar 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
@@ -45,7 +45,15 @@
       },
       {
         "exchange": "OKX",
-        "title": "OKX Review 2026: Is This Crypto Exchange Legit and Safe? - NFTPlazas.com",
+        "title": "Crypto Exchange OKX Debuts Social Platform Linking Posts to Trades - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV0RteFVkTERXdmVsbjNYenVfWVpkZUpodkYzY3Z4OWtQcUZySXFKaElVa1JhZ1gwaC1fOVIyN1dHUGp0TnNZNXJpNVN2MndhMzhwR2dtS29kWjRTNlRxZVZsS05DeWZ5Rl9xMTJZelZPQzE2NmtydFhGRjJUSFpDRXpISEJLUQ?oc=5",
+        "pub_date": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "OKX Review 2026: Is This Crypto Exchange Legit and Safe? - NFT Plazas",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84a2xBSTY3ZTlnSk5ubXA4M1BIamJ0MG1VakZxZHE1RU84ZEdhWjAzZTI0ZzlFdzVkUlEtUzkySkVHRlI2Y3c4QjNua2dMQmNhMXFoRA?oc=5",
         "pub_date": "Sun, 15 Mar 2026 15:19:10 GMT",
         "sentiment": "neutral",
@@ -57,14 +65,6 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXIwWWkyNHNNdFZXZEJEU0RZa0dQd1V3WFNMc1hzdXhBekYtd0ctazJWc25tOTBtQmVyTWkzbXNkM1ZxblhEdjRvanVQZU5QQ3pGYUR2aHdZdU5wUW5wMFBkWVZFdUp6TDIyajlJM2ZyTVVqdHdzVjdUNTBIcnI5aUl5X29KM1NvVWs0b1p4VWtvallnMi1ZTUlEWUFkbjB1UFM2UlMycEFIdnM5blRZN3l3?oc=5",
         "pub_date": "Wed, 11 Mar 2026 15:03:40 GMT",
         "sentiment": "negative",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Crypto Exchange OKX Debuts Social Platform Linking Posts to Trades - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV0RteFVkTERXdmVsbjNYenVfWVpkZUpodkYzY3Z4OWtQcUZySXFKaElVa1JhZ1gwaC1fOVIyN1dHUGp0TnNZNXJpNVN2MndhMzhwR2dtS29kWjRTNlRxZVZsS05DeWZ5Rl9xMTJZelZPQzE2NmtydFhGRjJUSFpDRXpISEJLUQ?oc=5",
-        "pub_date": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -101,10 +101,34 @@
       },
       {
         "exchange": "OKX",
+        "title": "NYSE Operator ICE Takes Minority Stake in Crypto Exchange OKX at $25B Valuation - trendingtopics.eu",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWJiNEZKOE4yMENKSXlYWW5Sa094NV9yY2hBU2JvaWxFNG1jajZjLW53VlppbzByTTBXTFFWaXp0aFU0QlRpcEVPU2JLMFdaTjNncHBwUlh5X3BlbGdxNWdVNHgzYTdDcXFUbjRPT2JHbVVZZnp0d3lGR0lRT3BmX1VfWTEyX0VsN1pxeng4YlBuUDFyWWZHSDRyREJxbE5HUmdFeVBlaGMzWDB0ZkE?oc=5",
+        "pub_date": "Fri, 06 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "OKX’s native token outperforms Bitcoin and Ethereum as exchange announce NYSE deal - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzdpYU9pWFBpSkdreVFZTmxiT3ZneWlWcFJoN1UzOElMVkZMTmFqM21MM1BfZDhKYkR0U3J4Y2J3ejEzVXFrRmRucDFEdWlfWWpMbUM1NFNsazR6YXJQZlhfUVpsRzdGNGVlZTgwWms5YjJ1azZiVndhbW9rRU8xNXkwSXMwNmJhWXc?oc=5",
+        "pub_date": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
         "title": "Why OKX Stands Out Among the Best CEXs - Cointribune",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1WlUtVlVIc1BHRUphWURuTTFDVG15WWFBQW9jNk5zMVpScHZxajdVUFFzVlNjempocmpMcmhOUUZFRDFUUEVfU3VtLVp0Q183TGtsbkdvTUFlRmZScF9mTVhUNHJTbEUzY0hIek44QnpBcVFFWGZxT1Fn?oc=5",
         "pub_date": "Sat, 14 Mar 2026 17:14:36 GMT",
         "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Vietnam Targets Binance and OKX in Crypto Rule Overhaul - Blockonomi",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHp1QkgyYjZVNVV0OW5wempwVGNjYW4xamM3VVhST01na0VhY2FmZ3BaQXJCWnNmZVJzc2Qzelg0SXhMM1EtNDVuQmhrYUI2VTJDU1V2bGkwMlVwQS1wS3A2VTZ6ZmNPaGt0aWJETDFtM2hWdXBFWWE3eVpSQS1QcTVHNG1VZw?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 17:48:08 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -117,24 +141,16 @@
       },
       {
         "exchange": "OKX",
-        "title": "RootData: February 2026 Cryptocurrency Exchange Transparency Research Report - 链捕手ChainCatcher",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95SVM4VE1lZkZEblB6TkxkaUxGdDU4SmVCUjNNM25ZWGNXVXQ1Y2NOd1BsY0lfSTJ6ZHVNVkpUYVVfNDFDTkRrQnlkUHNXU1pMMWdyT1NJc2d1NlE?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 10:32:56 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "NYSE Operator ICE Takes Minority Stake in Crypto Exchange OKX at $25B Valuation - trendingtopics.eu",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWJiNEZKOE4yMENKSXlYWW5Sa094NV9yY2hBU2JvaWxFNG1jajZjLW53VlppbzByTTBXTFFWaXp0aFU0QlRpcEVPU2JLMFdaTjNncHBwUlh5X3BlbGdxNWdVNHgzYTdDcXFUbjRPT2JHbVVZZnp0d3lGR0lRT3BmX1VfWTEyX0VsN1pxeng4YlBuUDFyWWZHSDRyREJxbE5HUmdFeVBlaGMzWDB0ZkE?oc=5",
-        "pub_date": "Fri, 06 Mar 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
         "title": "OKX is building a social network directly into its trading app after massive $25 billion valuation - CoinDesk",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY0tqZktzMlFycDBqR3BGaThfMm41bnFyOEh1d0dUYWNKaEJqbkJJMk5jRE9rM0UtemJjSV9WeUIzRmNLY200cEZNbmRyMGM0dldHTGhJbURTdjhNNGtVcWpmZU1pNlJ4UEQwYTFvb0RlMzdad1VFUmczQmhkazNLTk5JREJrNVpIejNHbVoxNVdabXBCeVVHZjFHd21nSTFvR3paVnhUMVVDNFBpRFdRcEYtTmVSRDI2ZGFreGtVMk5nWWZZbDdqa0ZheklTN2ViYzg3MXpuUEVlM1R4SUE?oc=5",
+        "pub_date": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "International Exchange Drops $25B on OKX, a Big Bet on Tokenized Markets - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlc0bUM5R0lwMnlKR0U1N21SYlVUeTRhS1VjaGNHbV9YMGZSeHVDM2JneGc5TkdCeExabThHbkVEZWlWc1Z0N2RZUkNpcnlzN045eW5IcUJUT21kclVQUGI0VFZDVk5wbnFCRy1CS01aSkRKTXpXWklRcFFPUXZUVEliRzk3UGZ4eFE?oc=5",
         "pub_date": "Thu, 05 Mar 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
@@ -149,8 +165,8 @@
       },
       {
         "exchange": "OKX",
-        "title": "International Exchange Drops $25B on OKX, a Big Bet on Tokenized Markets - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlc0bUM5R0lwMnlKR0U1N21SYlVUeTRhS1VjaGNHbV9YMGZSeHVDM2JneGc5TkdCeExabThHbkVEZWlWc1Z0N2RZUkNpcnlzN045eW5IcUJUT21kclVQUGI0VFZDVk5wbnFCRy1CS01aSkRKTXpXWklRcFFPUXZUVEliRzk3UGZ4eFE?oc=5",
+        "title": "OKX ICE Deal: NYSE Parent Backs Crypto Exchange at $25B as OKB Jumps 35% - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQWNmWjgzQmhwSzdTZU9zdU5vOExXV0lfWjRvU0Y2RFVmeWlRT2JEbnZuNWx0S0tza1hMM0dmNGlaal9lMkNtNGxrRmhRVWJpdHdpSTdUTEpJTmo3Q0FoMzFDNkJ0RXNPekJsUThpa2FSR3gtWlYxVzZQbzI1TDBvZ0hkcE5xWF9tZ0t2OWpOdlQ5MEJUUWFRYlZFMVRLTHR0THB3VXpyRTg3d25JcWJybnRyRXJ1R19LOTl6Tm1XcHdPcnR0eWRWaw?oc=5",
         "pub_date": "Thu, 05 Mar 2026 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
@@ -165,9 +181,17 @@
       },
       {
         "exchange": "OKX",
-        "title": "Crypto App OKX Just Added a Social Feed Where Your Trades Can’t Lie - BitPinas",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuWE00RE1BSmZHc1I4dkdCc3FvSkc2R3l3NGNJTFVUWmxKcE9yaUdOalNnV3NwdlNzejdPTUVxclQ1VU5MS2FJeWlxem82MlRBZ0pFeFhCc0RwejR0OWJUOHZLZw?oc=5",
-        "pub_date": "Tue, 17 Mar 2026 06:33:39 GMT",
+        "title": "OKX vs Binance vs Coinbase: Which Is the Best CEX in 2026? - Cointribune",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMmNJc0FNZklPTERlM0lDT2ZQTDJ1bC1WY0hrbG84cDBxWVgwdS1TRHZqTUl3ZGNYVXpCQjFZeE1COENCODRQcEdmUVFFWHVNODhOZnFQSEtHOGhuUVlOMHcwUDdzQWhWa0RvWEdMci1tT3YyVFBlUHJmbHFNOXAxX0FxTHd4WjJoQ2VyQjFVeXF0UQ?oc=5",
+        "pub_date": "Sat, 14 Mar 2026 17:14:29 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "How ICIJ traced hundreds of millions from Huione Group to major crypto exchanges - International Consortium of Investigative Journalists - ICIJ",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdnNfSW8xRTFyNVcwOXF1M0FDcV8xU3U2d3lpZmRIcnJMVlR2OWJNYXFyR25EMUt0U0pIcU03bEFOd2VtODkzRkxJTnQ5UWFqMzlQbXVRc1prbzZNYU10MzAwMzJOMkFHRUxTU1N4b2xpdlpYbzhNLXVhZG8yeHlBUUVOUW9zRXBmWHB6Z1NobVIydlBlcEdUYWpBRTFhZjFlX0NFOUp1Q1pvVGdmeGVDdDhnT25BRXRHS0VBTEdQMkpLaUNlWDRlVzVB?oc=5",
+        "pub_date": "Thu, 20 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -181,33 +205,9 @@
       },
       {
         "exchange": "OKX",
-        "title": "OKX ICE Deal: NYSE Parent Backs Crypto Exchange at $25B as OKB Jumps 35% - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQWNmWjgzQmhwSzdTZU9zdU5vOExXV0lfWjRvU0Y2RFVmeWlRT2JEbnZuNWx0S0tza1hMM0dmNGlaal9lMkNtNGxrRmhRVWJpdHdpSTdUTEpJTmo3Q0FoMzFDNkJ0RXNPekJsUThpa2FSR3gtWlYxVzZQbzI1TDBvZ0hkcE5xWF9tZ0t2OWpOdlQ5MEJUUWFRYlZFMVRLTHR0THB3VXpyRTg3d25JcWJybnRyRXJ1R19LOTl6Tm1XcHdPcnR0eWRWaw?oc=5",
-        "pub_date": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKX vs Binance vs Coinbase: Which Is the Best CEX in 2026? - Cointribune",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMmNJc0FNZklPTERlM0lDT2ZQTDJ1bC1WY0hrbG84cDBxWVgwdS1TRHZqTUl3ZGNYVXpCQjFZeE1COENCODRQcEdmUVFFWHVNODhOZnFQSEtHOGhuUVlOMHcwUDdzQWhWa0RvWEdMci1tT3YyVFBlUHJmbHFNOXAxX0FxTHd4WjJoQ2VyQjFVeXF0UQ?oc=5",
-        "pub_date": "Sat, 14 Mar 2026 17:14:29 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
         "title": "OKX Valuation Reaches $25B After Investment by NYSE Parent ICE - Global Banking & Finance Review®",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYThiNEVxNjk2QmF3YWRLY3djTFpKTFlKdDc3by1OSzZNMUVSVldXU2NXczFzY2VwODVMN282RDFCczlnZGc2akpRRy1UMU03WlYzV0VWZGVRMGZCOGJNTWJ0cm1PY0pIY09YRFNUOFRNNTUtYnpKaV9rdThrR0ZCZkt2WDRXdUxjSk9OQmhkNkEyQWtDekdqOHJKQjEzaUU?oc=5",
         "pub_date": "Thu, 05 Mar 2026 13:07:21 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "How ICIJ traced hundreds of millions from Huione Group to major crypto exchanges - International Consortium of Investigative Journalists - ICIJ",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdnNfSW8xRTFyNVcwOXF1M0FDcV8xU3U2d3lpZmRIcnJMVlR2OWJNYXFyR25EMUt0U0pIcU03bEFOd2VtODkzRkxJTnQ5UWFqMzlQbXVRc1prbzZNYU10MzAwMzJOMkFHRUxTU1N4b2xpdlpYbzhNLXVhZG8yeHlBUUVOUW9zRXBmWHB6Z1NobVIydlBlcEdUYWpBRTFhZjFlX0NFOUp1Q1pvVGdmeGVDdDhnT25BRXRHS0VBTEdQMkpLaUNlWDRlVzVB?oc=5",
-        "pub_date": "Thu, 20 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -221,6 +221,30 @@
       },
       {
         "exchange": "OKX",
+        "title": "OKX’s Ren: After stablecoins crypto exchanges explore gold, oil and IP rights - Global Venturing",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVVMYUlOUzU0dHgxOEVtNUdKQnkya3VqemM4S2xDeTVSbWRvLW1lOVRPZGh4b1JXVTM2WldoQlJBY28yckctNGgzU1FsRXFfUEg5RVVCMDdSZ0FkdFVrNFdQRWppaVFWWVI3NkJzTGk0ZTl5VHI0X3RjX0gyQVFvZ2lvdW5fTHBuVGE0RTVNaW1xZ1NOZjJuTGwxM1NMSmc?oc=5",
+        "pub_date": "Mon, 29 Sep 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Crypto Exchange OKX Fined $2.6M in Netherlands for Failing to Register With Dutch National Bank - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmxVSzVST09iWnJGNmF5N1pIcWlvamctYmxvTEFHcExvV3dleU5ydGxsZTRicklzUDlNTkRLM09rampacXJMSmdZZk9jdi1wLTNWcTVaV0JxMlZhWlUxVUpnd1RQVkx1a3dxWlA1dGh4SXROMnJiVGZZU0tKYjJJRDAxNHpLZzc1MEU1d29JZXZDSzF2UUVxd0Noem92R0JRN21qNkRmQzlYbkxGamwwaGx6TkhmVEtSUFZsbVFoeDl4QQ?oc=5",
+        "pub_date": "Tue, 02 Sep 2025 07:00:00 GMT",
+        "sentiment": "negative",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "RootData: February 2026 Cryptocurrency Exchange Transparency Research Report - 链捕手ChainCatcher",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95SVM4VE1lZkZEblB6TkxkaUxGdDU4SmVCUjNNM25ZWGNXVXQ1Y2NOd1BsY0lfSTJ6ZHVNVkpUYVVfNDFDTkRrQnlkUHNXU1pMMWdyT1NJc2d1NlE?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 10:32:56 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
         "title": "Global crypto exchange OKX pushes into U.S. market with trading and wallet offering - CNBC",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHNNVjV4NVRDZGV5SFdLeEJjeWtxZHh3ZFVOV0hOX044SHBzb2pDYlV2ODM1dXduWEJYUy1yRzZtSnpJUGd2REZBblBKMVQ2WDc1eE10U1R4dEVCQ2JsTkZuTFVUeDk3NmJNcmJncXNwZUtsNzZJQktiMG1oTTV4RW85aTc2TTdEMUNTcU4yV0ZwVUNkU0cyaDJhQUF3WVF5RzJxbS1UcllDOXJseGJ0eThMa1bSAboBQVVfeXFMTmJLcjN5cEtTMENkVUpfRm92SUdod3hVUHFhTTJvbUVUUzVVUWk3NmxDdTI0QjFJZS0yNi1pWS10WDNHS282SVB1cFVONWI3WnVTeUx2Z0FwaGR0Q1R1YXpySzlsWVNGT0ZiRUdVcDBvN3ZrbFBxXzRKbVhBNVh3QXB5UEl2NVdhaW9qbGVacm5TMi1zdDdxOENPdEIyRlJpRzVIOWloak1aNmFhNTdZaGV4T2NBTmIxUVdn?oc=5",
         "pub_date": "Wed, 16 Apr 2025 07:00:00 GMT",
@@ -229,9 +253,9 @@
       },
       {
         "exchange": "OKX",
-        "title": "Crypto Exchange Volumes Hit 16-Month Low as Market Volatility Fades - CoinDesk",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uM0tuaGRZa3FnMkx3Mk9yTkc5Wm8tbmg4RDQ5M2sySEZueExfNTNzTDh1cEQ2YWY0VkJhQ1g2Wm13d09wY2ZWRE51YW5pd3dBOURmWDNKNnkwUFZObGhlV1Jmd2JpOTBSajVEV3J2Qjk?oc=5",
-        "pub_date": "Wed, 11 Mar 2026 13:41:21 GMT",
+        "title": "Crypto exchange OKX rolls out spot margin trading in Europe, offering 10x leverage on BTC and ETH - The Block",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2o5ZUNLcW1qYVgxUnJzQXRST01lckMwZ0JwNjgzb1F3bGo4N3J1REVzN0NuaHJuZ1F4N0RQMmUyWHlsbmtTVEVNVXA2cDFsQUd2bk1TOWpxbUpZaE5VSlNBWW9pSzRZNUUyUDVmbHVmalZjekpZazRTb1pCY1JER1JLOTRMQjVsUThzckRELTRtUV9odG9lNEZaaDI4elhpVHcxRA?oc=5",
+        "pub_date": "Tue, 16 Dec 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -277,9 +301,41 @@
       },
       {
         "exchange": "OKX",
-        "title": "OKX’s Ren: After stablecoins crypto exchanges explore gold, oil and IP rights - Global Venturing",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVVMYUlOUzU0dHgxOEVtNUdKQnkya3VqemM4S2xDeTVSbWRvLW1lOVRPZGh4b1JXVTM2WldoQlJBY28yckctNGgzU1FsRXFfUEg5RVVCMDdSZ0FkdFVrNFdQRWppaVFWWVI3NkJzTGk0ZTl5VHI0X3RjX0gyQVFvZ2lvdW5fTHBuVGE0RTVNaW1xZ1NOZjJuTGwxM1NMSmc?oc=5",
-        "pub_date": "Mon, 29 Sep 2025 07:00:00 GMT",
+        "title": "Belarus blocks residents’ access to crypto exchanges Bybit, Bitget, and OKX - dlnews.com",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNUt1djdpcHV2RmxYdDJGTkJveXBxcmQtdUtwWTZOZzYwN0dMVGZuOXlZNllsS0tFWWhORTFqOTRVQnVPMEhMcURQcEI0MVpySkxONkdoOVREeFpVNHZvM2t4QWI1d2VoWTc2X1dvQXVDNm1JdjcwaVVRWUpMUllqNExwMWxscjhQZFhZMV92OXZiWkk?oc=5",
+        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "PayPal Launches European Integration With Crypto Exchange OKX - PYMNTS.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjZJaS10NHphcGdPbHpfS2hadHNXX1QxMy0zb2YxYl9HN0xEWGxoT2Zib2ZHUC04UlZYMGlYZ0p3Q1JWU05GTkk2RDl5MUIxeEYxM2duTkJlQmFmTUd6cDRHeWhzZ3FiNFRib0VWRHpRNmJiLVJhXzNCVHJrd0RkZGJiVW1JdVpIc2VReEdJTkU5b3R5MWdwVzdfWkhHbG5fa3NPVk1n?oc=5",
+        "pub_date": "Mon, 14 Jul 2025 07:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "OKX Card Launches in Europe to Remove Friction from Everyday Crypto Payments at Retailers Worldwide - afp.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWTRxZzJLTjVHa3E5OEp5RE1raFJHS3ZQYjdMUjdVczh1NkxPT3FpdHNDdGlVeUZkS3F2QndSUkxnSE5ianJiZk5ZYW5qV1Z6U1IzZ1c5ZXFhRDVlZDNfbjhXZzdwNHQ1eTRwYW5mbzlqNV9ZRjladkpRbllHd0NKX25vV0VTS2JLWm9DZ29oNkh5R1VJWE9EZU90Y1VVaUJocExvY04yTlkxQkVRMms2bEdUX3E?oc=5",
+        "pub_date": "Wed, 28 Jan 2026 08:00:00 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "OKX now valued at $26 billion after ICE investment - Good Money Guide",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanFnQmtQZnpKdEh0N1ZaQ2tySUJYQUNkTU4xUzZfbS1DOFdOWkgwV0V5MEItVThLdUU0MEFPOUFUQ0cyWXNrQnQtSWo2NkNTMFREc2pYd3ZWeGtlanJoWGpUb01nMFhBaGNJNUstbHp2eTJuX05jb2FOUzdOZjh5dWFuaWZjUVg5?oc=5",
+        "pub_date": "Fri, 06 Mar 2026 12:19:36 GMT",
+        "sentiment": "positive",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Crypto exchange OKX permanently burns 279 million OKB tokens worth $26 billion: onchain data - The Block",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tN1JrWTNPbUdTN2dkMmRrMlV2QldrX3duOGo3U3EyUGFJVDFmV01aRlVBbHFqOU53NjRFNzBENXQ3dmtFOFdSNG83N2VRak9NbHg2S0k2ekhVR2UwZUtWN3dwRkg?oc=5",
+        "pub_date": "Fri, 15 Aug 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -293,65 +349,9 @@
       },
       {
         "exchange": "OKX",
-        "title": "Belarus blocks residents’ access to crypto exchanges Bybit, Bitget, and OKX - dlnews.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNUt1djdpcHV2RmxYdDJGTkJveXBxcmQtdUtwWTZOZzYwN0dMVGZuOXlZNllsS0tFWWhORTFqOTRVQnVPMEhMcURQcEI0MVpySkxONkdoOVREeFpVNHZvM2t4QWI1d2VoWTc2X1dvQXVDNm1JdjcwaVVRWUpMUllqNExwMWxscjhQZFhZMV92OXZiWkk?oc=5",
-        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKX Card Launches in Europe to Remove Friction from Everyday Crypto Payments at Retailers Worldwide - afp.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWTRxZzJLTjVHa3E5OEp5RE1raFJHS3ZQYjdMUjdVczh1NkxPT3FpdHNDdGlVeUZkS3F2QndSUkxnSE5ianJiZk5ZYW5qV1Z6U1IzZ1c5ZXFhRDVlZDNfbjhXZzdwNHQ1eTRwYW5mbzlqNV9ZRjladkpRbllHd0NKX25vV0VTS2JLWm9DZ29oNkh5R1VJWE9EZU90Y1VVaUJocExvY04yTlkxQkVRMms2bEdUX3E?oc=5",
-        "pub_date": "Wed, 28 Jan 2026 08:00:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Crypto exchange OKX rolls out spot margin trading in Europe, offering 10x leverage on BTC and ETH - The Block",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2o5ZUNLcW1qYVgxUnJzQXRST01lckMwZ0JwNjgzb1F3bGo4N3J1REVzN0NuaHJuZ1F4N0RQMmUyWHlsbmtTVEVNVXA2cDFsQUd2bk1TOWpxbUpZaE5VSlNBWW9pSzRZNUUyUDVmbHVmalZjekpZazRTb1pCY1JER1JLOTRMQjVsUThzckRELTRtUV9odG9lNEZaaDI4elhpVHcxRA?oc=5",
-        "pub_date": "Tue, 16 Dec 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "What crypto exchanges are watching in 2026, according to OKX’s Rafique - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOek05aWwxSWx5ekdFZHNMMEtWNFJ0MTRLWTVGWVVHZ1NBTkpHY2dubE1KLXZhRHlpVEItZ0lxZkZpcjQxM01waURjRldOZmRVSk1jNnowV0R0VmRUNXlMRmw3ekF6eEtZbWZQalFZUk5DeUlwM1VOZ2p4N1QwRHAwSmJhTzZIYTJKWFFCMGFsMk5CbjJ0NlQ3QVhDU252TFJUVERibEk0cW50Uk1MU2R3OGVneVdsUWFOOXFrTkZONHNlWEYxRm1kTUxrS0lEdw?oc=5",
-        "pub_date": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKX now valued at $26 billion after ICE investment - Good Money Guide",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanFnQmtQZnpKdEh0N1ZaQ2tySUJYQUNkTU4xUzZfbS1DOFdOWkgwV0V5MEItVThLdUU0MEFPOUFUQ0cyWXNrQnQtSWo2NkNTMFREc2pYd3ZWeGtlanJoWGpUb01nMFhBaGNJNUstbHp2eTJuX05jb2FOUzdOZjh5dWFuaWZjUVg5?oc=5",
-        "pub_date": "Fri, 06 Mar 2026 12:19:36 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Crypto Exchange OKX Fined $2.6M in Netherlands for Failing to Register With Dutch National Bank - CoinDesk",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmxVSzVST09iWnJGNmF5N1pIcWlvamctYmxvTEFHcExvV3dleU5ydGxsZTRicklzUDlNTkRLM09rampacXJMSmdZZk9jdi1wLTNWcTVaV0JxMlZhWlUxVUpnd1RQVkx1a3dxWlA1dGh4SXROMnJiVGZZU0tKYjJJRDAxNHpLZzc1MEU1d29JZXZDSzF2UUVxd0Noem92R0JRN21qNkRmQzlYbkxGamwwaGx6TkhmVEtSUFZsbVFoeDl4QQ?oc=5",
-        "pub_date": "Tue, 02 Sep 2025 07:00:00 GMT",
-        "sentiment": "negative",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
         "title": "OKX Jumps Into Crypto Debit Cards as Exchanges Split Between Mastercard and Visa - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mRWtQek9ZeUlBNzJiUm1fcFdHc0xQbmtsNUprUV9tR2Y0R1FUREpSa2VGMlBfeXFEYXhVemkxRjVYbzQ5WjFNRDg3aW1GWUd1aGVfUjdrc2dVTl95a2lXMW1xRUJFRFF6b0tIdXFRQXNmMF84QnZxRlVqRGliMVU?oc=5",
         "pub_date": "Thu, 06 Nov 2025 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Crypto exchange OKX permanently burns 279 million OKB tokens worth $26 billion: onchain data - The Block",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tN1JrWTNPbUdTN2dkMmRrMlV2QldrX3duOGo3U3EyUGFJVDFmV01aRlVBbHFqOU53NjRFNzBENXQ3dmtFOFdSNG83N2VRak9NbHg2S0k2ekhVR2UwZUtWN3dwRkg?oc=5",
-        "pub_date": "Fri, 15 Aug 2025 07:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -365,17 +365,17 @@
       },
       {
         "exchange": "OKX",
-        "title": "Crypto Exchange OKX Moves Into Australia's Self-Managed Super Fund Sector - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVEdQVUdUX3hZWFd6ZGlXQzZZdm5IQlhnaVJXbUdFSFU1Q3pzYWpaZmdjR3JTbTRMazJaanpsbmpYRGppck5vaklnQ1YzZzdSekt4c2Y4YS1kUlJMcXBnRGtxUzZGOC12ZnZJWDd2ckgwX05hakRIZGlVZHNNeW1USm5ZTFJERmtxVVE?oc=5",
-        "pub_date": "Sun, 14 Sep 2025 07:00:00 GMT",
-        "sentiment": "neutral",
+        "title": "Early bitcoin investor Star Xu, founder of OKX, blames Binance for BTC's October crash - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQlNDeV9PT0FiSGRFQThrRFpJV3ZpTkc4TER6V2MyS2pWa1J3VS10dUoxdTl0dEFvSktQQnI4QVJ4eXVXUGhTYW53WmZsNDdQTnFTazVFeGRYWFJjNTJYUXEyelg5eW5oZmtudDJIbmNPTUdyb0sxbUVEMWQ0UWllbE51WVBMX2RaZXpYSEpMUU54SzdGb0gzLWN5ZHBlbG9BVWw4WUFQNGs5bEV2Y0ZjNTAwS0dhRVZoX1FnQXBqUXJSQWlremF0UnNVTnE3SXVwV3c?oc=5",
+        "pub_date": "Sat, 31 Jan 2026 08:00:00 GMT",
+        "sentiment": "negative",
         "source": "rss"
       },
       {
         "exchange": "OKX",
-        "title": "Star Xu Offers 10 Bitcoin Reward in Latest OKX Wallet Security Review - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LTGc4MHhvRjFBSHp4dTRYVWFTNkhHRm94UUtfOGFpaDJUblZqTXJLVU9tYXlma3hGUVVQQ1VHblIyRzFUUVk5VTdKTFJRTkozRHZOV3Bua1ozdTF6NjB0OEs5YWJmazFubmdCMzFZSG0yaS11dS05OVZnbw?oc=5",
-        "pub_date": "Sat, 15 Nov 2025 08:00:00 GMT",
+        "title": "Crypto App OKX Just Added a Social Feed Where Your Trades Can’t Lie - BitPinas",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuWE00RE1BSmZHc1I4dkdCc3FvSkc2R3l3NGNJTFVUWmxKcE9yaUdOalNnV3NwdlNzejdPTUVxclQ1VU5MS2FJeWlxem82MlRBZ0pFeFhCc0RwejR0OWJUOHZLZw?oc=5",
+        "pub_date": "Tue, 17 Mar 2026 06:33:39 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -389,10 +389,34 @@
       },
       {
         "exchange": "OKX",
-        "title": "Identifying the Security Advantages of Leading Crypto Exchanges Such as OKX - Digital Trends",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmgxT3BrUlA0bmxMaUNNemNKN2k5Qk54NG1xMG54X2FhTjVXbmJtcjBQdDI1WExMc2cyV1pNSjg4MHVHcmd0SXpyY1Fpd3hPOUEyNlhBMXRoM0p5VTkwdWpkN1pJQzRPLUFxZ0JrQVJPcEc3UDdJd3VyX1ZSXzBQaEYtZWo5cHpvd2hXekM3MERIZldJUFVHNTRyVDlHYW1XQS0wVXFqZmZaWlBKeGFsTVBKckhCMnEwTVFsTkpxX0ROMFhj?oc=5",
-        "pub_date": "Wed, 11 Mar 2026 01:58:01 GMT",
-        "sentiment": "positive",
+        "title": "Popular crypto company fires staff - thestreet.com",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOckU2blh2LUhROVp5REZDLWhyT09kUElMbjhYNFRGbk9McUlHY2t3eFRUaUtWSE1taHBQdTk3ZUlfREJlOWZKTDBPbWRPUnlfNm9nSzBvMW51VVpJd2lqbXk3MUFNZm9xSFFOalY2Q0MxNmkxQ28zajVBMjRFNkZfdA?oc=5",
+        "pub_date": "Fri, 09 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "What crypto exchanges are watching in 2026, according to OKX’s Rafique - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOek05aWwxSWx5ekdFZHNMMEtWNFJ0MTRLWTVGWVVHZ1NBTkpHY2dubE1KLXZhRHlpVEItZ0lxZkZpcjQxM01waURjRldOZmRVSk1jNnowV0R0VmRUNXlMRmw3ekF6eEtZbWZQalFZUk5DeUlwM1VOZ2p4N1QwRHAwSmJhTzZIYTJKWFFCMGFsMk5CbjJ0NlQ3QVhDU252TFJUVERibEk0cW50Uk1MU2R3OGVneVdsUWFOOXFrTkZONHNlWEYxRm1kTUxrS0lEdw?oc=5",
+        "pub_date": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Crypto Exchange OKX Moves Into Australia's Self-Managed Super Fund Sector - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVEdQVUdUX3hZWFd6ZGlXQzZZdm5IQlhnaVJXbUdFSFU1Q3pzYWpaZmdjR3JTbTRMazJaanpsbmpYRGppck5vaklnQ1YzZzdSekt4c2Y4YS1kUlJMcXBnRGtxUzZGOC12ZnZJWDd2ckgwX05hakRIZGlVZHNNeW1USm5ZTFJERmtxVVE?oc=5",
+        "pub_date": "Sun, 14 Sep 2025 07:00:00 GMT",
+        "sentiment": "neutral",
+        "source": "rss"
+      },
+      {
+        "exchange": "OKX",
+        "title": "Binance Vs OKX: Fees, Security, Products Compared (2026 Tested And Updated) - Coin Bureau",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCQk81N0s0MUFFTWdyTG11U21VNDYwMWNwSW14WDQ1QUtmWmRpMk1KSmRVZ0lKajJuMzBhbDg0UTl1cllGUExhU2JQakxfZ3haaHZhUmNiV2szSTdqcTZMMA?oc=5",
+        "pub_date": "Tue, 06 Jan 2026 08:00:00 GMT",
+        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -405,17 +429,9 @@
       },
       {
         "exchange": "OKX",
-        "title": "Best Crypto to Buy as NYSE Parent Invests in OKX at $25 Billion - openPR.com",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnFmZ25HTFBiVnBpZzRRN3J6bnZfaVZSajUzNFN5RHpmaXVUMlFxS3NpY1M0M3VVUkc4QnFER2pkcnMtbmkzRHlNeGFIQzg3VTVCcGNtUkxSMUFSQUlQanl4RjRKQWY3eEh3S3NjTm5VQmRGcmUtb091N056Y29QV2g0bEZIRngwazFJNU1ZbFBFa0xCWnA0VG0zYzVXSm8?oc=5",
-        "pub_date": "Thu, 12 Mar 2026 23:31:11 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKX Exchange Review 2026 — Low Fees, Web3 Wallet - CryptoSlate",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WM1puYmFFdFhIVjhYVmdGMHlCRnRyTkFxMW9TNmdNUjA2M1BxR2RnNlRncWdKbk9VVG9aR1M0amFRTlB5ZWtzc1h4bTEyYjZ5dS1ickQxWWhNbTNHS2VwZ0NxTURKM01jTllVcS13?oc=5",
-        "pub_date": "Tue, 16 Dec 2025 08:00:00 GMT",
+        "title": "Star Xu Offers 10 Bitcoin Reward in Latest OKX Wallet Security Review - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LTGc4MHhvRjFBSHp4dTRYVWFTNkhHRm94UUtfOGFpaDJUblZqTXJLVU9tYXlma3hGUVVQQ1VHblIyRzFUUVk5VTdKTFJRTkozRHZOV3Bua1ozdTF6NjB0OEs5YWJmazFubmdCMzFZSG0yaS11dS05OVZnbw?oc=5",
+        "pub_date": "Sat, 15 Nov 2025 08:00:00 GMT",
         "sentiment": "neutral",
         "source": "rss"
       },
@@ -461,26 +477,10 @@
       },
       {
         "exchange": "OKX",
-        "title": "Intercontinental Exchange Stock Consolidates After OKX Stake Announcement as Institutional Moves Sig - AD HOC NEWS",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX0dGZTgxaTJrUFFGTXBGS1NKRXNPM1VIb2NSWW9GVWF3TTFfZ0F3cXBiLW91dlRiX2RJV3NzZkdzN0ltNHU0Yzd4NktrOThCb21yOHVUemNOV242RlFSakhpSlRnUjRrS2VZV0lUaVBULTF5VndBYVpRYzBPTHVOdlR3ZTNLYkdRTHN1VDFZMlFxRnBLZUpaVWFYcEJLQ3Q3c0lsbnJzeC1SbGE1Q0VwV1pQMGlZWUZYRXIwdENVVktuUjlBMkE?oc=5",
-        "pub_date": "Sun, 15 Mar 2026 19:19:02 GMT",
+        "title": "OKX and Standard Chartered Extend Institutional Crypto Services to Europe - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXRURDMyazR3Sjg0cWVGVUhUZU51OHZuUHRnandHak9KUkN4OFh2WVRIbWNsWkRMVklXMW42bWZtVU5MWVlGVS11OEFnVUlURFl5ZGkzcmtSREx6OEJJdUVzVi1SRlBSVlhzU1RNQlg0dVV4YTczWmJBOVNQUGlsVGtYYnhuTl94RzJFXzZncmNWYkU?oc=5",
+        "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT",
         "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Morpho Gains 3.9% on Institutional DeFi Push - CoinMarketCap",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Xa2JTQm9KTW90Q3N5VUxBb1o5OHhiU3p1YW1iYUlwc0FNODVxVXdyWXYzeFhTa2c4TWRsRmlTNWtoVDJJc2lNZExLOXBzUjhCYWxsWmQ3QzJiemhVY1JkcmpYVmU1aTcxb1FmLWJpUVE?oc=5",
-        "pub_date": "Sun, 08 Mar 2026 20:04:00 GMT",
-        "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Will OKB Price Hit $200 After NYSE Parent Company Investments in OKX Exchange? - CCN.com",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUNJcEZUR0hYU1JwZy1xRzhiZEdmWEhXdnU3N2hqUTNWcnZZRmpaTzJmRkx3dTFQUEp0aDNOVHFuSVBuTm5Hd3dEY21oWjlySC1sTjRZRklpbDMxTFlmbDVsNnF3YnZac09oWWRrRVdKZnBTQzdfSTR3OEIxcy14SkVKTURua3FEX2ZuYWp3azNoakU1bUpneXFkZjM4YkpPSnc?oc=5",
-        "pub_date": "Fri, 06 Mar 2026 13:20:42 GMT",
-        "sentiment": "positive",
         "source": "rss"
       },
       {
@@ -489,14 +489,6 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcWhlV2dsNmVLSE1HSFB1QXR0Q3F0X0pEZ0g2U0RFQjlPVkR5Nko4RFhzM3BkTmFqQnYwVzNZeGFTdlY5SzZDaWZzeUh3aDJKd0w5VUlYdm1IWTZKOFo0VXZDamE0a1gxakZVaDRVVkNhWjB4OUxEdTZacG56MUlaVVhJMWFKR191TWlYVQ?oc=5",
         "pub_date": "Thu, 16 Oct 2025 07:00:00 GMT",
         "sentiment": "positive",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKX and Standard Chartered Extend Institutional Crypto Services to Europe - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXRURDMyazR3Sjg0cWVGVUhUZU51OHZuUHRnandHak9KUkN4OFh2WVRIbWNsWkRMVklXMW42bWZtVU5MWVlGVS11OEFnVUlURFl5ZGkzcmtSREx6OEJJdUVzVi1SRlBSVlhzU1RNQlg0dVV4YTczWmJBOVNQUGlsVGtYYnhuTl94RzJFXzZncmNWYkU?oc=5",
-        "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT",
-        "sentiment": "neutral",
         "source": "rss"
       },
       {
@@ -541,14 +533,6 @@
       },
       {
         "exchange": "OKX",
-        "title": "Popular crypto company fires staff - thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOckU2blh2LUhROVp5REZDLWhyT09kUElMbjhYNFRGbk9McUlHY2t3eFRUaUtWSE1taHBQdTk3ZUlfREJlOWZKTDBPbWRPUnlfNm9nSzBvMW51VVpJd2lqbXk3MUFNZm9xSFFOalY2Q0MxNmkxQ28zajVBMjRFNkZfdA?oc=5",
-        "pub_date": "Fri, 09 Jan 2026 08:00:00 GMT",
-        "sentiment": "neutral",
-        "source": "rss"
-      },
-      {
-        "exchange": "OKX",
         "title": "NYSE Owner Invests in OKX at $25 Billion Valuation",
         "link": "https://thedefiant.io/news/tradfi-and-fintech/nyse-owner-ice-strategic-investment-okx",
         "pub_date": "Thu, 05 Mar 2026 14:26:56 GMT",
@@ -557,283 +541,171 @@
       },
       {
         "exchange": "OKX",
-        "title": "ICE anunció una inversión estratégica en OKX y una alianza para desarrollar infraestructura institucional y nuevos merca",
-        "link": "https://ebizlatam.com/ice-invierte-en-okx-para-desarrollar-infraestructura-de-mercados-digitales/",
-        "pub_date": "2026-03-17T16:17",
+        "title": "The world’s first decentralized AI operating system offers verifiable compute, 50 Gbps data throughput, and sealed infer",
+        "link": "https://www.pennsylvaniabusinessbulletin.com/article/900096600-as-nvidia-maps-1-trillion-ai-factory-buildout-0g-delivers-the-decentralized-alternative-live-on-mainnet",
+        "pub_date": "2026-03-18T04:44",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "Pudgy World is a free-to-play browser game built around the Pudgy Penguins NFT brand. Players explore a virtual world, c",
-        "link": "https://www.malwarebytes.com/blog/scams/2026/03/fake-pudgy-world-site-steals-your-crypto-passwords",
-        "pub_date": "2026-03-17T16:10",
+        "title": "去中心化永续合约交易所，如Hyperliquid，正以结构性优势取代传统衍生品，成为吸纳全球资产的万亿级金融平台。",
+        "link": "https://www.chaincatcher.com/article/2252660",
+        "pub_date": "2026-03-18T04:35",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "In dit artikel: De cryptomarkt toont de afgelopen dagen weer meer vaart, waarbij XRP volgens analist Finance Bull duidel",
-        "link": "https://cryptocurrency.headliner.nl/item/xrp-expert-als-de-koers-uitbreekt-gaat-het-razendsnel-newsbit-32596",
-        "pub_date": "2026-03-17T16:08",
+        "title": "in 獨立觀點, 美國",
+        "link": "https://www.blocktempo.com/trump-strait-of-hormuz-alliance-bankruptcy/",
+        "pub_date": "2026-03-18T04:00",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "In the industry where the lines between traditional finance and digital assets are blurring, few people have a better va",
-        "link": "https://coinspaidmedia.com/business/okx-erald-ghoos-mica-stablecoins-trust/",
-        "pub_date": "2026-03-17T15:41",
+        "title": "Por Karina Caudillo (*) Durante años, mientras la atención pública permanecía enfocada en los movimientos de precio, alg",
+        "link": "https://www.newsweek.com.ar/opinion/la-transformacion-del-universo-cripto--de-la-especulacion-financiera-a-la-infraestructura-del-sistema-global_a69b9bd1cc331fb25188c2e33",
+        "pub_date": "2026-03-18T03:04",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "Another popular crypto firm lays off staff.",
-        "link": "https://www.thestreet.com/crypto/markets/popular-crypto-firm-quietly-fires-staff-replaces-ceo",
-        "pub_date": "2026-03-17T15:41",
-        "sentiment": "negative",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "De cryptomarkt laat de afgelopen dagen opnieuw meer activiteit zien, en dat raakt ook XRP . Analist Finance Bull ziet hi",
-        "link": "https://dutchcryptotalk.com/xrp-expert-als-de-koers-uitbreekt-gaat-het-razendsnel/",
-        "pub_date": "2026-03-17T15:32",
+        "title": "... «Почта России» внедряет технологии VK для корпоративного управления «Почта России» оптимизирует процессы учета и кон",
+        "link": "https://nmgazeta.ru/nmnews/2783131/trejding-siloj-mysli-bybit-vnedryaet-ai-skills-dlya-upravleniya-iiagentami-bez-lishnih-nastroek.html",
+        "pub_date": "2026-03-18T02:47",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "Der Kryptomarkt zeigt in den letzten Tagen erneut mehr Aktivität, was auch XRP beeinflusst. Analyst Finance Bull sieht h",
-        "link": "https://newsbit.de/xrp-analyst-bei-kursausbruch-koennte-es-schnell-nach-oben-gehen/",
-        "pub_date": "2026-03-17T15:31",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "İstanbul Blockchain Week, kural koyucular, regülatörler, finansal kurumlar, varlık yöneticileri, borsalar ve altyapı sağ",
-        "link": "https://www.merkeziyetsizhaber.com/istanbul-blockchain-week-institutional-markets-summiti-duyurdu/",
-        "pub_date": "2026-03-17T14:51",
+        "title": "Xem thêm",
+        "link": "https://dantri.com.vn/kinh-doanh/san-tien-so-se-thi-diem-ngay-trong-thang-3-lo-dien-5-cai-ten-duoc-chon-20260318090543030.htm",
+        "pub_date": "2026-03-18T02:40",
         "sentiment": "positive",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "Пользователь потерял около $1,76 млн в $USDC после подписания вредоносной транзакции типа Permit.",
-        "link": "https://cryptoworldnews.ru/polzovatel-poterial-bolee-15-mln-iz-za-podpisaniia-vredonosnoi-tranzakcii/",
-        "pub_date": "2026-03-17T14:48",
+        "title": "ข่าว Bitcoin",
+        "link": "https://siamblockchain.com/2026/03/18/bitmax-a-south-korean-company-has-been-exposed-for-secretly-transferring-all-of-its-bitcoin-to-an-overseas-exchange-without-informing-shareholders/",
+        "pub_date": "2026-03-18T02:19",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "OKX",
+        "title": "OKX liderliği, Intercontinental Exchange (ICE) ile dijital ve geleneksel pazarları birleştiren stratejik bir ortaklık ba",
+        "link": "https://www.habergo.com.tr/haber/131559/okx-ve-ice-stratejik-ortakligi-duyuruldu-dijital-ve-geleneksel-pazarlar-yakinsiyor.html",
+        "pub_date": "2026-03-18T01:45",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "OKX",
+        "title": "... 1、CEX 人気トークン CEX 取引額トップ10及び24時間変動率： BTC：- 0.81% ETH：- 1.32% SOL：- 1.16% XRP：- 1.58% DOGE：- 2.53% BNB：- 1.40% LINK：- ",
+        "link": "https://www.odaily.news/ja/post/5209798",
+        "pub_date": "2026-03-18T01:39",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "OKX",
+        "title": "... 1. Popular Tokens on CEXs Top 10 CEX Trading Volume and 24-hour Price Changes: BTC: -0.81% ETH: -1.32% SOL: -1.16% X",
+        "link": "https://www.odaily.news/en/post/5209798",
+        "pub_date": "2026-03-18T01:39",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "OKX",
+        "title": "... 1、CEX 热门币种 CEX 成交额 Top 10 及 24 小时涨跌幅： BTC：- 0.81% ETH：- 1.32% SOL：- 1.16% XRP：- 1.58% DOGE：- 2.53% BNB：- 1.40% LINK：",
+        "link": "https://www.odaily.news/zh-CN/post/5209798",
+        "pub_date": "2026-03-18T01:39",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "OKX",
+        "title": "OKX kripto borsasının nasıl kullanılacağına dair spesifik operasyonel adımlar ve mevcut kullanıcıların deneyim paylaşıml",
+        "link": "https://www.habergo.com.tr/haber/131528/okx-kripto-borsasinda-son-gelismeler-kullanim-rehberleri-ve-deneyim-paylasimlari.html",
+        "pub_date": "2026-03-18T01:35",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "OKX",
+        "title": "... 베트남이 첫 암호화폐 거래소 라이선스를 발급한 가운데, 5개 기업이 경쟁에 나섰다. 정부는 해외 플랫폼 차단을 추진하며, 암호화폐를 자산으로 인정하되 법정화폐로는 금지했다. 베트남은 세계 4위 암호화폐 거래국",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642291",
+        "pub_date": "2026-03-18T01:26",
+        "sentiment": "neutral",
+        "source": "meltwater"
+      },
+      {
+        "exchange": "OKX",
+        "title": "The wallet sat quiet for almost two years. No trades, no movement — just billions of Shiba Inu tokens parked on-chain wh",
+        "link": "https://cryptonews.net/news/analytics/32570515/",
+        "pub_date": "2026-03-18T01:04",
         "sentiment": "negative",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "Por Omkar Godbole (Todos los horarios en ET a menos que se indique lo contrario) Aunque el aumento del precio de bitcoin",
-        "link": "https://cryptonews.net/es/news/bitcoin/32567203/",
-        "pub_date": "2026-03-17T14:48",
+        "title": "San Francisco, CA, March 17, 2026 (GLOBE NEWSWIRE) -- As NVIDIA CEO Jensen Huang unveiled a $1 trillion AI infrastructur",
+        "link": "https://www.blockchainnewsonline.com/article/900096600-as-nvidia-maps-1-trillion-ai-factory-buildout-0g-delivers-the-decentralized-alternative-live-on-mainnet",
+        "pub_date": "2026-03-18T01:00",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "This interview delves into the evolution of BitMart and the broader cryptocurrency industry. Nenter Chow, Global CEO of ",
-        "link": "https://www.wublockchain.xyz/index.php?m=content&c=index&a=show&catid=35&id=1742",
-        "pub_date": "2026-03-17T14:47",
+        "title": "콜옵션 비중이 60% 수준을 유지했음에도 거래량에서는 풋옵션 우위가 나타났다. 2350달러 콜옵션과 2250달러 풋옵션을 중심으로 단기 변동성 대응 수요가 확대됐다.",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/340535",
+        "pub_date": "2026-03-18T00:51",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "Правительство Вьетнама готовит запуск пилотных криптобирж в марте. Власти планируют запретить гражданам торговать на ино",
-        "link": "https://cryptoobzor.ru/vetnam-planiryet-zapystit-kriptobirji-i-zapretit-torgovlu-na-zarybejnyh-platformah/",
-        "pub_date": "2026-03-17T14:35",
-        "sentiment": "negative",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "PANews 3月17日消息，据网络侦查研究院公众号称，中国武汉安隼科技实为伪装成网络安全公司的专业化黑产团队，被曝组织实施针对Trust Wallet的供应链攻击，盗取约700万美元加密资产。自曝者段吉瑞称，其团队利用Electron应用",
-        "link": "https://cn.tradingview.com/news/panews:3a80158f5e3f9:0/",
-        "pub_date": "2026-03-17T14:32",
-        "sentiment": "negative",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "PANews 3月17日消息，據網絡偵査研究院公衆號稱，中國武漢安隼科技實爲僞裝成網絡安全公司的專業化黑産糰隊，被曝組織實施鍼對Trust Wallet的供應鏈攻擊，盜取約7萬美元加密資産。自曝者段吉瑞稱，其糰隊利用Electron應用供應",
-        "link": "https://tw.tradingview.com/news/panews:3a80158f5acdf:0/",
-        "pub_date": "2026-03-17T14:32",
-        "sentiment": "negative",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "懸念広がるプライベートクレジット市場の透明感増す取り組みアポロ、保有資産の価値 ...",
-        "link": "https://www.bloomberg.com/jp/news/articles/2026-03-17/TC1QG6KK3NYA00",
-        "pub_date": "2026-03-17T14:26",
+        "title": "미결제약정은 콜 우위를 유지했지만 거래량에서는 풋 비중이 더 높았다. 주요 거래가 6만 달러 풋옵션에 집중되며 하방 헤지 수요가 확대됐다.",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/340528",
+        "pub_date": "2026-03-18T00:44",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "Vietnam is drafting a ban on foreign crypto exchanges like Binance and OKX.",
-        "link": "https://www.ccn.com/news/crypto/vietnam-200b-crypto-market-risk-binance-okx-ban/",
-        "pub_date": "2026-03-17T14:23",
-        "sentiment": "negative",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "... （来源：吴说）1.OpenSea 推迟 SEA 推进计划：结束奖励活动并向第 3 至第 6 轮用户提供费用退款OpenSea CEO Devin Finzer 发文表示，由于当前加密市场环境较为困难，OpenSea 旗下代币 SEA",
-        "link": "https://finance.sina.com.cn/blockchain/roll/2026-03-17/doc-inhrikrn3772588.shtml",
-        "pub_date": "2026-03-17T14:19",
+        "title": "这是美股市场前所未有的变革。",
+        "link": "https://36kr.com/p/3727606832987010",
+        "pub_date": "2026-03-18T00:30",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "El Ministerio de Finanzas de Vietnam está redactando normas que prohibirían a los ciudadanos vietnamitas operar en plata",
-        "link": "https://todayonchain.com/es/news/article/01KKY6SVNZ6Y540YBFGK3FG0FH/",
-        "pub_date": "2026-03-17T14:11",
+        "title": "ChainCatcher 消息，据 Coinglass 数据显示，ETH 当前全网 8 小时平均资金费率为 0.0001%。当前主流交易所中，Binance 费率为 0.0015%，OKX 费率为 -0.0026%，Bybit 费率为 -0",
+        "link": "https://www.chaincatcher.com/article/2252580",
+        "pub_date": "2026-03-18T00:18",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "... ベトナムの財務省は、Binance、OKX、Bybitなどの海外仮想通貨プラットフォームでの取引を市民に禁止する規則を起草しており、これは仮想通貨取引を国内の監督下に置くための5年間のパイロットプログラムの一環です。この動きは、ベト",
-        "link": "https://todayonchain.com/ja/news/article/01KKY6SVNZ6Y540YBFGK3FG0FH/",
-        "pub_date": "2026-03-17T14:11",
+        "title": "PANews reported on March 17 that, according to OKX market data, ETH has just fallen below $2,300 and is currently tradin",
+        "link": "https://www.panewslab.com/en/articles/019cfa18-dc49-74f5-9ddd-78111ba67212",
+        "pub_date": "2026-03-18T00:04",
         "sentiment": "neutral",
         "source": "meltwater"
       },
       {
         "exchange": "OKX",
-        "title": "Vietnam is preparing to restrict access to overseas crypto platforms as regulators move forward with plans to launch the",
-        "link": "https://bitcoinmagazine.com/news/vietnam-to-restrict-overseas-crypto",
-        "pub_date": "2026-03-17T14:11",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Vietnam's Ministry of Finance is drafting rules to prohibit citizens from trading on overseas cryptocurrency platforms l",
-        "link": "https://todayonchain.com/news/article/01KKY6SVNZ6Y540YBFGK3FG0FH/",
-        "pub_date": "2026-03-17T14:11",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "... 越南财政部正在起草规定，禁止公民在Binance、OKX和Bybit等海外加密货币平台上进行交易，这是旨在将加密货币交易置于国内监管之下的五年试点计划的一部分。此举是在越南在全球加密货币采用率中排名靠后的背景下发生的，其在截至202",
-        "link": "https://todayonchain.com/cn/news/article/01KKY6SVNZ6Y540YBFGK3FG0FH/",
-        "pub_date": "2026-03-17T14:11",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "1.OpenSea 推迟 SEA 推进计划：结束奖励活动并向第 3 至第 6 轮用户提供费用退款",
-        "link": "https://wublockchain123.substack.com/p/opensea-sea-3-6",
-        "pub_date": "2026-03-17T14:09",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Vietnam is gearing up for a major reset in how crypto trading works within its borders. According to Reuters, the nation",
-        "link": "https://coinheadlines.com/news/markets/vietnam-set-to-launch-first-licensed-crypto-exchanges-to-curb-overseas-trading/article-32064/",
-        "pub_date": "2026-03-17T14:02",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKX EEA Piyasası İçin Regüle Platform Hazırlığında Küresel kripto varlık borsası OKX, Avrupa Ekonomik Alanı (EEA) kullan",
-        "link": "https://www.habergo.com.tr/haber/130450/okx-eea-bolgesi-icin-regulasyonlu-altyapi-ile-yeni-ticaret-platformunu-duyurdu.html",
-        "pub_date": "2026-03-17T13:55",
+        "title": "Bitcoin tops $74.5K but are pro traders turning bullish again?",
+        "link": "https://cointelegraph.com/markets/bitcoin-tops-74-5k-but-are-pro-traders-turning-bullish-again",
+        "pub_date": "2026-03-16T20:56",
         "sentiment": "positive",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Key Takeaways Vietnam is preparing to redraw the map of its $200 billion crypto market — and foreign exchanges could be ",
-        "link": "https://finance.yahoo.com/news/vietnam-200b-crypto-market-risk-135314438.html",
-        "pub_date": "2026-03-17T13:53",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Key Takeaways - Vietnam is drafting a ban on foreign crypto exchanges like Binance and OKX. - New rules prioritize licen",
-        "link": "https://biztoc.com/x/25ed922f8be1c40a",
-        "pub_date": "2026-03-17T13:53",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "OKC Token (OKT) traded down 0% against the U.S. dollar during the one day period ending at 9:00 AM ET on March 17th. OKC",
-        "link": "https://www.themarketsdaily.com/2026/03/17/okc-token-price-down-0-this-week-okt.html",
-        "pub_date": "2026-03-17T13:50",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "New infrastructure connects professional hedge fund strategies with unified portfolio and risk management DUBAI, AE / AC",
-        "link": "https://markets.financialcontent.com/custercountychief/article/accwirecq-2026-3-17-paradox-broker-launches-platform-providing-access-to-institutional-quantitative-trading-strategies",
-        "pub_date": "2026-03-17T13:43",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "... [멕시코=심영재 특파원] 베트남이 바이낸스 등 해외 거래소 이용 금지를 검토하며 디지털자산(가상자산) 규제 체계를 본격화하고 있다. 자국내 거래소 중심의 시장 재편이 예상된다. 17일(현지시각) 로이터통신에 ",
-        "link": "https://www.blockmedia.co.kr/archives/1064702",
-        "pub_date": "2026-03-17T13:39",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Các doanh nghiệp Việt Nam đang cạnh tranh để lập các sàn giao dịch tiền mã hóa được cấp phép đầu tiên trong nước, trong ",
-        "link": "https://www.bbc.com/vietnamese/articles/c4g4nk605gwo",
-        "pub_date": "2026-03-17T13:37",
-        "sentiment": "positive",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Вьетнамские компании подали заявки на запуск первых лицензированных криптобирж в стране на фоне планов правительства огр",
-        "link": "https://www.golfstriminform.ru/kriptonomika/vetnam-planiryet-zapystit-kriptobirji-i-zapretit-torgovlu-na-zarybejnyh-platformah/",
-        "pub_date": "2026-03-17T13:36",
-        "sentiment": "negative",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "HANOI / LONDON (IT BOLTWISE) – Vietnam steht kurz davor, seine ersten lizenzierten Krypto- Börse n zu genehmigen, währen",
-        "link": "https://www.it-boltwise.de/vietnam-plant-erste-lizensierte-krypto-boersen.html",
-        "pub_date": "2026-03-17T13:33",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "... לפי דיווחים, וייטנאם מקדמת תוכניות להגביל את אזרחיה מלסחור בפלטפורמות קריפטו מעבר לים, ובמקביל מאיצה משטר רישוי מקומ",
-        "link": "https://news.bitcoin.com/he/vietnam-metahenenet-leesor-mishar-bekripto-bachul-al-reka-hashakat-borsa-mkomit/",
-        "pub_date": "2026-03-17T13:31",
-        "sentiment": "neutral",
-        "source": "meltwater"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Haberlere göre Vietnam, vatandaşlarının yurtdışı kripto para platformlarında işlem yapmasını kısıtlamaya yönelik planlar",
-        "link": "https://news.bitcoin.com/tr/vietnam-yurt-ici-borsalarin-faaliyete-gecmesi-uzerine-yurt-disi-kripto-para-ticareti-yasagi-planliyor/",
-        "pub_date": "2026-03-17T13:31",
-        "sentiment": "negative",
-        "source": "meltwater"
+        "source": "newsapi"
       },
       {
         "exchange": "OKX",
@@ -905,62 +777,6 @@
         "link": "https://cointelegraph.com/news/ripple-eyes-australian-financial-license-through-acquisition",
         "pub_date": "2026-03-11T00:58",
         "sentiment": "neutral",
-        "source": "newsapi"
-      },
-      {
-        "exchange": "OKX",
-        "title": "BNB Chain Dominates 40% Of Global Stablecoin Transactions With Small-Value Transfers",
-        "link": "http://www.newsbtc.com/news/bnb-chain-dominates-global-stablecoin-transactions/",
-        "pub_date": "2026-03-10T22:12",
-        "sentiment": "neutral",
-        "source": "newsapi"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Ethena: Is 4.47M ENA accumulation quietly sparking a recovery?",
-        "link": "https://ambcrypto.com/?p=577527",
-        "pub_date": "2026-03-10T20:00",
-        "sentiment": "neutral",
-        "source": "newsapi"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Societe Generale-FORGE launches EURCV stablecoin on Stellar",
-        "link": "https://cointelegraph.com/news/socgen-forge-deploys-mica-compliant-euro-stablecoin-eurcv-on-stellar-network",
-        "pub_date": "2026-03-10T17:46",
-        "sentiment": "positive",
-        "source": "newsapi"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Bitcoin Rebounds to $71,000 as Wall Street Deepens Push",
-        "link": "https://finance.yahoo.com/news/bitcoin-rebounds-71-000-wall-154724672.html",
-        "pub_date": "2026-03-10T17:19",
-        "sentiment": "neutral",
-        "source": "newsapi"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Intercontinental Exchange (ICE) Upgraded by Deutsche Bank; Company Invests in $25B-Valued OKX",
-        "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_437b4ff0-1020-4b19-97f1-8e63b1d0735c",
-        "pub_date": "2026-03-10T17:04",
-        "sentiment": "neutral",
-        "source": "newsapi"
-      },
-      {
-        "exchange": "OKX",
-        "title": "Coinbax Inc. Joins the Global Dollar Network to Advance Institutional-Grade Stablecoin Settlement",
-        "link": "https://www.globenewswire.com/news-release/2026/03/10/3252762/0/en/Coinbax-Inc-Joins-the-Global-Dollar-Network-to-Advance-Institutional-Grade-Stablecoin-Settlement.html",
-        "pub_date": "2026-03-10T12:03",
-        "sentiment": "neutral",
-        "source": "newsapi"
-      },
-      {
-        "exchange": "OKX",
-        "title": "WLFI reclaims $0.10, but here’s why the bearish trend is still intact",
-        "link": "https://ambcrypto.com/wlfi-reclaims-0-10-but-heres-why-the-bearish-trend-is-still-intact/",
-        "pub_date": "2026-03-10T01:00",
-        "sentiment": "negative",
         "source": "newsapi"
       }
     ]
