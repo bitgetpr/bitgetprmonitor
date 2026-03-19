@@ -162,7 +162,7 @@ def parse_feed(url, assigned_exchange=None):
                 continue
             source_el  = item.find("source")
             source_url = (source_el.get("url") if source_el is not None else "") or ""
-            check_str  = " ".join([link, source_url, desc]).lower()
+            check_str = " ".join([link, source_url, desc, title]).lower()
             if any(d in check_str for d in BLOCKED_DOMAINS):
                 continue
             full_text = "{} {}".format(title, desc).lower()
@@ -171,9 +171,12 @@ def parse_feed(url, assigned_exchange=None):
                 "mexc blog", "kucoin blog",
                 "bitget news", "binance news", "okx news",
                 "official announcement",
+                "exchange guide 2026", "exchange review 2026",
+                "exchange comparison 2026", "best crypto exchange",
+                "- bitget", "| bitget",
             ]
-            if any(p in full_text for p in self_promo_patterns):
-                continue
+            if any(p in title.lower() for p in self_promo_domains):
+                 continue
             if assigned_exchange == "all":
                 matched = [
                     ex for ex, kws in EXCHANGES.items()
