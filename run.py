@@ -835,10 +835,11 @@ def main():
             json.dump(history, f, indent=2, ensure_ascii=False)
     print("Per-exchange news history written.")
 
-html = generate_html(output)
+    html = generate_html(output)
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
     print("index.html generated.")
+
 
 print("\n-- Share of Voice --")
     for ex, d in sorted(exchange_data.items(), key=lambda x: -x[1]["sov"]):
