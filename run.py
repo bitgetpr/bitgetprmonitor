@@ -840,7 +840,6 @@ def main():
         f.write(html)
     print("index.html generated.")
 
-
 print("\n-- Share of Voice --")
     for ex, d in sorted(exchange_data.items(), key=lambda x: -x[1]["sov"]):
         delta = d["sov_delta_wow"]
@@ -850,3 +849,4 @@ print("\n-- Share of Voice --")
             ex, d["mentions"], d["sov"], d_str,
             s["positive"], s["neutral"], s["negative"]
         ))
+
