@@ -836,16 +836,16 @@ def main():
     print("Per-exchange news history written.")
 
     html = generate_html(output)
-with open("index.html", "w", encoding="utf-8") as f:
-    f.write(html)
-print("index.html generated.")
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(html)
+    print("index.html generated.")
 
-print("\n-- Share of Voice --")
-for ex, d in sorted(exchange_data.items(), key=lambda x: -x[1]["sov"]):
-    delta = d["sov_delta_wow"]
-    d_str = "(first run)" if delta is None else "({}{}% WoW)".format("+" if delta >= 0 else "", delta)
-    s = d["sentiment"]
-    print(" {:8s}: {:4d} mentions | SOV {:5.1f}% {} | +{} ~{} -{}".format(
-        ex, d["mentions"], d["sov"], d_str,
-        s["positive"], s["neutral"], s["negative"]
-    ))
+    print("\n-- Share of Voice --")
+    for ex, d in sorted(exchange_data.items(), key=lambda x: -x[1]["sov"]):
+        delta = d["sov_delta_wow"]
+        d_str = "(first run)" if delta is None else "({}{}% WoW)".format("+" if delta >= 0 else "", delta)
+        s = d["sentiment"]
+        print("  {:8s}: {:4d} mentions | SOV {:5.1f}% {} | +{} ~{} -{}".format(
+            ex, d["mentions"], d["sov"], d_str,
+            s["positive"], s["neutral"], s["negative"]
+        ))
