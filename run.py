@@ -834,12 +834,13 @@ def main():
         with open(ex_path, "w", encoding="utf-8") as f:
             json.dump(history, f, indent=2, ensure_ascii=False)
     print("Per-exchange news history written.")
-        html = generate_html(output)
+
+html = generate_html(output)
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
     print("index.html generated.")
 
-    print("\n-- Share of Voice --")
+print("\n-- Share of Voice --")
     for ex, d in sorted(exchange_data.items(), key=lambda x: -x[1]["sov"]):
         delta = d["sov_delta_wow"]
         d_str = "(first run)" if delta is None else "({}{}% WoW)".format("+" if delta >= 0 else "", delta)
@@ -848,7 +849,3 @@ def main():
             ex, d["mentions"], d["sov"], d_str,
             s["positive"], s["neutral"], s["negative"]
         ))
-
-
-if __name__ == "__main__":
-    main()
