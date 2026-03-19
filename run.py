@@ -8,6 +8,13 @@ from collections import defaultdict
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
+import random
+
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+    "Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0",
+]
 
 os.makedirs("data", exist_ok=True)
 
@@ -119,7 +126,7 @@ def is_duplicate(new_title, seen_titles, threshold=0.85):
     return False
 
 def fetch_with_retry(url, max_retries=3, base_delay=1.0, timeout=15, headers=None):
-    default_headers = {"User-Agent": "Mozilla/5.0 (compatible; PRMonitor/2.0)"}
+    default_headers = {"User-Agent": random.choice(USER_AGENTS)}
     if headers:
         default_headers.update(headers)
     for attempt in range(max_retries):
@@ -745,14 +752,16 @@ def main():
 
     print("\n[1/3] Fetching {} Google News feeds...".format(len(GOOGLE_FEEDS)))
     for url, exchange in GOOGLE_FEEDS.items():
-        for article in parse_feed(url, assigned_exchange=exchange):
+        busted_url = url + "&ts=" + str(int(time.time()))
+        for article in parse_feed(busted_url, assigned_exchange=exchange):
             if not is_duplicate(article["title"], seen_titles):
                 seen_titles.append(normalize_title(article["title"]))
                 all_articles.append(article)
 
     print("\n[2/3] Fetching {} direct media feeds...".format(len(DIRECT_FEEDS)))
     for url, exchange in DIRECT_FEEDS.items():
-        for article in parse_feed(url, assigned_exchange=exchange):
+        busted_url = url + ("&" if "?" in url else "?") + "ts=" + str(int(time.time()))
+        for article in parse_feed(busted_url, assigned_exchange=exchange):
             if not is_duplicate(article["title"], seen_titles):
                 seen_titles.append(normalize_title(article["title"]))
                 all_articles.append(article)
